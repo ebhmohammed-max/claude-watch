@@ -1,0 +1,2589 @@
+{
+ "narration_seconds": 554.652,
+ "method": "sentence-aligned, single-topic precedence",
+ "reconstruction_shots": [
+  86,
+  89,
+  98,
+  104,
+  105,
+  107,
+  110,
+  111,
+  112,
+  114,
+  115,
+  140,
+  145,
+  156,
+  164,
+  168,
+  169,
+  177,
+  190,
+  193,
+  197,
+  199,
+  203,
+  219,
+  220,
+  221,
+  230,
+  231,
+  232,
+  240,
+  241,
+  242,
+  243,
+  244
+ ],
+ "slots": [
+  {
+   "slot": 1,
+   "section": "01",
+   "sentence": "Imagine waking up to rain.",
+   "start": 0,
+   "end": 1.75,
+   "shot": 159,
+   "topic": "rain"
+  },
+  {
+   "slot": 2,
+   "section": "01",
+   "sentence": "Not the kind that taps on a window while you reach for your phone.",
+   "start": 1.75,
+   "end": 3.75,
+   "shot": 180,
+   "topic": "rain"
+  },
+  {
+   "slot": 3,
+   "section": "01",
+   "sentence": "Not the kind that taps on a window while you reach for your phone.",
+   "start": 3.75,
+   "end": 4.8,
+   "shot": 187,
+   "topic": "rain"
+  },
+  {
+   "slot": 4,
+   "section": "01",
+   "sentence": "The kind that soaks the ground beneath you, chills your clothes, and makes the wood you need for a fire harder to use.",
+   "start": 4.8,
+   "end": 6.8,
+   "shot": 240,
+   "topic": "fire"
+  },
+  {
+   "slot": 5,
+   "section": "01",
+   "sentence": "The kind that soaks the ground beneath you, chills your clothes, and makes the wood you need for a fire harder to use.",
+   "start": 6.8,
+   "end": 8.8,
+   "shot": 241,
+   "topic": "fire"
+  },
+  {
+   "slot": 6,
+   "section": "01",
+   "sentence": "The kind that soaks the ground beneath you, chills your clothes, and makes the wood you need for a fire harder to use.",
+   "start": 8.8,
+   "end": 11.53,
+   "shot": 242,
+   "topic": "fire"
+  },
+  {
+   "slot": 7,
+   "section": "01",
+   "sentence": "Now imagine that the rain keeps coming.",
+   "start": 11.53,
+   "end": 14.12,
+   "shot": 228,
+   "topic": "rain"
+  },
+  {
+   "slot": 8,
+   "section": "01",
+   "sentence": "One day becomes two. Two become three.",
+   "start": 14.12,
+   "end": 16.12,
+   "shot": 108,
+   "topic": "lake"
+  },
+  {
+   "slot": 9,
+   "section": "01",
+   "sentence": "One day becomes two. Two become three.",
+   "start": 16.12,
+   "end": 17.32,
+   "shot": 147,
+   "topic": "lake"
+  },
+  {
+   "slot": 10,
+   "section": "01",
+   "sentence": "What happens when there is no modern house to retreat into?",
+   "start": 17.32,
+   "end": 19.32,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 11,
+   "section": "01",
+   "sentence": "What happens when there is no modern house to retreat into?",
+   "start": 19.32,
+   "end": 20.58,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 12,
+   "section": "01",
+   "sentence": "Where do you sleep? How do you stay warm?",
+   "start": 20.58,
+   "end": 23.35,
+   "shot": 185,
+   "topic": "lake"
+  },
+  {
+   "slot": 13,
+   "section": "01",
+   "sentence": "And what happens to dinner when the weather refuses to cooperate?",
+   "start": 23.35,
+   "end": 25.35,
+   "shot": 85,
+   "topic": "food"
+  },
+  {
+   "slot": 14,
+   "section": "01",
+   "sentence": "And what happens to dinner when the weather refuses to cooperate?",
+   "start": 25.35,
+   "end": 27.15,
+   "shot": 109,
+   "topic": "food"
+  },
+  {
+   "slot": 15,
+   "section": "01",
+   "sentence": "It is tempting to picture ancient people huddling helplessly until the sun came out.",
+   "start": 27.15,
+   "end": 29.15,
+   "shot": 219,
+   "topic": "people"
+  },
+  {
+   "slot": 16,
+   "section": "01",
+   "sentence": "It is tempting to picture ancient people huddling helplessly until the sun came out.",
+   "start": 29.15,
+   "end": 31.82,
+   "shot": 221,
+   "topic": "people"
+  },
+  {
+   "slot": 17,
+   "section": "01",
+   "sentence": "But that picture misses something important.",
+   "start": 31.82,
+   "end": 34.42,
+   "shot": 209,
+   "topic": "lake"
+  },
+  {
+   "slot": 18,
+   "section": "01",
+   "sentence": "People did not wait for brick walls to invent shelter.",
+   "start": 34.42,
+   "end": 36.42,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 19,
+   "section": "01",
+   "sentence": "People did not wait for brick walls to invent shelter.",
+   "start": 36.42,
+   "end": 37.75,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 20,
+   "section": "01",
+   "sentence": "Long before modern houses, they worked with the landscapes, materials, and knowledge available to them.",
+   "start": 37.75,
+   "end": 39.75,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 21,
+   "section": "01",
+   "sentence": "Long before modern houses, they worked with the landscapes, materials, and knowledge available to them.",
+   "start": 39.75,
+   "end": 41.75,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 22,
+   "section": "01",
+   "sentence": "Long before modern houses, they worked with the landscapes, materials, and knowledge available to them.",
+   "start": 41.75,
+   "end": 44.08,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 23,
+   "section": "01",
+   "sentence": "Today, we're going to follow a hypothetical spell of rain, then visit a real archaeological site that gives us an unusually detailed look at ancient shelter.",
+   "start": 44.08,
+   "end": 46.08,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 24,
+   "section": "01",
+   "sentence": "Today, we're going to follow a hypothetical spell of rain, then visit a real archaeological site that gives us an unusually detailed look at ancient shelter.",
+   "start": 46.08,
+   "end": 48.08,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 25,
+   "section": "01",
+   "sentence": "Today, we're going to follow a hypothetical spell of rain, then visit a real archaeological site that gives us an unusually detailed look at ancient shelter.",
+   "start": 48.08,
+   "end": 50.08,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 26,
+   "section": "01",
+   "sentence": "Today, we're going to follow a hypothetical spell of rain, then visit a real archaeological site that gives us an unusually detailed look at ancient shelter.",
+   "start": 50.08,
+   "end": 52.08,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 27,
+   "section": "01",
+   "sentence": "Today, we're going to follow a hypothetical spell of rain, then visit a real archaeological site that gives us an unusually detailed look at ancient shelter.",
+   "start": 52.08,
+   "end": 53.3,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 28,
+   "section": "01",
+   "sentence": "We cannot reconstruct a specific storm from the remains.",
+   "start": 53.3,
+   "end": 55.3,
+   "shot": 162,
+   "topic": "rain"
+  },
+  {
+   "slot": 29,
+   "section": "01",
+   "sentence": "We cannot reconstruct a specific storm from the remains.",
+   "start": 55.3,
+   "end": 56.65,
+   "shot": 56,
+   "topic": "rain"
+  },
+  {
+   "slot": 30,
+   "section": "01",
+   "sentence": "But we can ask what those remains reveal about the people who faced the weather.",
+   "start": 56.65,
+   "end": 58.65,
+   "shot": 120,
+   "topic": "food"
+  },
+  {
+   "slot": 31,
+   "section": "01",
+   "sentence": "But we can ask what those remains reveal about the people who faced the weather.",
+   "start": 58.65,
+   "end": 61.03,
+   "shot": 121,
+   "topic": "food"
+  },
+  {
+   "slot": 32,
+   "section": "02",
+   "sentence": "A little rain is inconvenient.",
+   "start": 61.03,
+   "end": 62.75,
+   "shot": 100,
+   "topic": "rain"
+  },
+  {
+   "slot": 33,
+   "section": "02",
+   "sentence": "Being wet and chilled for a long time can be dangerous.",
+   "start": 62.75,
+   "end": 64.75,
+   "shot": 165,
+   "topic": "ground"
+  },
+  {
+   "slot": 34,
+   "section": "02",
+   "sentence": "Being wet and chilled for a long time can be dangerous.",
+   "start": 64.75,
+   "end": 65.85,
+   "shot": 175,
+   "topic": "ground"
+  },
+  {
+   "slot": 35,
+   "section": "02",
+   "sentence": "Water against the skin and wet clothing can make it harder to stay warm.",
+   "start": 65.85,
+   "end": 67.85,
+   "shot": 183,
+   "topic": "ground"
+  },
+  {
+   "slot": 36,
+   "section": "02",
+   "sentence": "Water against the skin and wet clothing can make it harder to stay warm.",
+   "start": 67.85,
+   "end": 69.95,
+   "shot": 222,
+   "topic": "ground"
+  },
+  {
+   "slot": 37,
+   "section": "02",
+   "sentence": "Wind can make the situation worse.",
+   "start": 69.95,
+   "end": 72.38,
+   "shot": 128,
+   "topic": "rain"
+  },
+  {
+   "slot": 38,
+   "section": "02",
+   "sentence": "Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up.",
+   "start": 72.38,
+   "end": 74.38,
+   "shot": 91,
+   "topic": "food"
+  },
+  {
+   "slot": 39,
+   "section": "02",
+   "sentence": "Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up.",
+   "start": 74.38,
+   "end": 76.38,
+   "shot": 126,
+   "topic": "food"
+  },
+  {
+   "slot": 40,
+   "section": "02",
+   "sentence": "Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up.",
+   "start": 76.38,
+   "end": 78.38,
+   "shot": 131,
+   "topic": "food"
+  },
+  {
+   "slot": 41,
+   "section": "02",
+   "sentence": "Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up.",
+   "start": 78.38,
+   "end": 79.35,
+   "shot": 211,
+   "topic": "food"
+  },
+  {
+   "slot": 42,
+   "section": "02",
+   "sentence": "And the problem does not end with the body.",
+   "start": 79.35,
+   "end": 81.47,
+   "shot": 139,
+   "topic": "lake"
+  },
+  {
+   "slot": 43,
+   "section": "02",
+   "sentence": "A sleeping place can become damp.",
+   "start": 81.47,
+   "end": 83.5,
+   "shot": 224,
+   "topic": "ground"
+  },
+  {
+   "slot": 44,
+   "section": "02",
+   "sentence": "Fuel can be harder to ignite.",
+   "start": 83.5,
+   "end": 85.43,
+   "shot": 244,
+   "topic": "fire"
+  },
+  {
+   "slot": 45,
+   "section": "02",
+   "sentence": "Working outdoors can become less comfortable or more difficult.",
+   "start": 85.43,
+   "end": 87.43,
+   "shot": 158,
+   "topic": "lake"
+  },
+  {
+   "slot": 46,
+   "section": "02",
+   "sentence": "Working outdoors can become less comfortable or more difficult.",
+   "start": 87.43,
+   "end": 89.3,
+   "shot": 149,
+   "topic": "lake"
+  },
+  {
+   "slot": 47,
+   "section": "02",
+   "sentence": "A low spot that seemed convenient yesterday may begin collecting water today.",
+   "start": 89.3,
+   "end": 91.3,
+   "shot": 237,
+   "topic": "ground"
+  },
+  {
+   "slot": 48,
+   "section": "02",
+   "sentence": "A low spot that seemed convenient yesterday may begin collecting water today.",
+   "start": 91.3,
+   "end": 93.97,
+   "shot": 227,
+   "topic": "ground"
+  },
+  {
+   "slot": 49,
+   "section": "02",
+   "sentence": "None of that means that every rainy day was an emergency.",
+   "start": 93.97,
+   "end": 95.97,
+   "shot": 93,
+   "topic": "rain"
+  },
+  {
+   "slot": 50,
+   "section": "02",
+   "sentence": "None of that means that every rainy day was an emergency.",
+   "start": 95.97,
+   "end": 98.55,
+   "shot": 81,
+   "topic": "rain"
+  },
+  {
+   "slot": 51,
+   "section": "02",
+   "sentence": "Weather varies. So do local resources and the ways people respond.",
+   "start": 98.55,
+   "end": 100.55,
+   "shot": 192,
+   "topic": "food"
+  },
+  {
+   "slot": 52,
+   "section": "02",
+   "sentence": "Weather varies. So do local resources and the ways people respond.",
+   "start": 100.55,
+   "end": 101.95,
+   "shot": 151,
+   "topic": "food"
+  },
+  {
+   "slot": 53,
+   "section": "02",
+   "sentence": "But it does help explain why shelter is more than a roof.",
+   "start": 101.95,
+   "end": 103.95,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 54,
+   "section": "02",
+   "sentence": "But it does help explain why shelter is more than a roof.",
+   "start": 103.95,
+   "end": 105.7,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 55,
+   "section": "02",
+   "sentence": "A useful shelter can limit exposure to rain and wind.",
+   "start": 105.7,
+   "end": 107.7,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 56,
+   "section": "02",
+   "sentence": "A useful shelter can limit exposure to rain and wind.",
+   "start": 107.7,
+   "end": 109.35,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 57,
+   "section": "02",
+   "sentence": "A useful sleeping place can keep a person away from damp ground.",
+   "start": 109.35,
+   "end": 111.35,
+   "shot": 231,
+   "topic": "people"
+  },
+  {
+   "slot": 58,
+   "section": "02",
+   "sentence": "A useful sleeping place can keep a person away from damp ground.",
+   "start": 111.35,
+   "end": 113.0,
+   "shot": 220,
+   "topic": "people"
+  },
+  {
+   "slot": 59,
+   "section": "02",
+   "sentence": "A useful camp has to make room for the ordinary work of living, even when that work becomes awkward.",
+   "start": 113.0,
+   "end": 115.0,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 60,
+   "section": "02",
+   "sentence": "A useful camp has to make room for the ordinary work of living, even when that work becomes awkward.",
+   "start": 115.0,
+   "end": 117.0,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 61,
+   "section": "02",
+   "sentence": "A useful camp has to make room for the ordinary work of living, even when that work becomes awkward.",
+   "start": 117.0,
+   "end": 118.93,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 62,
+   "section": "02",
+   "sentence": "And if you think shelter simply meant finding a cave, the archaeology has a surprise.",
+   "start": 118.93,
+   "end": 120.93,
+   "shot": 118,
+   "topic": "cave"
+  },
+  {
+   "slot": 63,
+   "section": "02",
+   "sentence": "And if you think shelter simply meant finding a cave, the archaeology has a surprise.",
+   "start": 120.93,
+   "end": 122.93,
+   "shot": 72,
+   "topic": "cave"
+  },
+  {
+   "slot": 64,
+   "section": "02",
+   "sentence": "And if you think shelter simply meant finding a cave, the archaeology has a surprise.",
+   "start": 122.93,
+   "end": 124.61,
+   "shot": 195,
+   "topic": "cave"
+  },
+  {
+   "slot": 65,
+   "section": "03",
+   "sentence": "On the shore of the Sea of Galilee, in what is now Israel, archaeologists found the remains of an open-air camp known as Ohalo Two.",
+   "start": 124.61,
+   "end": 126.61,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 66,
+   "section": "03",
+   "sentence": "On the shore of the Sea of Galilee, in what is now Israel, archaeologists found the remains of an open-air camp known as Ohalo Two.",
+   "start": 126.61,
+   "end": 128.61,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 67,
+   "section": "03",
+   "sentence": "On the shore of the Sea of Galilee, in what is now Israel, archaeologists found the remains of an open-air camp known as Ohalo Two.",
+   "start": 128.61,
+   "end": 130.61,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 68,
+   "section": "03",
+   "sentence": "On the shore of the Sea of Galilee, in what is now Israel, archaeologists found the remains of an open-air camp known as Ohalo Two.",
+   "start": 130.61,
+   "end": 133.0,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 69,
+   "section": "03",
+   "sentence": "It dates to roughly twenty-three thousand years ago.",
+   "start": 133.0,
+   "end": 135.0,
+   "shot": 179,
+   "topic": "lake"
+  },
+  {
+   "slot": 70,
+   "section": "03",
+   "sentence": "It dates to roughly twenty-three thousand years ago.",
+   "start": 135.0,
+   "end": 135.95,
+   "shot": 198,
+   "topic": "lake"
+  },
+  {
+   "slot": 71,
+   "section": "03",
+   "sentence": "The people who lived there fished, hunted, and gathered plants.",
+   "start": 135.95,
+   "end": 137.95,
+   "shot": 191,
+   "topic": "food"
+  },
+  {
+   "slot": 72,
+   "section": "03",
+   "sentence": "The people who lived there fished, hunted, and gathered plants.",
+   "start": 137.95,
+   "end": 140.02,
+   "shot": 210,
+   "topic": "food"
+  },
+  {
+   "slot": 73,
+   "section": "03",
+   "sentence": "The site includes the remains of six brush huts, areas of outdoor hearths, stone tools, and plant and animal remains.",
+   "start": 140.02,
+   "end": 142.02,
+   "shot": 105,
+   "topic": "fire"
+  },
+  {
+   "slot": 74,
+   "section": "03",
+   "sentence": "The site includes the remains of six brush huts, areas of outdoor hearths, stone tools, and plant and animal remains.",
+   "start": 142.02,
+   "end": 144.02,
+   "shot": 190,
+   "topic": "fire"
+  },
+  {
+   "slot": 75,
+   "section": "03",
+   "sentence": "The site includes the remains of six brush huts, areas of outdoor hearths, stone tools, and plant and animal remains.",
+   "start": 144.02,
+   "end": 146.02,
+   "shot": 88,
+   "topic": "fire"
+  },
+  {
+   "slot": 76,
+   "section": "03",
+   "sentence": "The site includes the remains of six brush huts, areas of outdoor hearths, stone tools, and plant and animal remains.",
+   "start": 146.02,
+   "end": 147.45,
+   "shot": 68,
+   "topic": "fire"
+  },
+  {
+   "slot": 77,
+   "section": "03",
+   "sentence": "That word is worth pausing on: huts.",
+   "start": 147.45,
+   "end": 149.5,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 78,
+   "section": "03",
+   "sentence": "They were not modern houses, and their exact appearance is not completely known.",
+   "start": 149.5,
+   "end": 151.5,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 79,
+   "section": "03",
+   "sentence": "They were not modern houses, and their exact appearance is not completely known.",
+   "start": 151.5,
+   "end": 153.5,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 80,
+   "section": "03",
+   "sentence": "They were not modern houses, and their exact appearance is not completely known.",
+   "start": 153.5,
+   "end": 155.57,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 81,
+   "section": "03",
+   "sentence": "Archaeologists identified shallow, oval floors and traces of woody and other plant materials associated with the structures.",
+   "start": 155.57,
+   "end": 157.57,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 82,
+   "section": "03",
+   "sentence": "Archaeologists identified shallow, oval floors and traces of woody and other plant materials associated with the structures.",
+   "start": 157.57,
+   "end": 159.57,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 83,
+   "section": "03",
+   "sentence": "Archaeologists identified shallow, oval floors and traces of woody and other plant materials associated with the structures.",
+   "start": 159.57,
+   "end": 161.57,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 84,
+   "section": "03",
+   "sentence": "Archaeologists identified shallow, oval floors and traces of woody and other plant materials associated with the structures.",
+   "start": 161.57,
+   "end": 163.57,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 85,
+   "section": "03",
+   "sentence": "Archaeologists identified shallow, oval floors and traces of woody and other plant materials associated with the structures.",
+   "start": 163.57,
+   "end": 164.82,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 86,
+   "section": "03",
+   "sentence": "Reconstructions propose frameworks of branches with smaller vegetation added to them.",
+   "start": 164.82,
+   "end": 166.82,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 87,
+   "section": "03",
+   "sentence": "Reconstructions propose frameworks of branches with smaller vegetation added to them.",
+   "start": 166.82,
+   "end": 168.82,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 88,
+   "section": "03",
+   "sentence": "Reconstructions propose frameworks of branches with smaller vegetation added to them.",
+   "start": 168.82,
+   "end": 169.85,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 89,
+   "section": "03",
+   "sentence": "A reconstruction can show us what such a shelter might have looked like.",
+   "start": 169.85,
+   "end": 171.85,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 90,
+   "section": "03",
+   "sentence": "A reconstruction can show us what such a shelter might have looked like.",
+   "start": 171.85,
+   "end": 173.62,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 91,
+   "section": "03",
+   "sentence": "It cannot show us the exact roof, every entrance, or whether the structure kept its occupants dry during a particular storm.",
+   "start": 173.62,
+   "end": 175.62,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 92,
+   "section": "03",
+   "sentence": "It cannot show us the exact roof, every entrance, or whether the structure kept its occupants dry during a particular storm.",
+   "start": 175.62,
+   "end": 177.62,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 93,
+   "section": "03",
+   "sentence": "It cannot show us the exact roof, every entrance, or whether the structure kept its occupants dry during a particular storm.",
+   "start": 177.62,
+   "end": 179.62,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 94,
+   "section": "03",
+   "sentence": "It cannot show us the exact roof, every entrance, or whether the structure kept its occupants dry during a particular storm.",
+   "start": 179.62,
+   "end": 181.05,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 95,
+   "section": "03",
+   "sentence": "Still, its existence changes the question.",
+   "start": 181.05,
+   "end": 182.93,
+   "shot": 92,
+   "topic": "lake"
+  },
+  {
+   "slot": 96,
+   "section": "03",
+   "sentence": "We are not asking how people survived without ever building anything.",
+   "start": 182.93,
+   "end": 184.93,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 97,
+   "section": "03",
+   "sentence": "We are not asking how people survived without ever building anything.",
+   "start": 184.93,
+   "end": 186.93,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 98,
+   "section": "03",
+   "sentence": "We are not asking how people survived without ever building anything.",
+   "start": 186.93,
+   "end": 187.88,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 99,
+   "section": "03",
+   "sentence": "We are asking how people made places to live with the materials around them.",
+   "start": 187.88,
+   "end": 189.88,
+   "shot": 89,
+   "topic": "people"
+  },
+  {
+   "slot": 100,
+   "section": "03",
+   "sentence": "We are asking how people made places to live with the materials around them.",
+   "start": 189.88,
+   "end": 192.77,
+   "shot": 98,
+   "topic": "people"
+  },
+  {
+   "slot": 101,
+   "section": "04",
+   "sentence": "Imagine looking at a hut from above after thousands of years.",
+   "start": 192.77,
+   "end": 194.77,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 102,
+   "section": "04",
+   "sentence": "Imagine looking at a hut from above after thousands of years.",
+   "start": 194.77,
+   "end": 196.55,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 103,
+   "section": "04",
+   "sentence": "The walls and roof are no longer standing.",
+   "start": 196.55,
+   "end": 198.44,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 104,
+   "section": "04",
+   "sentence": "What remains is less dramatic: a dark oval, bits of burned wood, a floor, and the small things that collected on it.",
+   "start": 198.44,
+   "end": 200.44,
+   "shot": 50,
+   "topic": "fire"
+  },
+  {
+   "slot": 105,
+   "section": "04",
+   "sentence": "What remains is less dramatic: a dark oval, bits of burned wood, a floor, and the small things that collected on it.",
+   "start": 200.44,
+   "end": 202.44,
+   "shot": 178,
+   "topic": "fire"
+  },
+  {
+   "slot": 106,
+   "section": "04",
+   "sentence": "What remains is less dramatic: a dark oval, bits of burned wood, a floor, and the small things that collected on it.",
+   "start": 202.44,
+   "end": 204.57,
+   "shot": 188,
+   "topic": "fire"
+  },
+  {
+   "slot": 107,
+   "section": "04",
+   "sentence": "At Ohalo Two, those details were preserved unusually well.",
+   "start": 204.57,
+   "end": 206.7,
+   "shot": 163,
+   "topic": "lake"
+  },
+  {
+   "slot": 108,
+   "section": "04",
+   "sentence": "After the camp's use, the remains were eventually submerged and covered by lake sediments.",
+   "start": 206.7,
+   "end": 208.7,
+   "shot": 169,
+   "topic": "cave"
+  },
+  {
+   "slot": 109,
+   "section": "04",
+   "sentence": "After the camp's use, the remains were eventually submerged and covered by lake sediments.",
+   "start": 208.7,
+   "end": 210.7,
+   "shot": 197,
+   "topic": "cave"
+  },
+  {
+   "slot": 110,
+   "section": "04",
+   "sentence": "After the camp's use, the remains were eventually submerged and covered by lake sediments.",
+   "start": 210.7,
+   "end": 212.12,
+   "shot": 157,
+   "topic": "cave"
+  },
+  {
+   "slot": 111,
+   "section": "04",
+   "sentence": "Plant material that often disappears from archaeological sites survived there in remarkable quantities.",
+   "start": 212.12,
+   "end": 214.12,
+   "shot": 181,
+   "topic": "lake"
+  },
+  {
+   "slot": 112,
+   "section": "04",
+   "sentence": "Plant material that often disappears from archaeological sites survived there in remarkable quantities.",
+   "start": 214.12,
+   "end": 216.12,
+   "shot": 75,
+   "topic": "lake"
+  },
+  {
+   "slot": 113,
+   "section": "04",
+   "sentence": "Plant material that often disappears from archaeological sites survived there in remarkable quantities.",
+   "start": 216.12,
+   "end": 218.12,
+   "shot": 108,
+   "topic": "lake"
+  },
+  {
+   "slot": 114,
+   "section": "04",
+   "sentence": "Plant material that often disappears from archaeological sites survived there in remarkable quantities.",
+   "start": 218.12,
+   "end": 219.65,
+   "shot": 147,
+   "topic": "lake"
+  },
+  {
+   "slot": 115,
+   "section": "04",
+   "sentence": "One hut contained several successive floors.",
+   "start": 219.65,
+   "end": 222.07,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 116,
+   "section": "04",
+   "sentence": "On an earlier floor, researchers identified grass bedding and a hearth.",
+   "start": 222.07,
+   "end": 224.8,
+   "shot": 240,
+   "topic": "fire"
+  },
+  {
+   "slot": 117,
+   "section": "04",
+   "sentence": "On a later floor in the same hut, they found a grinding stone and concentrations of plant remains.",
+   "start": 224.8,
+   "end": 226.8,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 118,
+   "section": "04",
+   "sentence": "On a later floor in the same hut, they found a grinding stone and concentrations of plant remains.",
+   "start": 226.8,
+   "end": 228.8,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 119,
+   "section": "04",
+   "sentence": "On a later floor in the same hut, they found a grinding stone and concentrations of plant remains.",
+   "start": 228.8,
+   "end": 231.55,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 120,
+   "section": "04",
+   "sentence": "Those floors do not give us a daily diary.",
+   "start": 231.55,
+   "end": 233.35,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 121,
+   "section": "04",
+   "sentence": "They do not tell us exactly who sat where, or that bedding was laid down because it rained on a particular day.",
+   "start": 233.35,
+   "end": 235.35,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 122,
+   "section": "04",
+   "sentence": "They do not tell us exactly who sat where, or that bedding was laid down because it rained on a particular day.",
+   "start": 235.35,
+   "end": 237.35,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 123,
+   "section": "04",
+   "sentence": "They do not tell us exactly who sat where, or that bedding was laid down because it rained on a particular day.",
+   "start": 237.35,
+   "end": 238.65,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 124,
+   "section": "04",
+   "sentence": "They do show that people organized space for activities that are instantly recognizable: resting, tending fire, and preparing food.",
+   "start": 238.65,
+   "end": 240.65,
+   "shot": 242,
+   "topic": "fire"
+  },
+  {
+   "slot": 125,
+   "section": "04",
+   "sentence": "They do show that people organized space for activities that are instantly recognizable: resting, tending fire, and preparing food.",
+   "start": 240.65,
+   "end": 242.65,
+   "shot": 243,
+   "topic": "fire"
+  },
+  {
+   "slot": 126,
+   "section": "04",
+   "sentence": "They do show that people organized space for activities that are instantly recognizable: resting, tending fire, and preparing food.",
+   "start": 242.65,
+   "end": 244.9,
+   "shot": 244,
+   "topic": "fire"
+  },
+  {
+   "slot": 127,
+   "section": "04",
+   "sentence": "And here is the detail that makes the scene feel closer.",
+   "start": 244.9,
+   "end": 246.9,
+   "shot": 185,
+   "topic": "lake"
+  },
+  {
+   "slot": 128,
+   "section": "04",
+   "sentence": "And here is the detail that makes the scene feel closer.",
+   "start": 246.9,
+   "end": 248.9,
+   "shot": 215,
+   "topic": "lake"
+  },
+  {
+   "slot": 129,
+   "section": "04",
+   "sentence": "And here is the detail that makes the scene feel closer.",
+   "start": 248.9,
+   "end": 249.8,
+   "shot": 209,
+   "topic": "lake"
+  },
+  {
+   "slot": 130,
+   "section": "04",
+   "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
+   "start": 249.8,
+   "end": 251.8,
+   "shot": 65,
+   "topic": "food"
+  },
+  {
+   "slot": 131,
+   "section": "04",
+   "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
+   "start": 251.8,
+   "end": 253.8,
+   "shot": 127,
+   "topic": "food"
+  },
+  {
+   "slot": 132,
+   "section": "04",
+   "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
+   "start": 253.8,
+   "end": 256.18,
+   "shot": 184,
+   "topic": "food"
+  },
+  {
+   "slot": 133,
+   "section": "04",
+   "sentence": "This was a place where knowledge and effort turned resources into food.",
+   "start": 256.18,
+   "end": 258.18,
+   "shot": 90,
+   "topic": "food"
+  },
+  {
+   "slot": 134,
+   "section": "04",
+   "sentence": "This was a place where knowledge and effort turned resources into food.",
+   "start": 258.18,
+   "end": 261.02,
+   "shot": 132,
+   "topic": "food"
+  },
+  {
+   "slot": 135,
+   "section": "04",
+   "sentence": "A storm might interrupt that work. It would not erase the skills behind it.",
+   "start": 261.02,
+   "end": 263.02,
+   "shot": 102,
+   "topic": "rain"
+  },
+  {
+   "slot": 136,
+   "section": "04",
+   "sentence": "A storm might interrupt that work. It would not erase the skills behind it.",
+   "start": 263.02,
+   "end": 264.05,
+   "shot": 94,
+   "topic": "rain"
+  },
+  {
+   "slot": 137,
+   "section": "04",
+   "sentence": "Not a castle. Not a written weather report.",
+   "start": 264.05,
+   "end": 266.05,
+   "shot": 134,
+   "topic": "food"
+  },
+  {
+   "slot": 138,
+   "section": "04",
+   "sentence": "Not a castle. Not a written weather report.",
+   "start": 266.05,
+   "end": 267.85,
+   "shot": 207,
+   "topic": "food"
+  },
+  {
+   "slot": 139,
+   "section": "04",
+   "sentence": "The camp's ordinary remains are the evidence\u2014and the gaps matter just as much as the finds.",
+   "start": 267.85,
+   "end": 269.85,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 140,
+   "section": "04",
+   "sentence": "The camp's ordinary remains are the evidence\u2014and the gaps matter just as much as the finds.",
+   "start": 269.85,
+   "end": 271.85,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 141,
+   "section": "04",
+   "sentence": "The camp's ordinary remains are the evidence\u2014and the gaps matter just as much as the finds.",
+   "start": 271.85,
+   "end": 272.84,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 142,
+   "section": "05",
+   "sentence": "On our imagined rainy day, fire would be valuable.",
+   "start": 272.84,
+   "end": 274.84,
+   "shot": 105,
+   "topic": "fire"
+  },
+  {
+   "slot": 143,
+   "section": "05",
+   "sentence": "On our imagined rainy day, fire would be valuable.",
+   "start": 274.84,
+   "end": 276.75,
+   "shot": 190,
+   "topic": "fire"
+  },
+  {
+   "slot": 144,
+   "section": "05",
+   "sentence": "It can provide warmth and light, and it can help prepare food.",
+   "start": 276.75,
+   "end": 278.75,
+   "shot": 216,
+   "topic": "food"
+  },
+  {
+   "slot": 145,
+   "section": "05",
+   "sentence": "It can provide warmth and light, and it can help prepare food.",
+   "start": 278.75,
+   "end": 280.75,
+   "shot": 186,
+   "topic": "food"
+  },
+  {
+   "slot": 146,
+   "section": "05",
+   "sentence": "It can provide warmth and light, and it can help prepare food.",
+   "start": 280.75,
+   "end": 281.83,
+   "shot": 85,
+   "topic": "food"
+  },
+  {
+   "slot": 147,
+   "section": "05",
+   "sentence": "But the same shelter that reduces exposure to rain can complicate the use of a flame.",
+   "start": 281.83,
+   "end": 283.83,
+   "shot": 88,
+   "topic": "fire"
+  },
+  {
+   "slot": 148,
+   "section": "05",
+   "sentence": "But the same shelter that reduces exposure to rain can complicate the use of a flame.",
+   "start": 283.83,
+   "end": 285.83,
+   "shot": 68,
+   "topic": "fire"
+  },
+  {
+   "slot": 149,
+   "section": "05",
+   "sentence": "But the same shelter that reduces exposure to rain can complicate the use of a flame.",
+   "start": 285.83,
+   "end": 287.23,
+   "shot": 50,
+   "topic": "fire"
+  },
+  {
+   "slot": 150,
+   "section": "05",
+   "sentence": "Smoke needs somewhere to go.",
+   "start": 287.23,
+   "end": 288.85,
+   "shot": 178,
+   "topic": "fire"
+  },
+  {
+   "slot": 151,
+   "section": "05",
+   "sentence": "Fire near dry plant material can also create danger.",
+   "start": 288.85,
+   "end": 290.85,
+   "shot": 188,
+   "topic": "fire"
+  },
+  {
+   "slot": 152,
+   "section": "05",
+   "sentence": "Fire near dry plant material can also create danger.",
+   "start": 290.85,
+   "end": 291.88,
+   "shot": 240,
+   "topic": "fire"
+  },
+  {
+   "slot": 153,
+   "section": "05",
+   "sentence": "A sheltered fire, an open-air hearth, and a tightly enclosed space are very different things.",
+   "start": 291.88,
+   "end": 293.88,
+   "shot": 241,
+   "topic": "fire"
+  },
+  {
+   "slot": 154,
+   "section": "05",
+   "sentence": "A sheltered fire, an open-air hearth, and a tightly enclosed space are very different things.",
+   "start": 293.88,
+   "end": 295.88,
+   "shot": 242,
+   "topic": "fire"
+  },
+  {
+   "slot": 155,
+   "section": "05",
+   "sentence": "A sheltered fire, an open-air hearth, and a tightly enclosed space are very different things.",
+   "start": 295.88,
+   "end": 297.88,
+   "shot": 243,
+   "topic": "fire"
+  },
+  {
+   "slot": 156,
+   "section": "05",
+   "sentence": "A sheltered fire, an open-air hearth, and a tightly enclosed space are very different things.",
+   "start": 297.88,
+   "end": 299.15,
+   "shot": 244,
+   "topic": "fire"
+  },
+  {
+   "slot": 157,
+   "section": "05",
+   "sentence": "At Ohalo Two, archaeologists found concentrations of hearths outside the huts.",
+   "start": 299.15,
+   "end": 301.15,
+   "shot": 105,
+   "topic": "fire"
+  },
+  {
+   "slot": 158,
+   "section": "05",
+   "sentence": "At Ohalo Two, archaeologists found concentrations of hearths outside the huts.",
+   "start": 301.15,
+   "end": 303.15,
+   "shot": 190,
+   "topic": "fire"
+  },
+  {
+   "slot": 159,
+   "section": "05",
+   "sentence": "At Ohalo Two, archaeologists found concentrations of hearths outside the huts.",
+   "start": 303.15,
+   "end": 305.35,
+   "shot": 88,
+   "topic": "fire"
+  },
+  {
+   "slot": 160,
+   "section": "05",
+   "sentence": "They also identified a hearth on one floor inside one hut.",
+   "start": 305.35,
+   "end": 307.35,
+   "shot": 68,
+   "topic": "fire"
+  },
+  {
+   "slot": 161,
+   "section": "05",
+   "sentence": "They also identified a hearth on one floor inside one hut.",
+   "start": 307.35,
+   "end": 308.79,
+   "shot": 50,
+   "topic": "fire"
+  },
+  {
+   "slot": 162,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 308.79,
+   "end": 310.79,
+   "shot": 178,
+   "topic": "fire"
+  },
+  {
+   "slot": 163,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 310.79,
+   "end": 312.79,
+   "shot": 188,
+   "topic": "fire"
+  },
+  {
+   "slot": 164,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 312.79,
+   "end": 314.79,
+   "shot": 240,
+   "topic": "fire"
+  },
+  {
+   "slot": 165,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 314.79,
+   "end": 316.79,
+   "shot": 241,
+   "topic": "fire"
+  },
+  {
+   "slot": 166,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 316.79,
+   "end": 318.79,
+   "shot": 242,
+   "topic": "fire"
+  },
+  {
+   "slot": 167,
+   "section": "05",
+   "sentence": "That is evidence of fire in and around parts of the camp\u2014not proof that every hut had the same arrangement, or that any particular fire burned through our imagined storm.",
+   "start": 318.79,
+   "end": 320.33,
+   "shot": 243,
+   "topic": "fire"
+  },
+  {
+   "slot": 168,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 320.33,
+   "end": 322.33,
+   "shot": 244,
+   "topic": "fire"
+  },
+  {
+   "slot": 169,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 322.33,
+   "end": 324.33,
+   "shot": 105,
+   "topic": "fire"
+  },
+  {
+   "slot": 170,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 324.33,
+   "end": 326.33,
+   "shot": 190,
+   "topic": "fire"
+  },
+  {
+   "slot": 171,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 326.33,
+   "end": 328.33,
+   "shot": 88,
+   "topic": "fire"
+  },
+  {
+   "slot": 172,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 328.33,
+   "end": 330.33,
+   "shot": 68,
+   "topic": "fire"
+  },
+  {
+   "slot": 173,
+   "section": "05",
+   "sentence": "We also cannot tell from a hearth alone precisely how people started each fire, whether they kept embers between uses, or what they did when fuel became wet.",
+   "start": 330.33,
+   "end": 333.12,
+   "shot": 50,
+   "topic": "fire"
+  },
+  {
+   "slot": 174,
+   "section": "05",
+   "sentence": "Those are reasonable questions, not facts to insert into the scene.",
+   "start": 333.12,
+   "end": 335.12,
+   "shot": 205,
+   "topic": "lake"
+  },
+  {
+   "slot": 175,
+   "section": "05",
+   "sentence": "Those are reasonable questions, not facts to insert into the scene.",
+   "start": 335.12,
+   "end": 337.75,
+   "shot": 139,
+   "topic": "lake"
+  },
+  {
+   "slot": 176,
+   "section": "05",
+   "sentence": "What the evidence does show is that fire was part of the camp's working environment.",
+   "start": 337.75,
+   "end": 339.75,
+   "shot": 188,
+   "topic": "fire"
+  },
+  {
+   "slot": 177,
+   "section": "05",
+   "sentence": "What the evidence does show is that fire was part of the camp's working environment.",
+   "start": 339.75,
+   "end": 342.58,
+   "shot": 240,
+   "topic": "fire"
+  },
+  {
+   "slot": 178,
+   "section": "05",
+   "sentence": "And like shelter itself, using it involved choices, trade-offs, and attention.",
+   "start": 342.58,
+   "end": 344.58,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 179,
+   "section": "05",
+   "sentence": "And like shelter itself, using it involved choices, trade-offs, and attention.",
+   "start": 344.58,
+   "end": 346.58,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 180,
+   "section": "05",
+   "sentence": "And like shelter itself, using it involved choices, trade-offs, and attention.",
+   "start": 346.58,
+   "end": 348.65,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 181,
+   "section": "06",
+   "sentence": "Rain changes the conditions under which a group finds and prepares food.",
+   "start": 348.65,
+   "end": 350.65,
+   "shot": 109,
+   "topic": "food"
+  },
+  {
+   "slot": 182,
+   "section": "06",
+   "sentence": "Rain changes the conditions under which a group finds and prepares food.",
+   "start": 350.65,
+   "end": 352.58,
+   "shot": 120,
+   "topic": "food"
+  },
+  {
+   "slot": 183,
+   "section": "06",
+   "sentence": "But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources already available.",
+   "start": 352.58,
+   "end": 354.58,
+   "shot": 121,
+   "topic": "food"
+  },
+  {
+   "slot": 184,
+   "section": "06",
+   "sentence": "But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources already available.",
+   "start": 354.58,
+   "end": 356.58,
+   "shot": 91,
+   "topic": "food"
+  },
+  {
+   "slot": 185,
+   "section": "06",
+   "sentence": "But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources already available.",
+   "start": 356.58,
+   "end": 358.58,
+   "shot": 126,
+   "topic": "food"
+  },
+  {
+   "slot": 186,
+   "section": "06",
+   "sentence": "But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources already available.",
+   "start": 358.58,
+   "end": 360.58,
+   "shot": 131,
+   "topic": "food"
+  },
+  {
+   "slot": 187,
+   "section": "06",
+   "sentence": "But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources already available.",
+   "start": 360.58,
+   "end": 362.4,
+   "shot": 211,
+   "topic": "food"
+  },
+  {
+   "slot": 188,
+   "section": "06",
+   "sentence": "Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand.",
+   "start": 362.4,
+   "end": 364.4,
+   "shot": 192,
+   "topic": "food"
+  },
+  {
+   "slot": 189,
+   "section": "06",
+   "sentence": "Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand.",
+   "start": 364.4,
+   "end": 366.4,
+   "shot": 151,
+   "topic": "food"
+  },
+  {
+   "slot": 190,
+   "section": "06",
+   "sentence": "Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand.",
+   "start": 366.4,
+   "end": 368.4,
+   "shot": 191,
+   "topic": "food"
+  },
+  {
+   "slot": 191,
+   "section": "06",
+   "sentence": "Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand.",
+   "start": 368.4,
+   "end": 370.18,
+   "shot": 210,
+   "topic": "food"
+  },
+  {
+   "slot": 192,
+   "section": "06",
+   "sentence": "At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources.",
+   "start": 370.18,
+   "end": 372.18,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 193,
+   "section": "06",
+   "sentence": "At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources.",
+   "start": 372.18,
+   "end": 374.18,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 194,
+   "section": "06",
+   "sentence": "At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources.",
+   "start": 374.18,
+   "end": 376.7,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 195,
+   "section": "06",
+   "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
+   "start": 376.7,
+   "end": 378.7,
+   "shot": 65,
+   "topic": "food"
+  },
+  {
+   "slot": 196,
+   "section": "06",
+   "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
+   "start": 378.7,
+   "end": 380.7,
+   "shot": 127,
+   "topic": "food"
+  },
+  {
+   "slot": 197,
+   "section": "06",
+   "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
+   "start": 380.7,
+   "end": 382.7,
+   "shot": 184,
+   "topic": "food"
+  },
+  {
+   "slot": 198,
+   "section": "06",
+   "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
+   "start": 382.7,
+   "end": 385.27,
+   "shot": 152,
+   "topic": "food"
+  },
+  {
+   "slot": 199,
+   "section": "06",
+   "sentence": "This does not prove that the people stored a particular emergency supply for a long storm.",
+   "start": 385.27,
+   "end": 387.27,
+   "shot": 132,
+   "topic": "food"
+  },
+  {
+   "slot": 200,
+   "section": "06",
+   "sentence": "This does not prove that the people stored a particular emergency supply for a long storm.",
+   "start": 387.27,
+   "end": 389.27,
+   "shot": 133,
+   "topic": "food"
+  },
+  {
+   "slot": 201,
+   "section": "06",
+   "sentence": "This does not prove that the people stored a particular emergency supply for a long storm.",
+   "start": 389.27,
+   "end": 391.27,
+   "shot": 134,
+   "topic": "food"
+  },
+  {
+   "slot": 202,
+   "section": "06",
+   "sentence": "This does not prove that the people stored a particular emergency supply for a long storm.",
+   "start": 391.27,
+   "end": 392.83,
+   "shot": 207,
+   "topic": "food"
+  },
+  {
+   "slot": 203,
+   "section": "06",
+   "sentence": "It does challenge a simpler picture: that survival depended on a single hunt, every single day.",
+   "start": 392.83,
+   "end": 394.83,
+   "shot": 216,
+   "topic": "food"
+  },
+  {
+   "slot": 204,
+   "section": "06",
+   "sentence": "It does challenge a simpler picture: that survival depended on a single hunt, every single day.",
+   "start": 394.83,
+   "end": 396.98,
+   "shot": 186,
+   "topic": "food"
+  },
+  {
+   "slot": 205,
+   "section": "06",
+   "sentence": "Finding food is not only the moment when an animal is caught or a plant is gathered.",
+   "start": 396.98,
+   "end": 398.98,
+   "shot": 85,
+   "topic": "food"
+  },
+  {
+   "slot": 206,
+   "section": "06",
+   "sentence": "Finding food is not only the moment when an animal is caught or a plant is gathered.",
+   "start": 398.98,
+   "end": 400.98,
+   "shot": 109,
+   "topic": "food"
+  },
+  {
+   "slot": 207,
+   "section": "06",
+   "sentence": "Finding food is not only the moment when an animal is caught or a plant is gathered.",
+   "start": 400.98,
+   "end": 402.25,
+   "shot": 120,
+   "topic": "food"
+  },
+  {
+   "slot": 208,
+   "section": "06",
+   "sentence": "It includes recognizing resources, carrying them, processing them, and sharing space while the work gets done.",
+   "start": 402.25,
+   "end": 404.25,
+   "shot": 149,
+   "topic": "lake"
+  },
+  {
+   "slot": 209,
+   "section": "06",
+   "sentence": "It includes recognizing resources, carrying them, processing them, and sharing space while the work gets done.",
+   "start": 404.25,
+   "end": 406.25,
+   "shot": 179,
+   "topic": "lake"
+  },
+  {
+   "slot": 210,
+   "section": "06",
+   "sentence": "It includes recognizing resources, carrying them, processing them, and sharing space while the work gets done.",
+   "start": 406.25,
+   "end": 409.12,
+   "shot": 198,
+   "topic": "lake"
+  },
+  {
+   "slot": 211,
+   "section": "06",
+   "sentence": "A wet week would affect that whole chain.",
+   "start": 409.12,
+   "end": 411.12,
+   "shot": 160,
+   "topic": "ground"
+  },
+  {
+   "slot": 212,
+   "section": "06",
+   "sentence": "A wet week would affect that whole chain.",
+   "start": 411.12,
+   "end": 412.08,
+   "shot": 165,
+   "topic": "ground"
+  },
+  {
+   "slot": 213,
+   "section": "07",
+   "sentence": "Ohalo Two is a remarkable window into one place and time.",
+   "start": 412.08,
+   "end": 414.08,
+   "shot": 226,
+   "topic": "rain"
+  },
+  {
+   "slot": 214,
+   "section": "07",
+   "sentence": "Ohalo Two is a remarkable window into one place and time.",
+   "start": 414.08,
+   "end": 416.18,
+   "shot": 236,
+   "topic": "rain"
+  },
+  {
+   "slot": 215,
+   "section": "07",
+   "sentence": "It is not a template for every human community before agriculture, and certainly not for every prehistoric rainy day.",
+   "start": 416.18,
+   "end": 418.18,
+   "shot": 145,
+   "topic": "people"
+  },
+  {
+   "slot": 216,
+   "section": "07",
+   "sentence": "It is not a template for every human community before agriculture, and certainly not for every prehistoric rainy day.",
+   "start": 418.18,
+   "end": 420.18,
+   "shot": 177,
+   "topic": "people"
+  },
+  {
+   "slot": 217,
+   "section": "07",
+   "sentence": "It is not a template for every human community before agriculture, and certainly not for every prehistoric rainy day.",
+   "start": 420.18,
+   "end": 422.18,
+   "shot": 219,
+   "topic": "people"
+  },
+  {
+   "slot": 218,
+   "section": "07",
+   "sentence": "It is not a template for every human community before agriculture, and certainly not for every prehistoric rainy day.",
+   "start": 422.18,
+   "end": 423.3,
+   "shot": 221,
+   "topic": "people"
+  },
+  {
+   "slot": 219,
+   "section": "07",
+   "sentence": "Elsewhere, natural rock shelters offered different possibilities.",
+   "start": 423.3,
+   "end": 425.3,
+   "shot": 124,
+   "topic": "cave"
+  },
+  {
+   "slot": 220,
+   "section": "07",
+   "sentence": "Elsewhere, natural rock shelters offered different possibilities.",
+   "start": 425.3,
+   "end": 427.62,
+   "shot": 140,
+   "topic": "cave"
+  },
+  {
+   "slot": 221,
+   "section": "07",
+   "sentence": "At Border Cave in southern Africa, researchers identified ancient grass bedding associated with layers of ash, including evidence dating to around two hundred thousand years ago.",
+   "start": 427.62,
+   "end": 429.62,
+   "shot": 96,
+   "topic": "cave"
+  },
+  {
+   "slot": 222,
+   "section": "07",
+   "sentence": "At Border Cave in southern Africa, researchers identified ancient grass bedding associated with layers of ash, including evidence dating to around two hundred thousand years ago.",
+   "start": 429.62,
+   "end": 431.62,
+   "shot": 199,
+   "topic": "cave"
+  },
+  {
+   "slot": 223,
+   "section": "07",
+   "sentence": "At Border Cave in southern Africa, researchers identified ancient grass bedding associated with layers of ash, including evidence dating to around two hundred thousand years ago.",
+   "start": 431.62,
+   "end": 433.62,
+   "shot": 203,
+   "topic": "cave"
+  },
+  {
+   "slot": 224,
+   "section": "07",
+   "sentence": "At Border Cave in southern Africa, researchers identified ancient grass bedding associated with layers of ash, including evidence dating to around two hundred thousand years ago.",
+   "start": 433.62,
+   "end": 435.62,
+   "shot": 118,
+   "topic": "cave"
+  },
+  {
+   "slot": 225,
+   "section": "07",
+   "sentence": "At Border Cave in southern Africa, researchers identified ancient grass bedding associated with layers of ash, including evidence dating to around two hundred thousand years ago.",
+   "start": 435.62,
+   "end": 438.33,
+   "shot": 72,
+   "topic": "cave"
+  },
+  {
+   "slot": 226,
+   "section": "07",
+   "sentence": "That is far older than Ohalo Two, and it comes from a different environment.",
+   "start": 438.33,
+   "end": 440.33,
+   "shot": 163,
+   "topic": "lake"
+  },
+  {
+   "slot": 227,
+   "section": "07",
+   "sentence": "That is far older than Ohalo Two, and it comes from a different environment.",
+   "start": 440.33,
+   "end": 442.75,
+   "shot": 181,
+   "topic": "lake"
+  },
+  {
+   "slot": 228,
+   "section": "07",
+   "sentence": "These finds should not be mixed into one imaginary camp.",
+   "start": 442.75,
+   "end": 444.75,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 229,
+   "section": "07",
+   "sentence": "These finds should not be mixed into one imaginary camp.",
+   "start": 444.75,
+   "end": 446.12,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 230,
+   "section": "07",
+   "sentence": "They show different people in different places making use of space and plant materials over a very long stretch of human history.",
+   "start": 446.12,
+   "end": 448.12,
+   "shot": 230,
+   "topic": "people"
+  },
+  {
+   "slot": 231,
+   "section": "07",
+   "sentence": "They show different people in different places making use of space and plant materials over a very long stretch of human history.",
+   "start": 448.12,
+   "end": 450.12,
+   "shot": 231,
+   "topic": "people"
+  },
+  {
+   "slot": 232,
+   "section": "07",
+   "sentence": "They show different people in different places making use of space and plant materials over a very long stretch of human history.",
+   "start": 450.12,
+   "end": 452.12,
+   "shot": 220,
+   "topic": "people"
+  },
+  {
+   "slot": 233,
+   "section": "07",
+   "sentence": "They show different people in different places making use of space and plant materials over a very long stretch of human history.",
+   "start": 452.12,
+   "end": 454.0,
+   "shot": 89,
+   "topic": "people"
+  },
+  {
+   "slot": 234,
+   "section": "07",
+   "sentence": "Other communities lived in environments where timber, stone, grasses, or animal materials were available in different combinations.",
+   "start": 454.0,
+   "end": 456.0,
+   "shot": 98,
+   "topic": "people"
+  },
+  {
+   "slot": 235,
+   "section": "07",
+   "sentence": "Other communities lived in environments where timber, stone, grasses, or animal materials were available in different combinations.",
+   "start": 456.0,
+   "end": 458.0,
+   "shot": 107,
+   "topic": "people"
+  },
+  {
+   "slot": 236,
+   "section": "07",
+   "sentence": "Other communities lived in environments where timber, stone, grasses, or animal materials were available in different combinations.",
+   "start": 458.0,
+   "end": 460.0,
+   "shot": 145,
+   "topic": "people"
+  },
+  {
+   "slot": 237,
+   "section": "07",
+   "sentence": "Other communities lived in environments where timber, stone, grasses, or animal materials were available in different combinations.",
+   "start": 460.0,
+   "end": 462.67,
+   "shot": 177,
+   "topic": "people"
+  },
+  {
+   "slot": 238,
+   "section": "07",
+   "sentence": "Some traces survive; many do not.",
+   "start": 462.67,
+   "end": 464.38,
+   "shot": 108,
+   "topic": "lake"
+  },
+  {
+   "slot": 239,
+   "section": "07",
+   "sentence": "When a shelter was made from materials that decay, its absence from the record is not proof that nobody built one.",
+   "start": 464.38,
+   "end": 466.38,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 240,
+   "section": "07",
+   "sentence": "When a shelter was made from materials that decay, its absence from the record is not proof that nobody built one.",
+   "start": 466.38,
+   "end": 468.38,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 241,
+   "section": "07",
+   "sentence": "When a shelter was made from materials that decay, its absence from the record is not proof that nobody built one.",
+   "start": 468.38,
+   "end": 470.38,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 242,
+   "section": "07",
+   "sentence": "When a shelter was made from materials that decay, its absence from the record is not proof that nobody built one.",
+   "start": 470.38,
+   "end": 471.93,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 243,
+   "section": "07",
+   "sentence": "And the presence of a shelter does not prove that everyone was safe or comfortable.",
+   "start": 471.93,
+   "end": 473.93,
+   "shot": 112,
+   "topic": "shelter"
+  },
+  {
+   "slot": 244,
+   "section": "07",
+   "sentence": "And the presence of a shelter does not prove that everyone was safe or comfortable.",
+   "start": 473.93,
+   "end": 475.93,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 245,
+   "section": "07",
+   "sentence": "And the presence of a shelter does not prove that everyone was safe or comfortable.",
+   "start": 475.93,
+   "end": 478.2,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 246,
+   "section": "07",
+   "sentence": "A storm could still damage a camp, interrupt work, or leave people cold.",
+   "start": 478.2,
+   "end": 481.08,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 247,
+   "section": "07",
+   "sentence": "Ingenuity reduces some risks; it does not make weather disappear.",
+   "start": 481.08,
+   "end": 483.08,
+   "shot": 121,
+   "topic": "food"
+  },
+  {
+   "slot": 248,
+   "section": "07",
+   "sentence": "Ingenuity reduces some risks; it does not make weather disappear.",
+   "start": 483.08,
+   "end": 485.08,
+   "shot": 91,
+   "topic": "food"
+  },
+  {
+   "slot": 249,
+   "section": "07",
+   "sentence": "Ingenuity reduces some risks; it does not make weather disappear.",
+   "start": 485.08,
+   "end": 486.15,
+   "shot": 126,
+   "topic": "food"
+  },
+  {
+   "slot": 250,
+   "section": "08",
+   "sentence": "Imagine the rain finally easing.",
+   "start": 486.15,
+   "end": 488.55,
+   "shot": 238,
+   "topic": "rain"
+  },
+  {
+   "slot": 251,
+   "section": "08",
+   "sentence": "The ground is still wet.",
+   "start": 488.55,
+   "end": 490.35,
+   "shot": 175,
+   "topic": "ground"
+  },
+  {
+   "slot": 252,
+   "section": "08",
+   "sentence": "Bedding may need to dry or be replaced.",
+   "start": 490.35,
+   "end": 492.52,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 253,
+   "section": "08",
+   "sentence": "Work interrupted by the weather still waits to be done.",
+   "start": 492.52,
+   "end": 494.52,
+   "shot": 131,
+   "topic": "food"
+  },
+  {
+   "slot": 254,
+   "section": "08",
+   "sentence": "Work interrupted by the weather still waits to be done.",
+   "start": 494.52,
+   "end": 496.52,
+   "shot": 211,
+   "topic": "food"
+  },
+  {
+   "slot": 255,
+   "section": "08",
+   "sentence": "Work interrupted by the weather still waits to be done.",
+   "start": 496.52,
+   "end": 498.35,
+   "shot": 192,
+   "topic": "food"
+  },
+  {
+   "slot": 256,
+   "section": "08",
+   "sentence": "That is a possible scene, not an event recovered from Ohalo Two.",
+   "start": 498.35,
+   "end": 500.18,
+   "shot": 147,
+   "topic": "lake"
+  },
+  {
+   "slot": 257,
+   "section": "08",
+   "sentence": "The archaeological record cannot tell us that morning's conversations or decisions.",
+   "start": 500.18,
+   "end": 502.18,
+   "shot": 185,
+   "topic": "lake"
+  },
+  {
+   "slot": 258,
+   "section": "08",
+   "sentence": "The archaeological record cannot tell us that morning's conversations or decisions.",
+   "start": 502.18,
+   "end": 504.18,
+   "shot": 215,
+   "topic": "lake"
+  },
+  {
+   "slot": 259,
+   "section": "08",
+   "sentence": "The archaeological record cannot tell us that morning's conversations or decisions.",
+   "start": 504.18,
+   "end": 506.18,
+   "shot": 209,
+   "topic": "lake"
+  },
+  {
+   "slot": 260,
+   "section": "08",
+   "sentence": "The archaeological record cannot tell us that morning's conversations or decisions.",
+   "start": 506.18,
+   "end": 507.45,
+   "shot": 205,
+   "topic": "lake"
+  },
+  {
+   "slot": 261,
+   "section": "08",
+   "sentence": "What it offers instead is something more durable: evidence that people made spaces, handled plants, used fire, and organized activities around the demands of their surroundings.",
+   "start": 507.45,
+   "end": 509.45,
+   "shot": 242,
+   "topic": "fire"
+  },
+  {
+   "slot": 262,
+   "section": "08",
+   "sentence": "What it offers instead is something more durable: evidence that people made spaces, handled plants, used fire, and organized activities around the demands of their surroundings.",
+   "start": 509.45,
+   "end": 511.45,
+   "shot": 243,
+   "topic": "fire"
+  },
+  {
+   "slot": 263,
+   "section": "08",
+   "sentence": "What it offers instead is something more durable: evidence that people made spaces, handled plants, used fire, and organized activities around the demands of their surroundings.",
+   "start": 511.45,
+   "end": 513.45,
+   "shot": 244,
+   "topic": "fire"
+  },
+  {
+   "slot": 264,
+   "section": "08",
+   "sentence": "What it offers instead is something more durable: evidence that people made spaces, handled plants, used fire, and organized activities around the demands of their surroundings.",
+   "start": 513.45,
+   "end": 515.45,
+   "shot": 105,
+   "topic": "fire"
+  },
+  {
+   "slot": 265,
+   "section": "08",
+   "sentence": "What it offers instead is something more durable: evidence that people made spaces, handled plants, used fire, and organized activities around the demands of their surroundings.",
+   "start": 515.45,
+   "end": 518.0,
+   "shot": 190,
+   "topic": "fire"
+  },
+  {
+   "slot": 266,
+   "section": "08",
+   "sentence": "The answer to our question is not that ancient humans had no protection until houses appeared.",
+   "start": 518.0,
+   "end": 520.0,
+   "shot": 164,
+   "topic": "shelter"
+  },
+  {
+   "slot": 267,
+   "section": "08",
+   "sentence": "The answer to our question is not that ancient humans had no protection until houses appeared.",
+   "start": 520.0,
+   "end": 522.0,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 268,
+   "section": "08",
+   "sentence": "The answer to our question is not that ancient humans had no protection until houses appeared.",
+   "start": 522.0,
+   "end": 523.23,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 269,
+   "section": "08",
+   "sentence": "It is that protection took many forms\u2014and that even a simple-looking shelter can represent a great deal of knowledge.",
+   "start": 523.23,
+   "end": 525.23,
+   "shot": 104,
+   "topic": "shelter"
+  },
+  {
+   "slot": 270,
+   "section": "08",
+   "sentence": "It is that protection took many forms\u2014and that even a simple-looking shelter can represent a great deal of knowledge.",
+   "start": 525.23,
+   "end": 527.23,
+   "shot": 110,
+   "topic": "shelter"
+  },
+  {
+   "slot": 271,
+   "section": "08",
+   "sentence": "It is that protection took many forms\u2014and that even a simple-looking shelter can represent a great deal of knowledge.",
+   "start": 527.23,
+   "end": 530.05,
+   "shot": 111,
+   "topic": "shelter"
+  },
+  {
+   "slot": 272,
+   "section": "08",
+   "sentence": "The next time rain hits your roof, think about the ordinary work hidden inside that sound: staying dry, keeping warm, making food, and making a place to rest.",
+   "start": 530.05,
+   "end": 532.05,
+   "shot": 114,
+   "topic": "shelter"
+  },
+  {
+   "slot": 273,
+   "section": "08",
+   "sentence": "The next time rain hits your roof, think about the ordinary work hidden inside that sound: staying dry, keeping warm, making food, and making a place to rest.",
+   "start": 532.05,
+   "end": 534.05,
+   "shot": 115,
+   "topic": "shelter"
+  },
+  {
+   "slot": 274,
+   "section": "08",
+   "sentence": "The next time rain hits your roof, think about the ordinary work hidden inside that sound: staying dry, keeping warm, making food, and making a place to rest.",
+   "start": 534.05,
+   "end": 536.05,
+   "shot": 156,
+   "topic": "shelter"
+  },
+  {
+   "slot": 275,
+   "section": "08",
+   "sentence": "The next time rain hits your roof, think about the ordinary work hidden inside that sound: staying dry, keeping warm, making food, and making a place to rest.",
+   "start": 536.05,
+   "end": 538.05,
+   "shot": 168,
+   "topic": "shelter"
+  },
+  {
+   "slot": 276,
+   "section": "08",
+   "sentence": "The next time rain hits your roof, think about the ordinary work hidden inside that sound: staying dry, keeping warm, making food, and making a place to rest.",
+   "start": 538.05,
+   "end": 540.42,
+   "shot": 86,
+   "topic": "shelter"
+  },
+  {
+   "slot": 277,
+   "section": "08",
+   "sentence": "The weather is ancient. So is the human effort to make a home within it.",
+   "start": 540.42,
+   "end": 542.42,
+   "shot": 232,
+   "topic": "shelter"
+  },
+  {
+   "slot": 278,
+   "section": "08",
+   "sentence": "The weather is ancient. So is the human effort to make a home within it.",
+   "start": 542.42,
+   "end": 544.95,
+   "shot": 193,
+   "topic": "shelter"
+  },
+  {
+   "slot": 279,
+   "section": "08",
+   "sentence": "If you enjoyed exploring the everyday side of history, subscribe to Atlas Understory.",
+   "start": 544.95,
+   "end": 546.95,
+   "shot": 139,
+   "topic": "lake"
+  },
+  {
+   "slot": 280,
+   "section": "08",
+   "sentence": "If you enjoyed exploring the everyday side of history, subscribe to Atlas Understory.",
+   "start": 546.95,
+   "end": 548.95,
+   "shot": 158,
+   "topic": "lake"
+  },
+  {
+   "slot": 281,
+   "section": "08",
+   "sentence": "If you enjoyed exploring the everyday side of history, subscribe to Atlas Understory.",
+   "start": 548.95,
+   "end": 550.22,
+   "shot": 149,
+   "topic": "lake"
+  },
+  {
+   "slot": 282,
+   "section": "08",
+   "sentence": "And tell us: which modern comfort would you miss most during three days of rain?",
+   "start": 550.22,
+   "end": 552.22,
+   "shot": 166,
+   "topic": "rain"
+  },
+  {
+   "slot": 283,
+   "section": "08",
+   "sentence": "And tell us: which modern comfort would you miss most during three days of rain?",
+   "start": 552.22,
+   "end": 554.65,
+   "shot": 159,
+   "topic": "rain"
+  }
+ ]
+}

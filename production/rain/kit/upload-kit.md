@@ -72,12 +72,26 @@ before agriculture, prehistoric camp, hearth, experimental archaeology, atlas un
 
 ---
 
-## Thumbnail
+## Thumbnail (v2)
 
 - `thumbnail-1280x720.jpg` — upload this one (1280×720, under YouTube's 2 MB limit)
 - `thumbnail-preview-320.jpg` — just for checking it survives being shown small; do not upload
 
-Headline is four words at 104 px so it still reads in a mobile feed. The "Illustrative reconstruction" tag stays on the image — a clickable picture of a prehistoric camp with no qualifier is the one thing this channel shouldn't publish.
+Version 1 was honest and unclickable: a wide grey landscape with a four-word
+headline, no subject, no stakes. v2 is built the way thumbnails actually work:
+
+- **One subject, not a landscape.** A lit shelter with a backlit figure inside,
+  framed by cold rain — something to look at, and a warm/cool split that
+  separates it from a grey feed.
+- **A headline that poses a problem**, not a topic: *RAIN FOR 3 DAYS. NO HOUSE.*
+  Three lines, four words plus the number, in white then amber.
+- **The year as the curiosity hook** — "23,000 YEARS AGO" in the top corner.
+- Verified at 320 px wide, which is the size most feeds actually show.
+
+The "Illustrative reconstruction" tag stays, small, top right. The scene is an
+AI-generated illustration, so it has to say so — but at this size the qualifier
+costs nothing, and no angle or arrow or shocked face was needed to carry the
+click.
 
 ---
 

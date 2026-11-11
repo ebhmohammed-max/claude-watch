@@ -2,7 +2,7 @@
 ### Atlas Understory — upload kit
 
 **Runtime** 9:35.35 · 1280×720 · 25 fps · H.264 + AAC stereo
-**File** `tailors-episode.mp4` (~100 MB)
+**File** `tailors-episode.mp4` (~101 MB)
 
 ---
 
@@ -128,6 +128,12 @@ One hide, one bone needle, no thread. What are you making?
 - **56 stills carry the 288 placements**, so images recur. Recurrence is
   deliberate inside a section (same scene, different framing). The archive zip
   holds all **66** generated stills, including ten that the cut itself does not use.
+- **Section changes dissolve; every other cut is hard.** That rule was broken
+  in v2-v4 -- every boundary was a hard cut because the clothing episode never
+  had the transitions step the rain episode had. v5 ports it: a 0.5 s blend of
+  the two stills at each of the 8 boundaries, with the captions swapping at the
+  halfway frame so no two sentences ever overlap. Total frames are unchanged at
+  14,384, so no caption drifts.
 - **Pacing was rebuilt across v3 and v4.** v2 passed the 2 s grid as a *time*
   grid but not as a *cut* grid: 76% of the film sat on a still held six seconds
   or longer and one plate held for 34 s. Measured on the finished encode, v4 has

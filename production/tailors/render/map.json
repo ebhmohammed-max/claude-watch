@@ -1,2494 +1,2962 @@
 {
- "narration_seconds": 553.56,
+ "narration_seconds": 576.95,
  "slot": 2.0,
  "sections": [
   {
    "section": "01",
-   "title": "1 \u00b7 A morning without buttons",
+   "title": "1 \u00b7 You are wearing a corpse",
    "start": 0.0,
-   "end": 53.4
+   "end": 65.56
   },
   {
    "section": "02",
-   "title": "2 \u00b7 Why skin alone is not clothing",
-   "start": 53.4,
-   "end": 115.12
+   "title": "2 \u00b7 The lice know",
+   "start": 65.56,
+   "end": 136.88
   },
   {
    "section": "03",
-   "title": "3 \u00b7 A cave that smells of fur",
-   "start": 115.12,
-   "end": 187.72
+   "title": "3 \u00b7 The ugliest tool in the cave",
+   "start": 136.88,
+   "end": 216.52
   },
   {
    "section": "04",
-   "title": "4 \u00b7 The hard part is the hole",
-   "start": 187.72,
-   "end": 264.48
+   "title": "4 \u00b7 The hole is the hard part",
+   "start": 216.52,
+   "end": 270.59
   },
   {
    "section": "05",
-   "title": "5 \u00b7 The layer against your skin",
-   "start": 264.48,
-   "end": 323.96
+   "title": "5 \u00b7 It's about the underwear",
+   "start": 270.59,
+   "end": 340.63
   },
   {
    "section": "06",
-   "title": "6 \u00b7 A thread nobody was looking for",
-   "start": 323.96,
-   "end": 400.08
+   "title": "6 \u00b7 Someone dyed a rope pink",
+   "start": 340.63,
+   "end": 418.35
   },
   {
    "section": "07",
-   "title": "7 \u00b7 What we cannot know",
-   "start": 400.08,
-   "end": 430.76
+   "title": "7 \u00b7 Every diorama is a guess",
+   "start": 418.35,
+   "end": 453.83
   },
   {
    "section": "08",
-   "title": "8 \u00b7 Three thousand beads",
-   "start": 430.76,
-   "end": 493.76
+   "title": "8 \u00b7 Three thousand holes",
+   "start": 453.83,
+   "end": 523.55
   },
   {
    "section": "09",
    "title": "9 \u00b7 The first thing you put on",
-   "start": 493.76,
-   "end": 553.56
+   "start": 523.55,
+   "end": 576.95
   }
  ],
  "cues": [
   {
    "section": "01",
-   "sentence": "A cold morning, and you own one garment.",
+   "sentence": "A cold morning.",
    "start": 0.0,
-   "end": 2.56
+   "end": 0.922
   },
   {
    "section": "01",
-   "sentence": "It is a hide.",
-   "start": 2.56,
-   "end": 3.424
+   "sentence": "You own one garment.",
+   "start": 0.922,
+   "end": 2.137
+  },
+  {
+   "section": "01",
+   "sentence": "It's a hide.",
+   "start": 2.137,
+   "end": 2.884
   },
   {
    "section": "01",
    "sentence": "Not a coat.",
-   "start": 3.424,
-   "end": 4.162
+   "start": 2.884,
+   "end": 3.573
   },
   {
    "section": "01",
-   "sentence": "A hide, folded around the shoulders, held shut by one hand while the other does the work.",
-   "start": 4.162,
-   "end": 9.799
+   "sentence": "A coat implies somebody made a decision.",
+   "start": 3.573,
+   "end": 5.958
   },
   {
    "section": "01",
-   "sentence": "That is the picture most of us carry of prehistoric dress, and it is probably wrong.",
-   "start": 9.799,
-   "end": 15.121
+   "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+   "start": 5.958,
+   "end": 12.498
   },
   {
    "section": "01",
-   "sentence": "A single hide is a bad answer to cold.",
-   "start": 15.121,
-   "end": 17.555
+   "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
+   "start": 12.498,
+   "end": 19.741
   },
   {
    "section": "01",
-   "sentence": "It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle \u2014 exactly where heat leaves a body fastest.",
-   "start": 17.555,
-   "end": 25.954
+   "sentence": "It's wrong.",
+   "start": 19.741,
+   "end": 20.429
   },
   {
    "section": "01",
-   "sentence": "So the interesting question is not how someone wore an animal skin.",
-   "start": 25.954,
-   "end": 30.209
+   "sentence": "Not because they were stupid.",
+   "start": 20.429,
+   "end": 22.171
   },
   {
    "section": "01",
-   "sentence": "It is when clothing stopped being something you drape and became something you build.",
-   "start": 30.209,
-   "end": 35.594
+   "sentence": "Because the outfit is genuinely terrible.",
+   "start": 22.171,
+   "end": 24.615
   },
   {
    "section": "01",
-   "sentence": "Today we follow that change through three finds.",
-   "start": 35.594,
-   "end": 38.656
+   "sentence": "It hangs open at the neck.",
+   "start": 24.615,
+   "end": 26.181
   },
   {
    "section": "01",
-   "sentence": "Hide-working tools in a Moroccan cave.",
-   "start": 38.656,
-   "end": 41.09
+   "sentence": "It sets like cardboard when it dries.",
+   "start": 26.181,
+   "end": 28.391
+  },
+  {
+   "section": "01",
+   "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+   "start": 28.391,
+   "end": 34.931
+  },
+  {
+   "section": "01",
+   "sentence": "So the interesting question isn't how somebody wore an animal skin.",
+   "start": 34.931,
+   "end": 38.897
+  },
+  {
+   "section": "01",
+   "sentence": "Anyone can wear an animal skin.",
+   "start": 38.897,
+   "end": 40.756
+  },
+  {
+   "section": "01",
+   "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+   "start": 40.756,
+   "end": 46.418
+  },
+  {
+   "section": "01",
+   "sentence": "Three finds.",
+   "start": 46.418,
+   "end": 47.165
+  },
+  {
+   "section": "01",
+   "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
+   "start": 47.165,
+   "end": 50.896
   },
   {
    "section": "01",
    "sentence": "A needle you could lose between two fingers.",
-   "start": 41.09,
-   "end": 43.9
+   "start": 50.896,
+   "end": 53.516
   },
   {
    "section": "01",
-   "sentence": "And a set of beads that turned a warm garment into a statement.",
-   "start": 43.9,
-   "end": 47.904
+   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
+   "start": 53.516,
+   "end": 58.944
   },
   {
    "section": "01",
-   "sentence": "We do not have one ancient garment from any of it.",
-   "start": 47.904,
-   "end": 51.092
+   "sentence": "We don't have one garment from any of it.",
+   "start": 58.944,
+   "end": 61.388
   },
   {
    "section": "01",
-   "sentence": "We have the workshop, and the trace.",
-   "start": 51.092,
-   "end": 53.4
+   "sentence": "Not a sleeve.",
+   "start": 61.388,
+   "end": 62.194
+  },
+  {
+   "section": "01",
+   "sentence": "Not a stitch.",
+   "start": 62.194,
+   "end": 62.999
+  },
+  {
+   "section": "01",
+   "sentence": "We have the workshop, and we have the mess.",
+   "start": 62.999,
+   "end": 65.56
   },
   {
    "section": "02",
    "sentence": "Clothes rot.",
-   "start": 53.4,
-   "end": 54.183
+   "start": 65.56,
+   "end": 66.292
   },
   {
    "section": "02",
-   "sentence": "That is the whole problem.",
-   "start": 54.183,
-   "end": 55.824
+   "sentence": "That's the problem.",
+   "start": 66.292,
+   "end": 67.425
   },
   {
    "section": "02",
-   "sentence": "Hide is skin: protein, water, and a meal for bacteria.",
-   "start": 55.824,
-   "end": 59.182
+   "sentence": "That's the whole problem.",
+   "start": 67.425,
+   "end": 68.903
   },
   {
    "section": "02",
-   "sentence": "It disappears long before the rest of a site does \u2014 so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts.",
-   "start": 59.182,
-   "end": 68.305
+   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
+   "start": 68.903,
+   "end": 75.198
   },
   {
    "section": "02",
-   "sentence": "And one line of evidence that is not archaeological at all: lice.",
-   "start": 68.305,
-   "end": 72.338
+   "sentence": "So for most of human prehistory, we aren't looking at clothing.",
+   "start": 75.198,
+   "end": 78.855
   },
   {
    "section": "02",
-   "sentence": "Head lice live on heads.",
-   "start": 72.338,
-   "end": 73.857
+   "sentence": "We're looking at the shadow of it.",
+   "start": 78.855,
+   "end": 80.849
   },
   {
    "section": "02",
-   "sentence": "Body lice live in clothing, because they need fabric to grip.",
-   "start": 73.857,
-   "end": 77.644
+   "sentence": "A bone tool with a polish on it.",
+   "start": 80.849,
+   "end": 82.728
   },
   {
    "section": "02",
-   "sentence": "The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.",
-   "start": 77.644,
-   "end": 85.663
+   "sentence": "A blade that cuts skin and not meat.",
+   "start": 82.728,
+   "end": 84.836
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 85.663,
-   "end": 97.3
+   "sentence": "A bead that had to be attached to something, and presumably not a rock.",
+   "start": 84.836,
+   "end": 88.952
   },
   {
    "section": "02",
-   "sentence": "That is a window, not a timestamp.",
-   "start": 97.3,
-   "end": 99.432
+   "sentence": "And then there's the evidence that isn't archaeology at all.",
+   "start": 88.952,
+   "end": 92.437
   },
   {
    "section": "02",
-   "sentence": "But it places the habit deep in the African Middle Stone Age, long before people carried it into cold country.",
-   "start": 99.432,
-   "end": 106.225
+   "sentence": "It's lice.",
+   "start": 92.437,
+   "end": 93.054
   },
   {
    "section": "02",
-   "sentence": "Clothing was not an invention.",
-   "start": 106.225,
-   "end": 108.111
+   "sentence": "Head lice live on heads, on account of the heads.",
+   "start": 93.054,
+   "end": 95.908
   },
   {
    "section": "02",
-   "sentence": "It was an inheritance.",
-   "start": 108.111,
-   "end": 109.507
+   "sentence": "Body lice live in clothing, because they need fabric to hold onto.",
+   "start": 95.908,
+   "end": 99.737
   },
   {
    "section": "02",
-   "sentence": "Which changes the question.",
-   "start": 109.507,
-   "end": 111.21
+   "sentence": "They evolved from head lice.",
+   "start": 99.737,
+   "end": 101.387
   },
   {
    "section": "02",
-   "sentence": "Not, did they wear clothes \u2014 but how well could they make them?",
-   "start": 111.21,
-   "end": 115.12
+   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+   "start": 101.387,
+   "end": 110.951
+  },
+  {
+   "section": "02",
+   "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
+   "start": 110.951,
+   "end": 117.705
+  },
+  {
+   "section": "02",
+   "sentence": "Possibly a hundred and seventy thousand.",
+   "start": 117.705,
+   "end": 120.043
+  },
+  {
+   "section": "02",
+   "sentence": "That's a window, not a date.",
+   "start": 120.043,
+   "end": 121.692
+  },
+  {
+   "section": "02",
+   "sentence": "Windows are what we get.",
+   "start": 121.692,
+   "end": 123.113
+  },
+  {
+   "section": "02",
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 123.113,
+   "end": 131.358
+  },
+  {
+   "section": "02",
+   "sentence": "Which flips the question.",
+   "start": 131.358,
+   "end": 132.835
+  },
+  {
+   "section": "02",
+   "sentence": "Not, did they wear clothes \u2014 obviously.",
+   "start": 132.835,
+   "end": 135.116
+  },
+  {
+   "section": "02",
+   "sentence": "How well could they make them.",
+   "start": 135.116,
+   "end": 136.88
   },
   {
    "section": "03",
-   "sentence": "Contrebandiers Cave sits on the Atlantic coast of Morocco, close enough to the sea that you can hear it.",
-   "start": 115.12,
-   "end": 121.256
+   "sentence": "Contrebandiers Cave, on the Atlantic coast of Morocco.",
+   "start": 136.88,
+   "end": 140.069
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 121.256,
-   "end": 131.317
+   "sentence": "Close enough to the sea that you can hear it working.",
+   "start": 140.069,
+   "end": 143.2
   },
   {
    "section": "03",
-   "sentence": "Sixty-two had been shaped by people.",
-   "start": 131.317,
-   "end": 133.471
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 143.2,
+   "end": 152.853
   },
   {
    "section": "03",
-   "sentence": "The tool you would walk past is a scraper: the rib of an antelope or a wild cow, split into a flat, spatula-like shape.",
-   "start": 133.471,
-   "end": 140.486
+   "sentence": "Sixty-two of them had been shaped by people.",
+   "start": 152.853,
+   "end": 155.46
   },
   {
    "section": "03",
-   "sentence": "It looks like nothing.",
-   "start": 140.486,
-   "end": 141.819
+   "sentence": "The one worth your attention looks like a spatula.",
+   "start": 155.46,
+   "end": 158.416
   },
   {
    "section": "03",
-   "sentence": "Under a microscope it carries a record \u2014 short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.",
-   "start": 141.819,
-   "end": 150.064
+   "sentence": "It's a rib \u2014 antelope, or wild cattle \u2014 split and flattened, with an edge that's been dragged across wet hide so often it polished.",
+   "start": 158.416,
+   "end": 166.09
   },
   {
    "section": "03",
-   "sentence": "You do not scrape a hide because you want to eat it later.",
-   "start": 150.064,
-   "end": 153.506
+   "sentence": "You'd walk past it.",
+   "start": 166.09,
+   "end": 167.241
   },
   {
    "section": "03",
-   "sentence": "Scraping removes fat, membrane and hair so that skin stops being a corpse and starts being a material.",
-   "start": 153.506,
-   "end": 159.526
+   "sentence": "Under a microscope it has grooves.",
+   "start": 167.241,
+   "end": 169.265
   },
   {
    "section": "03",
-   "sentence": "The detail that settles it is on the animals.",
-   "start": 159.526,
-   "end": 162.206
+   "sentence": "Then there's the detail I can't get over.",
+   "start": 169.265,
+   "end": 171.697
   },
   {
    "section": "03",
-   "sentence": "Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats \u2014 a pattern that does not match butchering for meat.",
-   "start": 162.206,
-   "end": 170.686
+   "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
+   "start": 171.697,
+   "end": 176.866
   },
   {
    "section": "03",
-   "sentence": "The skin had been opened at the feet and pulled, in one piece, over the head.",
-   "start": 170.686,
-   "end": 175.241
+   "sentence": "Not butchering marks.",
+   "start": 176.866,
+   "end": 178.134
   },
   {
    "section": "03",
-   "sentence": "You do that when the fur is the point.",
-   "start": 175.241,
-   "end": 177.511
+   "sentence": "Skinning marks.",
+   "start": 178.134,
+   "end": 179.052
   },
   {
    "section": "03",
-   "sentence": "It does not prove anyone there sewed a coat.",
-   "start": 177.511,
-   "end": 180.133
+   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
+   "start": 179.052,
+   "end": 184.687
   },
   {
    "section": "03",
-   "sentence": "The researchers call it strong proxy evidence.",
-   "start": 180.133,
-   "end": 182.872
+   "sentence": "Like a sock.",
+   "start": 184.687,
+   "end": 185.43
   },
   {
    "section": "03",
-   "sentence": "But it shows an animal chosen for its pelt, and a tool that makes the result soft.",
-   "start": 182.872,
-   "end": 187.72
+   "sentence": "Somebody took a wildcat off like a sock.",
+   "start": 185.43,
+   "end": 187.804
+  },
+  {
+   "section": "03",
+   "sentence": "That is not a hungry person.",
+   "start": 187.804,
+   "end": 189.479
+  },
+  {
+   "section": "03",
+   "sentence": "That's a person who has decided the fur is worth more than the meat.",
+   "start": 189.479,
+   "end": 193.483
+  },
+  {
+   "section": "03",
+   "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
+   "start": 193.483,
+   "end": 196.847
+  },
+  {
+   "section": "03",
+   "sentence": "It does not prove anyone in that cave sewed a coat.",
+   "start": 196.847,
+   "end": 199.862
+  },
+  {
+   "section": "03",
+   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
+   "start": 199.862,
+   "end": 204.39
+  },
+  {
+   "section": "03",
+   "sentence": "What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.",
+   "start": 204.39,
+   "end": 210.957
+  },
+  {
+   "section": "03",
+   "sentence": "A hundred and twenty thousand years ago.",
+   "start": 210.957,
+   "end": 213.331
+  },
+  {
+   "section": "03",
+   "sentence": "Before our species had got anywhere near cold country.",
+   "start": 213.331,
+   "end": 216.52
   },
   {
    "section": "04",
-   "sentence": "If you want clothing from hides, the difficult step is not cutting.",
-   "start": 187.72,
-   "end": 191.704
+   "sentence": "If you want to make clothing out of hide, cutting is easy.",
+   "start": 216.52,
+   "end": 218.573
   },
   {
    "section": "04",
-   "sentence": "It is joining.",
-   "start": 191.704,
-   "end": 192.572
+   "sentence": "Joining is the nightmare.",
+   "start": 218.573,
+   "end": 219.474
   },
   {
    "section": "04",
-   "sentence": "You can fold a hide, or tie it with a strip of leather.",
-   "start": 192.572,
-   "end": 195.851
+   "sentence": "You can fold a hide.",
+   "start": 219.474,
+   "end": 220.199
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 195.851,
-   "end": 205.48
+   "sentence": "You can tie it with a strip of leather.",
+   "start": 220.199,
+   "end": 221.589
   },
   {
    "section": "04",
-   "sentence": "Awls came first: a sharpened bone, pushed through to open a hole.",
-   "start": 205.48,
-   "end": 209.347
+   "sentence": "Fine.",
+   "start": 221.589,
+   "end": 221.79
   },
   {
    "section": "04",
-   "sentence": "They work \u2014 but they leave a gap, and every puncture weakens the hide.",
-   "start": 209.347,
-   "end": 213.507
+   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
+   "start": 221.79,
+   "end": 229.225
   },
   {
    "section": "04",
-   "sentence": "A needle carries the thread with it, so the hole is exactly the width of the thread.",
-   "start": 213.507,
-   "end": 218.491
+   "sentence": "The first answer was the awl.",
+   "start": 229.225,
+   "end": 230.265
   },
   {
    "section": "04",
-   "sentence": "The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old.",
-   "start": 218.491,
-   "end": 225.474
+   "sentence": "A sharpened bone.",
+   "start": 230.265,
+   "end": 230.885
   },
   {
    "section": "04",
-   "sentence": "It is about seven centimetres long, made from the bone of a large bird, with an eye worked through the end.",
-   "start": 225.474,
-   "end": 231.81
+   "sentence": "Push it through, open a hole, thread it.",
+   "start": 230.885,
+   "end": 232.31
   },
   {
    "section": "04",
-   "sentence": "It came from layers that also produced Denisovan remains \u2014 though it cannot be assigned to a species with confidence.",
-   "start": 231.81,
-   "end": 238.734
+   "sentence": "It works.",
+   "start": 232.31,
+   "end": 232.651
   },
   {
    "section": "04",
-   "sentence": "By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it.",
-   "start": 238.734,
-   "end": 244.835
+   "sentence": "It leaves a gap.",
+   "start": 232.651,
+   "end": 233.237
   },
   {
    "section": "04",
-   "sentence": "That is not a crude object.",
-   "start": 244.835,
-   "end": 246.468
+   "sentence": "And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.",
+   "start": 233.237,
+   "end": 238.435
   },
   {
    "section": "04",
-   "sentence": "That is a specialist.",
-   "start": 246.468,
-   "end": 247.748
+   "sentence": "A needle fixes that, because the needle carries the thread in with it.",
+   "start": 238.435,
+   "end": 240.908
   },
   {
    "section": "04",
-   "sentence": "And then something odd.",
-   "start": 247.748,
-   "end": 249.145
+   "sentence": "The oldest bone needle anyone cites comes from Denisova Cave, in the mountains of southern Siberia.",
+   "start": 240.908,
+   "end": 244.394
   },
   {
    "section": "04",
-   "sentence": "Eyed needles do not appear everywhere at once.",
-   "start": 249.145,
-   "end": 251.894
+   "sentence": "Seven centimetres of bird bone, with an eye worked through the end.",
+   "start": 244.394,
+   "end": 246.761
   },
   {
    "section": "04",
-   "sentence": "They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.",
-   "start": 251.894,
-   "end": 259.7
+   "sentence": "Around fifty thousand years old.",
+   "start": 246.761,
+   "end": 247.906
   },
   {
    "section": "04",
-   "sentence": "People already had awls.",
-   "start": 259.7,
-   "end": 261.156
+   "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
+   "start": 247.906,
+   "end": 251.008
   },
   {
    "section": "04",
-   "sentence": "People already had clothes.",
-   "start": 261.156,
-   "end": 262.789
+   "sentence": "It also can't be assigned to a species.",
+   "start": 251.008,
+   "end": 252.397
   },
   {
    "section": "04",
-   "sentence": "So why invent a harder tool?",
-   "start": 262.789,
-   "end": 264.48
+   "sentence": "Anyone who tells you otherwise is guessing.",
+   "start": 252.397,
+   "end": 253.927
+  },
+  {
+   "section": "04",
+   "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
+   "start": 253.927,
+   "end": 257.762
+  },
+  {
+   "section": "04",
+   "sentence": "That is not a caveman with a rock.",
+   "start": 257.762,
+   "end": 258.977
+  },
+  {
+   "section": "04",
+   "sentence": "That's a specialist with a bad afternoon ahead.",
+   "start": 258.977,
+   "end": 260.646
+  },
+  {
+   "section": "04",
+   "sentence": "Then it gets strange.",
+   "start": 260.646,
+   "end": 261.406
+  },
+  {
+   "section": "04",
+   "sentence": "Eyed needles don't turn up everywhere.",
+   "start": 261.406,
+   "end": 262.761
+  },
+  {
+   "section": "04",
+   "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
+   "start": 262.761,
+   "end": 267.924
+  },
+  {
+   "section": "04",
+   "sentence": "They already had awls.",
+   "start": 267.924,
+   "end": 268.72
+  },
+  {
+   "section": "04",
+   "sentence": "They already had clothes.",
+   "start": 268.72,
+   "end": 269.62
+  },
+  {
+   "section": "04",
+   "sentence": "So why build the hard tool?",
+   "start": 269.62,
+   "end": 270.59
   },
   {
    "section": "05",
-   "sentence": "In 2024, Ian Gilligan and colleagues argued that the answer is not survival in the simple sense.",
-   "start": 264.48,
-   "end": 270.22
+   "sentence": "In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.",
+   "start": 270.59,
+   "end": 276.199
   },
   {
    "section": "05",
    "sentence": "A scraped hide gives you a loose garment.",
-   "start": 270.22,
-   "end": 272.697
+   "start": 276.199,
+   "end": 278.78
   },
   {
    "section": "05",
-   "sentence": "Enough for a cool evening.",
-   "start": 272.697,
-   "end": 274.285
+   "sentence": "Good enough for a cool evening.",
+   "start": 278.78,
+   "end": 280.743
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 274.285,
-   "end": 284.296
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 280.743,
+   "end": 290.617
   },
   {
    "section": "05",
-   "sentence": "That needs fine sewing.",
-   "start": 284.296,
-   "end": 285.706
+   "sentence": "Fitted means fine sewing.",
+   "start": 290.617,
+   "end": 292.209
   },
   {
    "section": "05",
-   "sentence": "Fine sewing needs an eyed needle.",
-   "start": 285.706,
-   "end": 287.709
+   "sentence": "Fine sewing means an eyed needle.",
+   "start": 292.209,
+   "end": 294.296
   },
   {
    "section": "05",
-   "sentence": "In Gilligan's phrasing, the innovation comes down to making underwear.",
-   "start": 287.709,
-   "end": 291.906
+   "sentence": "Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.",
+   "start": 294.296,
+   "end": 300.276
   },
   {
    "section": "05",
-   "sentence": "People decorate themselves when skin is visible: ochre, scars, paint, beads pressed to the body.",
-   "start": 291.906,
-   "end": 297.647
+   "sentence": "But the argument keeps going, and it goes somewhere better.",
+   "start": 300.276,
+   "end": 303.969
   },
   {
    "section": "05",
-   "sentence": "Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.",
-   "start": 297.647,
-   "end": 304.87
+   "sentence": "Think about how you announce yourself when your skin is showing.",
+   "start": 303.969,
+   "end": 307.971
   },
   {
    "section": "05",
-   "sentence": "So it moves onto the clothing.",
-   "start": 304.87,
-   "end": 306.695
+   "sentence": "Ochre.",
+   "start": 307.971,
+   "end": 308.389
   },
   {
    "section": "05",
-   "sentence": "Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance.",
-   "start": 306.695,
-   "end": 313.858
+   "sentence": "Scars.",
+   "start": 308.389,
+   "end": 308.807
   },
   {
    "section": "05",
-   "sentence": "Clothing stops being thermal and becomes social.",
-   "start": 313.858,
-   "end": 316.751
+   "sentence": "Paint.",
+   "start": 308.807,
+   "end": 309.225
   },
   {
    "section": "05",
-   "sentence": "It is a hypothesis, built from timing and tool, and Gilligan says so.",
-   "start": 316.751,
-   "end": 320.889
+   "sentence": "Beads pressed right up against the body.",
+   "start": 309.225,
+   "end": 311.745
   },
   {
    "section": "05",
-   "sentence": "But once you look for it, the record is full of it.",
-   "start": 320.889,
-   "end": 323.96
+   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
+   "start": 311.745,
+   "end": 316.489
+  },
+  {
+   "section": "05",
+   "sentence": "Everything you used to say about yourself has nowhere to go.",
+   "start": 316.489,
+   "end": 320.244
+  },
+  {
+   "section": "05",
+   "sentence": "So you put it on the clothes.",
+   "start": 320.244,
+   "end": 322.083
+  },
+  {
+   "section": "05",
+   "sentence": "That's what the needle is for, too.",
+   "start": 322.083,
+   "end": 324.293
+  },
+  {
+   "section": "05",
+   "sentence": "Beads.",
+   "start": 324.293,
+   "end": 324.711
+  },
+  {
+   "section": "05",
+   "sentence": "Shells.",
+   "start": 324.711,
+   "end": 325.191
+  },
+  {
+   "section": "05",
+   "sentence": "Strips of fur.",
+   "start": 325.191,
+   "end": 326.104
+  },
+  {
+   "section": "05",
+   "sentence": "Fine enough to read from across a fire.",
+   "start": 326.104,
+   "end": 328.561
+  },
+  {
+   "section": "05",
+   "sentence": "Clothing stops being a thermostat and becomes a sentence.",
+   "start": 328.561,
+   "end": 332.131
+  },
+  {
+   "section": "05",
+   "sentence": "It's a hypothesis, built from timing and tools, and Gilligan says so himself.",
+   "start": 332.131,
+   "end": 336.937
+  },
+  {
+   "section": "05",
+   "sentence": "But once you know to look for it, you can't stop seeing it.",
+   "start": 336.937,
+   "end": 340.63
   },
   {
    "section": "06",
-   "sentence": "In the foothills of the Caucasus, in the republic of Georgia, there is a cave called Dzudzuana.",
-   "start": 323.96,
-   "end": 330.328
+   "sentence": "In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.",
+   "start": 340.63,
+   "end": 345.809
   },
   {
    "section": "06",
    "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-   "start": 330.328,
-   "end": 336.097
+   "start": 345.809,
+   "end": 351.513
   },
   {
    "section": "06",
-   "sentence": "They were studying ancient climate, which meant pollen, and counting grains under a microscope.",
-   "start": 336.097,
-   "end": 342.465
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 351.513,
+   "end": 359.979
   },
   {
    "section": "06",
-   "sentence": "What they found instead were fibres.",
-   "start": 342.465,
-   "end": 344.91
+   "sentence": "Glamorous work.",
+   "start": 359.979,
+   "end": 361.016
+  },
+  {
+   "section": "06",
+   "sentence": "What they found was fibre.",
+   "start": 361.016,
+   "end": 362.775
   },
   {
    "section": "06",
    "sentence": "Wild flax.",
-   "start": 344.91,
-   "end": 345.625
+   "start": 362.775,
+   "end": 363.483
   },
   {
    "section": "06",
-   "sentence": "Thousands of them, in layers up to thirty-four thousand years old.",
-   "start": 345.625,
-   "end": 350.065
+   "sentence": "Thousands of strands, in layers up to thirty-four thousand years old.",
+   "start": 363.483,
+   "end": 368.07
   },
   {
    "section": "06",
-   "sentence": "Some were twisted \u2014 spun, deliberately, into cord.",
-   "start": 350.065,
-   "end": 353.44
+   "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
+   "start": 368.07,
+   "end": 371.736
   },
   {
    "section": "06",
-   "sentence": "Some were knotted.",
-   "start": 353.44,
-   "end": 354.688
+   "sentence": "Some was knotted.",
+   "start": 371.736,
+   "end": 372.904
   },
   {
    "section": "06",
-   "sentence": "And some were coloured: black, grey, turquoise, and one that was pink.",
-   "start": 354.688,
-   "end": 359.393
+   "sentence": "And some was coloured.",
+   "start": 372.904,
+   "end": 374.401
+  },
+  {
+   "section": "06",
+   "sentence": "Black, grey, turquoise.",
+   "start": 374.401,
+   "end": 375.963
+  },
+  {
+   "section": "06",
+   "sentence": "And one was pink.",
+   "start": 375.963,
+   "end": 377.131
+  },
+  {
+   "section": "06",
+   "sentence": "The flax grew outside.",
+   "start": 377.131,
+   "end": 378.627
   },
   {
    "section": "06",
    "sentence": "The colours came from plants.",
-   "start": 359.393,
-   "end": 361.373
+   "start": 378.627,
+   "end": 380.584
   },
   {
    "section": "06",
-   "sentence": "Someone had taken a plant, extracted fibre, spun it into thread, and dyed it \u2014 for cord, for baskets, for sewing, or for all three.",
-   "start": 361.373,
-   "end": 370.134
+   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
+   "start": 380.584,
+   "end": 386.815
   },
   {
    "section": "06",
-   "sentence": "No textile survives from Dzudzuana.",
-   "start": 370.134,
-   "end": 372.512
+   "sentence": "For rope.",
+   "start": 386.815,
+   "end": 387.457
   },
   {
    "section": "06",
-   "sentence": "What survives is fibre, at a scale you need a microscope to see.",
-   "start": 372.512,
-   "end": 376.819
+   "sentence": "For baskets.",
+   "start": 387.457,
+   "end": 388.296
+  },
+  {
+   "section": "06",
+   "sentence": "For sewing.",
+   "start": 388.296,
+   "end": 389.069
+  },
+  {
+   "section": "06",
+   "sentence": "We don't know which, and no textile survives to tell us.",
+   "start": 389.069,
+   "end": 392.801
+  },
+  {
+   "section": "06",
+   "sentence": "But here's why I care.",
+   "start": 392.801,
+   "end": 394.298
   },
   {
    "section": "06",
    "sentence": "Dyeing is not a survival technology.",
-   "start": 376.819,
-   "end": 379.263
+   "start": 394.298,
+   "end": 396.715
   },
   {
    "section": "06",
-   "sentence": "You do not colour a rope because the rope works better.",
-   "start": 379.263,
-   "end": 382.971
+   "sentence": "You do not colour a rope so the rope works better.",
+   "start": 396.715,
+   "end": 400.053
   },
   {
    "section": "06",
-   "sentence": "Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre \u2014 a textile that no longer exists.",
-   "start": 382.971,
-   "end": 392.465
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 400.053,
+   "end": 409.965
   },
   {
    "section": "06",
-   "sentence": "So it is not hides versus cloth, with cloth arriving late.",
-   "start": 392.465,
-   "end": 396.372
+   "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
+   "start": 409.965,
+   "end": 414.684
   },
   {
    "section": "06",
-   "sentence": "It is both, for a very long time, in the same toolkits.",
-   "start": 396.372,
-   "end": 400.08
+   "sentence": "It was both, in the same toolkit, for a very long time.",
+   "start": 414.684,
+   "end": 418.35
   },
   {
    "section": "07",
-   "sentence": "This is where reconstructions get confident and the evidence does not.",
-   "start": 400.08,
-   "end": 404.201
+   "sentence": "And now the part nobody puts in the documentary.",
+   "start": 418.35,
+   "end": 421.188
   },
   {
    "section": "07",
-   "sentence": "We know the tools, the fibres, the marks on bone.",
-   "start": 404.201,
-   "end": 407.099
+   "sentence": "We know the tools.",
+   "start": 421.188,
+   "end": 422.28
   },
   {
    "section": "07",
-   "sentence": "What we do not have is a complete garment older than about five thousand years \u2014 and that one, from a tomb in Egypt, survived by accident.",
-   "start": 407.099,
-   "end": 415.18
+   "sentence": "We know the fibre.",
+   "start": 422.28,
+   "end": 423.372
   },
   {
    "section": "07",
-   "sentence": "We do not know whether a hide garment was a rectangle with a hole for the head or a shaped coat with sleeves.",
-   "start": 415.18,
-   "end": 421.572
+   "sentence": "We know the cut marks.",
+   "start": 423.372,
+   "end": 424.697
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 421.572,
-   "end": 430.76
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 424.697,
+   "end": 434.926
+  },
+  {
+   "section": "07",
+   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
+   "start": 434.926,
+   "end": 440.907
+  },
+  {
+   "section": "07",
+   "sentence": "We don't know the colours anyone liked.",
+   "start": 440.907,
+   "end": 443.221
+  },
+  {
+   "section": "07",
+   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
+   "start": 443.221,
+   "end": 450.715
+  },
+  {
+   "section": "07",
+   "sentence": "That's not a complaint.",
+   "start": 450.715,
+   "end": 452.098
+  },
+  {
+   "section": "07",
+   "sentence": "That's where the story lives.",
+   "start": 452.098,
+   "end": 453.83
   },
   {
    "section": "08",
-   "sentence": "Two hundred kilometres east of Moscow, near the town of Vladimir, is a site called Sunghir.",
-   "start": 430.76,
-   "end": 436.204
+   "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
+   "start": 453.83,
+   "end": 458.978
   },
   {
    "section": "08",
-   "sentence": "Around thirty-four thousand years ago, people were buried there with extraordinary care.",
-   "start": 436.204,
-   "end": 441.47
+   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
+   "start": 458.978,
+   "end": 465.279
   },
   {
    "section": "08",
-   "sentence": "The best known grave holds a man between roughly thirty-five and forty-five years old.",
-   "start": 441.47,
-   "end": 446.617
+   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
+   "start": 465.279,
+   "end": 470.913
   },
   {
    "section": "08",
-   "sentence": "He was covered in red ochre, and he was covered in beads.",
-   "start": 446.617,
-   "end": 450.044
+   "sentence": "And covered in beads.",
+   "start": 470.913,
+   "end": 472.234
   },
   {
    "section": "08",
-   "sentence": "About three thousand of them.",
-   "start": 450.044,
-   "end": 451.81
+   "sentence": "Three thousand of them.",
+   "start": 472.234,
+   "end": 473.678
   },
   {
    "section": "08",
-   "sentence": "Mammoth ivory, each one carved, each one pierced, each one small enough to be a problem for a modern jeweller.",
-   "start": 451.81,
-   "end": 458.381
+   "sentence": "Mammoth ivory.",
+   "start": 473.678,
+   "end": 474.574
   },
   {
    "section": "08",
-   "sentence": "Alongside them: armbands of ivory, and hundreds of pierced fox teeth.",
-   "start": 458.381,
-   "end": 462.52
+   "sentence": "Each one carved.",
+   "start": 474.574,
+   "end": 475.592
   },
   {
    "section": "08",
-   "sentence": "Then those beads were attached to what he was wearing \u2014 they were found lying in rows, in the pattern of a garment, as if sewn onto it.",
-   "start": 462.52,
-   "end": 470.574
+   "sentence": "Each one pierced.",
+   "start": 475.592,
+   "end": 476.671
   },
   {
    "section": "08",
-   "sentence": "That is the moment clothing stops being about weather.",
-   "start": 470.574,
-   "end": 473.823
+   "sentence": "Each one small enough to make a modern jeweller swear.",
+   "start": 476.671,
+   "end": 479.997
+  },
+  {
+   "section": "08",
+   "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
+   "start": 479.997,
+   "end": 483.687
+  },
+  {
+   "section": "08",
+   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
+   "start": 483.687,
+   "end": 489.685
+  },
+  {
+   "section": "08",
+   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
+   "start": 489.685,
+   "end": 495.926
+  },
+  {
+   "section": "08",
+   "sentence": "That's the moment this stops being a story about weather.",
+   "start": 495.926,
+   "end": 499.434
   },
   {
    "section": "08",
    "sentence": "A hide keeps you warm.",
-   "start": 473.823,
-   "end": 475.174
+   "start": 499.434,
+   "end": 500.816
   },
   {
    "section": "08",
-   "sentence": "A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.",
-   "start": 475.174,
-   "end": 484.237
+   "sentence": "A hide with three thousand hand-cut beads on it says something.",
+   "start": 500.816,
+   "end": 504.688
   },
   {
    "section": "08",
-   "sentence": "Nearby, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-   "start": 484.237,
-   "end": 490.214
+   "sentence": "Who this was.",
+   "start": 504.688,
+   "end": 505.524
   },
   {
    "section": "08",
-   "sentence": "Whatever the beads meant, they were not a privilege of age.",
-   "start": 490.214,
-   "end": 493.76
+   "sentence": "What the community could afford to spend.",
+   "start": 505.524,
+   "end": 508.061
+  },
+  {
+   "section": "08",
+   "sentence": "What they thought the dead were owed.",
+   "start": 508.061,
+   "end": 510.354
+  },
+  {
+   "section": "08",
+   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
+   "start": 510.354,
+   "end": 517.566
+  },
+  {
+   "section": "08",
+   "sentence": "Whatever those beads meant, they were not a reward for a long life.",
+   "start": 517.566,
+   "end": 521.682
+  },
+  {
+   "section": "08",
+   "sentence": "Those children hadn't had one.",
+   "start": 521.682,
+   "end": 523.55
   },
   {
    "section": "09",
-   "sentence": "So: what did ancient humans wear before tailors?",
-   "start": 493.76,
-   "end": 496.809
+   "sentence": "So.",
+   "start": 523.55,
+   "end": 523.773
+  },
+  {
+   "section": "09",
+   "sentence": "What did ancient humans wear before tailors?",
+   "start": 523.773,
+   "end": 526.428
   },
   {
    "section": "09",
    "sentence": "They were already tailoring.",
-   "start": 496.809,
-   "end": 498.607
+   "start": 526.428,
+   "end": 528.134
   },
   {
    "section": "09",
-   "sentence": "The tailor \u2014 a specialist who fits a garment to a body \u2014 is present in the tools long before any shop.",
-   "start": 498.607,
-   "end": 505.032
+   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
+   "start": 528.134,
+   "end": 533.815
   },
   {
    "section": "09",
-   "sentence": "What changed across those ninety thousand years was not whether people could make clothes.",
-   "start": 505.032,
-   "end": 510.707
+   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
+   "start": 533.815,
+   "end": 538.724
   },
   {
    "section": "09",
-   "sentence": "It was what clothes were for.",
-   "start": 510.707,
-   "end": 512.568
+   "sentence": "It's what clothes were for.",
+   "start": 538.724,
+   "end": 540.371
   },
   {
    "section": "09",
-   "sentence": "First shelter.",
-   "start": 512.568,
-   "end": 513.491
+   "sentence": "Warmth.",
+   "start": 540.371,
+   "end": 540.831
   },
   {
    "section": "09",
    "sentence": "Then fit.",
-   "start": 513.491,
-   "end": 514.101
+   "start": 540.831,
+   "end": 541.41
   },
   {
    "section": "09",
-   "sentence": "Then, once the body was covered all year, identity.",
-   "start": 514.101,
-   "end": 517.338
+   "sentence": "Then, once the body was covered all year round, identity.",
+   "start": 541.41,
+   "end": 544.837
   },
   {
    "section": "09",
-   "sentence": "Almost none of it survives.",
-   "start": 517.338,
-   "end": 519.074
+   "sentence": "And almost none of it is left.",
+   "start": 544.837,
+   "end": 546.661
   },
   {
    "section": "09",
-   "sentence": "The softest, most constant object in a human life is the one the ground eats first.",
-   "start": 519.074,
-   "end": 524.311
+   "sentence": "The softest, most personal object in a human life is the first thing the ground eats.",
+   "start": 546.661,
+   "end": 551.749
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 524.311,
-   "end": 535.175
+   "sentence": "What we have is a scraper.",
+   "start": 551.749,
+   "end": 553.336
   },
   {
    "section": "09",
-   "sentence": "The next time you pull on a coat, notice what you are doing.",
-   "start": 535.175,
-   "end": 538.974
+   "sentence": "A needle with a hole the width of a hair.",
+   "start": 553.336,
+   "end": 555.813
   },
   {
    "section": "09",
-   "sentence": "You are putting on the only technology that has to be rebuilt for every single body that wears it.",
-   "start": 538.974,
-   "end": 545.149
+   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
+   "start": 555.813,
+   "end": 561.019
   },
   {
    "section": "09",
-   "sentence": "If you enjoyed this, subscribe to Atlas Understory.",
-   "start": 545.149,
-   "end": 548.385
+   "sentence": "Next time you pull on a coat, notice what you're doing.",
+   "start": 561.019,
+   "end": 564.327
   },
   {
    "section": "09",
-   "sentence": "And tell us: given a hide, a bone needle and no thread, what would you make first?",
-   "start": 548.385,
-   "end": 553.56
+   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
+   "start": 564.327,
+   "end": 570.126
+  },
+  {
+   "section": "09",
+   "sentence": "Right.",
+   "start": 570.126,
+   "end": 570.527
+  },
+  {
+   "section": "09",
+   "sentence": "Subscribe if you want more of this.",
+   "start": 570.527,
+   "end": 572.648
+  },
+  {
+   "section": "09",
+   "sentence": "And tell me \u2014 one hide, one bone needle, no thread.",
+   "start": 572.648,
+   "end": 575.718
+  },
+  {
+   "section": "09",
+   "sentence": "What are you making?",
+   "start": 575.718,
+   "end": 576.95
   }
  ],
  "slots": [
   {
    "section": "01",
-   "sentence": "A cold morning, and you own one garment.",
+   "sentence": "You own one garment.",
    "start": 0.0,
-   "end": 1.998
+   "end": 2.137
   },
   {
    "section": "01",
-   "sentence": "It is a hide.",
-   "start": 1.998,
-   "end": 4.162
+   "sentence": "Not a coat.",
+   "start": 2.137,
+   "end": 4.007
   },
   {
    "section": "01",
-   "sentence": "A hide, folded around the shoulders, held shut by one hand while the other does the work.",
-   "start": 4.162,
-   "end": 5.995
+   "sentence": "A coat implies somebody made a decision.",
+   "start": 4.007,
+   "end": 5.958
   },
   {
    "section": "01",
-   "sentence": "A hide, folded around the shoulders, held shut by one hand while the other does the work.",
-   "start": 5.995,
-   "end": 7.994
+   "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+   "start": 5.958,
+   "end": 8.013
   },
   {
    "section": "01",
-   "sentence": "A hide, folded around the shoulders, held shut by one hand while the other does the work.",
-   "start": 7.994,
-   "end": 9.799
+   "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+   "start": 8.013,
+   "end": 10.016
   },
   {
    "section": "01",
-   "sentence": "That is the picture most of us carry of prehistoric dress, and it is probably wrong.",
-   "start": 9.799,
-   "end": 11.99
+   "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+   "start": 10.016,
+   "end": 12.02
   },
   {
    "section": "01",
-   "sentence": "That is the picture most of us carry of prehistoric dress, and it is probably wrong.",
-   "start": 11.99,
-   "end": 13.989
+   "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
+   "start": 12.02,
+   "end": 14.023
   },
   {
    "section": "01",
-   "sentence": "That is the picture most of us carry of prehistoric dress, and it is probably wrong.",
-   "start": 13.989,
-   "end": 15.987
+   "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
+   "start": 14.023,
+   "end": 16.026
   },
   {
    "section": "01",
-   "sentence": "A single hide is a bad answer to cold.",
-   "start": 15.987,
-   "end": 17.986
+   "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
+   "start": 16.026,
+   "end": 18.03
   },
   {
    "section": "01",
-   "sentence": "It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle \u2014 exactly where heat leaves a body fastest.",
-   "start": 17.986,
-   "end": 19.984
+   "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
+   "start": 18.03,
+   "end": 19.741
   },
   {
    "section": "01",
-   "sentence": "It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle \u2014 exactly where heat leaves a body fastest.",
-   "start": 19.984,
-   "end": 21.983
+   "sentence": "Not because they were stupid.",
+   "start": 19.741,
+   "end": 22.171
   },
   {
    "section": "01",
-   "sentence": "It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle \u2014 exactly where heat leaves a body fastest.",
-   "start": 21.983,
-   "end": 23.981
+   "sentence": "Because the outfit is genuinely terrible.",
+   "start": 22.171,
+   "end": 24.04
   },
   {
    "section": "01",
-   "sentence": "It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle \u2014 exactly where heat leaves a body fastest.",
-   "start": 23.981,
-   "end": 25.954
+   "sentence": "It hangs open at the neck.",
+   "start": 24.04,
+   "end": 26.181
   },
   {
    "section": "01",
-   "sentence": "So the interesting question is not how someone wore an animal skin.",
-   "start": 25.954,
-   "end": 27.978
+   "sentence": "It sets like cardboard when it dries.",
+   "start": 26.181,
+   "end": 28.391
   },
   {
    "section": "01",
-   "sentence": "So the interesting question is not how someone wore an animal skin.",
-   "start": 27.978,
-   "end": 30.209
+   "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+   "start": 28.391,
+   "end": 30.049
   },
   {
    "section": "01",
-   "sentence": "It is when clothing stopped being something you drape and became something you build.",
-   "start": 30.209,
-   "end": 31.975
+   "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+   "start": 30.049,
+   "end": 32.053
   },
   {
    "section": "01",
-   "sentence": "It is when clothing stopped being something you drape and became something you build.",
-   "start": 31.975,
-   "end": 33.973
+   "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+   "start": 32.053,
+   "end": 34.056
   },
   {
    "section": "01",
-   "sentence": "It is when clothing stopped being something you drape and became something you build.",
-   "start": 33.973,
-   "end": 35.594
+   "sentence": "So the interesting question isn't how somebody wore an animal skin.",
+   "start": 34.056,
+   "end": 36.059
   },
   {
    "section": "01",
-   "sentence": "Today we follow that change through three finds.",
-   "start": 35.594,
-   "end": 37.97
+   "sentence": "So the interesting question isn't how somebody wore an animal skin.",
+   "start": 36.059,
+   "end": 38.063
   },
   {
    "section": "01",
-   "sentence": "Hide-working tools in a Moroccan cave.",
-   "start": 37.97,
-   "end": 39.968
+   "sentence": "Anyone can wear an animal skin.",
+   "start": 38.063,
+   "end": 40.066
   },
   {
    "section": "01",
-   "sentence": "Hide-working tools in a Moroccan cave.",
-   "start": 39.968,
-   "end": 41.967
+   "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+   "start": 40.066,
+   "end": 42.069
+  },
+  {
+   "section": "01",
+   "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+   "start": 42.069,
+   "end": 44.073
+  },
+  {
+   "section": "01",
+   "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+   "start": 44.073,
+   "end": 46.418
+  },
+  {
+   "section": "01",
+   "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
+   "start": 46.418,
+   "end": 48.079
+  },
+  {
+   "section": "01",
+   "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
+   "start": 48.079,
+   "end": 50.082
   },
   {
    "section": "01",
    "sentence": "A needle you could lose between two fingers.",
-   "start": 41.967,
-   "end": 43.9
+   "start": 50.082,
+   "end": 52.086
   },
   {
    "section": "01",
-   "sentence": "And a set of beads that turned a warm garment into a statement.",
-   "start": 43.9,
-   "end": 45.963
+   "sentence": "A needle you could lose between two fingers.",
+   "start": 52.086,
+   "end": 54.089
   },
   {
    "section": "01",
-   "sentence": "And a set of beads that turned a warm garment into a statement.",
-   "start": 45.963,
-   "end": 47.904
+   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
+   "start": 54.089,
+   "end": 56.092
   },
   {
    "section": "01",
-   "sentence": "We do not have one ancient garment from any of it.",
-   "start": 47.904,
-   "end": 49.96
+   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
+   "start": 56.092,
+   "end": 58.096
   },
   {
    "section": "01",
-   "sentence": "We do not have one ancient garment from any of it.",
-   "start": 49.96,
-   "end": 51.959
+   "sentence": "We don't have one garment from any of it.",
+   "start": 58.096,
+   "end": 60.099
   },
   {
    "section": "01",
-   "sentence": "We have the workshop, and the trace.",
-   "start": 51.959,
-   "end": 54.183
+   "sentence": "We don't have one garment from any of it.",
+   "start": 60.099,
+   "end": 62.194
+  },
+  {
+   "section": "01",
+   "sentence": "We have the workshop, and we have the mess.",
+   "start": 62.194,
+   "end": 64.106
+  },
+  {
+   "section": "01",
+   "sentence": "We have the workshop, and we have the mess.",
+   "start": 64.106,
+   "end": 66.292
   },
   {
    "section": "02",
-   "sentence": "That is the whole problem.",
-   "start": 54.183,
-   "end": 55.824
+   "sentence": "That's the problem.",
+   "start": 66.292,
+   "end": 68.112
   },
   {
    "section": "02",
-   "sentence": "Hide is skin: protein, water, and a meal for bacteria.",
-   "start": 55.824,
-   "end": 57.954
+   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
+   "start": 68.112,
+   "end": 70.115
   },
   {
    "section": "02",
-   "sentence": "Hide is skin: protein, water, and a meal for bacteria.",
-   "start": 57.954,
-   "end": 59.952
+   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
+   "start": 70.115,
+   "end": 72.119
   },
   {
    "section": "02",
-   "sentence": "It disappears long before the rest of a site does \u2014 so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts.",
-   "start": 59.952,
-   "end": 61.951
+   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
+   "start": 72.119,
+   "end": 74.122
   },
   {
    "section": "02",
-   "sentence": "It disappears long before the rest of a site does \u2014 so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts.",
-   "start": 61.951,
-   "end": 63.949
+   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
+   "start": 74.122,
+   "end": 76.125
   },
   {
    "section": "02",
-   "sentence": "It disappears long before the rest of a site does \u2014 so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts.",
-   "start": 63.949,
-   "end": 65.948
+   "sentence": "So for most of human prehistory, we aren't looking at clothing.",
+   "start": 76.125,
+   "end": 78.129
   },
   {
    "section": "02",
-   "sentence": "It disappears long before the rest of a site does \u2014 so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts.",
-   "start": 65.948,
-   "end": 68.305
+   "sentence": "We're looking at the shadow of it.",
+   "start": 78.129,
+   "end": 80.132
   },
   {
    "section": "02",
-   "sentence": "And one line of evidence that is not archaeological at all: lice.",
-   "start": 68.305,
-   "end": 69.944
+   "sentence": "A bone tool with a polish on it.",
+   "start": 80.132,
+   "end": 82.135
   },
   {
    "section": "02",
-   "sentence": "And one line of evidence that is not archaeological at all: lice.",
-   "start": 69.944,
-   "end": 72.338
+   "sentence": "A blade that cuts skin and not meat.",
+   "start": 82.135,
+   "end": 84.139
   },
   {
    "section": "02",
-   "sentence": "Head lice live on heads.",
-   "start": 72.338,
-   "end": 73.857
+   "sentence": "A bead that had to be attached to something, and presumably not a rock.",
+   "start": 84.139,
+   "end": 86.142
   },
   {
    "section": "02",
-   "sentence": "Body lice live in clothing, because they need fabric to grip.",
-   "start": 73.857,
-   "end": 75.94
+   "sentence": "A bead that had to be attached to something, and presumably not a rock.",
+   "start": 86.142,
+   "end": 88.145
   },
   {
    "section": "02",
-   "sentence": "Body lice live in clothing, because they need fabric to grip.",
-   "start": 75.94,
-   "end": 77.644
+   "sentence": "And then there's the evidence that isn't archaeology at all.",
+   "start": 88.145,
+   "end": 90.148
   },
   {
    "section": "02",
-   "sentence": "The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.",
-   "start": 77.644,
-   "end": 79.936
+   "sentence": "And then there's the evidence that isn't archaeology at all.",
+   "start": 90.148,
+   "end": 92.437
   },
   {
    "section": "02",
-   "sentence": "The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.",
-   "start": 79.936,
-   "end": 81.935
+   "sentence": "Head lice live on heads, on account of the heads.",
+   "start": 92.437,
+   "end": 94.155
   },
   {
    "section": "02",
-   "sentence": "The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.",
-   "start": 81.935,
-   "end": 83.933
+   "sentence": "Head lice live on heads, on account of the heads.",
+   "start": 94.155,
+   "end": 95.908
   },
   {
    "section": "02",
-   "sentence": "The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.",
-   "start": 83.933,
-   "end": 85.663
+   "sentence": "Body lice live in clothing, because they need fabric to hold onto.",
+   "start": 95.908,
+   "end": 98.162
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 85.663,
-   "end": 87.93
+   "sentence": "Body lice live in clothing, because they need fabric to hold onto.",
+   "start": 98.162,
+   "end": 100.165
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 87.93,
-   "end": 89.929
+   "sentence": "They evolved from head lice.",
+   "start": 100.165,
+   "end": 102.168
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 89.929,
-   "end": 91.927
+   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+   "start": 102.168,
+   "end": 104.172
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 91.927,
-   "end": 93.925
+   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+   "start": 104.172,
+   "end": 106.175
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 93.925,
-   "end": 95.924
+   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+   "start": 106.175,
+   "end": 108.178
   },
   {
    "section": "02",
-   "sentence": "A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.",
-   "start": 95.924,
-   "end": 97.922
+   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+   "start": 108.178,
+   "end": 110.181
   },
   {
    "section": "02",
-   "sentence": "That is a window, not a timestamp.",
-   "start": 97.922,
-   "end": 99.921
+   "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
+   "start": 110.181,
+   "end": 112.185
   },
   {
    "section": "02",
-   "sentence": "But it places the habit deep in the African Middle Stone Age, long before people carried it into cold country.",
-   "start": 99.921,
-   "end": 101.919
+   "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
+   "start": 112.185,
+   "end": 114.188
   },
   {
    "section": "02",
-   "sentence": "But it places the habit deep in the African Middle Stone Age, long before people carried it into cold country.",
-   "start": 101.919,
-   "end": 103.917
+   "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
+   "start": 114.188,
+   "end": 116.191
   },
   {
    "section": "02",
-   "sentence": "But it places the habit deep in the African Middle Stone Age, long before people carried it into cold country.",
-   "start": 103.917,
-   "end": 106.225
+   "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
+   "start": 116.191,
+   "end": 118.195
   },
   {
    "section": "02",
-   "sentence": "Clothing was not an invention.",
-   "start": 106.225,
-   "end": 108.111
+   "sentence": "Possibly a hundred and seventy thousand.",
+   "start": 118.195,
+   "end": 120.043
   },
   {
    "section": "02",
-   "sentence": "Which changes the question.",
-   "start": 108.111,
-   "end": 111.911
+   "sentence": "That's a window, not a date.",
+   "start": 120.043,
+   "end": 122.201
   },
   {
    "section": "02",
-   "sentence": "Not, did they wear clothes \u2014 but how well could they make them?",
-   "start": 111.911,
-   "end": 113.909
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 122.201,
+   "end": 124.205
   },
   {
    "section": "02",
-   "sentence": "Not, did they wear clothes \u2014 but how well could they make them?",
-   "start": 113.909,
-   "end": 115.908
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 124.205,
+   "end": 126.208
+  },
+  {
+   "section": "02",
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 126.208,
+   "end": 128.211
+  },
+  {
+   "section": "02",
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 128.211,
+   "end": 130.214
+  },
+  {
+   "section": "02",
+   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
+   "start": 130.214,
+   "end": 132.218
+  },
+  {
+   "section": "02",
+   "sentence": "Not, did they wear clothes \u2014 obviously.",
+   "start": 132.218,
+   "end": 134.221
+  },
+  {
+   "section": "02",
+   "sentence": "How well could they make them.",
+   "start": 134.221,
+   "end": 136.224
   },
   {
    "section": "03",
-   "sentence": "Contrebandiers Cave sits on the Atlantic coast of Morocco, close enough to the sea that you can hear it.",
-   "start": 115.908,
-   "end": 117.906
+   "sentence": "Contrebandiers Cave, on the Atlantic coast of Morocco.",
+   "start": 136.224,
+   "end": 138.228
   },
   {
    "section": "03",
-   "sentence": "Contrebandiers Cave sits on the Atlantic coast of Morocco, close enough to the sea that you can hear it.",
-   "start": 117.906,
-   "end": 119.905
+   "sentence": "Contrebandiers Cave, on the Atlantic coast of Morocco.",
+   "start": 138.228,
+   "end": 140.069
   },
   {
    "section": "03",
-   "sentence": "Contrebandiers Cave sits on the Atlantic coast of Morocco, close enough to the sea that you can hear it.",
-   "start": 119.905,
-   "end": 121.903
+   "sentence": "Close enough to the sea that you can hear it working.",
+   "start": 140.069,
+   "end": 142.234
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 121.903,
-   "end": 123.902
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 142.234,
+   "end": 144.238
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 123.902,
-   "end": 125.9
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 144.238,
+   "end": 146.241
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 125.9,
-   "end": 127.898
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 146.241,
+   "end": 148.244
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 127.898,
-   "end": 129.897
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 148.244,
+   "end": 150.247
   },
   {
    "section": "03",
-   "sentence": "From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments.",
-   "start": 129.897,
-   "end": 131.895
+   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+   "start": 150.247,
+   "end": 152.251
   },
   {
    "section": "03",
-   "sentence": "Sixty-two had been shaped by people.",
-   "start": 131.895,
-   "end": 133.894
+   "sentence": "Sixty-two of them had been shaped by people.",
+   "start": 152.251,
+   "end": 154.254
   },
   {
    "section": "03",
-   "sentence": "The tool you would walk past is a scraper: the rib of an antelope or a wild cow, split into a flat, spatula-like shape.",
-   "start": 133.894,
-   "end": 135.892
+   "sentence": "Sixty-two of them had been shaped by people.",
+   "start": 154.254,
+   "end": 156.257
   },
   {
    "section": "03",
-   "sentence": "The tool you would walk past is a scraper: the rib of an antelope or a wild cow, split into a flat, spatula-like shape.",
-   "start": 135.892,
-   "end": 137.89
+   "sentence": "The one worth your attention looks like a spatula.",
+   "start": 156.257,
+   "end": 158.416
   },
   {
    "section": "03",
-   "sentence": "The tool you would walk past is a scraper: the rib of an antelope or a wild cow, split into a flat, spatula-like shape.",
-   "start": 137.89,
-   "end": 139.889
+   "sentence": "It's a rib \u2014 antelope, or wild cattle \u2014 split and flattened, with an edge that's been dragged across wet hide so often it polished.",
+   "start": 158.416,
+   "end": 160.264
   },
   {
    "section": "03",
-   "sentence": "It looks like nothing.",
-   "start": 139.889,
-   "end": 141.819
+   "sentence": "It's a rib \u2014 antelope, or wild cattle \u2014 split and flattened, with an edge that's been dragged across wet hide so often it polished.",
+   "start": 160.264,
+   "end": 162.267
   },
   {
    "section": "03",
-   "sentence": "Under a microscope it carries a record \u2014 short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.",
-   "start": 141.819,
-   "end": 143.886
+   "sentence": "It's a rib \u2014 antelope, or wild cattle \u2014 split and flattened, with an edge that's been dragged across wet hide so often it polished.",
+   "start": 162.267,
+   "end": 164.27
   },
   {
    "section": "03",
-   "sentence": "Under a microscope it carries a record \u2014 short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.",
-   "start": 143.886,
-   "end": 145.884
+   "sentence": "It's a rib \u2014 antelope, or wild cattle \u2014 split and flattened, with an edge that's been dragged across wet hide so often it polished.",
+   "start": 164.27,
+   "end": 166.09
   },
   {
    "section": "03",
-   "sentence": "Under a microscope it carries a record \u2014 short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.",
-   "start": 145.884,
-   "end": 147.882
+   "sentence": "You'd walk past it.",
+   "start": 166.09,
+   "end": 168.277
   },
   {
    "section": "03",
-   "sentence": "Under a microscope it carries a record \u2014 short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.",
-   "start": 147.882,
-   "end": 150.064
+   "sentence": "Then there's the detail I can't get over.",
+   "start": 168.277,
+   "end": 170.28
   },
   {
    "section": "03",
-   "sentence": "You do not scrape a hide because you want to eat it later.",
-   "start": 150.064,
-   "end": 151.879
+   "sentence": "Then there's the detail I can't get over.",
+   "start": 170.28,
+   "end": 172.284
   },
   {
    "section": "03",
-   "sentence": "You do not scrape a hide because you want to eat it later.",
-   "start": 151.879,
-   "end": 153.506
+   "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
+   "start": 172.284,
+   "end": 174.287
   },
   {
    "section": "03",
-   "sentence": "Scraping removes fat, membrane and hair so that skin stops being a corpse and starts being a material.",
-   "start": 153.506,
-   "end": 155.876
+   "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
+   "start": 174.287,
+   "end": 176.29
   },
   {
    "section": "03",
-   "sentence": "Scraping removes fat, membrane and hair so that skin stops being a corpse and starts being a material.",
-   "start": 155.876,
-   "end": 157.875
+   "sentence": "Not butchering marks.",
+   "start": 176.29,
+   "end": 178.134
   },
   {
    "section": "03",
-   "sentence": "Scraping removes fat, membrane and hair so that skin stops being a corpse and starts being a material.",
-   "start": 157.875,
-   "end": 159.526
+   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
+   "start": 178.134,
+   "end": 180.297
   },
   {
    "section": "03",
-   "sentence": "The detail that settles it is on the animals.",
-   "start": 159.526,
-   "end": 162.206
+   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
+   "start": 180.297,
+   "end": 182.3
   },
   {
    "section": "03",
-   "sentence": "Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats \u2014 a pattern that does not match butchering for meat.",
-   "start": 162.206,
-   "end": 163.87
+   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
+   "start": 182.3,
+   "end": 184.687
   },
   {
    "section": "03",
-   "sentence": "Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats \u2014 a pattern that does not match butchering for meat.",
-   "start": 163.87,
-   "end": 165.868
+   "sentence": "Somebody took a wildcat off like a sock.",
+   "start": 184.687,
+   "end": 186.307
   },
   {
    "section": "03",
-   "sentence": "Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats \u2014 a pattern that does not match butchering for meat.",
-   "start": 165.868,
-   "end": 167.867
+   "sentence": "Somebody took a wildcat off like a sock.",
+   "start": 186.307,
+   "end": 188.31
   },
   {
    "section": "03",
-   "sentence": "Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats \u2014 a pattern that does not match butchering for meat.",
-   "start": 167.867,
-   "end": 169.865
+   "sentence": "That is not a hungry person.",
+   "start": 188.31,
+   "end": 190.313
   },
   {
    "section": "03",
-   "sentence": "The skin had been opened at the feet and pulled, in one piece, over the head.",
-   "start": 169.865,
-   "end": 171.863
+   "sentence": "That's a person who has decided the fur is worth more than the meat.",
+   "start": 190.313,
+   "end": 192.317
   },
   {
    "section": "03",
-   "sentence": "The skin had been opened at the feet and pulled, in one piece, over the head.",
-   "start": 171.863,
-   "end": 173.862
+   "sentence": "That's a person who has decided the fur is worth more than the meat.",
+   "start": 192.317,
+   "end": 194.32
   },
   {
    "section": "03",
-   "sentence": "The skin had been opened at the feet and pulled, in one piece, over the head.",
-   "start": 173.862,
-   "end": 175.86
+   "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
+   "start": 194.32,
+   "end": 196.323
   },
   {
    "section": "03",
-   "sentence": "You do that when the fur is the point.",
-   "start": 175.86,
-   "end": 177.511
+   "sentence": "It does not prove anyone in that cave sewed a coat.",
+   "start": 196.323,
+   "end": 198.327
   },
   {
    "section": "03",
-   "sentence": "It does not prove anyone there sewed a coat.",
-   "start": 177.511,
-   "end": 180.133
+   "sentence": "It does not prove anyone in that cave sewed a coat.",
+   "start": 198.327,
+   "end": 200.33
   },
   {
    "section": "03",
-   "sentence": "The researchers call it strong proxy evidence.",
-   "start": 180.133,
-   "end": 181.855
+   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
+   "start": 200.33,
+   "end": 202.333
   },
   {
    "section": "03",
-   "sentence": "The researchers call it strong proxy evidence.",
-   "start": 181.855,
-   "end": 183.854
+   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
+   "start": 202.333,
+   "end": 204.39
   },
   {
    "section": "03",
-   "sentence": "But it shows an animal chosen for its pelt, and a tool that makes the result soft.",
-   "start": 183.854,
-   "end": 185.852
+   "sentence": "What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.",
+   "start": 204.39,
+   "end": 206.34
   },
   {
    "section": "03",
-   "sentence": "But it shows an animal chosen for its pelt, and a tool that makes the result soft.",
-   "start": 185.852,
-   "end": 187.72
+   "sentence": "What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.",
+   "start": 206.34,
+   "end": 208.343
+  },
+  {
+   "section": "03",
+   "sentence": "What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.",
+   "start": 208.343,
+   "end": 210.346
+  },
+  {
+   "section": "03",
+   "sentence": "A hundred and twenty thousand years ago.",
+   "start": 210.346,
+   "end": 212.35
+  },
+  {
+   "section": "03",
+   "sentence": "Before our species had got anywhere near cold country.",
+   "start": 212.35,
+   "end": 214.353
+  },
+  {
+   "section": "03",
+   "sentence": "Before our species had got anywhere near cold country.",
+   "start": 214.353,
+   "end": 216.52
   },
   {
    "section": "04",
-   "sentence": "If you want clothing from hides, the difficult step is not cutting.",
-   "start": 187.72,
-   "end": 189.849
+   "sentence": "If you want to make clothing out of hide, cutting is easy.",
+   "start": 216.52,
+   "end": 218.573
   },
   {
    "section": "04",
-   "sentence": "If you want clothing from hides, the difficult step is not cutting.",
-   "start": 189.849,
-   "end": 191.704
+   "sentence": "Joining is the nightmare.",
+   "start": 218.573,
+   "end": 220.199
   },
   {
    "section": "04",
-   "sentence": "You can fold a hide, or tie it with a strip of leather.",
-   "start": 191.704,
-   "end": 193.846
+   "sentence": "You can tie it with a strip of leather.",
+   "start": 220.199,
+   "end": 222.366
   },
   {
    "section": "04",
-   "sentence": "You can fold a hide, or tie it with a strip of leather.",
-   "start": 193.846,
-   "end": 195.851
+   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
+   "start": 222.366,
+   "end": 224.369
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 195.851,
-   "end": 197.843
+   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
+   "start": 224.369,
+   "end": 226.373
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 197.843,
-   "end": 199.841
+   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
+   "start": 226.373,
+   "end": 228.376
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 199.841,
-   "end": 201.84
+   "sentence": "The first answer was the awl.",
+   "start": 228.376,
+   "end": 230.265
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 201.84,
-   "end": 203.838
+   "sentence": "Push it through, open a hole, thread it.",
+   "start": 230.265,
+   "end": 232.31
   },
   {
    "section": "04",
-   "sentence": "But for a sleeve, or a seam that holds under strain, you have to pass thread through material \u2014 with a tool fine enough not to tear the hole wider than the thread.",
-   "start": 203.838,
-   "end": 205.48
+   "sentence": "And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.",
+   "start": 232.31,
+   "end": 234.386
   },
   {
    "section": "04",
-   "sentence": "Awls came first: a sharpened bone, pushed through to open a hole.",
-   "start": 205.48,
-   "end": 207.835
+   "sentence": "And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.",
+   "start": 234.386,
+   "end": 236.389
   },
   {
    "section": "04",
-   "sentence": "Awls came first: a sharpened bone, pushed through to open a hole.",
-   "start": 207.835,
-   "end": 209.833
+   "sentence": "And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.",
+   "start": 236.389,
+   "end": 238.435
   },
   {
    "section": "04",
-   "sentence": "They work \u2014 but they leave a gap, and every puncture weakens the hide.",
-   "start": 209.833,
-   "end": 211.832
+   "sentence": "A needle fixes that, because the needle carries the thread in with it.",
+   "start": 238.435,
+   "end": 240.396
   },
   {
    "section": "04",
-   "sentence": "They work \u2014 but they leave a gap, and every puncture weakens the hide.",
-   "start": 211.832,
-   "end": 213.507
+   "sentence": "The oldest bone needle anyone cites comes from Denisova Cave, in the mountains of southern Siberia.",
+   "start": 240.396,
+   "end": 242.399
   },
   {
    "section": "04",
-   "sentence": "A needle carries the thread with it, so the hole is exactly the width of the thread.",
-   "start": 213.507,
-   "end": 215.828
+   "sentence": "The oldest bone needle anyone cites comes from Denisova Cave, in the mountains of southern Siberia.",
+   "start": 242.399,
+   "end": 244.394
   },
   {
    "section": "04",
-   "sentence": "A needle carries the thread with it, so the hole is exactly the width of the thread.",
-   "start": 215.828,
-   "end": 217.827
+   "sentence": "Seven centimetres of bird bone, with an eye worked through the end.",
+   "start": 244.394,
+   "end": 246.761
   },
   {
    "section": "04",
-   "sentence": "The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old.",
-   "start": 217.827,
-   "end": 219.825
+   "sentence": "Around fifty thousand years old.",
+   "start": 246.761,
+   "end": 248.409
   },
   {
    "section": "04",
-   "sentence": "The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old.",
-   "start": 219.825,
-   "end": 221.824
+   "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
+   "start": 248.409,
+   "end": 250.412
   },
   {
    "section": "04",
-   "sentence": "The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old.",
-   "start": 221.824,
-   "end": 223.822
+   "sentence": "It also can't be assigned to a species.",
+   "start": 250.412,
+   "end": 252.397
   },
   {
    "section": "04",
-   "sentence": "The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old.",
-   "start": 223.822,
-   "end": 225.474
+   "sentence": "Anyone who tells you otherwise is guessing.",
+   "start": 252.397,
+   "end": 254.419
   },
   {
    "section": "04",
-   "sentence": "It is about seven centimetres long, made from the bone of a large bird, with an eye worked through the end.",
-   "start": 225.474,
-   "end": 227.819
+   "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
+   "start": 254.419,
+   "end": 256.422
   },
   {
    "section": "04",
-   "sentence": "It is about seven centimetres long, made from the bone of a large bird, with an eye worked through the end.",
-   "start": 227.819,
-   "end": 229.817
+   "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
+   "start": 256.422,
+   "end": 258.426
   },
   {
    "section": "04",
-   "sentence": "It is about seven centimetres long, made from the bone of a large bird, with an eye worked through the end.",
-   "start": 229.817,
-   "end": 231.81
+   "sentence": "That's a specialist with a bad afternoon ahead.",
+   "start": 258.426,
+   "end": 260.646
   },
   {
    "section": "04",
-   "sentence": "It came from layers that also produced Denisovan remains \u2014 though it cannot be assigned to a species with confidence.",
-   "start": 231.81,
-   "end": 233.814
+   "sentence": "Eyed needles don't turn up everywhere.",
+   "start": 260.646,
+   "end": 262.761
   },
   {
    "section": "04",
-   "sentence": "It came from layers that also produced Denisovan remains \u2014 though it cannot be assigned to a species with confidence.",
-   "start": 233.814,
-   "end": 235.813
+   "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
+   "start": 262.761,
+   "end": 264.435
   },
   {
    "section": "04",
-   "sentence": "It came from layers that also produced Denisovan remains \u2014 though it cannot be assigned to a species with confidence.",
-   "start": 235.813,
-   "end": 237.811
+   "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
+   "start": 264.435,
+   "end": 266.439
   },
   {
    "section": "04",
-   "sentence": "By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it.",
-   "start": 237.811,
-   "end": 239.809
+   "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
+   "start": 266.439,
+   "end": 268.72
   },
   {
    "section": "04",
-   "sentence": "By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it.",
-   "start": 239.809,
-   "end": 241.808
-  },
-  {
-   "section": "04",
-   "sentence": "By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it.",
-   "start": 241.808,
-   "end": 243.806
-  },
-  {
-   "section": "04",
-   "sentence": "By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it.",
-   "start": 243.806,
-   "end": 245.805
-  },
-  {
-   "section": "04",
-   "sentence": "That is a specialist.",
-   "start": 245.805,
-   "end": 247.748
-  },
-  {
-   "section": "04",
-   "sentence": "And then something odd.",
-   "start": 247.748,
-   "end": 249.801
-  },
-  {
-   "section": "04",
-   "sentence": "Eyed needles do not appear everywhere at once.",
-   "start": 249.801,
-   "end": 251.894
-  },
-  {
-   "section": "04",
-   "sentence": "They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.",
-   "start": 251.894,
-   "end": 253.798
-  },
-  {
-   "section": "04",
-   "sentence": "They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.",
-   "start": 253.798,
-   "end": 255.797
-  },
-  {
-   "section": "04",
-   "sentence": "They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.",
-   "start": 255.797,
-   "end": 257.795
-  },
-  {
-   "section": "04",
-   "sentence": "They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.",
-   "start": 257.795,
-   "end": 259.7
-  },
-  {
-   "section": "04",
-   "sentence": "People already had awls.",
-   "start": 259.7,
-   "end": 261.792
-  },
-  {
-   "section": "04",
-   "sentence": "So why invent a harder tool?",
-   "start": 261.792,
-   "end": 263.79
+   "sentence": "So why build the hard tool?",
+   "start": 268.72,
+   "end": 270.59
   },
   {
    "section": "05",
-   "sentence": "In 2024, Ian Gilligan and colleagues argued that the answer is not survival in the simple sense.",
-   "start": 263.79,
-   "end": 265.789
+   "sentence": "In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.",
+   "start": 270.59,
+   "end": 272.449
   },
   {
    "section": "05",
-   "sentence": "In 2024, Ian Gilligan and colleagues argued that the answer is not survival in the simple sense.",
-   "start": 265.789,
-   "end": 267.787
+   "sentence": "In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.",
+   "start": 272.449,
+   "end": 274.452
   },
   {
    "section": "05",
-   "sentence": "In 2024, Ian Gilligan and colleagues argued that the answer is not survival in the simple sense.",
-   "start": 267.787,
-   "end": 269.786
+   "sentence": "In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.",
+   "start": 274.452,
+   "end": 276.199
   },
   {
    "section": "05",
    "sentence": "A scraped hide gives you a loose garment.",
-   "start": 269.786,
-   "end": 271.784
+   "start": 276.199,
+   "end": 278.78
   },
   {
    "section": "05",
-   "sentence": "Enough for a cool evening.",
-   "start": 271.784,
-   "end": 273.782
+   "sentence": "Good enough for a cool evening.",
+   "start": 278.78,
+   "end": 280.743
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 273.782,
-   "end": 275.781
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 280.743,
+   "end": 282.465
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 275.781,
-   "end": 277.779
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 282.465,
+   "end": 284.468
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 277.779,
-   "end": 279.778
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 284.468,
+   "end": 286.472
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 279.778,
-   "end": 281.776
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 286.472,
+   "end": 288.475
   },
   {
    "section": "05",
-   "sentence": "Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones \u2014 and the layer closest to the skin is the one that has to fit.",
-   "start": 281.776,
-   "end": 283.774
+   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
+   "start": 288.475,
+   "end": 290.617
   },
   {
    "section": "05",
-   "sentence": "That needs fine sewing.",
-   "start": 283.774,
-   "end": 285.706
+   "sentence": "Fitted means fine sewing.",
+   "start": 290.617,
+   "end": 292.209
   },
   {
    "section": "05",
-   "sentence": "Fine sewing needs an eyed needle.",
-   "start": 285.706,
-   "end": 287.709
+   "sentence": "Fine sewing means an eyed needle.",
+   "start": 292.209,
+   "end": 294.296
   },
   {
    "section": "05",
-   "sentence": "In Gilligan's phrasing, the innovation comes down to making underwear.",
-   "start": 287.709,
-   "end": 289.77
+   "sentence": "Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.",
+   "start": 294.296,
+   "end": 296.488
   },
   {
    "section": "05",
-   "sentence": "In Gilligan's phrasing, the innovation comes down to making underwear.",
-   "start": 289.77,
-   "end": 291.906
+   "sentence": "Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.",
+   "start": 296.488,
+   "end": 298.491
   },
   {
    "section": "05",
-   "sentence": "People decorate themselves when skin is visible: ochre, scars, paint, beads pressed to the body.",
-   "start": 291.906,
-   "end": 293.766
+   "sentence": "Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.",
+   "start": 298.491,
+   "end": 300.276
   },
   {
    "section": "05",
-   "sentence": "People decorate themselves when skin is visible: ochre, scars, paint, beads pressed to the body.",
-   "start": 293.766,
-   "end": 295.765
+   "sentence": "But the argument keeps going, and it goes somewhere better.",
+   "start": 300.276,
+   "end": 302.498
   },
   {
    "section": "05",
-   "sentence": "People decorate themselves when skin is visible: ochre, scars, paint, beads pressed to the body.",
-   "start": 295.765,
-   "end": 297.647
+   "sentence": "But the argument keeps going, and it goes somewhere better.",
+   "start": 302.498,
+   "end": 304.501
   },
   {
    "section": "05",
-   "sentence": "Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.",
-   "start": 297.647,
-   "end": 299.762
+   "sentence": "Think about how you announce yourself when your skin is showing.",
+   "start": 304.501,
+   "end": 306.505
   },
   {
    "section": "05",
-   "sentence": "Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.",
-   "start": 299.762,
-   "end": 301.76
+   "sentence": "Think about how you announce yourself when your skin is showing.",
+   "start": 306.505,
+   "end": 308.389
   },
   {
    "section": "05",
-   "sentence": "Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.",
-   "start": 301.76,
-   "end": 303.759
+   "sentence": "Beads pressed right up against the body.",
+   "start": 308.389,
+   "end": 310.511
   },
   {
    "section": "05",
-   "sentence": "Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.",
-   "start": 303.759,
-   "end": 305.757
+   "sentence": "Beads pressed right up against the body.",
+   "start": 310.511,
+   "end": 312.515
   },
   {
    "section": "05",
-   "sentence": "Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance.",
-   "start": 305.757,
-   "end": 307.755
+   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
+   "start": 312.515,
+   "end": 314.518
   },
   {
    "section": "05",
-   "sentence": "Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance.",
-   "start": 307.755,
-   "end": 309.754
+   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
+   "start": 314.518,
+   "end": 316.489
   },
   {
    "section": "05",
-   "sentence": "Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance.",
-   "start": 309.754,
-   "end": 311.752
+   "sentence": "Everything you used to say about yourself has nowhere to go.",
+   "start": 316.489,
+   "end": 318.524
   },
   {
    "section": "05",
-   "sentence": "Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance.",
-   "start": 311.752,
-   "end": 313.858
+   "sentence": "Everything you used to say about yourself has nowhere to go.",
+   "start": 318.524,
+   "end": 320.244
   },
   {
    "section": "05",
-   "sentence": "Clothing stops being thermal and becomes social.",
-   "start": 313.858,
-   "end": 315.749
+   "sentence": "So you put it on the clothes.",
+   "start": 320.244,
+   "end": 322.531
   },
   {
    "section": "05",
-   "sentence": "Clothing stops being thermal and becomes social.",
-   "start": 315.749,
-   "end": 317.747
+   "sentence": "That's what the needle is for, too.",
+   "start": 322.531,
+   "end": 324.711
   },
   {
    "section": "05",
-   "sentence": "It is a hypothesis, built from timing and tool, and Gilligan says so.",
-   "start": 317.747,
-   "end": 319.746
+   "sentence": "Strips of fur.",
+   "start": 324.711,
+   "end": 326.538
   },
   {
    "section": "05",
-   "sentence": "It is a hypothesis, built from timing and tool, and Gilligan says so.",
-   "start": 319.746,
-   "end": 321.744
+   "sentence": "Fine enough to read from across a fire.",
+   "start": 326.538,
+   "end": 328.561
   },
   {
    "section": "05",
-   "sentence": "But once you look for it, the record is full of it.",
-   "start": 321.744,
-   "end": 323.96
+   "sentence": "Clothing stops being a thermostat and becomes a sentence.",
+   "start": 328.561,
+   "end": 330.544
+  },
+  {
+   "section": "05",
+   "sentence": "Clothing stops being a thermostat and becomes a sentence.",
+   "start": 330.544,
+   "end": 332.131
+  },
+  {
+   "section": "05",
+   "sentence": "It's a hypothesis, built from timing and tools, and Gilligan says so himself.",
+   "start": 332.131,
+   "end": 334.551
+  },
+  {
+   "section": "05",
+   "sentence": "It's a hypothesis, built from timing and tools, and Gilligan says so himself.",
+   "start": 334.551,
+   "end": 336.937
+  },
+  {
+   "section": "05",
+   "sentence": "But once you know to look for it, you can't stop seeing it.",
+   "start": 336.937,
+   "end": 338.557
+  },
+  {
+   "section": "05",
+   "sentence": "But once you know to look for it, you can't stop seeing it.",
+   "start": 338.557,
+   "end": 340.63
   },
   {
    "section": "06",
-   "sentence": "In the foothills of the Caucasus, in the republic of Georgia, there is a cave called Dzudzuana.",
-   "start": 323.96,
-   "end": 325.741
+   "sentence": "In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.",
+   "start": 340.63,
+   "end": 342.564
   },
   {
    "section": "06",
-   "sentence": "In the foothills of the Caucasus, in the republic of Georgia, there is a cave called Dzudzuana.",
-   "start": 325.741,
-   "end": 327.739
+   "sentence": "In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.",
+   "start": 342.564,
+   "end": 344.567
   },
   {
    "section": "06",
-   "sentence": "In the foothills of the Caucasus, in the republic of Georgia, there is a cave called Dzudzuana.",
-   "start": 327.739,
-   "end": 329.738
+   "sentence": "In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.",
+   "start": 344.567,
+   "end": 346.571
   },
   {
    "section": "06",
    "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-   "start": 329.738,
-   "end": 331.736
+   "start": 346.571,
+   "end": 348.574
   },
   {
    "section": "06",
    "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-   "start": 331.736,
-   "end": 333.735
+   "start": 348.574,
+   "end": 350.577
   },
   {
    "section": "06",
-   "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-   "start": 333.735,
-   "end": 336.097
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 350.577,
+   "end": 352.581
   },
   {
    "section": "06",
-   "sentence": "They were studying ancient climate, which meant pollen, and counting grains under a microscope.",
-   "start": 336.097,
-   "end": 337.732
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 352.581,
+   "end": 354.584
   },
   {
    "section": "06",
-   "sentence": "They were studying ancient climate, which meant pollen, and counting grains under a microscope.",
-   "start": 337.732,
-   "end": 339.73
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 354.584,
+   "end": 356.587
   },
   {
    "section": "06",
-   "sentence": "They were studying ancient climate, which meant pollen, and counting grains under a microscope.",
-   "start": 339.73,
-   "end": 341.728
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 356.587,
+   "end": 358.59
   },
   {
    "section": "06",
-   "sentence": "What they found instead were fibres.",
-   "start": 341.728,
-   "end": 343.727
+   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
+   "start": 358.59,
+   "end": 360.594
   },
   {
    "section": "06",
-   "sentence": "What they found instead were fibres.",
-   "start": 343.727,
-   "end": 345.625
+   "sentence": "What they found was fibre.",
+   "start": 360.594,
+   "end": 362.775
   },
   {
    "section": "06",
-   "sentence": "Thousands of them, in layers up to thirty-four thousand years old.",
-   "start": 345.625,
-   "end": 347.724
+   "sentence": "Thousands of strands, in layers up to thirty-four thousand years old.",
+   "start": 362.775,
+   "end": 364.6
   },
   {
    "section": "06",
-   "sentence": "Thousands of them, in layers up to thirty-four thousand years old.",
-   "start": 347.724,
-   "end": 350.065
+   "sentence": "Thousands of strands, in layers up to thirty-four thousand years old.",
+   "start": 364.6,
+   "end": 366.604
   },
   {
    "section": "06",
-   "sentence": "Some were twisted \u2014 spun, deliberately, into cord.",
-   "start": 350.065,
-   "end": 351.72
+   "sentence": "Thousands of strands, in layers up to thirty-four thousand years old.",
+   "start": 366.604,
+   "end": 368.607
   },
   {
    "section": "06",
-   "sentence": "Some were twisted \u2014 spun, deliberately, into cord.",
-   "start": 351.72,
-   "end": 353.44
+   "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
+   "start": 368.607,
+   "end": 370.61
   },
   {
    "section": "06",
-   "sentence": "Some were knotted.",
-   "start": 353.44,
-   "end": 355.717
+   "sentence": "Some was knotted.",
+   "start": 370.61,
+   "end": 372.904
   },
   {
    "section": "06",
-   "sentence": "And some were coloured: black, grey, turquoise, and one that was pink.",
-   "start": 355.717,
-   "end": 357.716
+   "sentence": "Black, grey, turquoise.",
+   "start": 372.904,
+   "end": 376.62
   },
   {
    "section": "06",
-   "sentence": "And some were coloured: black, grey, turquoise, and one that was pink.",
-   "start": 357.716,
-   "end": 359.393
+   "sentence": "The flax grew outside.",
+   "start": 376.62,
+   "end": 378.627
   },
   {
    "section": "06",
    "sentence": "The colours came from plants.",
-   "start": 359.393,
-   "end": 361.373
+   "start": 378.627,
+   "end": 380.584
   },
   {
    "section": "06",
-   "sentence": "Someone had taken a plant, extracted fibre, spun it into thread, and dyed it \u2014 for cord, for baskets, for sewing, or for all three.",
-   "start": 361.373,
-   "end": 363.711
+   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
+   "start": 380.584,
+   "end": 382.63
   },
   {
    "section": "06",
-   "sentence": "Someone had taken a plant, extracted fibre, spun it into thread, and dyed it \u2014 for cord, for baskets, for sewing, or for all three.",
-   "start": 363.711,
-   "end": 365.709
+   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
+   "start": 382.63,
+   "end": 384.633
   },
   {
    "section": "06",
-   "sentence": "Someone had taken a plant, extracted fibre, spun it into thread, and dyed it \u2014 for cord, for baskets, for sewing, or for all three.",
-   "start": 365.709,
-   "end": 367.708
+   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
+   "start": 384.633,
+   "end": 386.815
   },
   {
    "section": "06",
-   "sentence": "Someone had taken a plant, extracted fibre, spun it into thread, and dyed it \u2014 for cord, for baskets, for sewing, or for all three.",
-   "start": 367.708,
-   "end": 369.706
+   "sentence": "For sewing.",
+   "start": 386.815,
+   "end": 390.643
   },
   {
    "section": "06",
-   "sentence": "No textile survives from Dzudzuana.",
-   "start": 369.706,
-   "end": 371.705
-  },
-  {
-   "section": "06",
-   "sentence": "What survives is fibre, at a scale you need a microscope to see.",
-   "start": 371.705,
-   "end": 373.703
-  },
-  {
-   "section": "06",
-   "sentence": "What survives is fibre, at a scale you need a microscope to see.",
-   "start": 373.703,
-   "end": 375.701
-  },
-  {
-   "section": "06",
-   "sentence": "What survives is fibre, at a scale you need a microscope to see.",
-   "start": 375.701,
-   "end": 377.7
+   "sentence": "We don't know which, and no textile survives to tell us.",
+   "start": 390.643,
+   "end": 392.801
   },
   {
    "section": "06",
    "sentence": "Dyeing is not a survival technology.",
-   "start": 377.7,
-   "end": 379.698
+   "start": 392.801,
+   "end": 396.715
   },
   {
    "section": "06",
-   "sentence": "You do not colour a rope because the rope works better.",
-   "start": 379.698,
-   "end": 381.697
+   "sentence": "You do not colour a rope so the rope works better.",
+   "start": 396.715,
+   "end": 398.656
   },
   {
    "section": "06",
-   "sentence": "You do not colour a rope because the rope works better.",
-   "start": 381.697,
-   "end": 383.695
+   "sentence": "You do not colour a rope so the rope works better.",
+   "start": 398.656,
+   "end": 400.66
   },
   {
    "section": "06",
-   "sentence": "Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre \u2014 a textile that no longer exists.",
-   "start": 383.695,
-   "end": 385.693
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 400.66,
+   "end": 402.663
   },
   {
    "section": "06",
-   "sentence": "Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre \u2014 a textile that no longer exists.",
-   "start": 385.693,
-   "end": 387.692
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 402.663,
+   "end": 404.666
   },
   {
    "section": "06",
-   "sentence": "Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre \u2014 a textile that no longer exists.",
-   "start": 387.692,
-   "end": 389.69
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 404.666,
+   "end": 406.67
   },
   {
    "section": "06",
-   "sentence": "Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre \u2014 a textile that no longer exists.",
-   "start": 389.69,
-   "end": 391.689
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 406.67,
+   "end": 408.673
   },
   {
    "section": "06",
-   "sentence": "So it is not hides versus cloth, with cloth arriving late.",
-   "start": 391.689,
-   "end": 393.687
+   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
+   "start": 408.673,
+   "end": 410.676
   },
   {
    "section": "06",
-   "sentence": "So it is not hides versus cloth, with cloth arriving late.",
-   "start": 393.687,
-   "end": 395.685
+   "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
+   "start": 410.676,
+   "end": 412.68
   },
   {
    "section": "06",
-   "sentence": "It is both, for a very long time, in the same toolkits.",
-   "start": 395.685,
-   "end": 397.684
+   "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
+   "start": 412.68,
+   "end": 414.684
   },
   {
    "section": "06",
-   "sentence": "It is both, for a very long time, in the same toolkits.",
-   "start": 397.684,
-   "end": 400.08
+   "sentence": "It was both, in the same toolkit, for a very long time.",
+   "start": 414.684,
+   "end": 416.686
+  },
+  {
+   "section": "06",
+   "sentence": "It was both, in the same toolkit, for a very long time.",
+   "start": 416.686,
+   "end": 418.35
   },
   {
    "section": "07",
-   "sentence": "This is where reconstructions get confident and the evidence does not.",
-   "start": 400.08,
-   "end": 401.681
+   "sentence": "And now the part nobody puts in the documentary.",
+   "start": 418.35,
+   "end": 420.693
   },
   {
    "section": "07",
-   "sentence": "This is where reconstructions get confident and the evidence does not.",
-   "start": 401.681,
-   "end": 403.679
+   "sentence": "We know the tools.",
+   "start": 420.693,
+   "end": 422.28
   },
   {
    "section": "07",
-   "sentence": "We know the tools, the fibres, the marks on bone.",
-   "start": 403.679,
-   "end": 405.678
+   "sentence": "We know the cut marks.",
+   "start": 422.28,
+   "end": 424.697
   },
   {
    "section": "07",
-   "sentence": "We know the tools, the fibres, the marks on bone.",
-   "start": 405.678,
-   "end": 407.676
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 424.697,
+   "end": 426.703
   },
   {
    "section": "07",
-   "sentence": "What we do not have is a complete garment older than about five thousand years \u2014 and that one, from a tomb in Egypt, survived by accident.",
-   "start": 407.676,
-   "end": 409.674
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 426.703,
+   "end": 428.706
   },
   {
    "section": "07",
-   "sentence": "What we do not have is a complete garment older than about five thousand years \u2014 and that one, from a tomb in Egypt, survived by accident.",
-   "start": 409.674,
-   "end": 411.673
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 428.706,
+   "end": 430.709
   },
   {
    "section": "07",
-   "sentence": "What we do not have is a complete garment older than about five thousand years \u2014 and that one, from a tomb in Egypt, survived by accident.",
-   "start": 411.673,
-   "end": 413.671
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 430.709,
+   "end": 432.713
   },
   {
    "section": "07",
-   "sentence": "What we do not have is a complete garment older than about five thousand years \u2014 and that one, from a tomb in Egypt, survived by accident.",
-   "start": 413.671,
-   "end": 415.67
+   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
+   "start": 432.713,
+   "end": 434.926
   },
   {
    "section": "07",
-   "sentence": "We do not know whether a hide garment was a rectangle with a hole for the head or a shaped coat with sleeves.",
-   "start": 415.67,
-   "end": 417.668
+   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
+   "start": 434.926,
+   "end": 436.719
   },
   {
    "section": "07",
-   "sentence": "We do not know whether a hide garment was a rectangle with a hole for the head or a shaped coat with sleeves.",
-   "start": 417.668,
-   "end": 419.666
+   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
+   "start": 436.719,
+   "end": 438.722
   },
   {
    "section": "07",
-   "sentence": "We do not know whether a hide garment was a rectangle with a hole for the head or a shaped coat with sleeves.",
-   "start": 419.666,
-   "end": 421.572
+   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
+   "start": 438.722,
+   "end": 440.907
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 421.572,
-   "end": 423.663
+   "sentence": "We don't know the colours anyone liked.",
+   "start": 440.907,
+   "end": 442.729
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 423.663,
-   "end": 425.662
+   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
+   "start": 442.729,
+   "end": 444.732
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 425.662,
-   "end": 427.66
+   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
+   "start": 444.732,
+   "end": 446.736
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 427.66,
-   "end": 429.658
+   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
+   "start": 446.736,
+   "end": 448.739
   },
   {
    "section": "07",
-   "sentence": "Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.",
-   "start": 429.658,
-   "end": 431.657
+   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
+   "start": 448.739,
+   "end": 450.715
+  },
+  {
+   "section": "07",
+   "sentence": "That's not a complaint.",
+   "start": 450.715,
+   "end": 452.745
+  },
+  {
+   "section": "07",
+   "sentence": "That's where the story lives.",
+   "start": 452.745,
+   "end": 454.749
   },
   {
    "section": "08",
-   "sentence": "Two hundred kilometres east of Moscow, near the town of Vladimir, is a site called Sunghir.",
-   "start": 431.657,
-   "end": 433.655
+   "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
+   "start": 454.749,
+   "end": 456.752
   },
   {
    "section": "08",
-   "sentence": "Two hundred kilometres east of Moscow, near the town of Vladimir, is a site called Sunghir.",
-   "start": 433.655,
-   "end": 435.654
+   "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
+   "start": 456.752,
+   "end": 458.978
   },
   {
    "section": "08",
-   "sentence": "Around thirty-four thousand years ago, people were buried there with extraordinary care.",
-   "start": 435.654,
-   "end": 437.652
+   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
+   "start": 458.978,
+   "end": 460.759
   },
   {
    "section": "08",
-   "sentence": "Around thirty-four thousand years ago, people were buried there with extraordinary care.",
-   "start": 437.652,
-   "end": 439.651
+   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
+   "start": 460.759,
+   "end": 462.762
   },
   {
    "section": "08",
-   "sentence": "Around thirty-four thousand years ago, people were buried there with extraordinary care.",
-   "start": 439.651,
-   "end": 441.47
+   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
+   "start": 462.762,
+   "end": 464.765
   },
   {
    "section": "08",
-   "sentence": "The best known grave holds a man between roughly thirty-five and forty-five years old.",
-   "start": 441.47,
-   "end": 443.647
+   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
+   "start": 464.765,
+   "end": 466.769
   },
   {
    "section": "08",
-   "sentence": "The best known grave holds a man between roughly thirty-five and forty-five years old.",
-   "start": 443.647,
-   "end": 445.646
+   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
+   "start": 466.769,
+   "end": 468.772
   },
   {
    "section": "08",
-   "sentence": "He was covered in red ochre, and he was covered in beads.",
-   "start": 445.646,
-   "end": 447.644
+   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
+   "start": 468.772,
+   "end": 470.913
   },
   {
    "section": "08",
-   "sentence": "He was covered in red ochre, and he was covered in beads.",
-   "start": 447.644,
-   "end": 450.044
+   "sentence": "And covered in beads.",
+   "start": 470.913,
+   "end": 472.778
   },
   {
    "section": "08",
-   "sentence": "About three thousand of them.",
-   "start": 450.044,
-   "end": 451.81
+   "sentence": "Three thousand of them.",
+   "start": 472.778,
+   "end": 474.574
   },
   {
    "section": "08",
-   "sentence": "Mammoth ivory, each one carved, each one pierced, each one small enough to be a problem for a modern jeweller.",
-   "start": 451.81,
-   "end": 453.639
+   "sentence": "Each one pierced.",
+   "start": 474.574,
+   "end": 476.671
   },
   {
    "section": "08",
-   "sentence": "Mammoth ivory, each one carved, each one pierced, each one small enough to be a problem for a modern jeweller.",
-   "start": 453.639,
-   "end": 455.638
+   "sentence": "Each one small enough to make a modern jeweller swear.",
+   "start": 476.671,
+   "end": 478.788
   },
   {
    "section": "08",
-   "sentence": "Mammoth ivory, each one carved, each one pierced, each one small enough to be a problem for a modern jeweller.",
-   "start": 455.638,
-   "end": 457.636
+   "sentence": "Each one small enough to make a modern jeweller swear.",
+   "start": 478.788,
+   "end": 480.792
   },
   {
    "section": "08",
-   "sentence": "Alongside them: armbands of ivory, and hundreds of pierced fox teeth.",
-   "start": 457.636,
-   "end": 459.635
+   "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
+   "start": 480.792,
+   "end": 482.795
   },
   {
    "section": "08",
-   "sentence": "Alongside them: armbands of ivory, and hundreds of pierced fox teeth.",
-   "start": 459.635,
-   "end": 461.633
+   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
+   "start": 482.795,
+   "end": 484.798
   },
   {
    "section": "08",
-   "sentence": "Then those beads were attached to what he was wearing \u2014 they were found lying in rows, in the pattern of a garment, as if sewn onto it.",
-   "start": 461.633,
-   "end": 463.631
+   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
+   "start": 484.798,
+   "end": 486.802
   },
   {
    "section": "08",
-   "sentence": "Then those beads were attached to what he was wearing \u2014 they were found lying in rows, in the pattern of a garment, as if sewn onto it.",
-   "start": 463.631,
-   "end": 465.63
+   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
+   "start": 486.802,
+   "end": 488.805
   },
   {
    "section": "08",
-   "sentence": "Then those beads were attached to what he was wearing \u2014 they were found lying in rows, in the pattern of a garment, as if sewn onto it.",
-   "start": 465.63,
-   "end": 467.628
+   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
+   "start": 488.805,
+   "end": 490.808
   },
   {
    "section": "08",
-   "sentence": "Then those beads were attached to what he was wearing \u2014 they were found lying in rows, in the pattern of a garment, as if sewn onto it.",
-   "start": 467.628,
-   "end": 469.627
+   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
+   "start": 490.808,
+   "end": 492.811
   },
   {
    "section": "08",
-   "sentence": "That is the moment clothing stops being about weather.",
-   "start": 469.627,
-   "end": 471.625
+   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
+   "start": 492.811,
+   "end": 494.815
   },
   {
    "section": "08",
-   "sentence": "That is the moment clothing stops being about weather.",
-   "start": 471.625,
-   "end": 473.823
+   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
+   "start": 494.815,
+   "end": 496.818
+  },
+  {
+   "section": "08",
+   "sentence": "That's the moment this stops being a story about weather.",
+   "start": 496.818,
+   "end": 498.821
   },
   {
    "section": "08",
    "sentence": "A hide keeps you warm.",
-   "start": 473.823,
-   "end": 475.622
+   "start": 498.821,
+   "end": 500.816
   },
   {
    "section": "08",
-   "sentence": "A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.",
-   "start": 475.622,
-   "end": 477.62
+   "sentence": "A hide with three thousand hand-cut beads on it says something.",
+   "start": 500.816,
+   "end": 502.828
   },
   {
    "section": "08",
-   "sentence": "A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.",
-   "start": 477.62,
-   "end": 479.619
+   "sentence": "A hide with three thousand hand-cut beads on it says something.",
+   "start": 502.828,
+   "end": 504.688
   },
   {
    "section": "08",
-   "sentence": "A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.",
-   "start": 479.619,
-   "end": 481.617
+   "sentence": "What the community could afford to spend.",
+   "start": 504.688,
+   "end": 506.835
   },
   {
    "section": "08",
-   "sentence": "A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.",
-   "start": 481.617,
-   "end": 483.616
+   "sentence": "What the community could afford to spend.",
+   "start": 506.835,
+   "end": 508.838
   },
   {
    "section": "08",
-   "sentence": "Nearby, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-   "start": 483.616,
-   "end": 485.614
+   "sentence": "What they thought the dead were owed.",
+   "start": 508.838,
+   "end": 510.841
   },
   {
    "section": "08",
-   "sentence": "Nearby, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-   "start": 485.614,
-   "end": 487.612
+   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
+   "start": 510.841,
+   "end": 512.844
   },
   {
    "section": "08",
-   "sentence": "Nearby, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-   "start": 487.612,
-   "end": 489.611
+   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
+   "start": 512.844,
+   "end": 514.848
   },
   {
    "section": "08",
-   "sentence": "Whatever the beads meant, they were not a privilege of age.",
-   "start": 489.611,
-   "end": 491.609
+   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
+   "start": 514.848,
+   "end": 516.851
   },
   {
    "section": "08",
-   "sentence": "Whatever the beads meant, they were not a privilege of age.",
-   "start": 491.609,
-   "end": 493.76
+   "sentence": "Whatever those beads meant, they were not a reward for a long life.",
+   "start": 516.851,
+   "end": 518.854
+  },
+  {
+   "section": "08",
+   "sentence": "Whatever those beads meant, they were not a reward for a long life.",
+   "start": 518.854,
+   "end": 520.858
+  },
+  {
+   "section": "08",
+   "sentence": "Those children hadn't had one.",
+   "start": 520.858,
+   "end": 522.861
   },
   {
    "section": "09",
-   "sentence": "So: what did ancient humans wear before tailors?",
-   "start": 493.76,
-   "end": 495.606
+   "sentence": "What did ancient humans wear before tailors?",
+   "start": 522.861,
+   "end": 524.864
   },
   {
    "section": "09",
-   "sentence": "So: what did ancient humans wear before tailors?",
-   "start": 495.606,
-   "end": 497.604
+   "sentence": "What did ancient humans wear before tailors?",
+   "start": 524.864,
+   "end": 526.868
   },
   {
    "section": "09",
    "sentence": "They were already tailoring.",
-   "start": 497.604,
-   "end": 499.603
+   "start": 526.868,
+   "end": 528.871
   },
   {
    "section": "09",
-   "sentence": "The tailor \u2014 a specialist who fits a garment to a body \u2014 is present in the tools long before any shop.",
-   "start": 499.603,
-   "end": 501.601
+   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
+   "start": 528.871,
+   "end": 530.874
   },
   {
    "section": "09",
-   "sentence": "The tailor \u2014 a specialist who fits a garment to a body \u2014 is present in the tools long before any shop.",
-   "start": 501.601,
-   "end": 503.6
+   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
+   "start": 530.874,
+   "end": 532.877
   },
   {
    "section": "09",
-   "sentence": "The tailor \u2014 a specialist who fits a garment to a body \u2014 is present in the tools long before any shop.",
-   "start": 503.6,
-   "end": 505.598
+   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
+   "start": 532.877,
+   "end": 534.881
   },
   {
    "section": "09",
-   "sentence": "What changed across those ninety thousand years was not whether people could make clothes.",
-   "start": 505.598,
-   "end": 507.597
+   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
+   "start": 534.881,
+   "end": 536.884
   },
   {
    "section": "09",
-   "sentence": "What changed across those ninety thousand years was not whether people could make clothes.",
-   "start": 507.597,
-   "end": 509.595
+   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
+   "start": 536.884,
+   "end": 538.724
   },
   {
    "section": "09",
-   "sentence": "What changed across those ninety thousand years was not whether people could make clothes.",
-   "start": 509.595,
-   "end": 511.593
+   "sentence": "It's what clothes were for.",
+   "start": 538.724,
+   "end": 540.831
   },
   {
    "section": "09",
-   "sentence": "It was what clothes were for.",
-   "start": 511.593,
-   "end": 513.491
+   "sentence": "Then, once the body was covered all year round, identity.",
+   "start": 540.831,
+   "end": 542.894
   },
   {
    "section": "09",
-   "sentence": "Then, once the body was covered all year, identity.",
-   "start": 513.491,
-   "end": 515.59
+   "sentence": "Then, once the body was covered all year round, identity.",
+   "start": 542.894,
+   "end": 544.837
   },
   {
    "section": "09",
-   "sentence": "Then, once the body was covered all year, identity.",
-   "start": 515.59,
-   "end": 517.338
+   "sentence": "And almost none of it is left.",
+   "start": 544.837,
+   "end": 546.661
   },
   {
    "section": "09",
-   "sentence": "Almost none of it survives.",
-   "start": 517.338,
-   "end": 519.587
+   "sentence": "The softest, most personal object in a human life is the first thing the ground eats.",
+   "start": 546.661,
+   "end": 548.904
   },
   {
    "section": "09",
-   "sentence": "The softest, most constant object in a human life is the one the ground eats first.",
-   "start": 519.587,
-   "end": 521.585
+   "sentence": "The softest, most personal object in a human life is the first thing the ground eats.",
+   "start": 548.904,
+   "end": 550.907
   },
   {
    "section": "09",
-   "sentence": "The softest, most constant object in a human life is the one the ground eats first.",
-   "start": 521.585,
-   "end": 523.584
+   "sentence": "What we have is a scraper.",
+   "start": 550.907,
+   "end": 552.91
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 523.584,
-   "end": 525.582
+   "sentence": "A needle with a hole the width of a hair.",
+   "start": 552.91,
+   "end": 554.914
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 525.582,
-   "end": 527.581
+   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
+   "start": 554.914,
+   "end": 556.917
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 527.581,
-   "end": 529.579
+   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
+   "start": 556.917,
+   "end": 558.92
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 529.579,
-   "end": 531.577
+   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
+   "start": 558.92,
+   "end": 561.019
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 531.577,
-   "end": 533.576
+   "sentence": "Next time you pull on a coat, notice what you're doing.",
+   "start": 561.019,
+   "end": 562.927
   },
   {
    "section": "09",
-   "sentence": "What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.",
-   "start": 533.576,
-   "end": 535.175
+   "sentence": "Next time you pull on a coat, notice what you're doing.",
+   "start": 562.927,
+   "end": 564.93
   },
   {
    "section": "09",
-   "sentence": "The next time you pull on a coat, notice what you are doing.",
-   "start": 535.175,
-   "end": 537.573
+   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
+   "start": 564.93,
+   "end": 566.934
   },
   {
    "section": "09",
-   "sentence": "The next time you pull on a coat, notice what you are doing.",
-   "start": 537.573,
-   "end": 539.571
+   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
+   "start": 566.934,
+   "end": 568.937
   },
   {
    "section": "09",
-   "sentence": "You are putting on the only technology that has to be rebuilt for every single body that wears it.",
-   "start": 539.571,
-   "end": 541.57
+   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
+   "start": 568.937,
+   "end": 570.527
   },
   {
    "section": "09",
-   "sentence": "You are putting on the only technology that has to be rebuilt for every single body that wears it.",
-   "start": 541.57,
-   "end": 543.568
+   "sentence": "Subscribe if you want more of this.",
+   "start": 570.527,
+   "end": 572.648
   },
   {
    "section": "09",
-   "sentence": "You are putting on the only technology that has to be rebuilt for every single body that wears it.",
-   "start": 543.568,
-   "end": 545.149
+   "sentence": "And tell me \u2014 one hide, one bone needle, no thread.",
+   "start": 572.648,
+   "end": 574.947
   },
   {
    "section": "09",
-   "sentence": "If you enjoyed this, subscribe to Atlas Understory.",
-   "start": 545.149,
-   "end": 547.565
-  },
-  {
-   "section": "09",
-   "sentence": "And tell us: given a hide, a bone needle and no thread, what would you make first?",
-   "start": 547.565,
-   "end": 549.563
-  },
-  {
-   "section": "09",
-   "sentence": "And tell us: given a hide, a bone needle and no thread, what would you make first?",
-   "start": 549.563,
-   "end": 551.562
-  },
-  {
-   "section": "09",
-   "sentence": "And tell us: given a hide, a bone needle and no thread, what would you make first?",
-   "start": 551.562,
-   "end": 553.56
+   "sentence": "What are you making?",
+   "start": 574.947,
+   "end": 576.95
   }
  ]
 }

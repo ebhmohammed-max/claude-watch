@@ -40,25 +40,25 @@ SEC_TITLE = {s['section']: f"{int(s['section'])} · {s['title'].split(' · ')[-1
 
 # Place cards: a site gets named once, and stays named while it is discussed.
 PLACES = [
-    (115.12, '01', 'Contrebandiers Cave · Atlantic Morocco · 120,000–90,000 years ago'),
-    (187.72, None, None),   # cleared at the section change
-    (236.00, '04', 'Denisova Cave · Altai Mountains, Siberia · c. 50,000 years ago'),
-    (264.48, None, None),
-    (323.96, '06', 'Dzudzuana Cave · Caucasus, Georgia · c. 34,000 years ago'),
-    (374.00, '06', 'Pavlov · Czech Republic · c. 26,000 years ago'),
-    (400.08, None, None),
-    (430.76, '08', 'Sunghir · near Vladimir, Russia · c. 34,000 years ago'),
-    (493.76, None, None),
+    (136.88, '03', 'Contrebandiers Cave · Atlantic Morocco · 120,000–90,000 years ago'),
+    (216.52, None, None),   # cleared at the section change
+    (240.00, '04', 'Denisova Cave · Altai Mountains, Siberia · c. 50,000 years ago'),
+    (270.59, None, None),
+    (340.63, '06', 'Dzudzuana Cave · Caucasus, Georgia · c. 34,000 years ago'),
+    (392.00, '06', 'Pavlov · Czech Republic · c. 26,000 years ago'),
+    (418.35, None, None),
+    (453.83, '08', 'Sunghir · near Vladimir, Russia · c. 34,000 years ago'),
+    (523.55, None, None),
 ]
 PLACE_HOLD = 3      # slots a place card stays up
 
 # On-screen attribution wherever the voice makes a sourced claim.
 SOURCES = [
-    (105.0, 'Source · Toups et al., Mol. Biol. Evol. 2011'),
-    (150.0, 'Source · Hallett et al., iScience 2021'),
+    (110.9, 'Source · Toups et al., Mol. Biol. Evol. 2011'),
+    (157.5, 'Source · Hallett et al., iScience 2021'),
     (272.0, 'Source · Gilligan et al., Sci. Adv. 2024'),
-    (352.0, 'Source · Kvavadze et al., Science 2009'),
-    (470.0, 'Source · Trinkaus & Buzhilova, Antiquity 2015'),
+    (345.8, 'Source · Kvavadze et al., Science 2009'),
+    (466.0, 'Source · Trinkaus & Buzhilova, Antiquity 2015'),
 ]
 SRC_HOLD = 3
 

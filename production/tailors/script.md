@@ -1,134 +1,160 @@
 # What Did Ancient Humans Wear Before Tailors?
 ### Atlas Understory — episode 04 · final narration
 
-Working title: **What Did Ancient Humans Wear Before Tailors?**
-Target 9:20–9:40 · hard budget 1,580 words · 2 s stills · no quiz.
+Tone: **story, not lecture.** Dry, sardonic, warm. Attitude in the voice-over,
+never in the facts. If a line sounds like a teacher, it's wrong.
+2 s stills · no quiz · dissolves on section changes only.
 
 ---
 
-## 1 · A morning without buttons
+## 1 · You are wearing a corpse
 
-A cold morning, and you own one garment. It is a hide.
+A cold morning. You own one garment. It's a hide.
 
-Not a coat. A hide, folded around the shoulders, held shut by one hand while the other does the work. That is the picture most of us carry of prehistoric dress, and it is probably wrong.
+Not a coat. A coat implies somebody made a decision. This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.
 
-A single hide is a bad answer to cold. It hangs open at the neck, stiffens as it dries, and does not grip the wrist or the ankle — exactly where heat leaves a body fastest.
+Here's the thing about that picture — the one where ancient people shuffle around in animal skins looking noble and doomed. It's wrong. Not because they were stupid. Because the outfit is genuinely terrible.
 
-So the interesting question is not how someone wore an animal skin. It is when clothing stopped being something you drape and became something you build.
+It hangs open at the neck. It sets like cardboard when it dries. And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.
 
-Today we follow that change through three finds. Hide-working tools in a Moroccan cave. A needle you could lose between two fingers. And a set of beads that turned a warm garment into a statement.
+So the interesting question isn't how somebody wore an animal skin. Anyone can wear an animal skin. The question is when clothing stopped being something you drape, and became something you build.
 
-We do not have one ancient garment from any of it. We have the workshop, and the trace.
+Three finds. A cave in Morocco, full of tools nobody would photograph twice. A needle you could lose between two fingers. And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.
 
-## 2 · Why skin alone is not clothing
+We don't have one garment from any of it. Not a sleeve. Not a stitch. We have the workshop, and we have the mess.
 
-Clothes rot. That is the whole problem.
+## 2 · The lice know
 
-Hide is skin: protein, water, and a meal for bacteria. It disappears long before the rest of a site does — so for most of prehistory we are not looking at clothing, we are looking at the shadow it casts. 
-And one line of evidence that is not archaeological at all: lice.
+Clothes rot.
 
-Head lice live on heads. Body lice live in clothing, because they need fabric to grip. The moment those two become separate lineages is roughly the moment humans wore clothes often enough for a parasite to specialise.
+That's the problem. That's the whole problem. Hide is skin — protein, water, and lunch for bacteria — and it vanishes long before the interesting rocks do. So for most of human prehistory, we aren't looking at clothing. We're looking at the shadow of it.
 
-A 2011 genetic study by Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago, and possibly as early as a hundred and seventy thousand.
+A bone tool with a polish on it. A blade that cuts skin and not meat. A bead that had to be attached to something, and presumably not a rock.
 
-That is a window, not a timestamp. But it places the habit deep in the African Middle Stone Age, long before people carried it into cold country. Clothing was not an invention. It was an inheritance.
+And then there's the evidence that isn't archaeology at all. It's lice.
 
-Which changes the question. Not, did they wear clothes — but how well could they make them?
+Head lice live on heads, on account of the heads. Body lice live in clothing, because they need fabric to hold onto. They evolved from head lice. So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.
 
-## 3 · A cave that smells of fur
+In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago. Possibly a hundred and seventy thousand.
 
-Contrebandiers Cave sits on the Atlantic coast of Morocco, close enough to the sea that you can hear it.
+That's a window, not a date. Windows are what we get. But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.
 
-From layers dated between a hundred and twenty thousand and ninety thousand years ago, Emily Hallett and her colleagues recovered more than twelve thousand bone fragments. Sixty-two had been shaped by people.
+Which flips the question. Not, did they wear clothes — obviously. How well could they make them.
 
-The tool you would walk past is a scraper: the rib of an antelope or a wild cow, split into a flat, spatula-like shape. It looks like nothing. Under a microscope it carries a record — short deep grooves, and a polish from being pulled again and again across the inside of a raw hide.
+## 3 · The ugliest tool in the cave
 
-You do not scrape a hide because you want to eat it later. Scraping removes fat, membrane and hair so that skin stops being a corpse and starts being a material.
+Contrebandiers Cave, on the Atlantic coast of Morocco. Close enough to the sea that you can hear it working.
 
-The detail that settles it is on the animals. Hallett found cut marks across the paws and jaws of sand foxes, golden jackals and wildcats — a pattern that does not match butchering for meat. The skin had been opened at the feet and pulled, in one piece, over the head.
+Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old. Sixty-two of them had been shaped by people.
 
-You do that when the fur is the point.
+The one worth your attention looks like a spatula. It's a rib — antelope, or wild cattle — split and flattened, with an edge that's been dragged across wet hide so often it polished.
 
-It does not prove anyone there sewed a coat. The researchers call it strong proxy evidence. But it shows an animal chosen for its pelt, and a tool that makes the result soft.
+You'd walk past it. Under a microscope it has grooves.
 
-## 4 · The hard part is the hole
+Then there's the detail I can't get over. Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats. Not butchering marks. Skinning marks. The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.
 
-If you want clothing from hides, the difficult step is not cutting. It is joining.
+Like a sock. Somebody took a wildcat off like a sock.
 
-You can fold a hide, or tie it with a strip of leather. But for a sleeve, or a seam that holds under strain, you have to pass thread through material — with a tool fine enough not to tear the hole wider than the thread.
+That is not a hungry person. That's a person who has decided the fur is worth more than the meat.
 
-Awls came first: a sharpened bone, pushed through to open a hole. They work — but they leave a gap, and every puncture weakens the hide. A needle carries the thread with it, so the hole is exactly the width of the thread.
+Now, careful — this is where documentaries start fibbing. It does not prove anyone in that cave sewed a coat. The researchers call it strong proxy evidence, and that's the honest version. What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.
 
-The oldest bone needle most often cited comes from Denisova Cave in southern Siberia, around fifty thousand years old. It is about seven centimetres long, made from the bone of a large bird, with an eye worked through the end. It came from layers that also produced Denisovan remains — though it cannot be assigned to a species with confidence.
+A hundred and twenty thousand years ago. Before our species had got anywhere near cold country.
 
-By fifty thousand years ago, someone was drilling a hole through a sliver of bone without splitting it. That is not a crude object. That is a specialist.
+## 4 · The hole is the hard part
 
-And then something odd. Eyed needles do not appear everywhere at once. They show up in the cold parts of Eurasia from around forty thousand years ago, as the climate tips toward the last glacial maximum.
+If you want to make clothing out of hide, cutting is easy. Joining is the nightmare.
 
-People already had awls. People already had clothes. So why invent a harder tool?
+You can fold a hide. You can tie it with a strip of leather. Fine. But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material — and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.
 
-## 5 · The layer against your skin
+The first answer was the awl. A sharpened bone. Push it through, open a hole, thread it.
 
-In 2024, Ian Gilligan and colleagues argued that the answer is not survival in the simple sense.
+It works. It leaves a gap. And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.
 
-A scraped hide gives you a loose garment. Enough for a cool evening. Not enough for a glacial winter, where what keeps you alive is not one thick layer but several thin ones — and the layer closest to the skin is the one that has to fit.
+A needle fixes that, because the needle carries the thread in with it.
 
-That needs fine sewing. Fine sewing needs an eyed needle. In Gilligan's phrasing, the innovation comes down to making underwear.
+The oldest bone needle anyone cites comes from Denisova Cave, in the mountains of southern Siberia. Seven centimetres of bird bone, with an eye worked through the end. Around fifty thousand years old.
 
-People decorate themselves when skin is visible: ochre, scars, paint, beads pressed to the body. Cover the body completely, for months, because staying warm is life and death, and all that signalling has nowhere to go.
+And here's what should stop you: it came out of layers that also held Denisovan remains. It also can't be assigned to a species. Anyone who tells you otherwise is guessing.
 
-So it moves onto the clothing. Eyed needles attach beads and shells and strips of fur to the outside of a garment, fine enough to read from a distance. Clothing stops being thermal and becomes social.
+Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it. That is not a caveman with a rock. That's a specialist with a bad afternoon ahead.
 
-It is a hypothesis, built from timing and tool, and Gilligan says so. But once you look for it, the record is full of it.
+Then it gets strange. Eyed needles don't turn up everywhere. They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.
 
-## 6 · A thread nobody was looking for
+They already had awls. They already had clothes. So why build the hard tool?
 
-In the foothills of the Caucasus, in the republic of Georgia, there is a cave called Dzudzuana.
+## 5 · It's about the underwear
 
-In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing. They were studying ancient climate, which meant pollen, and counting grains under a microscope.
+In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.
 
-What they found instead were fibres. Wild flax. Thousands of them, in layers up to thirty-four thousand years old.
+A scraped hide gives you a loose garment. Good enough for a cool evening. Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones — and the one against your skin is the one that has to fit.
 
-Some were twisted — spun, deliberately, into cord. Some were knotted. And some were coloured: black, grey, turquoise, and one that was pink.
+Fitted means fine sewing. Fine sewing means an eyed needle. Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.
 
-The colours came from plants. Someone had taken a plant, extracted fibre, spun it into thread, and dyed it — for cord, for baskets, for sewing, or for all three.
+But the argument keeps going, and it goes somewhere better.
 
-No textile survives from Dzudzuana. What survives is fibre, at a scale you need a microscope to see. Dyeing is not a survival technology. You do not colour a rope because the rope works better.
+Think about how you announce yourself when your skin is showing. Ochre. Scars. Paint. Beads pressed right up against the body. Now wrap that body in hide, for months, because the alternative is freezing. Everything you used to say about yourself has nowhere to go.
 
-Around the same period, at Pavlov in the Czech Republic, fired clay preserved the impression of woven fibre — a textile that no longer exists. So it is not hides versus cloth, with cloth arriving late. It is both, for a very long time, in the same toolkits.
+So you put it on the clothes.
 
-## 7 · What we cannot know
+That's what the needle is for, too. Beads. Shells. Strips of fur. Fine enough to read from across a fire. Clothing stops being a thermostat and becomes a sentence.
 
-This is where reconstructions get confident and the evidence does not.
+It's a hypothesis, built from timing and tools, and Gilligan says so himself. But once you know to look for it, you can't stop seeing it.
 
-We know the tools, the fibres, the marks on bone. What we do not have is a complete garment older than about five thousand years — and that one, from a tomb in Egypt, survived by accident.
+## 6 · Someone dyed a rope pink
 
-We do not know whether a hide garment was a rectangle with a hole for the head or a shaped coat with sleeves. Every image of a prehistoric person in a stitched, fitted outfit is a reconstruction: a reasonable guess built from the tools, not a photograph of an object.
+In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.
 
-## 8 · Three thousand beads
+In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing. They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope. Glamorous work.
 
-Two hundred kilometres east of Moscow, near the town of Vladimir, is a site called Sunghir.
+What they found was fibre. Wild flax. Thousands of strands, in layers up to thirty-four thousand years old.
 
-Around thirty-four thousand years ago, people were buried there with extraordinary care. The best known grave holds a man between roughly thirty-five and forty-five years old. He was covered in red ochre, and he was covered in beads.
+Some of it was twisted — spun, deliberately, into cord. Some was knotted. And some was coloured. Black, grey, turquoise. And one was pink.
 
-About three thousand of them. Mammoth ivory, each one carved, each one pierced, each one small enough to be a problem for a modern jeweller. Alongside them: armbands of ivory, and hundreds of pierced fox teeth.
+The flax grew outside. The colours came from plants. Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it. For rope. For baskets. For sewing. We don't know which, and no textile survives to tell us.
 
-Then those beads were attached to what he was wearing — they were found lying in rows, in the pattern of a garment, as if sewn onto it.
+But here's why I care. Dyeing is not a survival technology. You do not colour a rope so the rope works better.
 
-That is the moment clothing stops being about weather. A hide keeps you warm. A hide carrying three thousand hand-cut beads announces who this person was, what their community could spend, and what they believed the dead deserved.
+Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre — the negative of a textile that no longer exists. So this was never hides-or-cloth, with cloth arriving fashionably late. It was both, in the same toolkit, for a very long time.
 
-Nearby, two children were buried head to head, with ivory spears and discs and thousands more beads. Whatever the beads meant, they were not a privilege of age.
+## 7 · Every diorama is a guess
+
+And now the part nobody puts in the documentary.
+
+We know the tools. We know the fibre. We know the cut marks. What we do not have is one complete garment older than about five thousand years — and that one survived because it was buried in Egypt, by accident, in the right kind of dry.
+
+We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves. We don't know the colours anyone liked. Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.
+
+That's not a complaint. That's where the story lives.
+
+## 8 · Three thousand holes
+
+Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.
+
+Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually. The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre. And covered in beads.
+
+Three thousand of them. Mammoth ivory. Each one carved. Each one pierced. Each one small enough to make a modern jeweller swear.
+
+With him: ivory armbands, and hundreds of pierced fox teeth. And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.
+
+Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.
+
+That's the moment this stops being a story about weather.
+
+A hide keeps you warm. A hide with three thousand hand-cut beads on it says something. Who this was. What the community could afford to spend. What they thought the dead were owed.
+
+And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads. Whatever those beads meant, they were not a reward for a long life. Those children hadn't had one.
 
 ## 9 · The first thing you put on
 
-So: what did ancient humans wear before tailors?
+So. What did ancient humans wear before tailors?
 
-They were already tailoring. The tailor — a specialist who fits a garment to a body — is present in the tools long before any shop.
+They were already tailoring. The tailor — the one who fits a garment to a body — is in the tools long before there's a shop.
 
-What changed across those ninety thousand years was not whether people could make clothes. It was what clothes were for. First shelter. Then fit. Then, once the body was covered all year, identity.
+What changed across ninety thousand years isn't whether people could make clothes. It's what clothes were for. Warmth. Then fit. Then, once the body was covered all year round, identity.
 
-Almost none of it survives. The softest, most constant object in a human life is the one the ground eats first. What we have left is a scraper, a needle with a hole the width of a hair, and a handful of fibres dyed turquoise by someone who had no reason to, except that it looked good.
+And almost none of it is left. The softest, most personal object in a human life is the first thing the ground eats. What we have is a scraper. A needle with a hole the width of a hair. And a few fibres that somebody dyed turquoise, for no reason except that they liked it.
 
-The next time you pull on a coat, notice what you are doing. You are putting on the only technology that has to be rebuilt for every single body that wears it.
+Next time you pull on a coat, notice what you're doing. You're putting on the only technology that has to be rebuilt for every single body that wears it.
 
-If you enjoyed this, subscribe to Atlas Understory. And tell us: given a hide, a bone needle and no thread, what would you make first?
+Right. Subscribe if you want more of this. And tell me — one hide, one bone needle, no thread. What are you making?

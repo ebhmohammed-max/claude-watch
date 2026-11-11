@@ -20,6 +20,9 @@ FFPROBE = FF.rsplit('ffmpeg', 1)[0] + 'ffprobe' if os.path.exists(
     FF.rsplit('ffmpeg', 1)[0] + 'ffprobe') else None
 
 SECTIONS = [f'{k:02d}' for k in range(1, 10)]
+# a section whose narration overflowed the per-call character limit is
+# generated as several parts and stitched back together in order
+PARTS = {'04': ['04', '04b']}
 
 
 def dur(path):
@@ -35,13 +38,23 @@ def dur(path):
 def main():
     trimmed = []
     for sec in SECTIONS:
-        src = os.path.join(NAR, f'{sec}.mp3')
-        dst = os.path.join(NAR, f'{sec}.wav')
-        # drop the leading encoder delay, then hold the measured length
-        subprocess.run([FF, '-y', '-loglevel', 'error', '-i', src,
-                        '-af', 'atrim=start=0.030,asetpts=PTS-STARTPTS',
-                        '-ar', '44100', '-ac', '1', dst], check=True)
-        trimmed.append(dst)
+        parts = []
+        for part in PARTS.get(sec, [sec]):
+            src = os.path.join(NAR, f'{part}.mp3')
+            dst = os.path.join(NAR, f'{part}.wav')
+            # drop the leading encoder delay, then hold the measured length
+            subprocess.run([FF, '-y', '-loglevel', 'error', '-i', src,
+                            '-af', 'atrim=start=0.030,asetpts=PTS-STARTPTS',
+                            '-ar', '44100', '-ac', '1', dst], check=True)
+            parts.append(dst)
+        if len(parts) > 1:
+            lst = os.path.join(NAR, f'{sec}-parts.txt')
+            open(lst, 'w').write(''.join(f"file '{p}'\n" for p in parts))
+            dst = os.path.join(NAR, f'{sec}.wav')
+            subprocess.run([FF, '-y', '-loglevel', 'error', '-f', 'concat',
+                            '-safe', '0', '-i', lst, '-ar', '44100', '-ac', '1',
+                            dst], check=True)
+        trimmed.append(os.path.join(NAR, f'{sec}.wav'))
 
     durations = {sec: round(dur(p), 3) for sec, p in zip(SECTIONS, trimmed)}
     total = round(sum(durations.values()), 3)

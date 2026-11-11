@@ -1,0 +1,2 @@
+file '/home/user/claude-watch/production/tailors/narration/04.wav'
+file '/home/user/claude-watch/production/tailors/narration/04b.wav'

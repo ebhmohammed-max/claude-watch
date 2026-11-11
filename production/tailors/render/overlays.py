@@ -1,0 +1,182 @@
+"""Render the typography layer for every slot.
+
+One RGBA PNG per slot at 1280x720, transparent except for type. Type is drawn
+on its own layer and composited *after* the camera move, so captions never
+wobble or resample with the push-in.
+
+PIL's RGBA draw replaces alpha rather than blending it, so every element that
+needs translucency is drawn on its own image and alpha_composited.
+"""
+import json, os, glob
+from PIL import Image, ImageDraw, ImageFont
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+M = json.load(open(os.path.join(HERE, 'map.json')))
+SPEC = json.load(open(os.path.join(HERE, 'shots.json')))
+LABELS = SPEC['labels']
+rows = json.load(open(os.path.join(HERE, 'shotplan.json')))
+cues = M['cues']
+
+W, H = 1280, 720
+DEJA = '/usr/share/fonts/truetype/dejavu/'
+F = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 18)
+FSM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 16)
+FM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 26)
+FS = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 40)
+FB = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 26)
+
+LABEL_TEXT = {
+    'RECON':     'Illustrative reconstruction — hypothetical scene',
+    'OBJECT':    'Illustrative reconstruction of an object — not the original find',
+    'LANDSCAPE': 'Modern landscape — atmosphere only',
+    'DETAIL':    'Close detail — illustrative, not a find',
+}
+
+# Section titles carry the number the *script* uses, which is the same as the
+# map index here (unlike the rain episode, which skipped section 5).
+SEC_TITLE = {s['section']: f"{int(s['section'])} · {s['title'].split(' · ')[-1]}"
+             for s in M['sections']}
+
+# Place cards: a site gets named once, and stays named while it is discussed.
+PLACES = [
+    (115.12, '01', 'Contrebandiers Cave · Atlantic Morocco · 120,000–90,000 years ago'),
+    (187.72, None, None),   # cleared at the section change
+    (236.00, '04', 'Denisova Cave · Altai Mountains, Siberia · c. 50,000 years ago'),
+    (264.48, None, None),
+    (323.96, '06', 'Dzudzuana Cave · Caucasus, Georgia · c. 34,000 years ago'),
+    (374.00, '06', 'Pavlov · Czech Republic · c. 26,000 years ago'),
+    (400.08, None, None),
+    (430.76, '08', 'Sunghir · near Vladimir, Russia · c. 34,000 years ago'),
+    (493.76, None, None),
+]
+PLACE_HOLD = 3      # slots a place card stays up
+
+# On-screen attribution wherever the voice makes a sourced claim.
+SOURCES = [
+    (105.0, 'Source · Toups et al., Mol. Biol. Evol. 2011'),
+    (150.0, 'Source · Hallett et al., iScience 2021'),
+    (272.0, 'Source · Gilligan et al., Sci. Adv. 2024'),
+    (352.0, 'Source · Kvavadze et al., Science 2009'),
+    (470.0, 'Source · Trinkaus & Buzhilova, Antiquity 2015'),
+]
+SRC_HOLD = 3
+
+
+def wrap(dr, t, f, maxw):
+    ls, c = [], ''
+    for w in t.split():
+        x = (c + ' ' + w).strip()
+        if dr.textbbox((0, 0), x, font=f)[2] <= maxw:
+            c = x
+        else:
+            if c:
+                ls.append(c)
+            c = w
+    if c:
+        ls.append(c)
+    return ls
+
+
+def card(ov, xy, text, font, pad=(14, 11), fill=(0, 0, 0, 105)):
+    """Draws a rounded translucent card behind text, on its own layer."""
+    c = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    dc = ImageDraw.Draw(c)
+    tw = dc.textbbox((0, 0), text, font=font)[2]
+    th = dc.textbbox((0, 0), text, font=font)[3]
+    x, y = xy
+    dc.rounded_rectangle([x, y, x + tw + pad[0] * 2, y + th + pad[1] * 2],
+                         radius=8, fill=fill)
+    dc.text((x + pad[0], y + pad[1] - 2), text, font=font, fill=(255, 255, 255, 245))
+    ov.alpha_composite(c)
+
+
+def place_at(t):
+    cur = None
+    for at, _sec, txt in PLACES:
+        if t >= at - 0.02:
+            cur = (at, txt)
+    return cur
+
+
+def source_at(t):
+    cur = None
+    for at, txt in SOURCES:
+        if t >= at - 0.02:
+            cur = (at, txt)
+    return cur
+
+
+def layer_for(r, i):
+    ov = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    dr = ImageDraw.Draw(ov)
+    # top and bottom scrims so type survives a bright plate
+    sc = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    ds = ImageDraw.Draw(sc)
+    ds.rectangle([0, 0, W, 88], fill=(0, 0, 0, 58))
+    ds.rectangle([0, H - 122, W, H], fill=(0, 0, 0, 70))
+    ov.alpha_composite(sc)
+
+    sec = r['section']
+    prev = rows[i - 1] if i > 0 else None
+    if prev is None or prev['section'] != sec:
+        card(ov, (54, 116), SEC_TITLE[sec], FS, pad=(18, 12), fill=(0, 0, 0, 115))
+
+    # place card: appears on the site's first slots only
+    p = place_at(r['start'])
+    if p and p[1]:
+        run = sum(1 for x in rows[:i + 1] if place_at(x['start']) == p)
+        if run <= PLACE_HOLD:
+            card(ov, (54, 196), p[1], FM, pad=(12, 8), fill=(0, 0, 0, 100))
+
+    # captions
+    txt = r['sentence']
+    ls = wrap(dr, txt, FM, 1060)
+    lh = 34
+    y = H - 58 - lh * len(ls)
+    for ln in ls:
+        ww = dr.textbbox((0, 0), ln, font=FM)[2]
+        x = (W - ww) // 2
+        dr.rounded_rectangle([x - 14, y - 5, x + ww + 14, y + 30], radius=6,
+                             fill=(0, 0, 0, 122))
+        dr.text((x, y), ln, font=FM, fill=(255, 255, 255, 247))
+        y += lh
+
+    # honesty label, always on
+    lab = LABEL_TEXT[LABELS.get(str(r['still']), 'RECON')]
+    f = F if LABELS.get(str(r['still'])) != 'OBJECT' else FSM
+    if LABELS.get(str(r['still'])) == 'OBJECT':
+        lab = LABEL_TEXT['OBJECT']
+    card(ov, (30, 24), lab, f, pad=(11, 8), fill=(0, 0, 0, 110))
+
+    # source card, top right
+    s = source_at(r['start'])
+    if s:
+        run = sum(1 for x in rows[:i + 1] if source_at(x['start']) == s)
+        if run <= SRC_HOLD:
+            c = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+            dc = ImageDraw.Draw(c)
+            tw = dc.textbbox((0, 0), s[1], font=FSM)[2]
+            x = W - 30 - tw - 16
+            dc.rounded_rectangle([x, 26, W - 30, 58], radius=7, fill=(0, 0, 0, 120))
+            dc.text((x + 8, 32), s[1], font=FSM, fill=(232, 232, 232, 245))
+            ov.alpha_composite(c)
+    return ov
+
+
+def main():
+    out = os.path.join(HERE, 'overlays')
+    os.makedirs(out, exist_ok=True)
+    for f in glob.glob(out + '/*.png'):
+        os.remove(f)
+    plan = []
+    for i, r in enumerate(rows):
+        layer_for(r, i).save(f'{out}/{i:04d}.png')
+        plan.append({'i': i, 'still': r['still'], 'stem': f'{i:04d}',
+                     'start': r['start'], 'end': r['end'],
+                     'section': r['section'], 'sentence': r['sentence']})
+    json.dump(plan, open(os.path.join(HERE, 'plan.json'), 'w'), indent=1)
+    print(f'{len(plan)} type layers -> {out}')
+
+
+if __name__ == '__main__':
+    main()

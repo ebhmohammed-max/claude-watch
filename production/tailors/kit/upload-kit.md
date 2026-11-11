@@ -135,6 +135,10 @@ One hide, one bone needle, no thread. What are you making?
   plate that matches each sentence, and the approved needle-first opening puts
   `t043` and `t072` ahead of `t001`. 104 of 287 transitions move to a
   lower-numbered plate. The sequence follows the story, not the file numbers.
+- **Source cards now land on the sentence that names the study.** Two were
+  mistimed: the Hallett card appeared 10 s after the voice first named her, and
+  the Sunghir card sat 10 s early. The voice never says "Trinkaus" out loud, so
+  that card now sits on the grave description it actually supports.
 - **Section changes dissolve; every other cut is hard.** That rule was broken
   in v2-v4 -- every boundary was a hard cut because the clothing episode never
   had the transitions step the rain episode had. v5 ports it: a 0.5 s blend of

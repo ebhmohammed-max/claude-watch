@@ -59,12 +59,16 @@ PLACES = [
 PLACE_HOLD = 3      # slots a place card stays up
 
 # On-screen attribution wherever the voice makes a sourced claim.
+# Each card must appear while the study is actually being discussed, not on a
+# fixed offset. Two of these were off: Hallett came up 7 s after the voice first
+# named her, and the Sunghir card sat 10 s early -- the voice never says
+# "Trinkaus" at all, so it belongs on the grave description instead.
 SOURCES = [
-    (109.4, 'Source · Toups et al., Mol. Biol. Evol. 2011'),
-    (149.0, 'Source · Hallett et al., iScience 2021'),
-    (269.0, 'Source · Gilligan et al., Sci. Adv. 2024'),
-    (344.2, 'Source · Kvavadze et al., Science 2009'),
-    (464.4, 'Source · Trinkaus & Buzhilova, Antiquity 2015'),
+    (109.4, 'Source · Toups et al., Mol. Biol. Evol. 2011'),   # "In 2011, Melissa Toups..."
+    (141.6, 'Source · Hallett et al., iScience 2021'),          # "Emily Hallett and her colleagues..."
+    (269.0, 'Source · Gilligan et al., Sci. Adv. 2024'),        # "In 2024, Ian Gilligan..."
+    (344.2, 'Source · Kvavadze et al., Science 2009'),          # "In 2009, a team led by Eliso Kvavadze..."
+    (463.7, 'Source · Trinkaus & Buzhilova, Antiquity 2015'),   # "The best-known grave holds a man..."
 ]
 SRC_HOLD = 3
 

@@ -1,0 +1,2832 @@
+[
+ {
+  "i": 0,
+  "shot": 159,
+  "file": "production/rain/visuals-3d/real-159-rain-drops-ground.jpg",
+  "stem": "0000",
+  "start": 0,
+  "end": 1.75,
+  "dur": 1.75,
+  "quiz": false
+ },
+ {
+  "i": 1,
+  "shot": 180,
+  "file": "production/rain/visuals-3d/real-180-heavy-rain-ground-spray.jpg",
+  "stem": "0001",
+  "start": 1.75,
+  "end": 3.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 2,
+  "shot": 187,
+  "file": "production/rain/visuals-3d/real-187-rain-over-open-water-wide.jpg",
+  "stem": "0002",
+  "start": 3.75,
+  "end": 4.8,
+  "dur": 1.05,
+  "quiz": false
+ },
+ {
+  "i": 3,
+  "shot": 240,
+  "file": "production/rain/visuals-3d/real-240-embers-bare-earth.jpg",
+  "stem": "0003",
+  "start": 4.8,
+  "end": 6.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 4,
+  "shot": 241,
+  "file": "production/rain/visuals-3d/real-241-spent-fire-scatter.jpg",
+  "stem": "0004",
+  "start": 6.8,
+  "end": 8.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 5,
+  "shot": 242,
+  "file": "production/rain/visuals-3d/real-242-smoke-vent-open-shelter.jpg",
+  "stem": "0005",
+  "start": 8.8,
+  "end": 11.53,
+  "dur": 2.73,
+  "quiz": false
+ },
+ {
+  "i": 6,
+  "shot": 228,
+  "file": "production/rain/visuals-3d/real-228-rain-approaching-across-lake.jpg",
+  "stem": "0006",
+  "start": 11.53,
+  "end": 14.12,
+  "dur": 2.59,
+  "quiz": false
+ },
+ {
+  "i": 7,
+  "shot": 108,
+  "file": "production/rain/visuals-3d/real-108-lakewide-two-shore.jpg",
+  "stem": "0007",
+  "start": 14.12,
+  "end": 16.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 8,
+  "shot": 147,
+  "file": "production/rain/visuals-3d/real-147-lakewide-turquoise.jpg",
+  "stem": "0008",
+  "start": 16.12,
+  "end": 17.32,
+  "dur": 1.2,
+  "quiz": false
+ },
+ {
+  "i": 9,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0009",
+  "start": 17.32,
+  "end": 19.32,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 10,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0010",
+  "start": 19.32,
+  "end": 20.58,
+  "dur": 1.26,
+  "quiz": false
+ },
+ {
+  "i": 11,
+  "shot": 185,
+  "file": "production/rain/visuals-3d/real-185-hilltop-view-lake-wide.jpg",
+  "stem": "0011",
+  "start": 20.58,
+  "end": 23.35,
+  "dur": 2.77,
+  "quiz": false
+ },
+ {
+  "i": 12,
+  "shot": 85,
+  "file": "production/rain/visuals-3d/real-85-wild-cereal-close.jpg",
+  "stem": "0012",
+  "start": 23.35,
+  "end": 25.35,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 13,
+  "shot": 109,
+  "file": "production/rain/visuals-3d/real-109-olive-fig-branch.jpg",
+  "stem": "0013",
+  "start": 25.35,
+  "end": 27.15,
+  "dur": 1.8,
+  "quiz": false
+ },
+ {
+  "i": 14,
+  "shot": 219,
+  "file": "production/rain/visuals-3d/real-219-figures-fog-silhouette.jpg",
+  "stem": "0014",
+  "start": 27.15,
+  "end": 29.15,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 15,
+  "shot": 221,
+  "file": "production/rain/visuals-3d/real-221-figure-walking-away-fog.jpg",
+  "stem": "0015",
+  "start": 29.15,
+  "end": 31.82,
+  "dur": 2.67,
+  "quiz": false
+ },
+ {
+  "i": 16,
+  "shot": 209,
+  "file": "production/rain/visuals-3d/real-209-lake-shore-ordinary-day.jpg",
+  "stem": "0016",
+  "start": 31.82,
+  "end": 34.42,
+  "dur": 2.6,
+  "quiz": false
+ },
+ {
+  "i": 17,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0017",
+  "start": 34.42,
+  "end": 36.42,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 18,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0018",
+  "start": 36.42,
+  "end": 37.75,
+  "dur": 1.33,
+  "quiz": false
+ },
+ {
+  "i": 19,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0019",
+  "start": 37.75,
+  "end": 39.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 20,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0020",
+  "start": 39.75,
+  "end": 41.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 21,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0021",
+  "start": 41.75,
+  "end": 44.08,
+  "dur": 2.33,
+  "quiz": false
+ },
+ {
+  "i": 22,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0022",
+  "start": 44.08,
+  "end": 46.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 23,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0023",
+  "start": 46.08,
+  "end": 48.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 24,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0024",
+  "start": 48.08,
+  "end": 50.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 25,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0025",
+  "start": 50.08,
+  "end": 52.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 26,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0026",
+  "start": 52.08,
+  "end": 53.3,
+  "dur": 1.22,
+  "quiz": false
+ },
+ {
+  "i": 27,
+  "shot": 162,
+  "file": "production/rain/visuals-3d/real-162-lake-surface-texture.jpg",
+  "stem": "0027",
+  "start": 53.3,
+  "end": 55.3,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 28,
+  "shot": 56,
+  "file": "production/rain/visuals-3d/real-56-reeds-rain.jpg",
+  "stem": "0028",
+  "start": 55.3,
+  "end": 56.65,
+  "dur": 1.35,
+  "quiz": false
+ },
+ {
+  "i": 29,
+  "shot": 120,
+  "file": "production/rain/visuals-3d/real-120-almonds-branch.jpg",
+  "stem": "0029",
+  "start": 56.65,
+  "end": 58.65,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 30,
+  "shot": 121,
+  "file": "production/rain/visuals-3d/real-121-pistachio-branch.jpg",
+  "stem": "0030",
+  "start": 58.65,
+  "end": 61.03,
+  "dur": 2.38,
+  "quiz": false
+ },
+ {
+  "i": 31,
+  "shot": 100,
+  "file": "production/rain/visuals-3d/real-100-lake-storm-shore.jpg",
+  "stem": "0031",
+  "start": 61.03,
+  "end": 62.75,
+  "dur": 1.72,
+  "quiz": false
+ },
+ {
+  "i": 32,
+  "shot": 165,
+  "file": "production/rain/visuals-3d/real-165-mud-between-stones.jpg",
+  "stem": "0032",
+  "start": 62.75,
+  "end": 64.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 33,
+  "shot": 175,
+  "file": "production/rain/visuals-3d/real-175-wet-sand-ripples.jpg",
+  "stem": "0033",
+  "start": 64.75,
+  "end": 65.85,
+  "dur": 1.1,
+  "quiz": false
+ },
+ {
+  "i": 34,
+  "shot": 183,
+  "file": "production/rain/visuals-3d/real-183-branch-shadow-wet-ground.jpg",
+  "stem": "0034",
+  "start": 65.85,
+  "end": 67.85,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 35,
+  "shot": 222,
+  "file": "production/rain/visuals-3d/real-222-shoreline-trampled-ground.jpg",
+  "stem": "0035",
+  "start": 67.85,
+  "end": 69.95,
+  "dur": 2.1,
+  "quiz": false
+ },
+ {
+  "i": 36,
+  "shot": 128,
+  "file": "production/rain/visuals-3d/real-128-storm-clouds-above.jpg",
+  "stem": "0036",
+  "start": 69.95,
+  "end": 72.38,
+  "dur": 2.43,
+  "quiz": false
+ },
+ {
+  "i": 37,
+  "shot": 91,
+  "file": "production/rain/visuals-3d/real-91-grass-layer-edge.jpg",
+  "stem": "0037",
+  "start": 72.38,
+  "end": 74.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 38,
+  "shot": 126,
+  "file": "production/rain/visuals-3d/real-126-ash-and-stems-close.jpg",
+  "stem": "0038",
+  "start": 74.38,
+  "end": 76.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 39,
+  "shot": 131,
+  "file": "production/rain/visuals-3d/real-131-flattened-grass-patch.jpg",
+  "stem": "0039",
+  "start": 76.38,
+  "end": 78.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 40,
+  "shot": 211,
+  "file": "production/rain/visuals-3d/real-211-seeds-husks-ground.jpg",
+  "stem": "0040",
+  "start": 78.38,
+  "end": 79.35,
+  "dur": 0.97,
+  "quiz": false
+ },
+ {
+  "i": 41,
+  "shot": 139,
+  "file": "production/rain/visuals-3d/real-139-lake-before-rain.jpg",
+  "stem": "0041",
+  "start": 79.35,
+  "end": 81.47,
+  "dur": 2.12,
+  "quiz": false
+ },
+ {
+  "i": 42,
+  "shot": 224,
+  "file": "production/rain/visuals-3d/real-224-hail-on-ground.jpg",
+  "stem": "0042",
+  "start": 81.47,
+  "end": 83.5,
+  "dur": 2.03,
+  "quiz": false
+ },
+ {
+  "i": 43,
+  "shot": 244,
+  "file": "production/rain/visuals-3d/real-244-fire-distant-dusk-shelter.jpg",
+  "stem": "0043",
+  "start": 83.5,
+  "end": 85.43,
+  "dur": 1.93,
+  "quiz": false
+ },
+ {
+  "i": 44,
+  "shot": 158,
+  "file": "production/rain/visuals-3d/real-158-lakewide-evening-clear.jpg",
+  "stem": "0044",
+  "start": 85.43,
+  "end": 87.43,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 45,
+  "shot": 149,
+  "file": "production/rain/visuals-3d/real-149-morning-after-rain.jpg",
+  "stem": "0045",
+  "start": 87.43,
+  "end": 89.3,
+  "dur": 1.87,
+  "quiz": false
+ },
+ {
+  "i": 46,
+  "shot": 237,
+  "file": "production/rain/visuals-3d/real-237-thin-ice-edge-puddle.jpg",
+  "stem": "0046",
+  "start": 89.3,
+  "end": 91.3,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 47,
+  "shot": 227,
+  "file": "production/rain/visuals-3d/real-227-bones-scattered-shore.jpg",
+  "stem": "0047",
+  "start": 91.3,
+  "end": 93.97,
+  "dur": 2.67,
+  "quiz": false
+ },
+ {
+  "i": 48,
+  "shot": 93,
+  "file": "production/rain/visuals-3d/real-93-rain-on-leaves.jpg",
+  "stem": "0048",
+  "start": 93.97,
+  "end": 95.97,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 49,
+  "shot": 81,
+  "file": "production/rain/visuals-3d/real-81-lake-dusk-rain.jpg",
+  "stem": "0049",
+  "start": 95.97,
+  "end": 98.55,
+  "dur": 2.58,
+  "quiz": false
+ },
+ {
+  "i": 50,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0050",
+  "start": 98.55,
+  "end": 100.55,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 51,
+  "shot": 151,
+  "file": "production/rain/visuals-3d/real-151-fish-drying-rack-absent.jpg",
+  "stem": "0051",
+  "start": 100.55,
+  "end": 101.95,
+  "dur": 1.4,
+  "quiz": false
+ },
+ {
+  "i": 52,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0052",
+  "start": 101.95,
+  "end": 103.95,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 53,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0053",
+  "start": 103.95,
+  "end": 105.7,
+  "dur": 1.75,
+  "quiz": false
+ },
+ {
+  "i": 54,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0054",
+  "start": 105.7,
+  "end": 107.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 55,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0055",
+  "start": 107.7,
+  "end": 109.35,
+  "dur": 1.65,
+  "quiz": false
+ },
+ {
+  "i": 56,
+  "shot": 231,
+  "file": "production/rain/visuals-3d/real-231-figures-far-mudflat.jpg",
+  "stem": "0056",
+  "start": 109.35,
+  "end": 111.35,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 57,
+  "shot": 220,
+  "file": "production/rain/visuals-3d/real-220-figure-behind-reeds.jpg",
+  "stem": "0057",
+  "start": 111.35,
+  "end": 113.0,
+  "dur": 1.65,
+  "quiz": false
+ },
+ {
+  "i": 58,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0058",
+  "start": 113.0,
+  "end": 115.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 59,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0059",
+  "start": 115.0,
+  "end": 117.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 60,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0060",
+  "start": 117.0,
+  "end": 118.93,
+  "dur": 1.93,
+  "quiz": false
+ },
+ {
+  "i": 61,
+  "shot": 118,
+  "file": "production/rain/visuals-3d/real-118-stone-shelter-floor.jpg",
+  "stem": "0061",
+  "start": 118.93,
+  "end": 120.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 62,
+  "shot": 72,
+  "file": "production/rain/visuals-3d/real-72-rock-shelter-interior.jpg",
+  "stem": "0062",
+  "start": 120.93,
+  "end": 122.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 63,
+  "shot": 195,
+  "file": "production/rain/visuals-3d/real-195-dry-cave-floor-dust.jpg",
+  "stem": "0063",
+  "start": 122.93,
+  "end": 124.61,
+  "dur": 1.68,
+  "quiz": false
+ },
+ {
+  "i": 64,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0064",
+  "start": 124.61,
+  "end": 126.61,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 65,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0065",
+  "start": 126.61,
+  "end": 128.61,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 66,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0066",
+  "start": 128.61,
+  "end": 130.61,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 67,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0067",
+  "start": 130.61,
+  "end": 133.0,
+  "dur": 2.39,
+  "quiz": false
+ },
+ {
+  "i": 68,
+  "shot": 179,
+  "file": "production/rain/visuals-3d/real-179-lake-predawn-blue.jpg",
+  "stem": "0068",
+  "start": 133.0,
+  "end": 135.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 69,
+  "shot": 198,
+  "file": "production/rain/visuals-3d/real-198-lake-dawn-birds-silhouette.jpg",
+  "stem": "0069",
+  "start": 135.0,
+  "end": 135.95,
+  "dur": 0.95,
+  "quiz": false
+ },
+ {
+  "i": 70,
+  "shot": 191,
+  "file": "production/rain/visuals-3d/real-191-fish-drying-warm-stone.jpg",
+  "stem": "0070",
+  "start": 135.95,
+  "end": 137.95,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 71,
+  "shot": 210,
+  "file": "production/rain/visuals-3d/real-210-drying-fish-flies-sky.jpg",
+  "stem": "0071",
+  "start": 137.95,
+  "end": 140.02,
+  "dur": 2.07,
+  "quiz": false
+ },
+ {
+  "i": 72,
+  "shot": 105,
+  "file": "production/rain/visuals-3d/real-105-hearth-under-overhang.jpg",
+  "stem": "0072",
+  "start": 140.02,
+  "end": 142.02,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 73,
+  "shot": 190,
+  "file": "production/rain/visuals-3d/real-190-ash-under-shelter-floor.jpg",
+  "stem": "0073",
+  "start": 142.02,
+  "end": 144.02,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 74,
+  "shot": 88,
+  "file": "production/rain/visuals-3d/real-88-campfire-ash-morning.jpg",
+  "stem": "0074",
+  "start": 144.02,
+  "end": 146.02,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 75,
+  "shot": 68,
+  "file": "production/rain/visuals-3d/real-68-hearth-smoke-dusk.jpg",
+  "stem": "0075",
+  "start": 146.02,
+  "end": 147.45,
+  "dur": 1.43,
+  "quiz": false
+ },
+ {
+  "i": 76,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0076",
+  "start": 147.45,
+  "end": 149.5,
+  "dur": 2.05,
+  "quiz": false
+ },
+ {
+  "i": 77,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0077",
+  "start": 149.5,
+  "end": 151.5,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 78,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0078",
+  "start": 151.5,
+  "end": 153.5,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 79,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0079",
+  "start": 153.5,
+  "end": 155.57,
+  "dur": 2.07,
+  "quiz": false
+ },
+ {
+  "i": 80,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0080",
+  "start": 155.57,
+  "end": 157.57,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 81,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0081",
+  "start": 157.57,
+  "end": 159.57,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 82,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0082",
+  "start": 159.57,
+  "end": 161.57,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 83,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0083",
+  "start": 161.57,
+  "end": 163.57,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 84,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0084",
+  "start": 163.57,
+  "end": 164.82,
+  "dur": 1.25,
+  "quiz": false
+ },
+ {
+  "i": 85,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0085",
+  "start": 164.82,
+  "end": 166.82,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 86,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0086",
+  "start": 166.82,
+  "end": 168.82,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 87,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0087",
+  "start": 168.82,
+  "end": 169.85,
+  "dur": 1.03,
+  "quiz": false
+ },
+ {
+  "i": 88,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0088",
+  "start": 169.85,
+  "end": 171.85,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 89,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0089",
+  "start": 171.85,
+  "end": 173.62,
+  "dur": 1.77,
+  "quiz": false
+ },
+ {
+  "i": 90,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0090",
+  "start": 173.62,
+  "end": 175.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 91,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0091",
+  "start": 175.62,
+  "end": 177.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 92,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0092",
+  "start": 177.62,
+  "end": 179.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 93,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0093",
+  "start": 179.62,
+  "end": 181.05,
+  "dur": 1.43,
+  "quiz": false
+ },
+ {
+  "i": 94,
+  "shot": 92,
+  "file": "production/rain/visuals-3d/real-92-lake-morning-calm.jpg",
+  "stem": "0094",
+  "start": 181.05,
+  "end": 182.93,
+  "dur": 1.88,
+  "quiz": false
+ },
+ {
+  "i": 95,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0095",
+  "start": 182.93,
+  "end": 184.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 96,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0096",
+  "start": 184.93,
+  "end": 186.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 97,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0097",
+  "start": 186.93,
+  "end": 187.88,
+  "dur": 0.95,
+  "quiz": false
+ },
+ {
+  "i": 98,
+  "shot": 89,
+  "file": "production/rain/visuals-3d/real-89-figures-distance-rain.jpg",
+  "stem": "0098",
+  "start": 187.88,
+  "end": 189.88,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 99,
+  "shot": 98,
+  "file": "production/rain/visuals-3d/real-98-children-distance.jpg",
+  "stem": "0099",
+  "start": 189.88,
+  "end": 192.77,
+  "dur": 2.89,
+  "quiz": false
+ },
+ {
+  "i": 100,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0100",
+  "start": 192.77,
+  "end": 194.77,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 101,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0101",
+  "start": 194.77,
+  "end": 196.55,
+  "dur": 1.78,
+  "quiz": false
+ },
+ {
+  "i": 102,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0102",
+  "start": 196.55,
+  "end": 198.44,
+  "dur": 1.89,
+  "quiz": false
+ },
+ {
+  "i": 103,
+  "shot": 50,
+  "file": "production/rain/visuals-3d/real-50-hearth-close.jpg",
+  "stem": "0103",
+  "start": 198.44,
+  "end": 200.44,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 104,
+  "shot": 178,
+  "file": "production/rain/visuals-3d/real-178-charcoal-wood-close.jpg",
+  "stem": "0104",
+  "start": 200.44,
+  "end": 202.44,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 105,
+  "shot": 188,
+  "file": "production/rain/visuals-3d/real-188-wet-firewood-under-ledge.jpg",
+  "stem": "0105",
+  "start": 202.44,
+  "end": 204.57,
+  "dur": 2.13,
+  "quiz": false
+ },
+ {
+  "i": 106,
+  "shot": 163,
+  "file": "production/rain/visuals-3d/real-163-hillside-path-distant.jpg",
+  "stem": "0106",
+  "start": 204.57,
+  "end": 206.7,
+  "dur": 2.13,
+  "quiz": false
+ },
+ {
+  "i": 107,
+  "shot": 169,
+  "file": "production/rain/visuals-3d/real-169-cave-ash-floor.jpg",
+  "stem": "0107",
+  "start": 206.7,
+  "end": 208.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 108,
+  "shot": 197,
+  "file": "production/rain/visuals-3d/real-197-cliff-band-dry-region.jpg",
+  "stem": "0108",
+  "start": 208.7,
+  "end": 210.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 109,
+  "shot": 157,
+  "file": "production/rain/visuals-3d/real-157-hillside-rock-shelters-distant.jpg",
+  "stem": "0109",
+  "start": 210.7,
+  "end": 212.12,
+  "dur": 1.42,
+  "quiz": false
+ },
+ {
+  "i": 110,
+  "shot": 181,
+  "file": "production/rain/visuals-3d/real-181-oak-scrub-hillside.jpg",
+  "stem": "0110",
+  "start": 212.12,
+  "end": 214.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 111,
+  "shot": 75,
+  "file": "production/rain/visuals-3d/real-75-distant-herd.jpg",
+  "stem": "0111",
+  "start": 214.12,
+  "end": 216.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 112,
+  "shot": 108,
+  "file": "production/rain/visuals-3d/real-108-lakewide-two-shore.jpg",
+  "stem": "0112",
+  "start": 216.12,
+  "end": 218.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 113,
+  "shot": 147,
+  "file": "production/rain/visuals-3d/real-147-lakewide-turquoise.jpg",
+  "stem": "0113",
+  "start": 218.12,
+  "end": 219.65,
+  "dur": 1.53,
+  "quiz": false
+ },
+ {
+  "i": 114,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0114",
+  "start": 219.65,
+  "end": 222.07,
+  "dur": 2.42,
+  "quiz": false
+ },
+ {
+  "i": 115,
+  "shot": 131,
+  "file": "production/rain/visuals-3d/real-131-flattened-grass-patch.jpg",
+  "stem": "0115",
+  "start": 222.07,
+  "end": 224.8,
+  "dur": 2.73,
+  "quiz": false
+ },
+ {
+  "i": 116,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0116",
+  "start": 224.8,
+  "end": 226.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 117,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0117",
+  "start": 226.8,
+  "end": 228.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 118,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0118",
+  "start": 228.8,
+  "end": 231.55,
+  "dur": 2.75,
+  "quiz": false
+ },
+ {
+  "i": 119,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0119",
+  "start": 231.55,
+  "end": 233.35,
+  "dur": 1.8,
+  "quiz": false
+ },
+ {
+  "i": 120,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0120",
+  "start": 233.35,
+  "end": 235.35,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 121,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0121",
+  "start": 235.35,
+  "end": 237.35,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 122,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0122",
+  "start": 237.35,
+  "end": 238.65,
+  "dur": 1.3,
+  "quiz": false
+ },
+ {
+  "i": 123,
+  "shot": 242,
+  "file": "production/rain/visuals-3d/real-242-smoke-vent-open-shelter.jpg",
+  "stem": "0123",
+  "start": 238.65,
+  "end": 240.65,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 124,
+  "shot": 243,
+  "file": "production/rain/visuals-3d/real-243-scorched-ground-patch.jpg",
+  "stem": "0124",
+  "start": 240.65,
+  "end": 242.65,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 125,
+  "shot": 244,
+  "file": "production/rain/visuals-3d/real-244-fire-distant-dusk-shelter.jpg",
+  "stem": "0125",
+  "start": 242.65,
+  "end": 244.9,
+  "dur": 2.25,
+  "quiz": false
+ },
+ {
+  "i": 126,
+  "shot": 185,
+  "file": "production/rain/visuals-3d/real-185-hilltop-view-lake-wide.jpg",
+  "stem": "0126",
+  "start": 244.9,
+  "end": 246.9,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 127,
+  "shot": 215,
+  "file": "production/rain/visuals-3d/real-215-lake-wide-flat-day.jpg",
+  "stem": "0127",
+  "start": 246.9,
+  "end": 248.9,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 128,
+  "shot": 209,
+  "file": "production/rain/visuals-3d/real-209-lake-shore-ordinary-day.jpg",
+  "stem": "0128",
+  "start": 248.9,
+  "end": 249.8,
+  "dur": 0.9,
+  "quiz": false
+ },
+ {
+  "i": 129,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0129",
+  "start": 249.8,
+  "end": 251.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 130,
+  "shot": 211,
+  "file": "production/rain/visuals-3d/real-211-seeds-husks-ground.jpg",
+  "stem": "0130",
+  "start": 251.8,
+  "end": 253.8,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 131,
+  "shot": 85,
+  "file": "production/rain/visuals-3d/real-85-wild-cereal-close.jpg",
+  "stem": "0131",
+  "start": 253.8,
+  "end": 256.18,
+  "dur": 2.38,
+  "quiz": false
+ },
+ {
+  "i": 132,
+  "shot": 90,
+  "file": "production/rain/visuals-3d/real-90-chert-nodule.jpg",
+  "stem": "0132",
+  "start": 256.18,
+  "end": 258.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 133,
+  "shot": 132,
+  "file": "production/rain/visuals-3d/real-132-stone-tools-on-ground.jpg",
+  "stem": "0133",
+  "start": 258.18,
+  "end": 261.02,
+  "dur": 2.84,
+  "quiz": false
+ },
+ {
+  "i": 134,
+  "shot": 102,
+  "file": "production/rain/visuals-3d/real-102-puddle-reflection.jpg",
+  "stem": "0134",
+  "start": 261.02,
+  "end": 263.02,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 135,
+  "shot": 94,
+  "file": "production/rain/visuals-3d/real-94-cloudburst-hills.jpg",
+  "stem": "0135",
+  "start": 263.02,
+  "end": 264.05,
+  "dur": 1.03,
+  "quiz": false
+ },
+ {
+  "i": 136,
+  "shot": 134,
+  "file": "production/rain/visuals-3d/real-134-worked-stone-earth.jpg",
+  "stem": "0136",
+  "start": 264.05,
+  "end": 266.05,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 137,
+  "shot": 207,
+  "file": "production/rain/visuals-3d/real-207-hide-drying-flat-ground.jpg",
+  "stem": "0137",
+  "start": 266.05,
+  "end": 267.85,
+  "dur": 1.8,
+  "quiz": false
+ },
+ {
+  "i": 138,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0138",
+  "start": 267.85,
+  "end": 269.85,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 139,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0139",
+  "start": 269.85,
+  "end": 271.85,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 140,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0140",
+  "start": 271.85,
+  "end": 272.84,
+  "dur": 0.99,
+  "quiz": false
+ },
+ {
+  "i": 141,
+  "shot": 105,
+  "file": "production/rain/visuals-3d/real-105-hearth-under-overhang.jpg",
+  "stem": "0141",
+  "start": 272.84,
+  "end": 274.84,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 142,
+  "shot": 190,
+  "file": "production/rain/visuals-3d/real-190-ash-under-shelter-floor.jpg",
+  "stem": "0142",
+  "start": 274.84,
+  "end": 276.75,
+  "dur": 1.91,
+  "quiz": false
+ },
+ {
+  "i": 143,
+  "shot": 216,
+  "file": "production/rain/visuals-3d/real-216-hides-stacked-dry.jpg",
+  "stem": "0143",
+  "start": 276.75,
+  "end": 278.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 144,
+  "shot": 186,
+  "file": "production/rain/visuals-3d/real-186-damp-hide-folded.jpg",
+  "stem": "0144",
+  "start": 278.75,
+  "end": 280.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 145,
+  "shot": 85,
+  "file": "production/rain/visuals-3d/real-85-wild-cereal-close.jpg",
+  "stem": "0145",
+  "start": 280.75,
+  "end": 281.83,
+  "dur": 1.08,
+  "quiz": false
+ },
+ {
+  "i": 146,
+  "shot": 88,
+  "file": "production/rain/visuals-3d/real-88-campfire-ash-morning.jpg",
+  "stem": "0146",
+  "start": 281.83,
+  "end": 283.83,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 147,
+  "shot": 68,
+  "file": "production/rain/visuals-3d/real-68-hearth-smoke-dusk.jpg",
+  "stem": "0147",
+  "start": 283.83,
+  "end": 285.83,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 148,
+  "shot": 50,
+  "file": "production/rain/visuals-3d/real-50-hearth-close.jpg",
+  "stem": "0148",
+  "start": 285.83,
+  "end": 287.23,
+  "dur": 1.4,
+  "quiz": false
+ },
+ {
+  "i": 149,
+  "shot": 178,
+  "file": "production/rain/visuals-3d/real-178-charcoal-wood-close.jpg",
+  "stem": "0149",
+  "start": 287.23,
+  "end": 288.85,
+  "dur": 1.62,
+  "quiz": false
+ },
+ {
+  "i": 150,
+  "shot": 188,
+  "file": "production/rain/visuals-3d/real-188-wet-firewood-under-ledge.jpg",
+  "stem": "0150",
+  "start": 288.85,
+  "end": 290.85,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 151,
+  "shot": 240,
+  "file": "production/rain/visuals-3d/real-240-embers-bare-earth.jpg",
+  "stem": "0151",
+  "start": 290.85,
+  "end": 291.88,
+  "dur": 1.03,
+  "quiz": false
+ },
+ {
+  "i": 152,
+  "shot": 241,
+  "file": "production/rain/visuals-3d/real-241-spent-fire-scatter.jpg",
+  "stem": "0152",
+  "start": 291.88,
+  "end": 293.88,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 153,
+  "shot": 242,
+  "file": "production/rain/visuals-3d/real-242-smoke-vent-open-shelter.jpg",
+  "stem": "0153",
+  "start": 293.88,
+  "end": 295.88,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 154,
+  "shot": 243,
+  "file": "production/rain/visuals-3d/real-243-scorched-ground-patch.jpg",
+  "stem": "0154",
+  "start": 295.88,
+  "end": 297.88,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 155,
+  "shot": 244,
+  "file": "production/rain/visuals-3d/real-244-fire-distant-dusk-shelter.jpg",
+  "stem": "0155",
+  "start": 297.88,
+  "end": 299.15,
+  "dur": 1.27,
+  "quiz": false
+ },
+ {
+  "i": 156,
+  "shot": 105,
+  "file": "production/rain/visuals-3d/real-105-hearth-under-overhang.jpg",
+  "stem": "0156",
+  "start": 299.15,
+  "end": 301.15,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 157,
+  "shot": 190,
+  "file": "production/rain/visuals-3d/real-190-ash-under-shelter-floor.jpg",
+  "stem": "0157",
+  "start": 301.15,
+  "end": 303.15,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 158,
+  "shot": 88,
+  "file": "production/rain/visuals-3d/real-88-campfire-ash-morning.jpg",
+  "stem": "0158",
+  "start": 303.15,
+  "end": 305.35,
+  "dur": 2.2,
+  "quiz": false
+ },
+ {
+  "i": 159,
+  "shot": 68,
+  "file": "production/rain/visuals-3d/real-68-hearth-smoke-dusk.jpg",
+  "stem": "0159",
+  "start": 305.35,
+  "end": 307.35,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 160,
+  "shot": 50,
+  "file": "production/rain/visuals-3d/real-50-hearth-close.jpg",
+  "stem": "0160",
+  "start": 307.35,
+  "end": 308.79,
+  "dur": 1.44,
+  "quiz": false
+ },
+ {
+  "i": 161,
+  "shot": 178,
+  "file": "production/rain/visuals-3d/real-178-charcoal-wood-close.jpg",
+  "stem": "0161",
+  "start": 308.79,
+  "end": 310.79,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 162,
+  "shot": 188,
+  "file": "production/rain/visuals-3d/real-188-wet-firewood-under-ledge.jpg",
+  "stem": "0162",
+  "start": 310.79,
+  "end": 312.79,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 163,
+  "shot": 240,
+  "file": "production/rain/visuals-3d/real-240-embers-bare-earth.jpg",
+  "stem": "0163",
+  "start": 312.79,
+  "end": 314.79,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 164,
+  "shot": 241,
+  "file": "production/rain/visuals-3d/real-241-spent-fire-scatter.jpg",
+  "stem": "0164",
+  "start": 314.79,
+  "end": 316.79,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 165,
+  "shot": 242,
+  "file": "production/rain/visuals-3d/real-242-smoke-vent-open-shelter.jpg",
+  "stem": "0165",
+  "start": 316.79,
+  "end": 318.79,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 166,
+  "shot": 243,
+  "file": "production/rain/visuals-3d/real-243-scorched-ground-patch.jpg",
+  "stem": "0166",
+  "start": 318.79,
+  "end": 320.33,
+  "dur": 1.54,
+  "quiz": false
+ },
+ {
+  "i": 167,
+  "shot": 244,
+  "file": "production/rain/visuals-3d/real-244-fire-distant-dusk-shelter.jpg",
+  "stem": "0167",
+  "start": 320.33,
+  "end": 322.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 168,
+  "shot": 105,
+  "file": "production/rain/visuals-3d/real-105-hearth-under-overhang.jpg",
+  "stem": "0168",
+  "start": 322.33,
+  "end": 324.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 169,
+  "shot": 190,
+  "file": "production/rain/visuals-3d/real-190-ash-under-shelter-floor.jpg",
+  "stem": "0169",
+  "start": 324.33,
+  "end": 326.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 170,
+  "shot": 88,
+  "file": "production/rain/visuals-3d/real-88-campfire-ash-morning.jpg",
+  "stem": "0170",
+  "start": 326.33,
+  "end": 328.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 171,
+  "shot": 68,
+  "file": "production/rain/visuals-3d/real-68-hearth-smoke-dusk.jpg",
+  "stem": "0171",
+  "start": 328.33,
+  "end": 330.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 172,
+  "shot": 50,
+  "file": "production/rain/visuals-3d/real-50-hearth-close.jpg",
+  "stem": "0172",
+  "start": 330.33,
+  "end": 333.12,
+  "dur": 2.79,
+  "quiz": false
+ },
+ {
+  "i": 173,
+  "shot": 205,
+  "file": "production/rain/visuals-3d/real-205-lake-calm-no-rain.jpg",
+  "stem": "0173",
+  "start": 333.12,
+  "end": 335.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 174,
+  "shot": 139,
+  "file": "production/rain/visuals-3d/real-139-lake-before-rain.jpg",
+  "stem": "0174",
+  "start": 335.12,
+  "end": 337.75,
+  "dur": 2.63,
+  "quiz": false
+ },
+ {
+  "i": 175,
+  "shot": 188,
+  "file": "production/rain/visuals-3d/real-188-wet-firewood-under-ledge.jpg",
+  "stem": "0175",
+  "start": 337.75,
+  "end": 339.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 176,
+  "shot": 240,
+  "file": "production/rain/visuals-3d/real-240-embers-bare-earth.jpg",
+  "stem": "0176",
+  "start": 339.75,
+  "end": 342.58,
+  "dur": 2.83,
+  "quiz": false
+ },
+ {
+  "i": 177,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0177",
+  "start": 342.58,
+  "end": 344.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 178,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0178",
+  "start": 344.58,
+  "end": 346.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 179,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0179",
+  "start": 346.58,
+  "end": 348.65,
+  "dur": 2.07,
+  "quiz": false
+ },
+ {
+  "i": 180,
+  "shot": 109,
+  "file": "production/rain/visuals-3d/real-109-olive-fig-branch.jpg",
+  "stem": "0180",
+  "start": 348.65,
+  "end": 350.65,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 181,
+  "shot": 120,
+  "file": "production/rain/visuals-3d/real-120-almonds-branch.jpg",
+  "stem": "0181",
+  "start": 350.65,
+  "end": 352.58,
+  "dur": 1.93,
+  "quiz": false
+ },
+ {
+  "i": 182,
+  "shot": 121,
+  "file": "production/rain/visuals-3d/real-121-pistachio-branch.jpg",
+  "stem": "0182",
+  "start": 352.58,
+  "end": 354.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 183,
+  "shot": 91,
+  "file": "production/rain/visuals-3d/real-91-grass-layer-edge.jpg",
+  "stem": "0183",
+  "start": 354.58,
+  "end": 356.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 184,
+  "shot": 126,
+  "file": "production/rain/visuals-3d/real-126-ash-and-stems-close.jpg",
+  "stem": "0184",
+  "start": 356.58,
+  "end": 358.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 185,
+  "shot": 131,
+  "file": "production/rain/visuals-3d/real-131-flattened-grass-patch.jpg",
+  "stem": "0185",
+  "start": 358.58,
+  "end": 360.58,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 186,
+  "shot": 211,
+  "file": "production/rain/visuals-3d/real-211-seeds-husks-ground.jpg",
+  "stem": "0186",
+  "start": 360.58,
+  "end": 362.4,
+  "dur": 1.82,
+  "quiz": false
+ },
+ {
+  "i": 187,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0187",
+  "start": 362.4,
+  "end": 364.4,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 188,
+  "shot": 151,
+  "file": "production/rain/visuals-3d/real-151-fish-drying-rack-absent.jpg",
+  "stem": "0188",
+  "start": 364.4,
+  "end": 366.4,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 189,
+  "shot": 191,
+  "file": "production/rain/visuals-3d/real-191-fish-drying-warm-stone.jpg",
+  "stem": "0189",
+  "start": 366.4,
+  "end": 368.4,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 190,
+  "shot": 210,
+  "file": "production/rain/visuals-3d/real-210-drying-fish-flies-sky.jpg",
+  "stem": "0190",
+  "start": 368.4,
+  "end": 370.18,
+  "dur": 1.78,
+  "quiz": false
+ },
+ {
+  "i": 191,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0191",
+  "start": 370.18,
+  "end": 372.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 192,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0192",
+  "start": 372.18,
+  "end": 374.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 193,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0193",
+  "start": 374.18,
+  "end": 376.7,
+  "dur": 2.52,
+  "quiz": false
+ },
+ {
+  "i": 194,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0194",
+  "start": 376.7,
+  "end": 378.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 195,
+  "shot": 211,
+  "file": "production/rain/visuals-3d/real-211-seeds-husks-ground.jpg",
+  "stem": "0195",
+  "start": 378.7,
+  "end": 380.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 196,
+  "shot": 85,
+  "file": "production/rain/visuals-3d/real-85-wild-cereal-close.jpg",
+  "stem": "0196",
+  "start": 380.7,
+  "end": 382.7,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 197,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0197",
+  "start": 382.7,
+  "end": 385.27,
+  "dur": 2.57,
+  "quiz": false
+ },
+ {
+  "i": 198,
+  "shot": 132,
+  "file": "production/rain/visuals-3d/real-132-stone-tools-on-ground.jpg",
+  "stem": "0198",
+  "start": 385.27,
+  "end": 387.27,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 199,
+  "shot": 133,
+  "file": "production/rain/visuals-3d/real-133-flint-in-hand-scale.jpg",
+  "stem": "0199",
+  "start": 387.27,
+  "end": 389.27,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 200,
+  "shot": 134,
+  "file": "production/rain/visuals-3d/real-134-worked-stone-earth.jpg",
+  "stem": "0200",
+  "start": 389.27,
+  "end": 391.27,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 201,
+  "shot": 207,
+  "file": "production/rain/visuals-3d/real-207-hide-drying-flat-ground.jpg",
+  "stem": "0201",
+  "start": 391.27,
+  "end": 392.83,
+  "dur": 1.56,
+  "quiz": false
+ },
+ {
+  "i": 202,
+  "shot": 216,
+  "file": "production/rain/visuals-3d/real-216-hides-stacked-dry.jpg",
+  "stem": "0202",
+  "start": 392.83,
+  "end": 394.83,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 203,
+  "shot": 186,
+  "file": "production/rain/visuals-3d/real-186-damp-hide-folded.jpg",
+  "stem": "0203",
+  "start": 394.83,
+  "end": 396.98,
+  "dur": 2.15,
+  "quiz": false
+ },
+ {
+  "i": 204,
+  "shot": 85,
+  "file": "production/rain/visuals-3d/real-85-wild-cereal-close.jpg",
+  "stem": "0204",
+  "start": 396.98,
+  "end": 398.98,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 205,
+  "shot": 109,
+  "file": "production/rain/visuals-3d/real-109-olive-fig-branch.jpg",
+  "stem": "0205",
+  "start": 398.98,
+  "end": 400.98,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 206,
+  "shot": 120,
+  "file": "production/rain/visuals-3d/real-120-almonds-branch.jpg",
+  "stem": "0206",
+  "start": 400.98,
+  "end": 402.25,
+  "dur": 1.27,
+  "quiz": false
+ },
+ {
+  "i": 207,
+  "shot": 149,
+  "file": "production/rain/visuals-3d/real-149-morning-after-rain.jpg",
+  "stem": "0207",
+  "start": 402.25,
+  "end": 404.25,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 208,
+  "shot": 179,
+  "file": "production/rain/visuals-3d/real-179-lake-predawn-blue.jpg",
+  "stem": "0208",
+  "start": 404.25,
+  "end": 406.25,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 209,
+  "shot": 198,
+  "file": "production/rain/visuals-3d/real-198-lake-dawn-birds-silhouette.jpg",
+  "stem": "0209",
+  "start": 406.25,
+  "end": 409.12,
+  "dur": 2.87,
+  "quiz": false
+ },
+ {
+  "i": 210,
+  "shot": 160,
+  "file": "production/rain/visuals-3d/real-160-driftwood-shore.jpg",
+  "stem": "0210",
+  "start": 409.12,
+  "end": 411.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 211,
+  "shot": 165,
+  "file": "production/rain/visuals-3d/real-165-mud-between-stones.jpg",
+  "stem": "0211",
+  "start": 411.12,
+  "end": 412.08,
+  "dur": 0.96,
+  "quiz": false
+ },
+ {
+  "i": 212,
+  "shot": 226,
+  "file": "production/rain/visuals-3d/real-226-lake-mudflat-exposed.jpg",
+  "stem": "0212",
+  "start": 412.08,
+  "end": 414.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 213,
+  "shot": 236,
+  "file": "production/rain/visuals-3d/real-236-cloud-shadow-plain.jpg",
+  "stem": "0213",
+  "start": 414.08,
+  "end": 416.18,
+  "dur": 2.1,
+  "quiz": false
+ },
+ {
+  "i": 214,
+  "shot": 145,
+  "file": "production/rain/visuals-3d/real-145-figure-watching-rain.jpg",
+  "stem": "0214",
+  "start": 416.18,
+  "end": 418.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 215,
+  "shot": 177,
+  "file": "production/rain/visuals-3d/real-177-figure-far-shoreline.jpg",
+  "stem": "0215",
+  "start": 418.18,
+  "end": 420.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 216,
+  "shot": 219,
+  "file": "production/rain/visuals-3d/real-219-figures-fog-silhouette.jpg",
+  "stem": "0216",
+  "start": 420.18,
+  "end": 422.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 217,
+  "shot": 221,
+  "file": "production/rain/visuals-3d/real-221-figure-walking-away-fog.jpg",
+  "stem": "0217",
+  "start": 422.18,
+  "end": 423.3,
+  "dur": 1.12,
+  "quiz": false
+ },
+ {
+  "i": 218,
+  "shot": 124,
+  "file": "production/rain/visuals-3d/real-124-rock-shelter-wide-dry.jpg",
+  "stem": "0218",
+  "start": 423.3,
+  "end": 425.3,
+  "dur": 2.0,
+  "quiz": true
+ },
+ {
+  "i": 219,
+  "shot": 140,
+  "file": "production/rain/visuals-3d/real-140-border-cave-exterior.jpg",
+  "stem": "0219",
+  "start": 425.3,
+  "end": 427.62,
+  "dur": 2.32,
+  "quiz": true
+ },
+ {
+  "i": 220,
+  "shot": 96,
+  "file": "production/rain/visuals-3d/real-96-rock-overhang-rain.jpg",
+  "stem": "0220",
+  "start": 427.62,
+  "end": 429.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 221,
+  "shot": 199,
+  "file": "production/rain/visuals-3d/real-199-cave-mouth-southern-africa.jpg",
+  "stem": "0221",
+  "start": 429.62,
+  "end": 431.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 222,
+  "shot": 203,
+  "file": "production/rain/visuals-3d/real-203-cave-interior-shade-dry.jpg",
+  "stem": "0222",
+  "start": 431.62,
+  "end": 433.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 223,
+  "shot": 118,
+  "file": "production/rain/visuals-3d/real-118-stone-shelter-floor.jpg",
+  "stem": "0223",
+  "start": 433.62,
+  "end": 435.62,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 224,
+  "shot": 72,
+  "file": "production/rain/visuals-3d/real-72-rock-shelter-interior.jpg",
+  "stem": "0224",
+  "start": 435.62,
+  "end": 438.33,
+  "dur": 2.71,
+  "quiz": false
+ },
+ {
+  "i": 225,
+  "shot": 163,
+  "file": "production/rain/visuals-3d/real-163-hillside-path-distant.jpg",
+  "stem": "0225",
+  "start": 438.33,
+  "end": 440.33,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 226,
+  "shot": 181,
+  "file": "production/rain/visuals-3d/real-181-oak-scrub-hillside.jpg",
+  "stem": "0226",
+  "start": 440.33,
+  "end": 442.75,
+  "dur": 2.42,
+  "quiz": false
+ },
+ {
+  "i": 227,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0227",
+  "start": 442.75,
+  "end": 444.75,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 228,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0228",
+  "start": 444.75,
+  "end": 446.12,
+  "dur": 1.37,
+  "quiz": false
+ },
+ {
+  "i": 229,
+  "shot": 230,
+  "file": "production/rain/visuals-3d/real-230-figure-backlit-dusk.jpg",
+  "stem": "0229",
+  "start": 446.12,
+  "end": 448.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 230,
+  "shot": 231,
+  "file": "production/rain/visuals-3d/real-231-figures-far-mudflat.jpg",
+  "stem": "0230",
+  "start": 448.12,
+  "end": 450.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 231,
+  "shot": 220,
+  "file": "production/rain/visuals-3d/real-220-figure-behind-reeds.jpg",
+  "stem": "0231",
+  "start": 450.12,
+  "end": 452.12,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 232,
+  "shot": 89,
+  "file": "production/rain/visuals-3d/real-89-figures-distance-rain.jpg",
+  "stem": "0232",
+  "start": 452.12,
+  "end": 454.0,
+  "dur": 1.88,
+  "quiz": false
+ },
+ {
+  "i": 233,
+  "shot": 98,
+  "file": "production/rain/visuals-3d/real-98-children-distance.jpg",
+  "stem": "0233",
+  "start": 454.0,
+  "end": 456.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 234,
+  "shot": 107,
+  "file": "production/rain/visuals-3d/real-107-figure-carries-branches.jpg",
+  "stem": "0234",
+  "start": 456.0,
+  "end": 458.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 235,
+  "shot": 145,
+  "file": "production/rain/visuals-3d/real-145-figure-watching-rain.jpg",
+  "stem": "0235",
+  "start": 458.0,
+  "end": 460.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 236,
+  "shot": 177,
+  "file": "production/rain/visuals-3d/real-177-figure-far-shoreline.jpg",
+  "stem": "0236",
+  "start": 460.0,
+  "end": 462.67,
+  "dur": 2.67,
+  "quiz": false
+ },
+ {
+  "i": 237,
+  "shot": 108,
+  "file": "production/rain/visuals-3d/real-108-lakewide-two-shore.jpg",
+  "stem": "0237",
+  "start": 462.67,
+  "end": 464.38,
+  "dur": 1.71,
+  "quiz": false
+ },
+ {
+  "i": 238,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0238",
+  "start": 464.38,
+  "end": 466.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 239,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0239",
+  "start": 466.38,
+  "end": 468.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 240,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0240",
+  "start": 468.38,
+  "end": 470.38,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 241,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0241",
+  "start": 470.38,
+  "end": 471.93,
+  "dur": 1.55,
+  "quiz": false
+ },
+ {
+  "i": 242,
+  "shot": 112,
+  "file": "production/rain/visuals-3d/real-112-inside-hide-shelter.jpg",
+  "stem": "0242",
+  "start": 471.93,
+  "end": 473.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 243,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0243",
+  "start": 473.93,
+  "end": 475.93,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 244,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0244",
+  "start": 475.93,
+  "end": 478.2,
+  "dur": 2.27,
+  "quiz": false
+ },
+ {
+  "i": 245,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0245",
+  "start": 478.2,
+  "end": 481.08,
+  "dur": 2.88,
+  "quiz": false
+ },
+ {
+  "i": 246,
+  "shot": 121,
+  "file": "production/rain/visuals-3d/real-121-pistachio-branch.jpg",
+  "stem": "0246",
+  "start": 481.08,
+  "end": 483.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 247,
+  "shot": 91,
+  "file": "production/rain/visuals-3d/real-91-grass-layer-edge.jpg",
+  "stem": "0247",
+  "start": 483.08,
+  "end": 485.08,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 248,
+  "shot": 126,
+  "file": "production/rain/visuals-3d/real-126-ash-and-stems-close.jpg",
+  "stem": "0248",
+  "start": 485.08,
+  "end": 486.15,
+  "dur": 1.07,
+  "quiz": false
+ },
+ {
+  "i": 249,
+  "shot": 238,
+  "file": "production/rain/visuals-3d/real-238-reed-bed-after-storm-flattened.jpg",
+  "stem": "0249",
+  "start": 486.15,
+  "end": 488.55,
+  "dur": 2.4,
+  "quiz": false
+ },
+ {
+  "i": 250,
+  "shot": 175,
+  "file": "production/rain/visuals-3d/real-175-wet-sand-ripples.jpg",
+  "stem": "0250",
+  "start": 488.55,
+  "end": 490.35,
+  "dur": 1.8,
+  "quiz": false
+ },
+ {
+  "i": 251,
+  "shot": 22,
+  "file": "production/rain/visuals-3d/real-22-damp-bedding.jpg",
+  "stem": "0251",
+  "start": 490.35,
+  "end": 492.52,
+  "dur": 2.17,
+  "quiz": false
+ },
+ {
+  "i": 252,
+  "shot": 131,
+  "file": "production/rain/visuals-3d/real-131-flattened-grass-patch.jpg",
+  "stem": "0252",
+  "start": 492.52,
+  "end": 494.52,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 253,
+  "shot": 211,
+  "file": "production/rain/visuals-3d/real-211-seeds-husks-ground.jpg",
+  "stem": "0253",
+  "start": 494.52,
+  "end": 496.52,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 254,
+  "shot": 192,
+  "file": "production/rain/visuals-3d/real-192-grains-in-hollow-stone.jpg",
+  "stem": "0254",
+  "start": 496.52,
+  "end": 498.35,
+  "dur": 1.83,
+  "quiz": false
+ },
+ {
+  "i": 255,
+  "shot": 147,
+  "file": "production/rain/visuals-3d/real-147-lakewide-turquoise.jpg",
+  "stem": "0255",
+  "start": 498.35,
+  "end": 500.18,
+  "dur": 1.83,
+  "quiz": false
+ },
+ {
+  "i": 256,
+  "shot": 185,
+  "file": "production/rain/visuals-3d/real-185-hilltop-view-lake-wide.jpg",
+  "stem": "0256",
+  "start": 500.18,
+  "end": 502.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 257,
+  "shot": 215,
+  "file": "production/rain/visuals-3d/real-215-lake-wide-flat-day.jpg",
+  "stem": "0257",
+  "start": 502.18,
+  "end": 504.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 258,
+  "shot": 209,
+  "file": "production/rain/visuals-3d/real-209-lake-shore-ordinary-day.jpg",
+  "stem": "0258",
+  "start": 504.18,
+  "end": 506.18,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 259,
+  "shot": 205,
+  "file": "production/rain/visuals-3d/real-205-lake-calm-no-rain.jpg",
+  "stem": "0259",
+  "start": 506.18,
+  "end": 507.45,
+  "dur": 1.27,
+  "quiz": false
+ },
+ {
+  "i": 260,
+  "shot": 242,
+  "file": "production/rain/visuals-3d/real-242-smoke-vent-open-shelter.jpg",
+  "stem": "0260",
+  "start": 507.45,
+  "end": 509.45,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 261,
+  "shot": 243,
+  "file": "production/rain/visuals-3d/real-243-scorched-ground-patch.jpg",
+  "stem": "0261",
+  "start": 509.45,
+  "end": 511.45,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 262,
+  "shot": 244,
+  "file": "production/rain/visuals-3d/real-244-fire-distant-dusk-shelter.jpg",
+  "stem": "0262",
+  "start": 511.45,
+  "end": 513.45,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 263,
+  "shot": 105,
+  "file": "production/rain/visuals-3d/real-105-hearth-under-overhang.jpg",
+  "stem": "0263",
+  "start": 513.45,
+  "end": 515.45,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 264,
+  "shot": 190,
+  "file": "production/rain/visuals-3d/real-190-ash-under-shelter-floor.jpg",
+  "stem": "0264",
+  "start": 515.45,
+  "end": 518.0,
+  "dur": 2.55,
+  "quiz": false
+ },
+ {
+  "i": 265,
+  "shot": 164,
+  "file": "production/rain/visuals-3d/real-164-smoke-over-camp-distant.jpg",
+  "stem": "0265",
+  "start": 518.0,
+  "end": 520.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 266,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0266",
+  "start": 520.0,
+  "end": 522.0,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 267,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0267",
+  "start": 522.0,
+  "end": 523.23,
+  "dur": 1.23,
+  "quiz": false
+ },
+ {
+  "i": 268,
+  "shot": 104,
+  "file": "production/rain/visuals-3d/real-104-hide-over-frame.jpg",
+  "stem": "0268",
+  "start": 523.23,
+  "end": 525.23,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 269,
+  "shot": 110,
+  "file": "production/rain/visuals-3d/real-110-camp-from-lake.jpg",
+  "stem": "0269",
+  "start": 525.23,
+  "end": 527.23,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 270,
+  "shot": 111,
+  "file": "production/rain/visuals-3d/real-111-hide-shelter-rain.jpg",
+  "stem": "0270",
+  "start": 527.23,
+  "end": 530.05,
+  "dur": 2.82,
+  "quiz": false
+ },
+ {
+  "i": 271,
+  "shot": 114,
+  "file": "production/rain/visuals-3d/real-114-dripline-ground.jpg",
+  "stem": "0271",
+  "start": 530.05,
+  "end": 532.05,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 272,
+  "shot": 115,
+  "file": "production/rain/visuals-3d/real-115-hide-repair.jpg",
+  "stem": "0272",
+  "start": 532.05,
+  "end": 534.05,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 273,
+  "shot": 156,
+  "file": "production/rain/visuals-3d/real-156-rain-on-hide-surface.jpg",
+  "stem": "0273",
+  "start": 534.05,
+  "end": 536.05,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 274,
+  "shot": 168,
+  "file": "production/rain/visuals-3d/real-168-hide-draped-branch-detail.jpg",
+  "stem": "0274",
+  "start": 536.05,
+  "end": 538.05,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 275,
+  "shot": 86,
+  "file": "production/rain/visuals-3d/real-86-shelter-in-reeds.jpg",
+  "stem": "0275",
+  "start": 538.05,
+  "end": 540.42,
+  "dur": 2.37,
+  "quiz": false
+ },
+ {
+  "i": 276,
+  "shot": 232,
+  "file": "production/rain/visuals-3d/real-232-camp-smoke-far-mist.jpg",
+  "stem": "0276",
+  "start": 540.42,
+  "end": 542.42,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 277,
+  "shot": 193,
+  "file": "production/rain/visuals-3d/real-193-waterlogged-ground-hut-base.jpg",
+  "stem": "0277",
+  "start": 542.42,
+  "end": 544.95,
+  "dur": 2.53,
+  "quiz": false
+ },
+ {
+  "i": 278,
+  "shot": 139,
+  "file": "production/rain/visuals-3d/real-139-lake-before-rain.jpg",
+  "stem": "0278",
+  "start": 544.95,
+  "end": 546.95,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 279,
+  "shot": 158,
+  "file": "production/rain/visuals-3d/real-158-lakewide-evening-clear.jpg",
+  "stem": "0279",
+  "start": 546.95,
+  "end": 548.95,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 280,
+  "shot": 149,
+  "file": "production/rain/visuals-3d/real-149-morning-after-rain.jpg",
+  "stem": "0280",
+  "start": 548.95,
+  "end": 550.22,
+  "dur": 1.27,
+  "quiz": false
+ },
+ {
+  "i": 281,
+  "shot": 166,
+  "file": "production/rain/visuals-3d/real-166-reeds-dry-vs-green.jpg",
+  "stem": "0281",
+  "start": 550.22,
+  "end": 552.22,
+  "dur": 2.0,
+  "quiz": false
+ },
+ {
+  "i": 282,
+  "shot": 159,
+  "file": "production/rain/visuals-3d/real-159-rain-drops-ground.jpg",
+  "stem": "0282",
+  "start": 552.22,
+  "end": 554.65,
+  "dur": 2.43,
+  "quiz": false
+ }
+]

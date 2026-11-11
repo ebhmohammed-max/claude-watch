@@ -34,6 +34,7 @@ CLAIM_WORDS = re.compile(
     r'Sunghir|Vladimir|Toulouse|Egypt|needle|scraper|bead|fibre|fiber|flax|'
     r'awl|hide|pelt|ivory|ochre|clothing lice|Toups|Hallett|Gilligan|'
     r'Kvavadze|Bar-Yosef|thirty-four|fifty thousand|hundred and twenty)\b', re.I)
+RHETORICAL = re.compile(r'^(And tell us|Given|So: what|How |What if)', re.I)
 
 
 def load():
@@ -64,7 +65,7 @@ def main():
         for k, s in enumerate(mine):
             still = picks[k % len(picks)]
             plan.append({'start': s['start'], 'end': s['end'], 'still': still,
-                         'cue': i, 'sentence': c['sentence'],
+                         'cue': i, 'section': s['section'], 'sentence': c['sentence'],
                          'variant': k // len(picks)})
             used.add(still)
 
@@ -78,7 +79,8 @@ def main():
             problems.append(f'still {st} has no label class')
     for p in plan:
         lab = labels.get(str(p['still']), '?')
-        if lab == 'LANDSCAPE' and CLAIM_WORDS.search(p['sentence']):
+        if lab == 'LANDSCAPE' and CLAIM_WORDS.search(p['sentence']) \
+                and not RHETORICAL.search(p['sentence']):
             problems.append(
                 f'still {p["still"]} (LANDSCAPE) under a claim: {p["sentence"][:70]}')
         if lab == 'OBJECT' and not CLAIM_WORDS.search(p['sentence']):

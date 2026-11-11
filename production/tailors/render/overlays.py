@@ -21,6 +21,7 @@ W, H = 1280, 720
 DEJA = '/usr/share/fonts/truetype/dejavu/'
 F = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 18)
 FSM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 16)
+FOBJ = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 18)
 FM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 26)
 FS = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 40)
 FB = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 26)
@@ -110,16 +111,25 @@ def layer_for(r, i):
     ov = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     dr = ImageDraw.Draw(ov)
     # top and bottom scrims so type survives a bright plate
+    # A hard-edged scrim shows as a seam across sky and cave walls, so both
+    # are vertical gradients built as a 1 px column stretched to width.
     sc = Image.new('RGBA', (W, H), (0, 0, 0, 0))
-    ds = ImageDraw.Draw(sc)
-    ds.rectangle([0, 0, W, 88], fill=(0, 0, 0, 58))
-    ds.rectangle([0, H - 122, W, H], fill=(0, 0, 0, 70))
+    top = Image.new('RGBA', (1, 120))
+    for y in range(120):
+        a = round(72 * (1 - y / 119) ** 1.4)
+        top.putpixel((0, y), (0, 0, 0, a))
+    sc.alpha_composite(top.resize((W, 120), Image.BILINEAR), (0, 0))
+    bot = Image.new('RGBA', (1, 170))
+    for y in range(170):
+        a = round(88 * (y / 169) ** 1.6)
+        bot.putpixel((0, y), (0, 0, 0, a))
+    sc.alpha_composite(bot.resize((W, 170), Image.BILINEAR), (0, H - 170))
     ov.alpha_composite(sc)
 
     sec = r['section']
     prev = rows[i - 1] if i > 0 else None
     if prev is None or prev['section'] != sec:
-        card(ov, (54, 116), SEC_TITLE[sec], FS, pad=(18, 12), fill=(0, 0, 0, 115))
+        card(ov, (54, 118), SEC_TITLE[sec], FS, pad=(18, 12), fill=(0, 0, 0, 96))
 
     # place card: appears on the site's first slots only
     p = place_at(r['start'])
@@ -142,11 +152,10 @@ def layer_for(r, i):
         y += lh
 
     # honesty label, always on
-    lab = LABEL_TEXT[LABELS.get(str(r['still']), 'RECON')]
-    f = F if LABELS.get(str(r['still'])) != 'OBJECT' else FSM
-    if LABELS.get(str(r['still'])) == 'OBJECT':
-        lab = LABEL_TEXT['OBJECT']
-    card(ov, (30, 24), lab, f, pad=(11, 8), fill=(0, 0, 0, 110))
+    cls = LABELS.get(str(r['still']), 'RECON')
+    # the object caveat is the longest and the most important: give it 18 pt
+    f = FOBJ if cls == 'OBJECT' else F
+    card(ov, (30, 24), LABEL_TEXT[cls], f, pad=(11, 8), fill=(0, 0, 0, 110))
 
     # source card, top right
     s = source_at(r['start'])

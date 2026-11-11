@@ -1,0 +1,9 @@
+# regenerable from the section MP3s by render/voice.py
+narration/*.wav
+narration/concat.txt
+# build artifacts
+render/clips/
+render/work/
+render/overlays/
+render/*.mp4
+kit/*.mp4

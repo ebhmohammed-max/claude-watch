@@ -1,0 +1,56 @@
+[
+ {
+  "section": "01",
+  "file": "production/tailors/narration/01.txt",
+  "chars": 853,
+  "est": 52.38
+ },
+ {
+  "section": "02",
+  "file": "production/tailors/narration/02.txt",
+  "chars": 1009,
+  "est": 61.99
+ },
+ {
+  "section": "03",
+  "file": "production/tailors/narration/03.txt",
+  "chars": 1242,
+  "est": 76.34
+ },
+ {
+  "section": "04",
+  "file": "production/tailors/narration/04.txt",
+  "chars": 1309,
+  "est": 80.41
+ },
+ {
+  "section": "05",
+  "file": "production/tailors/narration/05.txt",
+  "chars": 1005,
+  "est": 61.76
+ },
+ {
+  "section": "06",
+  "file": "production/tailors/narration/06.txt",
+  "chars": 1148,
+  "est": 70.5
+ },
+ {
+  "section": "07",
+  "file": "production/tailors/narration/07.txt",
+  "chars": 527,
+  "est": 32.45
+ },
+ {
+  "section": "08",
+  "file": "production/tailors/narration/08.txt",
+  "chars": 1064,
+  "est": 65.4
+ },
+ {
+  "section": "09",
+  "file": "production/tailors/narration/09.txt",
+  "chars": 959,
+  "est": 58.91
+ }
+]

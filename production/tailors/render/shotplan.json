@@ -1,115 +1,115 @@
 [
  {
   "start": 0.0,
-  "end": 2.137,
+  "end": 1.998,
+  "still": "43",
+  "cue": 0,
+  "section": "01",
+  "sentence": "Somebody, fifty thousand years ago, drilled a hole through a bird bone the width of a hair.",
+  "variant": 0
+ },
+ {
+  "start": 1.998,
+  "end": 3.995,
+  "still": "43",
+  "cue": 0,
+  "section": "01",
+  "sentence": "Somebody, fifty thousand years ago, drilled a hole through a bird bone the width of a hair.",
+  "variant": 1
+ },
+ {
+  "start": 3.995,
+  "end": 5.804,
+  "still": "43",
+  "cue": 0,
+  "section": "01",
+  "sentence": "Somebody, fifty thousand years ago, drilled a hole through a bird bone the width of a hair.",
+  "variant": 2
+ },
+ {
+  "start": 5.804,
+  "end": 7.797,
+  "still": "72",
+  "cue": 2,
+  "section": "01",
+  "sentence": "Not for a weapon.",
+  "variant": 0
+ },
+ {
+  "start": 7.797,
+  "end": 9.989,
+  "still": "8",
+  "cue": 4,
+  "section": "01",
+  "sentence": "A cold morning.",
+  "variant": 0
+ },
+ {
+  "start": 9.989,
+  "end": 11.659,
   "still": "1",
-  "cue": 1,
+  "cue": 5,
   "section": "01",
   "sentence": "You own one garment.",
   "variant": 0
  },
  {
-  "start": 2.137,
-  "end": 4.007,
+  "start": 11.659,
+  "end": 13.984,
   "still": "1",
-  "cue": 3,
+  "cue": 7,
   "section": "01",
-  "sentence": "Not a coat.",
+  "sentence": "Not a coat \u2014 a coat implies somebody made a decision.",
   "variant": 0
  },
  {
-  "start": 4.007,
-  "end": 5.958,
-  "still": "1",
-  "cue": 4,
-  "section": "01",
-  "sentence": "A coat implies somebody made a decision.",
-  "variant": 0
- },
- {
-  "start": 5.958,
-  "end": 8.013,
-  "still": "1",
-  "cue": 5,
-  "section": "01",
-  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
-  "variant": 0
- },
- {
-  "start": 8.013,
-  "end": 10.016,
+  "start": 13.984,
+  "end": 15.982,
   "still": "10",
-  "cue": 5,
+  "cue": 7,
   "section": "01",
-  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+  "sentence": "Not a coat \u2014 a coat implies somebody made a decision.",
   "variant": 0
  },
  {
-  "start": 10.016,
-  "end": 12.02,
-  "still": "1",
-  "cue": 5,
-  "section": "01",
-  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
-  "variant": 1
- },
- {
-  "start": 12.02,
-  "end": 14.023,
-  "still": "1",
-  "cue": 6,
-  "section": "01",
-  "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
-  "variant": 0
- },
- {
-  "start": 14.023,
-  "end": 16.026,
-  "still": "10",
-  "cue": 6,
-  "section": "01",
-  "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
-  "variant": 0
- },
- {
-  "start": 16.026,
-  "end": 18.03,
-  "still": "1",
-  "cue": 6,
-  "section": "01",
-  "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
-  "variant": 1
- },
- {
-  "start": 18.03,
-  "end": 19.741,
-  "still": "10",
-  "cue": 6,
-  "section": "01",
-  "sentence": "Here's the thing about that picture \u2014 the one where ancient people shuffle around in animal skins looking noble and doomed.",
-  "variant": 1
- },
- {
-  "start": 19.741,
-  "end": 22.171,
+  "start": 15.982,
+  "end": 17.98,
   "still": "1",
   "cue": 8,
   "section": "01",
-  "sentence": "Not because they were stupid.",
+  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
   "variant": 0
  },
  {
-  "start": 22.171,
-  "end": 24.04,
+  "start": 17.98,
+  "end": 19.977,
+  "still": "10",
+  "cue": 8,
+  "section": "01",
+  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+  "variant": 0
+ },
+ {
+  "start": 19.977,
+  "end": 22.127,
+  "still": "1",
+  "cue": 8,
+  "section": "01",
+  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
+  "variant": 1
+ },
+ {
+  "start": 22.127,
+  "end": 23.973,
   "still": "7",
   "cue": 9,
   "section": "01",
-  "sentence": "Because the outfit is genuinely terrible.",
+  "sentence": "And that outfit is genuinely terrible.",
   "variant": 0
  },
  {
-  "start": 24.04,
-  "end": 26.181,
+  "start": 23.973,
+  "end": 26.271,
   "still": "7",
   "cue": 10,
   "section": "01",
@@ -117,8 +117,8 @@
   "variant": 0
  },
  {
-  "start": 26.181,
-  "end": 28.391,
+  "start": 26.271,
+  "end": 27.968,
   "still": "7",
   "cue": 11,
   "section": "01",
@@ -126,53 +126,53 @@
   "variant": 0
  },
  {
-  "start": 28.391,
-  "end": 30.049,
+  "start": 27.968,
+  "end": 29.966,
   "still": "7",
   "cue": 12,
   "section": "01",
-  "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+  "sentence": "It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.",
   "variant": 0
  },
  {
-  "start": 30.049,
-  "end": 32.053,
+  "start": 29.966,
+  "end": 31.964,
   "still": "7",
   "cue": 12,
   "section": "01",
-  "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+  "sentence": "It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.",
   "variant": 1
  },
  {
-  "start": 32.053,
-  "end": 34.056,
+  "start": 31.964,
+  "end": 33.962,
   "still": "7",
   "cue": 12,
   "section": "01",
-  "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
+  "sentence": "It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.",
   "variant": 2
  },
  {
-  "start": 34.056,
-  "end": 36.059,
+  "start": 33.962,
+  "end": 35.959,
   "still": "1",
   "cue": 13,
   "section": "01",
-  "sentence": "So the interesting question isn't how somebody wore an animal skin.",
+  "sentence": "So the question isn't how somebody wore an animal skin.",
   "variant": 0
  },
  {
-  "start": 36.059,
-  "end": 38.063,
+  "start": 35.959,
+  "end": 37.927,
   "still": "10",
   "cue": 13,
   "section": "01",
-  "sentence": "So the interesting question isn't how somebody wore an animal skin.",
+  "sentence": "So the question isn't how somebody wore an animal skin.",
   "variant": 0
  },
  {
-  "start": 38.063,
-  "end": 40.066,
+  "start": 37.927,
+  "end": 39.935,
   "still": "1",
   "cue": 14,
   "section": "01",
@@ -180,89 +180,80 @@
   "variant": 0
  },
  {
-  "start": 40.066,
-  "end": 42.069,
+  "start": 39.935,
+  "end": 41.953,
   "still": "5",
   "cue": 15,
   "section": "01",
-  "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+  "sentence": "It's when clothing stopped being something you drape, and became something you build.",
   "variant": 0
  },
  {
-  "start": 42.069,
-  "end": 44.073,
+  "start": 41.953,
+  "end": 43.95,
   "still": "5",
   "cue": 15,
   "section": "01",
-  "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+  "sentence": "It's when clothing stopped being something you drape, and became something you build.",
   "variant": 1
  },
  {
-  "start": 44.073,
-  "end": 46.418,
+  "start": 43.95,
+  "end": 46.167,
   "still": "5",
   "cue": 15,
   "section": "01",
-  "sentence": "The question is when clothing stopped being something you drape, and became something you build.",
+  "sentence": "It's when clothing stopped being something you drape, and became something you build.",
   "variant": 2
  },
  {
-  "start": 46.418,
-  "end": 48.079,
-  "still": "9",
+  "start": 46.167,
+  "end": 47.946,
+  "still": "23",
   "cue": 17,
   "section": "01",
-  "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
+  "sentence": "A cave in Morocco full of tools nobody would photograph twice.",
   "variant": 0
  },
  {
-  "start": 48.079,
-  "end": 50.082,
-  "still": "9",
+  "start": 47.946,
+  "end": 50.136,
+  "still": "23",
   "cue": 17,
   "section": "01",
-  "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
+  "sentence": "A cave in Morocco full of tools nobody would photograph twice.",
   "variant": 1
  },
  {
-  "start": 50.082,
-  "end": 52.086,
-  "still": "43",
-  "cue": 18,
-  "section": "01",
-  "sentence": "A needle you could lose between two fingers.",
-  "variant": 0
- },
- {
-  "start": 52.086,
-  "end": 54.089,
-  "still": "43",
-  "cue": 18,
-  "section": "01",
-  "sentence": "A needle you could lose between two fingers.",
-  "variant": 1
- },
- {
-  "start": 54.089,
-  "end": 56.092,
-  "still": "10",
+  "start": 50.136,
+  "end": 51.941,
+  "still": "54",
   "cue": 19,
   "section": "01",
   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
   "variant": 0
  },
  {
-  "start": 56.092,
-  "end": 58.096,
-  "still": "10",
+  "start": 51.941,
+  "end": 53.939,
+  "still": "54",
   "cue": 19,
   "section": "01",
   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
   "variant": 1
  },
  {
-  "start": 58.096,
-  "end": 60.099,
+  "start": 53.939,
+  "end": 55.937,
+  "still": "54",
+  "cue": 19,
+  "section": "01",
+  "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
+  "variant": 2
+ },
+ {
+  "start": 55.937,
+  "end": 57.935,
   "still": "1",
   "cue": 20,
   "section": "01",
@@ -270,8 +261,8 @@
   "variant": 0
  },
  {
-  "start": 60.099,
-  "end": 62.194,
+  "start": 57.935,
+  "end": 60.322,
   "still": "10",
   "cue": 20,
   "section": "01",
@@ -279,8 +270,17 @@
   "variant": 0
  },
  {
-  "start": 62.194,
-  "end": 64.106,
+  "start": 60.322,
+  "end": 61.93,
+  "still": "3",
+  "cue": 22,
+  "section": "01",
+  "sentence": "Not a stitch.",
+  "variant": 0
+ },
+ {
+  "start": 61.93,
+  "end": 63.96,
   "still": "3",
   "cue": 23,
   "section": "01",
@@ -288,17 +288,8 @@
   "variant": 0
  },
  {
-  "start": 64.106,
-  "end": 66.292,
-  "still": "3",
-  "cue": 23,
-  "section": "01",
-  "sentence": "We have the workshop, and we have the mess.",
-  "variant": 1
- },
- {
-  "start": 66.292,
-  "end": 68.112,
+  "start": 63.96,
+  "end": 65.825,
   "still": "11",
   "cue": 25,
   "section": "02",
@@ -306,8 +297,17 @@
   "variant": 0
  },
  {
-  "start": 68.112,
-  "end": 70.115,
+  "start": 65.825,
+  "end": 67.923,
+  "still": "11",
+  "cue": 26,
+  "section": "02",
+  "sentence": "That's the whole problem.",
+  "variant": 0
+ },
+ {
+  "start": 67.923,
+  "end": 69.921,
   "still": "11",
   "cue": 27,
   "section": "02",
@@ -315,8 +315,8 @@
   "variant": 0
  },
  {
-  "start": 70.115,
-  "end": 72.119,
+  "start": 69.921,
+  "end": 71.919,
   "still": "11",
   "cue": 27,
   "section": "02",
@@ -324,8 +324,8 @@
   "variant": 1
  },
  {
-  "start": 72.119,
-  "end": 74.122,
+  "start": 71.919,
+  "end": 73.598,
   "still": "11",
   "cue": 27,
   "section": "02",
@@ -333,17 +333,8 @@
   "variant": 2
  },
  {
-  "start": 74.122,
-  "end": 76.125,
-  "still": "11",
-  "cue": 27,
-  "section": "02",
-  "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
-  "variant": 3
- },
- {
-  "start": 76.125,
-  "end": 78.129,
+  "start": 73.598,
+  "end": 75.914,
   "still": "11",
   "cue": 28,
   "section": "02",
@@ -351,8 +342,17 @@
   "variant": 0
  },
  {
-  "start": 78.129,
-  "end": 80.132,
+  "start": 75.914,
+  "end": 77.912,
+  "still": "11",
+  "cue": 28,
+  "section": "02",
+  "sentence": "So for most of human prehistory, we aren't looking at clothing.",
+  "variant": 1
+ },
+ {
+  "start": 77.912,
+  "end": 79.91,
   "still": "16",
   "cue": 29,
   "section": "02",
@@ -360,8 +360,8 @@
   "variant": 0
  },
  {
-  "start": 80.132,
-  "end": 82.135,
+  "start": 79.91,
+  "end": 81.907,
   "still": "17",
   "cue": 30,
   "section": "02",
@@ -369,8 +369,8 @@
   "variant": 0
  },
  {
-  "start": 82.135,
-  "end": 84.139,
+  "start": 81.907,
+  "end": 83.905,
   "still": "17",
   "cue": 31,
   "section": "02",
@@ -378,8 +378,8 @@
   "variant": 0
  },
  {
-  "start": 84.139,
-  "end": 86.142,
+  "start": 83.905,
+  "end": 85.903,
   "still": "17",
   "cue": 32,
   "section": "02",
@@ -387,8 +387,8 @@
   "variant": 0
  },
  {
-  "start": 86.142,
-  "end": 88.145,
+  "start": 85.903,
+  "end": 87.901,
   "still": "17",
   "cue": 32,
   "section": "02",
@@ -396,8 +396,8 @@
   "variant": 1
  },
  {
-  "start": 88.145,
-  "end": 90.148,
+  "start": 87.901,
+  "end": 89.898,
   "still": "17",
   "cue": 33,
   "section": "02",
@@ -405,17 +405,17 @@
   "variant": 0
  },
  {
-  "start": 90.148,
-  "end": 92.437,
-  "still": "17",
-  "cue": 33,
+  "start": 89.898,
+  "end": 91.896,
+  "still": "12",
+  "cue": 34,
   "section": "02",
-  "sentence": "And then there's the evidence that isn't archaeology at all.",
-  "variant": 1
+  "sentence": "It's lice.",
+  "variant": 0
  },
  {
-  "start": 92.437,
-  "end": 94.155,
+  "start": 91.896,
+  "end": 94.308,
   "still": "12",
   "cue": 35,
   "section": "02",
@@ -423,17 +423,8 @@
   "variant": 0
  },
  {
-  "start": 94.155,
-  "end": 95.908,
-  "still": "12",
-  "cue": 35,
-  "section": "02",
-  "sentence": "Head lice live on heads, on account of the heads.",
-  "variant": 1
- },
- {
-  "start": 95.908,
-  "end": 98.162,
+  "start": 94.308,
+  "end": 95.892,
   "still": "12",
   "cue": 36,
   "section": "02",
@@ -441,8 +432,8 @@
   "variant": 0
  },
  {
-  "start": 98.162,
-  "end": 100.165,
+  "start": 95.892,
+  "end": 98.137,
   "still": "12",
   "cue": 36,
   "section": "02",
@@ -450,8 +441,8 @@
   "variant": 1
  },
  {
-  "start": 100.165,
-  "end": 102.168,
+  "start": 98.137,
+  "end": 99.787,
   "still": "12",
   "cue": 37,
   "section": "02",
@@ -459,8 +450,8 @@
   "variant": 0
  },
  {
-  "start": 102.168,
-  "end": 104.172,
+  "start": 99.787,
+  "end": 101.885,
   "still": "12",
   "cue": 38,
   "section": "02",
@@ -468,8 +459,8 @@
   "variant": 0
  },
  {
-  "start": 104.172,
-  "end": 106.175,
+  "start": 101.885,
+  "end": 103.883,
   "still": "12",
   "cue": 38,
   "section": "02",
@@ -477,8 +468,8 @@
   "variant": 1
  },
  {
-  "start": 106.175,
-  "end": 108.178,
+  "start": 103.883,
+  "end": 105.88,
   "still": "12",
   "cue": 38,
   "section": "02",
@@ -486,8 +477,8 @@
   "variant": 2
  },
  {
-  "start": 108.178,
-  "end": 110.181,
+  "start": 105.88,
+  "end": 107.878,
   "still": "12",
   "cue": 38,
   "section": "02",
@@ -495,8 +486,17 @@
   "variant": 3
  },
  {
-  "start": 110.181,
-  "end": 112.185,
+  "start": 107.878,
+  "end": 109.876,
+  "still": "12",
+  "cue": 38,
+  "section": "02",
+  "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
+  "variant": 4
+ },
+ {
+  "start": 109.876,
+  "end": 111.874,
   "still": "15",
   "cue": 39,
   "section": "02",
@@ -504,8 +504,8 @@
   "variant": 0
  },
  {
-  "start": 112.185,
-  "end": 114.188,
+  "start": 111.874,
+  "end": 113.871,
   "still": "15",
   "cue": 39,
   "section": "02",
@@ -513,8 +513,8 @@
   "variant": 1
  },
  {
-  "start": 114.188,
-  "end": 116.191,
+  "start": 113.871,
+  "end": 116.105,
   "still": "15",
   "cue": 39,
   "section": "02",
@@ -522,17 +522,8 @@
   "variant": 2
  },
  {
-  "start": 116.191,
-  "end": 118.195,
-  "still": "15",
-  "cue": 39,
-  "section": "02",
-  "sentence": "In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.",
-  "variant": 3
- },
- {
-  "start": 118.195,
-  "end": 120.043,
+  "start": 116.105,
+  "end": 117.867,
   "still": "15",
   "cue": 40,
   "section": "02",
@@ -540,8 +531,8 @@
   "variant": 0
  },
  {
-  "start": 120.043,
-  "end": 122.201,
+  "start": 117.867,
+  "end": 120.092,
   "still": "18",
   "cue": 41,
   "section": "02",
@@ -549,8 +540,8 @@
   "variant": 0
  },
  {
-  "start": 122.201,
-  "end": 124.205,
+  "start": 120.092,
+  "end": 123.86,
   "still": "18",
   "cue": 43,
   "section": "02",
@@ -558,8 +549,8 @@
   "variant": 0
  },
  {
-  "start": 124.205,
-  "end": 126.208,
+  "start": 123.86,
+  "end": 125.858,
   "still": "18",
   "cue": 43,
   "section": "02",
@@ -567,8 +558,8 @@
   "variant": 1
  },
  {
-  "start": 126.208,
-  "end": 128.211,
+  "start": 125.858,
+  "end": 127.856,
   "still": "18",
   "cue": 43,
   "section": "02",
@@ -576,8 +567,8 @@
   "variant": 2
  },
  {
-  "start": 128.211,
-  "end": 130.214,
+  "start": 127.856,
+  "end": 129.758,
   "still": "18",
   "cue": 43,
   "section": "02",
@@ -585,17 +576,17 @@
   "variant": 3
  },
  {
-  "start": 130.214,
-  "end": 132.218,
+  "start": 129.758,
+  "end": 131.851,
   "still": "18",
-  "cue": 43,
+  "cue": 44,
   "section": "02",
-  "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
-  "variant": 4
+  "sentence": "Which flips the question.",
+  "variant": 0
  },
  {
-  "start": 132.218,
-  "end": 134.221,
+  "start": 131.851,
+  "end": 133.516,
   "still": "18",
   "cue": 45,
   "section": "02",
@@ -603,8 +594,8 @@
   "variant": 0
  },
  {
-  "start": 134.221,
-  "end": 136.224,
+  "start": 133.516,
+  "end": 135.847,
   "still": "14",
   "cue": 46,
   "section": "02",
@@ -612,8 +603,8 @@
   "variant": 0
  },
  {
-  "start": 136.224,
-  "end": 138.228,
+  "start": 135.847,
+  "end": 137.844,
   "still": "23",
   "cue": 47,
   "section": "03",
@@ -621,17 +612,8 @@
   "variant": 0
  },
  {
-  "start": 138.228,
-  "end": 140.069,
-  "still": "23",
-  "cue": 47,
-  "section": "03",
-  "sentence": "Contrebandiers Cave, on the Atlantic coast of Morocco.",
-  "variant": 1
- },
- {
-  "start": 140.069,
-  "end": 142.234,
+  "start": 137.844,
+  "end": 139.842,
   "still": "23",
   "cue": 48,
   "section": "03",
@@ -639,8 +621,17 @@
   "variant": 0
  },
  {
-  "start": 142.234,
-  "end": 144.238,
+  "start": 139.842,
+  "end": 141.6,
+  "still": "23",
+  "cue": 48,
+  "section": "03",
+  "sentence": "Close enough to the sea that you can hear it working.",
+  "variant": 1
+ },
+ {
+  "start": 141.6,
+  "end": 143.838,
   "still": "31",
   "cue": 49,
   "section": "03",
@@ -648,8 +639,8 @@
   "variant": 0
  },
  {
-  "start": 144.238,
-  "end": 146.241,
+  "start": 143.838,
+  "end": 145.835,
   "still": "31",
   "cue": 49,
   "section": "03",
@@ -657,8 +648,8 @@
   "variant": 1
  },
  {
-  "start": 146.241,
-  "end": 148.244,
+  "start": 145.835,
+  "end": 147.833,
   "still": "31",
   "cue": 49,
   "section": "03",
@@ -666,8 +657,8 @@
   "variant": 2
  },
  {
-  "start": 148.244,
-  "end": 150.247,
+  "start": 147.833,
+  "end": 149.831,
   "still": "31",
   "cue": 49,
   "section": "03",
@@ -675,8 +666,8 @@
   "variant": 3
  },
  {
-  "start": 150.247,
-  "end": 152.251,
+  "start": 149.831,
+  "end": 151.828,
   "still": "31",
   "cue": 49,
   "section": "03",
@@ -684,8 +675,8 @@
   "variant": 4
  },
  {
-  "start": 152.251,
-  "end": 154.254,
+  "start": 151.828,
+  "end": 153.86,
   "still": "31",
   "cue": 50,
   "section": "03",
@@ -693,17 +684,8 @@
   "variant": 0
  },
  {
-  "start": 154.254,
-  "end": 156.257,
-  "still": "31",
-  "cue": 50,
-  "section": "03",
-  "sentence": "Sixty-two of them had been shaped by people.",
-  "variant": 1
- },
- {
-  "start": 156.257,
-  "end": 158.416,
+  "start": 153.86,
+  "end": 155.824,
   "still": "26",
   "cue": 51,
   "section": "03",
@@ -711,8 +693,8 @@
   "variant": 0
  },
  {
-  "start": 158.416,
-  "end": 160.264,
+  "start": 155.824,
+  "end": 157.822,
   "still": "26",
   "cue": 52,
   "section": "03",
@@ -720,8 +702,8 @@
   "variant": 0
  },
  {
-  "start": 160.264,
-  "end": 162.267,
+  "start": 157.822,
+  "end": 159.819,
   "still": "26",
   "cue": 52,
   "section": "03",
@@ -729,8 +711,8 @@
   "variant": 1
  },
  {
-  "start": 162.267,
-  "end": 164.27,
+  "start": 159.819,
+  "end": 161.817,
   "still": "26",
   "cue": 52,
   "section": "03",
@@ -738,8 +720,8 @@
   "variant": 2
  },
  {
-  "start": 164.27,
-  "end": 166.09,
+  "start": 161.817,
+  "end": 163.815,
   "still": "26",
   "cue": 52,
   "section": "03",
@@ -747,8 +729,8 @@
   "variant": 3
  },
  {
-  "start": 166.09,
-  "end": 168.277,
+  "start": 163.815,
+  "end": 165.641,
   "still": "27",
   "cue": 53,
   "section": "03",
@@ -756,8 +738,17 @@
   "variant": 0
  },
  {
-  "start": 168.277,
-  "end": 170.28,
+  "start": 165.641,
+  "end": 167.665,
+  "still": "27",
+  "cue": 54,
+  "section": "03",
+  "sentence": "Under a microscope it has grooves.",
+  "variant": 0
+ },
+ {
+  "start": 167.665,
+  "end": 170.097,
   "still": "27",
   "cue": 55,
   "section": "03",
@@ -765,17 +756,8 @@
   "variant": 0
  },
  {
-  "start": 170.28,
-  "end": 172.284,
-  "still": "27",
-  "cue": 55,
-  "section": "03",
-  "sentence": "Then there's the detail I can't get over.",
-  "variant": 1
- },
- {
-  "start": 172.284,
-  "end": 174.287,
+  "start": 170.097,
+  "end": 171.806,
   "still": "30",
   "cue": 56,
   "section": "03",
@@ -783,8 +765,8 @@
   "variant": 0
  },
  {
-  "start": 174.287,
-  "end": 176.29,
+  "start": 171.806,
+  "end": 173.804,
   "still": "30",
   "cue": 56,
   "section": "03",
@@ -792,17 +774,26 @@
   "variant": 1
  },
  {
-  "start": 176.29,
-  "end": 178.134,
+  "start": 173.804,
+  "end": 175.801,
   "still": "30",
-  "cue": 57,
+  "cue": 56,
   "section": "03",
-  "sentence": "Not butchering marks.",
+  "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
+  "variant": 2
+ },
+ {
+  "start": 175.801,
+  "end": 177.452,
+  "still": "30",
+  "cue": 58,
+  "section": "03",
+  "sentence": "Skinning marks.",
   "variant": 0
  },
  {
-  "start": 178.134,
-  "end": 180.297,
+  "start": 177.452,
+  "end": 179.797,
   "still": "30",
   "cue": 59,
   "section": "03",
@@ -810,8 +801,8 @@
   "variant": 0
  },
  {
-  "start": 180.297,
-  "end": 182.3,
+  "start": 179.797,
+  "end": 181.795,
   "still": "30",
   "cue": 59,
   "section": "03",
@@ -819,8 +810,8 @@
   "variant": 1
  },
  {
-  "start": 182.3,
-  "end": 184.687,
+  "start": 181.795,
+  "end": 183.83,
   "still": "30",
   "cue": 59,
   "section": "03",
@@ -828,8 +819,8 @@
   "variant": 2
  },
  {
-  "start": 184.687,
-  "end": 186.307,
+  "start": 183.83,
+  "end": 186.204,
   "still": "30",
   "cue": 61,
   "section": "03",
@@ -837,17 +828,8 @@
   "variant": 0
  },
  {
-  "start": 186.307,
-  "end": 188.31,
-  "still": "30",
-  "cue": 61,
-  "section": "03",
-  "sentence": "Somebody took a wildcat off like a sock.",
-  "variant": 1
- },
- {
-  "start": 188.31,
-  "end": 190.313,
+  "start": 186.204,
+  "end": 187.879,
   "still": "28",
   "cue": 62,
   "section": "03",
@@ -855,8 +837,8 @@
   "variant": 0
  },
  {
-  "start": 190.313,
-  "end": 192.317,
+  "start": 187.879,
+  "end": 189.786,
   "still": "28",
   "cue": 63,
   "section": "03",
@@ -864,8 +846,8 @@
   "variant": 0
  },
  {
-  "start": 192.317,
-  "end": 194.32,
+  "start": 189.786,
+  "end": 191.883,
   "still": "28",
   "cue": 63,
   "section": "03",
@@ -873,8 +855,8 @@
   "variant": 1
  },
  {
-  "start": 194.32,
-  "end": 196.323,
+  "start": 191.883,
+  "end": 193.781,
   "still": "25",
   "cue": 64,
   "section": "03",
@@ -882,8 +864,17 @@
   "variant": 0
  },
  {
-  "start": 196.323,
-  "end": 198.327,
+  "start": 193.781,
+  "end": 195.779,
+  "still": "25",
+  "cue": 64,
+  "section": "03",
+  "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
+  "variant": 1
+ },
+ {
+  "start": 195.779,
+  "end": 197.777,
   "still": "25",
   "cue": 65,
   "section": "03",
@@ -891,17 +882,8 @@
   "variant": 0
  },
  {
-  "start": 198.327,
-  "end": 200.33,
-  "still": "25",
-  "cue": 65,
-  "section": "03",
-  "sentence": "It does not prove anyone in that cave sewed a coat.",
-  "variant": 1
- },
- {
-  "start": 200.33,
-  "end": 202.333,
+  "start": 197.777,
+  "end": 199.774,
   "still": "25",
   "cue": 66,
   "section": "03",
@@ -909,8 +891,8 @@
   "variant": 0
  },
  {
-  "start": 202.333,
-  "end": 204.39,
+  "start": 199.774,
+  "end": 201.772,
   "still": "25",
   "cue": 66,
   "section": "03",
@@ -918,8 +900,17 @@
   "variant": 1
  },
  {
-  "start": 204.39,
-  "end": 206.34,
+  "start": 201.772,
+  "end": 203.77,
+  "still": "25",
+  "cue": 66,
+  "section": "03",
+  "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
+  "variant": 2
+ },
+ {
+  "start": 203.77,
+  "end": 205.768,
   "still": "32",
   "cue": 67,
   "section": "03",
@@ -927,8 +918,8 @@
   "variant": 0
  },
  {
-  "start": 206.34,
-  "end": 208.343,
+  "start": 205.768,
+  "end": 207.765,
   "still": "32",
   "cue": 67,
   "section": "03",
@@ -936,8 +927,8 @@
   "variant": 1
  },
  {
-  "start": 208.343,
-  "end": 210.346,
+  "start": 207.765,
+  "end": 209.357,
   "still": "32",
   "cue": 67,
   "section": "03",
@@ -945,8 +936,8 @@
   "variant": 2
  },
  {
-  "start": 210.346,
-  "end": 212.35,
+  "start": 209.357,
+  "end": 211.731,
   "still": "32",
   "cue": 68,
   "section": "03",
@@ -954,8 +945,8 @@
   "variant": 0
  },
  {
-  "start": 212.35,
-  "end": 214.353,
+  "start": 211.731,
+  "end": 213.759,
   "still": "24",
   "cue": 69,
   "section": "03",
@@ -963,8 +954,8 @@
   "variant": 0
  },
  {
-  "start": 214.353,
-  "end": 216.52,
+  "start": 213.759,
+  "end": 215.756,
   "still": "24",
   "cue": 69,
   "section": "03",
@@ -972,8 +963,8 @@
   "variant": 1
  },
  {
-  "start": 216.52,
-  "end": 218.573,
+  "start": 215.756,
+  "end": 217.874,
   "still": "42",
   "cue": 70,
   "section": "04",
@@ -981,17 +972,8 @@
   "variant": 0
  },
  {
-  "start": 218.573,
-  "end": 220.199,
-  "still": "42",
-  "cue": 71,
-  "section": "04",
-  "sentence": "Joining is the nightmare.",
-  "variant": 0
- },
- {
-  "start": 220.199,
-  "end": 222.366,
+  "start": 217.874,
+  "end": 219.989,
   "still": "42",
   "cue": 73,
   "section": "04",
@@ -999,8 +981,8 @@
   "variant": 0
  },
  {
-  "start": 222.366,
-  "end": 224.369,
+  "start": 219.989,
+  "end": 221.749,
   "still": "42",
   "cue": 75,
   "section": "04",
@@ -1008,8 +990,8 @@
   "variant": 0
  },
  {
-  "start": 224.369,
-  "end": 226.373,
+  "start": 221.749,
+  "end": 223.747,
   "still": "42",
   "cue": 75,
   "section": "04",
@@ -1017,8 +999,8 @@
   "variant": 1
  },
  {
-  "start": 226.373,
-  "end": 228.376,
+  "start": 223.747,
+  "end": 225.745,
   "still": "42",
   "cue": 75,
   "section": "04",
@@ -1026,17 +1008,26 @@
   "variant": 2
  },
  {
-  "start": 228.376,
-  "end": 230.265,
-  "still": "41",
-  "cue": 76,
+  "start": 225.745,
+  "end": 227.625,
+  "still": "42",
+  "cue": 75,
   "section": "04",
-  "sentence": "The first answer was the awl.",
+  "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
+  "variant": 3
+ },
+ {
+  "start": 227.625,
+  "end": 229.74,
+  "still": "41",
+  "cue": 77,
+  "section": "04",
+  "sentence": "A sharpened bone.",
   "variant": 0
  },
  {
-  "start": 230.265,
-  "end": 232.31,
+  "start": 229.74,
+  "end": 231.637,
   "still": "41",
   "cue": 78,
   "section": "04",
@@ -1044,8 +1035,8 @@
   "variant": 0
  },
  {
-  "start": 232.31,
-  "end": 234.386,
+  "start": 231.637,
+  "end": 233.736,
   "still": "41",
   "cue": 81,
   "section": "04",
@@ -1053,8 +1044,8 @@
   "variant": 0
  },
  {
-  "start": 234.386,
-  "end": 236.389,
+  "start": 233.736,
+  "end": 235.734,
   "still": "41",
   "cue": 81,
   "section": "04",
@@ -1062,8 +1053,8 @@
   "variant": 1
  },
  {
-  "start": 236.389,
-  "end": 238.435,
+  "start": 235.734,
+  "end": 237.731,
   "still": "41",
   "cue": 81,
   "section": "04",
@@ -1071,8 +1062,8 @@
   "variant": 2
  },
  {
-  "start": 238.435,
-  "end": 240.396,
+  "start": 237.731,
+  "end": 239.729,
   "still": "44",
   "cue": 82,
   "section": "04",
@@ -1080,8 +1071,8 @@
   "variant": 0
  },
  {
-  "start": 240.396,
-  "end": 242.399,
+  "start": 239.729,
+  "end": 241.727,
   "still": "43",
   "cue": 83,
   "section": "04",
@@ -1089,8 +1080,8 @@
   "variant": 0
  },
  {
-  "start": 242.399,
-  "end": 244.394,
+  "start": 241.727,
+  "end": 243.725,
   "still": "43",
   "cue": 83,
   "section": "04",
@@ -1098,8 +1089,8 @@
   "variant": 1
  },
  {
-  "start": 244.394,
-  "end": 246.761,
+  "start": 243.725,
+  "end": 245.722,
   "still": "43",
   "cue": 84,
   "section": "04",
@@ -1107,17 +1098,8 @@
   "variant": 0
  },
  {
-  "start": 246.761,
-  "end": 248.409,
-  "still": "43",
-  "cue": 85,
-  "section": "04",
-  "sentence": "Around fifty thousand years old.",
-  "variant": 0
- },
- {
-  "start": 248.409,
-  "end": 250.412,
+  "start": 245.722,
+  "end": 247.72,
   "still": "43",
   "cue": 86,
   "section": "04",
@@ -1125,8 +1107,17 @@
   "variant": 0
  },
  {
-  "start": 250.412,
-  "end": 252.397,
+  "start": 247.72,
+  "end": 249.408,
+  "still": "43",
+  "cue": 86,
+  "section": "04",
+  "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
+  "variant": 1
+ },
+ {
+  "start": 249.408,
+  "end": 251.716,
   "still": "44",
   "cue": 87,
   "section": "04",
@@ -1134,17 +1125,8 @@
   "variant": 0
  },
  {
-  "start": 252.397,
-  "end": 254.419,
-  "still": "44",
-  "cue": 88,
-  "section": "04",
-  "sentence": "Anyone who tells you otherwise is guessing.",
-  "variant": 0
- },
- {
-  "start": 254.419,
-  "end": 256.422,
+  "start": 251.716,
+  "end": 253.713,
   "still": "43",
   "cue": 89,
   "section": "04",
@@ -1152,8 +1134,8 @@
   "variant": 0
  },
  {
-  "start": 256.422,
-  "end": 258.426,
+  "start": 253.713,
+  "end": 255.711,
   "still": "43",
   "cue": 89,
   "section": "04",
@@ -1161,8 +1143,17 @@
   "variant": 1
  },
  {
-  "start": 258.426,
-  "end": 260.646,
+  "start": 255.711,
+  "end": 257.377,
+  "still": "43",
+  "cue": 90,
+  "section": "04",
+  "sentence": "That is not a caveman with a rock.",
+  "variant": 0
+ },
+ {
+  "start": 257.377,
+  "end": 259.806,
   "still": "43",
   "cue": 91,
   "section": "04",
@@ -1170,8 +1161,8 @@
   "variant": 0
  },
  {
-  "start": 260.646,
-  "end": 262.761,
+  "start": 259.806,
+  "end": 261.704,
   "still": "52",
   "cue": 93,
   "section": "04",
@@ -1179,8 +1170,8 @@
   "variant": 0
  },
  {
-  "start": 262.761,
-  "end": 264.435,
+  "start": 261.704,
+  "end": 263.702,
   "still": "6",
   "cue": 94,
   "section": "04",
@@ -1188,8 +1179,8 @@
   "variant": 0
  },
  {
-  "start": 264.435,
-  "end": 266.439,
+  "start": 263.702,
+  "end": 265.7,
   "still": "6",
   "cue": 94,
   "section": "04",
@@ -1197,17 +1188,17 @@
   "variant": 1
  },
  {
-  "start": 266.439,
-  "end": 268.72,
+  "start": 265.7,
+  "end": 268.02,
   "still": "6",
-  "cue": 94,
+  "cue": 95,
   "section": "04",
-  "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
-  "variant": 2
+  "sentence": "They already had awls.",
+  "variant": 0
  },
  {
-  "start": 268.72,
-  "end": 270.59,
+  "start": 268.02,
+  "end": 269.695,
   "still": "43",
   "cue": 97,
   "section": "04",
@@ -1215,8 +1206,8 @@
   "variant": 0
  },
  {
-  "start": 270.59,
-  "end": 272.449,
+  "start": 269.695,
+  "end": 271.693,
   "still": "45",
   "cue": 98,
   "section": "05",
@@ -1224,8 +1215,8 @@
   "variant": 0
  },
  {
-  "start": 272.449,
-  "end": 274.452,
+  "start": 271.693,
+  "end": 273.691,
   "still": "45",
   "cue": 98,
   "section": "05",
@@ -1233,17 +1224,8 @@
   "variant": 1
  },
  {
-  "start": 274.452,
-  "end": 276.199,
-  "still": "45",
-  "cue": 98,
-  "section": "05",
-  "sentence": "In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.",
-  "variant": 2
- },
- {
-  "start": 276.199,
-  "end": 278.78,
+  "start": 273.691,
+  "end": 275.689,
   "still": "8",
   "cue": 99,
   "section": "05",
@@ -1251,8 +1233,17 @@
   "variant": 0
  },
  {
-  "start": 278.78,
-  "end": 280.743,
+  "start": 275.689,
+  "end": 277.686,
+  "still": "8",
+  "cue": 99,
+  "section": "05",
+  "sentence": "A scraped hide gives you a loose garment.",
+  "variant": 1
+ },
+ {
+  "start": 277.686,
+  "end": 279.684,
   "still": "8",
   "cue": 100,
   "section": "05",
@@ -1260,8 +1251,8 @@
   "variant": 0
  },
  {
-  "start": 280.743,
-  "end": 282.465,
+  "start": 279.684,
+  "end": 281.682,
   "still": "8",
   "cue": 101,
   "section": "05",
@@ -1269,8 +1260,8 @@
   "variant": 0
  },
  {
-  "start": 282.465,
-  "end": 284.468,
+  "start": 281.682,
+  "end": 283.68,
   "still": "8",
   "cue": 101,
   "section": "05",
@@ -1278,8 +1269,8 @@
   "variant": 1
  },
  {
-  "start": 284.468,
-  "end": 286.472,
+  "start": 283.68,
+  "end": 285.677,
   "still": "8",
   "cue": 101,
   "section": "05",
@@ -1287,8 +1278,8 @@
   "variant": 2
  },
  {
-  "start": 286.472,
-  "end": 288.475,
+  "start": 285.677,
+  "end": 287.675,
   "still": "8",
   "cue": 101,
   "section": "05",
@@ -1296,8 +1287,8 @@
   "variant": 3
  },
  {
-  "start": 288.475,
-  "end": 290.617,
+  "start": 287.675,
+  "end": 289.673,
   "still": "8",
   "cue": 101,
   "section": "05",
@@ -1305,17 +1296,8 @@
   "variant": 4
  },
  {
-  "start": 290.617,
-  "end": 292.209,
-  "still": "42",
-  "cue": 102,
-  "section": "05",
-  "sentence": "Fitted means fine sewing.",
-  "variant": 0
- },
- {
-  "start": 292.209,
-  "end": 294.296,
+  "start": 289.673,
+  "end": 291.67,
   "still": "42",
   "cue": 103,
   "section": "05",
@@ -1323,8 +1305,17 @@
   "variant": 0
  },
  {
-  "start": 294.296,
-  "end": 296.488,
+  "start": 291.67,
+  "end": 293.668,
+  "still": "42",
+  "cue": 103,
+  "section": "05",
+  "sentence": "Fine sewing means an eyed needle.",
+  "variant": 1
+ },
+ {
+  "start": 293.668,
+  "end": 295.666,
   "still": "45",
   "cue": 104,
   "section": "05",
@@ -1332,8 +1323,8 @@
   "variant": 0
  },
  {
-  "start": 296.488,
-  "end": 298.491,
+  "start": 295.666,
+  "end": 297.664,
   "still": "45",
   "cue": 104,
   "section": "05",
@@ -1341,8 +1332,8 @@
   "variant": 1
  },
  {
-  "start": 298.491,
-  "end": 300.276,
+  "start": 297.664,
+  "end": 299.661,
   "still": "45",
   "cue": 104,
   "section": "05",
@@ -1350,8 +1341,8 @@
   "variant": 2
  },
  {
-  "start": 300.276,
-  "end": 302.498,
+  "start": 299.661,
+  "end": 301.659,
   "still": "45",
   "cue": 105,
   "section": "05",
@@ -1359,17 +1350,8 @@
   "variant": 0
  },
  {
-  "start": 302.498,
-  "end": 304.501,
-  "still": "45",
-  "cue": 105,
-  "section": "05",
-  "sentence": "But the argument keeps going, and it goes somewhere better.",
-  "variant": 1
- },
- {
-  "start": 304.501,
-  "end": 306.505,
+  "start": 301.659,
+  "end": 303.657,
   "still": "51",
   "cue": 106,
   "section": "05",
@@ -1377,8 +1359,8 @@
   "variant": 0
  },
  {
-  "start": 306.505,
-  "end": 308.389,
+  "start": 303.657,
+  "end": 305.655,
   "still": "51",
   "cue": 106,
   "section": "05",
@@ -1386,8 +1368,17 @@
   "variant": 1
  },
  {
-  "start": 308.389,
-  "end": 310.511,
+  "start": 305.655,
+  "end": 307.625,
+  "still": "51",
+  "cue": 107,
+  "section": "05",
+  "sentence": "Ochre.",
+  "variant": 0
+ },
+ {
+  "start": 307.625,
+  "end": 309.65,
   "still": "51",
   "cue": 110,
   "section": "05",
@@ -1395,17 +1386,8 @@
   "variant": 0
  },
  {
-  "start": 310.511,
-  "end": 312.515,
-  "still": "51",
-  "cue": 110,
-  "section": "05",
-  "sentence": "Beads pressed right up against the body.",
-  "variant": 1
- },
- {
-  "start": 312.515,
-  "end": 314.518,
+  "start": 309.65,
+  "end": 311.648,
   "still": "51",
   "cue": 111,
   "section": "05",
@@ -1413,8 +1395,8 @@
   "variant": 0
  },
  {
-  "start": 314.518,
-  "end": 316.489,
+  "start": 311.648,
+  "end": 313.646,
   "still": "51",
   "cue": 111,
   "section": "05",
@@ -1422,8 +1404,17 @@
   "variant": 1
  },
  {
-  "start": 316.489,
-  "end": 318.524,
+  "start": 313.646,
+  "end": 315.643,
+  "still": "51",
+  "cue": 111,
+  "section": "05",
+  "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
+  "variant": 2
+ },
+ {
+  "start": 315.643,
+  "end": 317.641,
   "still": "51",
   "cue": 112,
   "section": "05",
@@ -1431,8 +1422,8 @@
   "variant": 0
  },
  {
-  "start": 318.524,
-  "end": 320.244,
+  "start": 317.641,
+  "end": 319.639,
   "still": "51",
   "cue": 112,
   "section": "05",
@@ -1440,17 +1431,8 @@
   "variant": 1
  },
  {
-  "start": 320.244,
-  "end": 322.531,
-  "still": "49",
-  "cue": 113,
-  "section": "05",
-  "sentence": "So you put it on the clothes.",
-  "variant": 0
- },
- {
-  "start": 322.531,
-  "end": 324.711,
+  "start": 319.639,
+  "end": 321.637,
   "still": "49",
   "cue": 114,
   "section": "05",
@@ -1458,17 +1440,17 @@
   "variant": 0
  },
  {
-  "start": 324.711,
-  "end": 326.538,
+  "start": 321.637,
+  "end": 323.591,
   "still": "49",
-  "cue": 117,
+  "cue": 114,
   "section": "05",
-  "sentence": "Strips of fur.",
-  "variant": 0
+  "sentence": "That's what the needle is for, too.",
+  "variant": 1
  },
  {
-  "start": 326.538,
-  "end": 328.561,
+  "start": 323.591,
+  "end": 325.632,
   "still": "49",
   "cue": 118,
   "section": "05",
@@ -1476,8 +1458,17 @@
   "variant": 0
  },
  {
-  "start": 328.561,
-  "end": 330.544,
+  "start": 325.632,
+  "end": 327.63,
+  "still": "49",
+  "cue": 118,
+  "section": "05",
+  "sentence": "Fine enough to read from across a fire.",
+  "variant": 1
+ },
+ {
+  "start": 327.63,
+  "end": 329.628,
   "still": "49",
   "cue": 119,
   "section": "05",
@@ -1485,17 +1476,8 @@
   "variant": 0
  },
  {
-  "start": 330.544,
-  "end": 332.131,
-  "still": "49",
-  "cue": 119,
-  "section": "05",
-  "sentence": "Clothing stops being a thermostat and becomes a sentence.",
-  "variant": 1
- },
- {
-  "start": 332.131,
-  "end": 334.551,
+  "start": 329.628,
+  "end": 331.625,
   "still": "45",
   "cue": 120,
   "section": "05",
@@ -1503,8 +1485,8 @@
   "variant": 0
  },
  {
-  "start": 334.551,
-  "end": 336.937,
+  "start": 331.625,
+  "end": 333.623,
   "still": "45",
   "cue": 120,
   "section": "05",
@@ -1512,8 +1494,17 @@
   "variant": 1
  },
  {
-  "start": 336.937,
-  "end": 338.557,
+  "start": 333.623,
+  "end": 335.337,
+  "still": "45",
+  "cue": 120,
+  "section": "05",
+  "sentence": "It's a hypothesis, built from timing and tools, and Gilligan says so himself.",
+  "variant": 2
+ },
+ {
+  "start": 335.337,
+  "end": 337.619,
   "still": "10",
   "cue": 121,
   "section": "05",
@@ -1521,8 +1512,8 @@
   "variant": 0
  },
  {
-  "start": 338.557,
-  "end": 340.63,
+  "start": 337.619,
+  "end": 339.616,
   "still": "10",
   "cue": 121,
   "section": "05",
@@ -1530,8 +1521,8 @@
   "variant": 1
  },
  {
-  "start": 340.63,
-  "end": 342.564,
+  "start": 339.616,
+  "end": 341.614,
   "still": "52",
   "cue": 122,
   "section": "06",
@@ -1539,8 +1530,8 @@
   "variant": 0
  },
  {
-  "start": 342.564,
-  "end": 344.567,
+  "start": 341.614,
+  "end": 343.612,
   "still": "52",
   "cue": 122,
   "section": "06",
@@ -1548,17 +1539,8 @@
   "variant": 1
  },
  {
-  "start": 344.567,
-  "end": 346.571,
-  "still": "52",
-  "cue": 122,
-  "section": "06",
-  "sentence": "In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.",
-  "variant": 2
- },
- {
-  "start": 346.571,
-  "end": 348.574,
+  "start": 343.612,
+  "end": 345.61,
   "still": "53",
   "cue": 123,
   "section": "06",
@@ -1566,8 +1548,8 @@
   "variant": 0
  },
  {
-  "start": 348.574,
-  "end": 350.577,
+  "start": 345.61,
+  "end": 347.607,
   "still": "53",
   "cue": 123,
   "section": "06",
@@ -1575,8 +1557,17 @@
   "variant": 1
  },
  {
-  "start": 350.577,
-  "end": 352.581,
+  "start": 347.607,
+  "end": 349.913,
+  "still": "53",
+  "cue": 123,
+  "section": "06",
+  "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
+  "variant": 2
+ },
+ {
+  "start": 349.913,
+  "end": 351.603,
   "still": "53",
   "cue": 124,
   "section": "06",
@@ -1584,8 +1575,8 @@
   "variant": 0
  },
  {
-  "start": 352.581,
-  "end": 354.584,
+  "start": 351.603,
+  "end": 353.601,
   "still": "53",
   "cue": 124,
   "section": "06",
@@ -1593,8 +1584,8 @@
   "variant": 1
  },
  {
-  "start": 354.584,
-  "end": 356.587,
+  "start": 353.601,
+  "end": 355.598,
   "still": "53",
   "cue": 124,
   "section": "06",
@@ -1602,8 +1593,8 @@
   "variant": 2
  },
  {
-  "start": 356.587,
-  "end": 358.59,
+  "start": 355.598,
+  "end": 357.596,
   "still": "53",
   "cue": 124,
   "section": "06",
@@ -1611,17 +1602,17 @@
   "variant": 3
  },
  {
-  "start": 358.59,
-  "end": 360.594,
+  "start": 357.596,
+  "end": 359.416,
   "still": "53",
-  "cue": 124,
+  "cue": 125,
   "section": "06",
-  "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
-  "variant": 4
+  "sentence": "Glamorous work.",
+  "variant": 0
  },
  {
-  "start": 360.594,
-  "end": 362.775,
+  "start": 359.416,
+  "end": 361.883,
   "still": "50",
   "cue": 126,
   "section": "06",
@@ -1629,8 +1620,8 @@
   "variant": 0
  },
  {
-  "start": 362.775,
-  "end": 364.6,
+  "start": 361.883,
+  "end": 363.589,
   "still": "50",
   "cue": 128,
   "section": "06",
@@ -1638,8 +1629,8 @@
   "variant": 0
  },
  {
-  "start": 364.6,
-  "end": 366.604,
+  "start": 363.589,
+  "end": 365.587,
   "still": "50",
   "cue": 128,
   "section": "06",
@@ -1647,17 +1638,8 @@
   "variant": 1
  },
  {
-  "start": 366.604,
-  "end": 368.607,
-  "still": "50",
-  "cue": 128,
-  "section": "06",
-  "sentence": "Thousands of strands, in layers up to thirty-four thousand years old.",
-  "variant": 2
- },
- {
-  "start": 368.607,
-  "end": 370.61,
+  "start": 365.587,
+  "end": 367.585,
   "still": "50",
   "cue": 129,
   "section": "06",
@@ -1665,8 +1647,17 @@
   "variant": 0
  },
  {
-  "start": 370.61,
-  "end": 372.904,
+  "start": 367.585,
+  "end": 369.582,
+  "still": "50",
+  "cue": 129,
+  "section": "06",
+  "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
+  "variant": 1
+ },
+ {
+  "start": 369.582,
+  "end": 371.304,
   "still": "50",
   "cue": 130,
   "section": "06",
@@ -1674,17 +1665,26 @@
   "variant": 0
  },
  {
-  "start": 372.904,
-  "end": 376.62,
+  "start": 371.304,
+  "end": 373.578,
   "still": "50",
-  "cue": 132,
+  "cue": 131,
   "section": "06",
-  "sentence": "Black, grey, turquoise.",
+  "sentence": "And some was coloured.",
   "variant": 0
  },
  {
-  "start": 376.62,
-  "end": 378.627,
+  "start": 373.578,
+  "end": 375.531,
+  "still": "50",
+  "cue": 133,
+  "section": "06",
+  "sentence": "And one was pink.",
+  "variant": 0
+ },
+ {
+  "start": 375.531,
+  "end": 377.573,
   "still": "50",
   "cue": 134,
   "section": "06",
@@ -1692,8 +1692,8 @@
   "variant": 0
  },
  {
-  "start": 378.627,
-  "end": 380.584,
+  "start": 377.573,
+  "end": 379.571,
   "still": "50",
   "cue": 135,
   "section": "06",
@@ -1701,8 +1701,8 @@
   "variant": 0
  },
  {
-  "start": 380.584,
-  "end": 382.63,
+  "start": 379.571,
+  "end": 381.569,
   "still": "50",
   "cue": 136,
   "section": "06",
@@ -1710,8 +1710,8 @@
   "variant": 0
  },
  {
-  "start": 382.63,
-  "end": 384.633,
+  "start": 381.569,
+  "end": 383.567,
   "still": "50",
   "cue": 136,
   "section": "06",
@@ -1719,8 +1719,8 @@
   "variant": 1
  },
  {
-  "start": 384.633,
-  "end": 386.815,
+  "start": 383.567,
+  "end": 385.857,
   "still": "50",
   "cue": 136,
   "section": "06",
@@ -1728,17 +1728,17 @@
   "variant": 2
  },
  {
-  "start": 386.815,
-  "end": 390.643,
+  "start": 385.857,
+  "end": 387.469,
   "still": "50",
-  "cue": 139,
+  "cue": 138,
   "section": "06",
-  "sentence": "For sewing.",
+  "sentence": "For baskets.",
   "variant": 0
  },
  {
-  "start": 390.643,
-  "end": 392.801,
+  "start": 387.469,
+  "end": 389.56,
   "still": "50",
   "cue": 140,
   "section": "06",
@@ -1746,8 +1746,26 @@
   "variant": 0
  },
  {
-  "start": 392.801,
-  "end": 396.715,
+  "start": 389.56,
+  "end": 391.201,
+  "still": "50",
+  "cue": 140,
+  "section": "06",
+  "sentence": "We don't know which, and no textile survives to tell us.",
+  "variant": 1
+ },
+ {
+  "start": 391.201,
+  "end": 393.555,
+  "still": "50",
+  "cue": 141,
+  "section": "06",
+  "sentence": "But here's why I care.",
+  "variant": 0
+ },
+ {
+  "start": 393.555,
+  "end": 395.553,
   "still": "51",
   "cue": 142,
   "section": "06",
@@ -1755,8 +1773,8 @@
   "variant": 0
  },
  {
-  "start": 396.715,
-  "end": 398.656,
+  "start": 395.553,
+  "end": 397.551,
   "still": "51",
   "cue": 143,
   "section": "06",
@@ -1764,17 +1782,8 @@
   "variant": 0
  },
  {
-  "start": 398.656,
-  "end": 400.66,
-  "still": "51",
-  "cue": 143,
-  "section": "06",
-  "sentence": "You do not colour a rope so the rope works better.",
-  "variant": 1
- },
- {
-  "start": 400.66,
-  "end": 402.663,
+  "start": 397.551,
+  "end": 399.549,
   "still": "50",
   "cue": 144,
   "section": "06",
@@ -1782,8 +1791,8 @@
   "variant": 0
  },
  {
-  "start": 402.663,
-  "end": 404.666,
+  "start": 399.549,
+  "end": 401.546,
   "still": "50",
   "cue": 144,
   "section": "06",
@@ -1791,8 +1800,8 @@
   "variant": 1
  },
  {
-  "start": 404.666,
-  "end": 406.67,
+  "start": 401.546,
+  "end": 403.544,
   "still": "50",
   "cue": 144,
   "section": "06",
@@ -1800,8 +1809,8 @@
   "variant": 2
  },
  {
-  "start": 406.67,
-  "end": 408.673,
+  "start": 403.544,
+  "end": 405.542,
   "still": "50",
   "cue": 144,
   "section": "06",
@@ -1809,8 +1818,8 @@
   "variant": 3
  },
  {
-  "start": 408.673,
-  "end": 410.676,
+  "start": 405.542,
+  "end": 407.54,
   "still": "50",
   "cue": 144,
   "section": "06",
@@ -1818,8 +1827,8 @@
   "variant": 4
  },
  {
-  "start": 410.676,
-  "end": 412.68,
+  "start": 407.54,
+  "end": 409.537,
   "still": "53",
   "cue": 145,
   "section": "06",
@@ -1827,8 +1836,8 @@
   "variant": 0
  },
  {
-  "start": 412.68,
-  "end": 414.684,
+  "start": 409.537,
+  "end": 411.535,
   "still": "53",
   "cue": 145,
   "section": "06",
@@ -1836,8 +1845,17 @@
   "variant": 1
  },
  {
-  "start": 414.684,
-  "end": 416.686,
+  "start": 411.535,
+  "end": 413.533,
+  "still": "53",
+  "cue": 145,
+  "section": "06",
+  "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
+  "variant": 2
+ },
+ {
+  "start": 413.533,
+  "end": 415.531,
   "still": "53",
   "cue": 146,
   "section": "06",
@@ -1845,8 +1863,8 @@
   "variant": 0
  },
  {
-  "start": 416.686,
-  "end": 418.35,
+  "start": 415.531,
+  "end": 417.528,
   "still": "53",
   "cue": 146,
   "section": "06",
@@ -1854,26 +1872,26 @@
   "variant": 1
  },
  {
-  "start": 418.35,
-  "end": 420.693,
-  "still": "25",
+  "start": 417.528,
+  "end": 419.588,
+  "still": "67",
   "cue": 147,
   "section": "07",
   "sentence": "And now the part nobody puts in the documentary.",
   "variant": 0
  },
  {
-  "start": 420.693,
-  "end": 422.28,
-  "still": "3",
-  "cue": 148,
+  "start": 419.588,
+  "end": 421.772,
+  "still": "50",
+  "cue": 149,
   "section": "07",
-  "sentence": "We know the tools.",
+  "sentence": "We know the fibre.",
   "variant": 0
  },
  {
-  "start": 422.28,
-  "end": 424.697,
+  "start": 421.772,
+  "end": 423.522,
   "still": "50",
   "cue": 150,
   "section": "07",
@@ -1881,53 +1899,53 @@
   "variant": 0
  },
  {
-  "start": 424.697,
-  "end": 426.703,
-  "still": "3",
+  "start": 423.522,
+  "end": 425.519,
+  "still": "65",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
   "variant": 0
  },
  {
-  "start": 426.703,
-  "end": 428.706,
-  "still": "3",
+  "start": 425.519,
+  "end": 427.517,
+  "still": "65",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
   "variant": 1
  },
  {
-  "start": 428.706,
-  "end": 430.709,
-  "still": "3",
+  "start": 427.517,
+  "end": 429.515,
+  "still": "65",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
   "variant": 2
  },
  {
-  "start": 430.709,
-  "end": 432.713,
-  "still": "3",
+  "start": 429.515,
+  "end": 431.513,
+  "still": "65",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
   "variant": 3
  },
  {
-  "start": 432.713,
-  "end": 434.926,
-  "still": "3",
+  "start": 431.513,
+  "end": 433.326,
+  "still": "65",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
   "variant": 4
  },
  {
-  "start": 434.926,
-  "end": 436.719,
+  "start": 433.326,
+  "end": 435.508,
   "still": "59",
   "cue": 152,
   "section": "07",
@@ -1935,8 +1953,8 @@
   "variant": 0
  },
  {
-  "start": 436.719,
-  "end": 438.722,
+  "start": 435.508,
+  "end": 437.506,
   "still": "59",
   "cue": 152,
   "section": "07",
@@ -1944,8 +1962,8 @@
   "variant": 1
  },
  {
-  "start": 438.722,
-  "end": 440.907,
+  "start": 437.506,
+  "end": 439.307,
   "still": "59",
   "cue": 152,
   "section": "07",
@@ -1953,8 +1971,8 @@
   "variant": 2
  },
  {
-  "start": 440.907,
-  "end": 442.729,
+  "start": 439.307,
+  "end": 441.621,
   "still": "59",
   "cue": 153,
   "section": "07",
@@ -1962,8 +1980,8 @@
   "variant": 0
  },
  {
-  "start": 442.729,
-  "end": 444.732,
+  "start": 441.621,
+  "end": 443.499,
   "still": "59",
   "cue": 154,
   "section": "07",
@@ -1971,8 +1989,8 @@
   "variant": 0
  },
  {
-  "start": 444.732,
-  "end": 446.736,
+  "start": 443.499,
+  "end": 445.497,
   "still": "59",
   "cue": 154,
   "section": "07",
@@ -1980,8 +1998,8 @@
   "variant": 1
  },
  {
-  "start": 446.736,
-  "end": 448.739,
+  "start": 445.497,
+  "end": 447.494,
   "still": "59",
   "cue": 154,
   "section": "07",
@@ -1989,8 +2007,8 @@
   "variant": 2
  },
  {
-  "start": 448.739,
-  "end": 450.715,
+  "start": 447.494,
+  "end": 449.115,
   "still": "59",
   "cue": 154,
   "section": "07",
@@ -1998,8 +2016,8 @@
   "variant": 3
  },
  {
-  "start": 450.715,
-  "end": 452.745,
+  "start": 449.115,
+  "end": 451.49,
   "still": "59",
   "cue": 155,
   "section": "07",
@@ -2007,17 +2025,8 @@
   "variant": 0
  },
  {
-  "start": 452.745,
-  "end": 454.749,
-  "still": "59",
-  "cue": 156,
-  "section": "07",
-  "sentence": "That's where the story lives.",
-  "variant": 0
- },
- {
-  "start": 454.749,
-  "end": 456.752,
+  "start": 451.49,
+  "end": 453.488,
   "still": "18",
   "cue": 157,
   "section": "08",
@@ -2025,8 +2034,8 @@
   "variant": 0
  },
  {
-  "start": 456.752,
-  "end": 458.978,
+  "start": 453.488,
+  "end": 455.485,
   "still": "18",
   "cue": 157,
   "section": "08",
@@ -2034,8 +2043,17 @@
   "variant": 1
  },
  {
-  "start": 458.978,
-  "end": 460.759,
+  "start": 455.485,
+  "end": 457.378,
+  "still": "18",
+  "cue": 157,
+  "section": "08",
+  "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
+  "variant": 2
+ },
+ {
+  "start": 457.378,
+  "end": 459.481,
   "still": "55",
   "cue": 158,
   "section": "08",
@@ -2043,8 +2061,8 @@
   "variant": 0
  },
  {
-  "start": 460.759,
-  "end": 462.762,
+  "start": 459.481,
+  "end": 461.479,
   "still": "55",
   "cue": 158,
   "section": "08",
@@ -2052,8 +2070,8 @@
   "variant": 1
  },
  {
-  "start": 462.762,
-  "end": 464.765,
+  "start": 461.479,
+  "end": 463.679,
   "still": "55",
   "cue": 158,
   "section": "08",
@@ -2061,8 +2079,8 @@
   "variant": 2
  },
  {
-  "start": 464.765,
-  "end": 466.769,
+  "start": 463.679,
+  "end": 465.474,
   "still": "55",
   "cue": 159,
   "section": "08",
@@ -2070,8 +2088,8 @@
   "variant": 0
  },
  {
-  "start": 466.769,
-  "end": 468.772,
+  "start": 465.474,
+  "end": 467.472,
   "still": "55",
   "cue": 159,
   "section": "08",
@@ -2079,8 +2097,8 @@
   "variant": 1
  },
  {
-  "start": 468.772,
-  "end": 470.913,
+  "start": 467.472,
+  "end": 469.313,
   "still": "55",
   "cue": 159,
   "section": "08",
@@ -2088,8 +2106,8 @@
   "variant": 2
  },
  {
-  "start": 470.913,
-  "end": 472.778,
+  "start": 469.313,
+  "end": 471.467,
   "still": "55",
   "cue": 160,
   "section": "08",
@@ -2097,17 +2115,17 @@
   "variant": 0
  },
  {
-  "start": 472.778,
-  "end": 474.574,
+  "start": 471.467,
+  "end": 473.465,
   "still": "54",
-  "cue": 161,
+  "cue": 162,
   "section": "08",
-  "sentence": "Three thousand of them.",
+  "sentence": "Mammoth ivory.",
   "variant": 0
  },
  {
-  "start": 474.574,
-  "end": 476.671,
+  "start": 473.465,
+  "end": 475.071,
   "still": "54",
   "cue": 164,
   "section": "08",
@@ -2115,8 +2133,8 @@
   "variant": 0
  },
  {
-  "start": 476.671,
-  "end": 478.788,
+  "start": 475.071,
+  "end": 477.461,
   "still": "54",
   "cue": 165,
   "section": "08",
@@ -2124,17 +2142,8 @@
   "variant": 0
  },
  {
-  "start": 478.788,
-  "end": 480.792,
-  "still": "54",
-  "cue": 165,
-  "section": "08",
-  "sentence": "Each one small enough to make a modern jeweller swear.",
-  "variant": 1
- },
- {
-  "start": 480.792,
-  "end": 482.795,
+  "start": 477.461,
+  "end": 479.458,
   "still": "63",
   "cue": 166,
   "section": "08",
@@ -2142,8 +2151,17 @@
   "variant": 0
  },
  {
-  "start": 482.795,
-  "end": 484.798,
+  "start": 479.458,
+  "end": 481.456,
+  "still": "57",
+  "cue": 166,
+  "section": "08",
+  "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
+  "variant": 0
+ },
+ {
+  "start": 481.456,
+  "end": 483.454,
   "still": "63",
   "cue": 167,
   "section": "08",
@@ -2151,8 +2169,8 @@
   "variant": 0
  },
  {
-  "start": 484.798,
-  "end": 486.802,
+  "start": 483.454,
+  "end": 485.452,
   "still": "57",
   "cue": 167,
   "section": "08",
@@ -2160,8 +2178,8 @@
   "variant": 0
  },
  {
-  "start": 486.802,
-  "end": 488.805,
+  "start": 485.452,
+  "end": 487.449,
   "still": "63",
   "cue": 167,
   "section": "08",
@@ -2169,8 +2187,8 @@
   "variant": 1
  },
  {
-  "start": 488.805,
-  "end": 490.808,
+  "start": 487.449,
+  "end": 489.447,
   "still": "54",
   "cue": 168,
   "section": "08",
@@ -2178,8 +2196,8 @@
   "variant": 0
  },
  {
-  "start": 490.808,
-  "end": 492.811,
+  "start": 489.447,
+  "end": 491.445,
   "still": "54",
   "cue": 168,
   "section": "08",
@@ -2187,8 +2205,8 @@
   "variant": 1
  },
  {
-  "start": 492.811,
-  "end": 494.815,
+  "start": 491.445,
+  "end": 493.443,
   "still": "54",
   "cue": 168,
   "section": "08",
@@ -2196,17 +2214,8 @@
   "variant": 2
  },
  {
-  "start": 494.815,
-  "end": 496.818,
-  "still": "54",
-  "cue": 168,
-  "section": "08",
-  "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
-  "variant": 3
- },
- {
-  "start": 496.818,
-  "end": 498.821,
+  "start": 493.443,
+  "end": 495.44,
   "still": "63",
   "cue": 169,
   "section": "08",
@@ -2214,17 +2223,17 @@
   "variant": 0
  },
  {
-  "start": 498.821,
-  "end": 500.816,
+  "start": 495.44,
+  "end": 497.834,
   "still": "63",
-  "cue": 170,
+  "cue": 169,
   "section": "08",
-  "sentence": "A hide keeps you warm.",
-  "variant": 0
+  "sentence": "That's the moment this stops being a story about weather.",
+  "variant": 1
  },
  {
-  "start": 500.816,
-  "end": 502.828,
+  "start": 497.834,
+  "end": 501.434,
   "still": "63",
   "cue": 171,
   "section": "08",
@@ -2232,8 +2241,8 @@
   "variant": 0
  },
  {
-  "start": 502.828,
-  "end": 504.688,
+  "start": 501.434,
+  "end": 503.088,
   "still": "63",
   "cue": 171,
   "section": "08",
@@ -2241,8 +2250,8 @@
   "variant": 1
  },
  {
-  "start": 504.688,
-  "end": 506.835,
+  "start": 503.088,
+  "end": 505.429,
   "still": "63",
   "cue": 173,
   "section": "08",
@@ -2250,8 +2259,8 @@
   "variant": 0
  },
  {
-  "start": 506.835,
-  "end": 508.838,
+  "start": 505.429,
+  "end": 507.427,
   "still": "63",
   "cue": 173,
   "section": "08",
@@ -2259,8 +2268,8 @@
   "variant": 1
  },
  {
-  "start": 508.838,
-  "end": 510.841,
+  "start": 507.427,
+  "end": 509.424,
   "still": "63",
   "cue": 174,
   "section": "08",
@@ -2268,8 +2277,8 @@
   "variant": 0
  },
  {
-  "start": 510.841,
-  "end": 512.844,
+  "start": 509.424,
+  "end": 511.422,
   "still": "57",
   "cue": 175,
   "section": "08",
@@ -2277,8 +2286,8 @@
   "variant": 0
  },
  {
-  "start": 512.844,
-  "end": 514.848,
+  "start": 511.422,
+  "end": 513.42,
   "still": "57",
   "cue": 175,
   "section": "08",
@@ -2286,8 +2295,8 @@
   "variant": 1
  },
  {
-  "start": 514.848,
-  "end": 516.851,
+  "start": 513.42,
+  "end": 515.418,
   "still": "57",
   "cue": 175,
   "section": "08",
@@ -2295,8 +2304,8 @@
   "variant": 2
  },
  {
-  "start": 516.851,
-  "end": 518.854,
+  "start": 515.418,
+  "end": 517.415,
   "still": "57",
   "cue": 176,
   "section": "08",
@@ -2304,8 +2313,8 @@
   "variant": 0
  },
  {
-  "start": 518.854,
-  "end": 520.858,
+  "start": 517.415,
+  "end": 519.413,
   "still": "57",
   "cue": 176,
   "section": "08",
@@ -2313,8 +2322,8 @@
   "variant": 1
  },
  {
-  "start": 520.858,
-  "end": 522.861,
+  "start": 519.413,
+  "end": 521.411,
   "still": "57",
   "cue": 177,
   "section": "08",
@@ -2322,8 +2331,8 @@
   "variant": 0
  },
  {
-  "start": 522.861,
-  "end": 524.864,
+  "start": 521.411,
+  "end": 523.409,
   "still": "57",
   "cue": 179,
   "section": "09",
@@ -2331,8 +2340,8 @@
   "variant": 0
  },
  {
-  "start": 524.864,
-  "end": 526.868,
+  "start": 523.409,
+  "end": 525.406,
   "still": "57",
   "cue": 179,
   "section": "09",
@@ -2340,8 +2349,8 @@
   "variant": 1
  },
  {
-  "start": 526.868,
-  "end": 528.871,
+  "start": 525.406,
+  "end": 527.404,
   "still": "41",
   "cue": 180,
   "section": "09",
@@ -2349,8 +2358,8 @@
   "variant": 0
  },
  {
-  "start": 528.871,
-  "end": 530.874,
+  "start": 527.404,
+  "end": 529.402,
   "still": "41",
   "cue": 181,
   "section": "09",
@@ -2358,8 +2367,8 @@
   "variant": 0
  },
  {
-  "start": 530.874,
-  "end": 532.877,
+  "start": 529.402,
+  "end": 531.4,
   "still": "41",
   "cue": 181,
   "section": "09",
@@ -2367,8 +2376,8 @@
   "variant": 1
  },
  {
-  "start": 532.877,
-  "end": 534.881,
+  "start": 531.4,
+  "end": 533.397,
   "still": "41",
   "cue": 182,
   "section": "09",
@@ -2376,8 +2385,8 @@
   "variant": 0
  },
  {
-  "start": 534.881,
-  "end": 536.884,
+  "start": 533.397,
+  "end": 535.395,
   "still": "41",
   "cue": 182,
   "section": "09",
@@ -2385,8 +2394,8 @@
   "variant": 1
  },
  {
-  "start": 536.884,
-  "end": 538.724,
+  "start": 535.395,
+  "end": 537.124,
   "still": "41",
   "cue": 182,
   "section": "09",
@@ -2394,8 +2403,8 @@
   "variant": 2
  },
  {
-  "start": 538.724,
-  "end": 540.831,
+  "start": 537.124,
+  "end": 539.231,
   "still": "41",
   "cue": 183,
   "section": "09",
@@ -2403,8 +2412,8 @@
   "variant": 0
  },
  {
-  "start": 540.831,
-  "end": 542.894,
+  "start": 539.231,
+  "end": 541.388,
   "still": "10",
   "cue": 186,
   "section": "09",
@@ -2412,8 +2421,8 @@
   "variant": 0
  },
  {
-  "start": 542.894,
-  "end": 544.837,
+  "start": 541.388,
+  "end": 543.237,
   "still": "10",
   "cue": 186,
   "section": "09",
@@ -2421,8 +2430,8 @@
   "variant": 1
  },
  {
-  "start": 544.837,
-  "end": 546.661,
+  "start": 543.237,
+  "end": 545.061,
   "still": "10",
   "cue": 187,
   "section": "09",
@@ -2430,8 +2439,8 @@
   "variant": 0
  },
  {
-  "start": 546.661,
-  "end": 548.904,
+  "start": 545.061,
+  "end": 547.382,
   "still": "3",
   "cue": 188,
   "section": "09",
@@ -2439,8 +2448,8 @@
   "variant": 0
  },
  {
-  "start": 548.904,
-  "end": 550.907,
+  "start": 547.382,
+  "end": 549.379,
   "still": "3",
   "cue": 188,
   "section": "09",
@@ -2448,8 +2457,8 @@
   "variant": 1
  },
  {
-  "start": 550.907,
-  "end": 552.91,
+  "start": 549.379,
+  "end": 551.736,
   "still": "3",
   "cue": 189,
   "section": "09",
@@ -2457,8 +2466,8 @@
   "variant": 0
  },
  {
-  "start": 552.91,
-  "end": 554.914,
+  "start": 551.736,
+  "end": 553.375,
   "still": "3",
   "cue": 190,
   "section": "09",
@@ -2466,8 +2475,8 @@
   "variant": 0
  },
  {
-  "start": 554.914,
-  "end": 556.917,
+  "start": 553.375,
+  "end": 555.373,
   "still": "50",
   "cue": 191,
   "section": "09",
@@ -2475,8 +2484,8 @@
   "variant": 0
  },
  {
-  "start": 556.917,
-  "end": 558.92,
+  "start": 555.373,
+  "end": 557.37,
   "still": "50",
   "cue": 191,
   "section": "09",
@@ -2484,8 +2493,8 @@
   "variant": 1
  },
  {
-  "start": 558.92,
-  "end": 561.019,
+  "start": 557.37,
+  "end": 559.419,
   "still": "50",
   "cue": 191,
   "section": "09",
@@ -2493,8 +2502,8 @@
   "variant": 2
  },
  {
-  "start": 561.019,
-  "end": 562.927,
+  "start": 559.419,
+  "end": 561.366,
   "still": "60",
   "cue": 192,
   "section": "09",
@@ -2502,8 +2511,8 @@
   "variant": 0
  },
  {
-  "start": 562.927,
-  "end": 564.93,
+  "start": 561.366,
+  "end": 563.364,
   "still": "60",
   "cue": 192,
   "section": "09",
@@ -2511,8 +2520,8 @@
   "variant": 1
  },
  {
-  "start": 564.93,
-  "end": 566.934,
+  "start": 563.364,
+  "end": 565.361,
   "still": "61",
   "cue": 193,
   "section": "09",
@@ -2520,8 +2529,8 @@
   "variant": 0
  },
  {
-  "start": 566.934,
-  "end": 568.937,
+  "start": 565.361,
+  "end": 567.359,
   "still": "61",
   "cue": 193,
   "section": "09",
@@ -2529,8 +2538,8 @@
   "variant": 1
  },
  {
-  "start": 568.937,
-  "end": 570.527,
+  "start": 567.359,
+  "end": 569.357,
   "still": "61",
   "cue": 193,
   "section": "09",
@@ -2538,8 +2547,8 @@
   "variant": 2
  },
  {
-  "start": 570.527,
-  "end": 572.648,
+  "start": 569.357,
+  "end": 571.048,
   "still": "60",
   "cue": 195,
   "section": "09",
@@ -2547,8 +2556,8 @@
   "variant": 0
  },
  {
-  "start": 572.648,
-  "end": 574.947,
+  "start": 571.048,
+  "end": 573.352,
   "still": "43",
   "cue": 196,
   "section": "09",
@@ -2556,8 +2565,8 @@
   "variant": 0
  },
  {
-  "start": 574.947,
-  "end": 576.95,
+  "start": 573.352,
+  "end": 575.35,
   "still": "43",
   "cue": 197,
   "section": "09",

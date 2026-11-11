@@ -9,17 +9,17 @@ never in the facts. If a line sounds like a teacher, it's wrong.
 
 ## 1 · You are wearing a corpse
 
-A cold morning. You own one garment. It's a hide.
+Somebody, fifty thousand years ago, drilled a hole through a bird bone the width of a hair.
 
-Not a coat. A coat implies somebody made a decision. This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.
+Not for food. Not for a weapon. For a seam.
 
-Here's the thing about that picture — the one where ancient people shuffle around in animal skins looking noble and doomed. It's wrong. Not because they were stupid. Because the outfit is genuinely terrible.
+A cold morning. You own one garment. It's a hide. Not a coat — a coat implies somebody made a decision. This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.
 
-It hangs open at the neck. It sets like cardboard when it dries. And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.
+And that outfit is genuinely terrible. It hangs open at the neck. It sets like cardboard when it dries. It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.
 
-So the interesting question isn't how somebody wore an animal skin. Anyone can wear an animal skin. The question is when clothing stopped being something you drape, and became something you build.
+So the question isn't how somebody wore an animal skin. Anyone can wear an animal skin. It's when clothing stopped being something you drape, and became something you build.
 
-Three finds. A cave in Morocco, full of tools nobody would photograph twice. A needle you could lose between two fingers. And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.
+Three finds. A cave in Morocco full of tools nobody would photograph twice. That needle. And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.
 
 We don't have one garment from any of it. Not a sleeve. Not a stitch. We have the workshop, and we have the mess.
 

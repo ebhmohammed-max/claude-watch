@@ -33,7 +33,8 @@ DUR = MAP['narration_seconds']
 N = int(SR * DUR)
 rng = np.random.default_rng(11)
 
-BED_RMS_DB = -30.0
+BED_RMS_DB = -25.0   # the rain mix landed near here after retuning - a bed
+                     # at -30 measured as -34.5 in practice and disappeared under the voice
 
 # Where the craft textures are allowed, and how busy. Seconds.
 CRAFT = [
@@ -146,10 +147,10 @@ def build():
     wL *= gust
     wR *= gust
 
-    cr = transients(N, 1.0)
+    cr = transients(N, 2.4)   # hits need to sit above the wind or they vanish
     # craft sits slightly right of centre so it does not blur the voice
-    bedL = wL * 0.92 + cr * 0.55
-    bedR = wR * 0.92 + cr * 0.72
+    bedL = wL * 0.88 + cr * 0.62
+    bedR = wR * 0.88 + cr * 0.80
 
     # normalise the bed to the target RMS, then duck under the narration
     rms = float(np.sqrt(np.mean(np.concatenate([bedL, bedR]) ** 2)) + 1e-12)
@@ -214,7 +215,7 @@ def mix(bed_path):
     act = np.clip(envl / 0.06, 0, 1).astype(np.float32)     # 1 = speech present
 
     # 0 dB in silence, -13 dB under speech
-    gain_db = -13.0 * act
+    gain_db = -10.0 * act
     bed_gain = (10 ** (gain_db / 20)).astype(np.float32)[:, None]
     mixed = vo[:, None] + bed * bed_gain
 

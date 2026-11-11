@@ -1,8 +1,8 @@
 # What Did Ancient Humans Wear Before Tailors?
 ### Atlas Understory — upload kit
 
-**Runtime** 9:36.96 · 1280×720 · 25 fps · H.264 + AAC stereo
-**File** `tailors-episode.mp4` (~85 MB)
+**Runtime** 9:35.35 · 1280×720 · 25 fps · H.264 + AAC stereo
+**File** `tailors-episode.mp4` (~87 MB)
 
 ---
 
@@ -40,14 +40,14 @@ nobody would photograph twice, a needle small enough to lose between two
 fingers, and a grave with three thousand hand-drilled ivory beads on one outfit.
 
 00:00 You are wearing a corpse
-01:05 The lice know
-02:16 The ugliest tool in the cave
-03:36 The hole is the hard part
-04:30 It's about the underwear
-05:40 Someone dyed a rope pink
-06:58 Every diorama is a guess
-07:33 Three thousand holes
-08:43 The first thing you put on
+01:03 The lice know
+02:15 The ugliest tool in the cave
+03:34 The hole is the hard part
+04:28 It's about the underwear
+05:39 Someone dyed a rope pink
+06:56 Every diorama is a guess
+07:32 Three thousand holes
+08:41 The first thing you put on
 
 SOURCES
 Hallett et al., "A worked bone assemblage from 120,000–90,000 year old deposits
@@ -96,7 +96,7 @@ One hide, one bone needle, no thread. What are you making?
 
 ## Pre-upload checklist
 
-- [x] Runtime verified 576.951 s against the narration master (drift 0.000 s)
+- [x] Runtime verified 575.351 s against the narration master (drift 0.000 s)
 - [x] 288 clips, every one checked against its planned frame count
 - [x] Decode-verified end to end, no corrupt frames
 - [x] 198 SRT cues, timings derived from the same map as the picture
@@ -111,14 +111,17 @@ One hide, one bone needle, no thread. What are you making?
 
 ## Known gaps, stated plainly
 
-- **§7 runs mostly on repeat plates.** "Every diorama is a guess" leans on the
-  hide-fragment and museum-case stills. Two dedicated shots would fix it.
-- **Two planned shots were never made.** The pelt drying flat was refused by the
-  image moderator; the hide-scraping hands kept rendering with modern-looking
-  human arms. Both sections work without them.
-- **41 stills carry 288 placements**, so some images recur. Recurrence is
-  deliberate inside a section (same scene, different framing) but §7 is thinner
-  than the rest.
+- **§7 was rebuilt with dedicated plates.** "Every diorama is a guess" now has
+  its own material: a decayed stain where organic material has gone, a sediment
+  mark, a lit cave shaft, an unreadable archive box.
+- **Three planned shots were never made.** The pelt drying flat was refused by
+  the image moderator; the hide-scraping hands kept rendering with modern-looking
+  arms; and a museum diorama case rendered a nude mannequin, which was discarded
+  rather than shipped. All three sections work without them.
+- **43 stills carry the 288 placements**, so images recur. Recurrence is
+  deliberate inside a section (same scene, different framing). The archive zip
+  holds all **56** generated stills, including 13 spares that were made but not
+  needed once §7 got its own plates.
 - **Ambience is synthesised.** The craft sounds are generated noise transients,
   not recordings, and are honest as atmosphere rather than as documentary sound.
 - **720p only.** Source stills are ~2 MP, so this is the honest ceiling.

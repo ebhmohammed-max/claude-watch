@@ -30,18 +30,24 @@ LABELS = {
     # §7-§9 — Sunghir beads, absence, and the closing
     '54': 'OBJECT', '55': 'OBJECT', '57': 'OBJECT', '63': 'OBJECT',
     '59': 'DETAIL', '60': 'LANDSCAPE', '61': 'LANDSCAPE',
+    # §7 absence plates, the tighter opening, and two material details
+    '65': 'DETAIL', '66': 'DETAIL', '67': 'RECON', '68': 'DETAIL',
+    '69': 'RECON', '70': 'RECON', '71': 'DETAIL', '72': 'OBJECT', '73': 'RECON',
 }
 
 # Ordered rules: first match wins, so put the specific before the general.
 RULES = [
     # ---- §1
+    (r'drilled a hole through a bird bone', ['43']),
+    (r'^Not for food|For a seam', ['72']),
+    (r'before there were tailors|holding shut with one hand', ['1']),
     (r'one garment|It.s a hide|Not a coat|animal skin|folded over one shoulder', ['1', '10']),
     (r'outfit is genuinely terrible|hangs open at the neck|cardboard', ['7']),
     (r'noble and doomed|shuffle around', ['2']),
     (r'stopped being something you drape|something you build', ['5']),
-    (r'cave in Morocco', ['9']),
+    (r'cave in Morocco', ['23']),
     (r'needle you could lose', ['43']),
-    (r'grave with three thousand beads', ['10']),
+    (r'grave with three thousand beads|abruptly, it is', ['54']),
     (r'not a sleeve|not a stitch|the workshop|the mess', ['3']),
     (r'cold morning', ['8']),
     # ---- §2
@@ -89,10 +95,10 @@ RULES = [
     (r'Dyeing is not a survival|colour a rope', ['51']),
     (r'Pavlov|fired clay|hides-or-cloth|fashionably late', ['53']),
     # ---- §7
-    (r'part nobody puts in', ['25']),
-    (r'We know the tools|five thousand years|Egypt', ['3']),
+    (r'part nobody puts in', ['67']),
+    (r'We know the tools|five thousand years|Egypt', ['65']),
     (r'rectangle with a hole|museum figure|lab coat', ['59']),
-    (r'where the story lives', ['59']),
+    (r'where the story lives', ['66']),
     # ---- §8
     (r'Moscow, near Vladimir|Sunghir', ['18']),
     (r'buried their dead|Thirty-four thousand years ago, people', ['55']),

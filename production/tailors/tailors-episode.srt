@@ -1,791 +1,791 @@
 1
-00:00:00,000 --> 00:00:00,922
-A cold morning.
+00:00:00,000 --> 00:00:05,804
+Somebody, fifty thousand years ago, drilled a hole through a bird bone the width of a hair.
 
 2
-00:00:00,922 --> 00:00:02,137
-You own one garment.
+00:00:05,804 --> 00:00:06,674
+Not for food.
 
 3
-00:00:02,137 --> 00:00:02,884
-It's a hide.
+00:00:06,674 --> 00:00:07,797
+Not for a weapon.
 
 4
-00:00:02,884 --> 00:00:03,573
-Not a coat.
+00:00:07,797 --> 00:00:08,541
+For a seam.
 
 5
-00:00:03,573 --> 00:00:05,958
-A coat implies somebody made a decision.
+00:00:08,541 --> 00:00:09,538
+A cold morning.
 
 6
-00:00:05,958 --> 00:00:12,498
-This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.
+00:00:09,538 --> 00:00:10,851
+You own one garment.
 
 7
-00:00:12,498 --> 00:00:19,741
-Here's the thing about that picture — the one where ancient people shuffle around in animal skins looking noble and doomed.
+00:00:10,851 --> 00:00:11,659
+It's a hide.
 
 8
-00:00:19,741 --> 00:00:20,429
-It's wrong.
+00:00:11,659 --> 00:00:15,059
+Not a coat — a coat implies somebody made a decision.
 
 9
-00:00:20,429 --> 00:00:22,171
-Not because they were stupid.
+00:00:15,059 --> 00:00:22,127
+This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.
 
 10
-00:00:22,171 --> 00:00:24,615
-Because the outfit is genuinely terrible.
+00:00:22,127 --> 00:00:24,579
+And that outfit is genuinely terrible.
 
 11
-00:00:24,615 --> 00:00:26,181
+00:00:24,579 --> 00:00:26,271
 It hangs open at the neck.
 
 12
-00:00:26,181 --> 00:00:28,391
+00:00:26,271 --> 00:00:28,660
 It sets like cardboard when it dries.
 
 13
-00:00:28,391 --> 00:00:34,931
-And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.
+00:00:28,660 --> 00:00:34,400
+It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.
 
 14
-00:00:34,931 --> 00:00:38,897
-So the interesting question isn't how somebody wore an animal skin.
+00:00:34,400 --> 00:00:37,927
+So the question isn't how somebody wore an animal skin.
 
 15
-00:00:38,897 --> 00:00:40,756
+00:00:37,927 --> 00:00:39,935
 Anyone can wear an animal skin.
 
 16
-00:00:40,756 --> 00:00:46,418
-The question is when clothing stopped being something you drape, and became something you build.
+00:00:39,935 --> 00:00:45,360
+It's when clothing stopped being something you drape, and became something you build.
 
 17
-00:00:46,418 --> 00:00:47,165
+00:00:45,360 --> 00:00:46,167
 Three finds.
 
 18
-00:00:47,165 --> 00:00:50,896
-A cave in Morocco, full of tools nobody would photograph twice.
+00:00:46,167 --> 00:00:50,136
+A cave in Morocco full of tools nobody would photograph twice.
 
 19
-00:00:50,896 --> 00:00:53,516
-A needle you could lose between two fingers.
+00:00:50,136 --> 00:00:50,943
+That needle.
 
 20
-00:00:53,516 --> 00:00:58,944
+00:00:50,943 --> 00:00:56,810
 And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.
 
 21
-00:00:58,944 --> 00:01:01,388
+00:00:56,810 --> 00:00:59,451
 We don't have one garment from any of it.
 
 22
-00:01:01,388 --> 00:01:02,194
+00:00:59,451 --> 00:01:00,322
 Not a sleeve.
 
 23
-00:01:02,194 --> 00:01:02,999
+00:01:00,322 --> 00:01:01,192
 Not a stitch.
 
 24
-00:01:02,999 --> 00:01:05,560
+00:01:01,192 --> 00:01:03,960
 We have the workshop, and we have the mess.
 
 25
-00:01:05,560 --> 00:01:06,292
+00:01:03,960 --> 00:01:04,692
 Clothes rot.
 
 26
-00:01:06,292 --> 00:01:07,425
+00:01:04,692 --> 00:01:05,825
 That's the problem.
 
 27
-00:01:07,425 --> 00:01:08,903
+00:01:05,825 --> 00:01:07,303
 That's the whole problem.
 
 28
-00:01:08,903 --> 00:01:15,198
+00:01:07,303 --> 00:01:13,598
 Hide is skin — protein, water, and lunch for bacteria — and it vanishes long before the interesting rocks do.
 
 29
-00:01:15,198 --> 00:01:18,855
+00:01:13,598 --> 00:01:17,255
 So for most of human prehistory, we aren't looking at clothing.
 
 30
-00:01:18,855 --> 00:01:20,849
+00:01:17,255 --> 00:01:19,249
 We're looking at the shadow of it.
 
 31
-00:01:20,849 --> 00:01:22,728
+00:01:19,249 --> 00:01:21,128
 A bone tool with a polish on it.
 
 32
-00:01:22,728 --> 00:01:24,836
+00:01:21,128 --> 00:01:23,236
 A blade that cuts skin and not meat.
 
 33
-00:01:24,836 --> 00:01:28,952
+00:01:23,236 --> 00:01:27,352
 A bead that had to be attached to something, and presumably not a rock.
 
 34
-00:01:28,952 --> 00:01:32,437
+00:01:27,352 --> 00:01:30,837
 And then there's the evidence that isn't archaeology at all.
 
 35
-00:01:32,437 --> 00:01:33,054
+00:01:30,837 --> 00:01:31,454
 It's lice.
 
 36
-00:01:33,054 --> 00:01:35,908
+00:01:31,454 --> 00:01:34,308
 Head lice live on heads, on account of the heads.
 
 37
-00:01:35,908 --> 00:01:39,737
+00:01:34,308 --> 00:01:38,137
 Body lice live in clothing, because they need fabric to hold onto.
 
 38
-00:01:39,737 --> 00:01:41,387
+00:01:38,137 --> 00:01:39,787
 They evolved from head lice.
 
 39
-00:01:41,387 --> 00:01:50,951
+00:01:39,787 --> 00:01:49,351
 So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.
 
 40
-00:01:50,951 --> 00:01:57,705
+00:01:49,351 --> 00:01:56,105
 In 2011, Melissa Toups, Andrew Kitchen and David Reed put that split at no less than eighty-three thousand years ago.
 
 41
-00:01:57,705 --> 00:02:00,043
+00:01:56,105 --> 00:01:58,443
 Possibly a hundred and seventy thousand.
 
 42
-00:02:00,043 --> 00:02:01,692
+00:01:58,443 --> 00:02:00,092
 That's a window, not a date.
 
 43
-00:02:01,692 --> 00:02:03,113
+00:02:00,092 --> 00:02:01,513
 Windows are what we get.
 
 44
-00:02:03,113 --> 00:02:11,358
+00:02:01,513 --> 00:02:09,758
 But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.
 
 45
-00:02:11,358 --> 00:02:12,835
+00:02:09,758 --> 00:02:11,235
 Which flips the question.
 
 46
-00:02:12,835 --> 00:02:15,116
+00:02:11,235 --> 00:02:13,516
 Not, did they wear clothes — obviously.
 
 47
-00:02:15,116 --> 00:02:16,880
+00:02:13,516 --> 00:02:15,280
 How well could they make them.
 
 48
-00:02:16,880 --> 00:02:20,069
+00:02:15,280 --> 00:02:18,469
 Contrebandiers Cave, on the Atlantic coast of Morocco.
 
 49
-00:02:20,069 --> 00:02:23,200
+00:02:18,469 --> 00:02:21,600
 Close enough to the sea that you can hear it working.
 
 50
-00:02:23,200 --> 00:02:32,853
+00:02:21,600 --> 00:02:31,253
 Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.
 
 51
-00:02:32,853 --> 00:02:35,460
+00:02:31,253 --> 00:02:33,860
 Sixty-two of them had been shaped by people.
 
 52
-00:02:35,460 --> 00:02:38,416
+00:02:33,860 --> 00:02:36,816
 The one worth your attention looks like a spatula.
 
 53
-00:02:38,416 --> 00:02:46,090
+00:02:36,816 --> 00:02:44,490
 It's a rib — antelope, or wild cattle — split and flattened, with an edge that's been dragged across wet hide so often it polished.
 
 54
-00:02:46,090 --> 00:02:47,241
+00:02:44,490 --> 00:02:45,641
 You'd walk past it.
 
 55
-00:02:47,241 --> 00:02:49,265
+00:02:45,641 --> 00:02:47,665
 Under a microscope it has grooves.
 
 56
-00:02:49,265 --> 00:02:51,697
+00:02:47,665 --> 00:02:50,097
 Then there's the detail I can't get over.
 
 57
-00:02:51,697 --> 00:02:56,866
+00:02:50,097 --> 00:02:55,266
 Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.
 
 58
-00:02:56,866 --> 00:02:58,134
+00:02:55,266 --> 00:02:56,534
 Not butchering marks.
 
 59
-00:02:58,134 --> 00:02:59,052
+00:02:56,534 --> 00:02:57,452
 Skinning marks.
 
 60
-00:02:59,052 --> 00:03:04,687
+00:02:57,452 --> 00:03:03,087
 The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.
 
 61
-00:03:04,687 --> 00:03:05,430
+00:03:03,087 --> 00:03:03,830
 Like a sock.
 
 62
-00:03:05,430 --> 00:03:07,804
+00:03:03,830 --> 00:03:06,204
 Somebody took a wildcat off like a sock.
 
 63
-00:03:07,804 --> 00:03:09,479
+00:03:06,204 --> 00:03:07,879
 That is not a hungry person.
 
 64
-00:03:09,479 --> 00:03:13,483
+00:03:07,879 --> 00:03:11,883
 That's a person who has decided the fur is worth more than the meat.
 
 65
-00:03:13,483 --> 00:03:16,847
+00:03:11,883 --> 00:03:15,247
 Now, careful — this is where documentaries start fibbing.
 
 66
-00:03:16,847 --> 00:03:19,862
+00:03:15,247 --> 00:03:18,262
 It does not prove anyone in that cave sewed a coat.
 
 67
-00:03:19,862 --> 00:03:24,390
+00:03:18,262 --> 00:03:22,790
 The researchers call it strong proxy evidence, and that's the honest version.
 
 68
-00:03:24,390 --> 00:03:30,957
+00:03:22,790 --> 00:03:29,357
 What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.
 
 69
-00:03:30,957 --> 00:03:33,331
+00:03:29,357 --> 00:03:31,731
 A hundred and twenty thousand years ago.
 
 70
-00:03:33,331 --> 00:03:36,520
+00:03:31,731 --> 00:03:34,920
 Before our species had got anywhere near cold country.
 
 71
-00:03:36,520 --> 00:03:38,573
+00:03:34,920 --> 00:03:36,973
 If you want to make clothing out of hide, cutting is easy.
 
 72
-00:03:38,573 --> 00:03:39,474
+00:03:36,973 --> 00:03:37,874
 Joining is the nightmare.
 
 73
-00:03:39,474 --> 00:03:40,199
+00:03:37,874 --> 00:03:38,599
 You can fold a hide.
 
 74
-00:03:40,199 --> 00:03:41,589
+00:03:38,599 --> 00:03:39,989
 You can tie it with a strip of leather.
 
 75
-00:03:41,589 --> 00:03:41,790
+00:03:39,989 --> 00:03:40,190
 Fine.
 
 76
-00:03:41,790 --> 00:03:49,225
+00:03:40,190 --> 00:03:47,625
 But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material — and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.
 
 77
-00:03:49,225 --> 00:03:50,265
+00:03:47,625 --> 00:03:48,665
 The first answer was the awl.
 
 78
-00:03:50,265 --> 00:03:50,885
+00:03:48,665 --> 00:03:49,285
 A sharpened bone.
 
 79
-00:03:50,885 --> 00:03:52,310
+00:03:49,285 --> 00:03:50,710
 Push it through, open a hole, thread it.
 
 80
-00:03:52,310 --> 00:03:52,651
+00:03:50,710 --> 00:03:51,051
 It works.
 
 81
-00:03:52,651 --> 00:03:53,237
+00:03:51,051 --> 00:03:51,637
 It leaves a gap.
 
 82
-00:03:53,237 --> 00:03:58,435
+00:03:51,637 --> 00:03:56,835
 And every puncture quietly weakens the hide, so your beautiful new garment is now a perforated hide, which is the ancient equivalent of a paper bag.
 
 83
-00:03:58,435 --> 00:04:00,908
+00:03:56,835 --> 00:03:59,308
 A needle fixes that, because the needle carries the thread in with it.
 
 84
-00:04:00,908 --> 00:04:04,394
+00:03:59,308 --> 00:04:02,794
 The oldest bone needle anyone cites comes from Denisova Cave, in the mountains of southern Siberia.
 
 85
-00:04:04,394 --> 00:04:06,761
+00:04:02,794 --> 00:04:05,161
 Seven centimetres of bird bone, with an eye worked through the end.
 
 86
-00:04:06,761 --> 00:04:07,906
+00:04:05,161 --> 00:04:06,306
 Around fifty thousand years old.
 
 87
-00:04:07,906 --> 00:04:11,008
+00:04:06,306 --> 00:04:09,408
 And here's what should stop you: it came out of layers that also held Denisovan remains.
 
 88
-00:04:11,008 --> 00:04:12,397
+00:04:09,408 --> 00:04:10,797
 It also can't be assigned to a species.
 
 89
-00:04:12,397 --> 00:04:13,927
+00:04:10,797 --> 00:04:12,327
 Anyone who tells you otherwise is guessing.
 
 90
-00:04:13,927 --> 00:04:17,762
+00:04:12,327 --> 00:04:16,162
 Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.
 
 91
-00:04:17,762 --> 00:04:18,977
+00:04:16,162 --> 00:04:17,377
 That is not a caveman with a rock.
 
 92
-00:04:18,977 --> 00:04:20,646
+00:04:17,377 --> 00:04:19,046
 That's a specialist with a bad afternoon ahead.
 
 93
-00:04:20,646 --> 00:04:21,406
+00:04:19,046 --> 00:04:19,806
 Then it gets strange.
 
 94
-00:04:21,406 --> 00:04:22,761
+00:04:19,806 --> 00:04:21,161
 Eyed needles don't turn up everywhere.
 
 95
-00:04:22,761 --> 00:04:27,924
+00:04:21,161 --> 00:04:26,324
 They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.
 
 96
-00:04:27,924 --> 00:04:28,720
+00:04:26,324 --> 00:04:27,120
 They already had awls.
 
 97
-00:04:28,720 --> 00:04:29,620
+00:04:27,120 --> 00:04:28,020
 They already had clothes.
 
 98
-00:04:29,620 --> 00:04:30,590
+00:04:28,020 --> 00:04:28,990
 So why build the hard tool?
 
 99
-00:04:30,590 --> 00:04:36,199
+00:04:28,990 --> 00:04:34,599
 In 2024, Ian Gilligan and colleagues argued the answer isn't survival in the boring sense.
 
 100
-00:04:36,199 --> 00:04:38,780
+00:04:34,599 --> 00:04:37,180
 A scraped hide gives you a loose garment.
 
 101
-00:04:38,780 --> 00:04:40,743
+00:04:37,180 --> 00:04:39,143
 Good enough for a cool evening.
 
 102
-00:04:40,743 --> 00:04:50,617
+00:04:39,143 --> 00:04:49,017
 Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones — and the one against your skin is the one that has to fit.
 
 103
-00:04:50,617 --> 00:04:52,209
+00:04:49,017 --> 00:04:50,609
 Fitted means fine sewing.
 
 104
-00:04:52,209 --> 00:04:54,296
+00:04:50,609 --> 00:04:52,696
 Fine sewing means an eyed needle.
 
 105
-00:04:54,296 --> 00:05:00,276
+00:04:52,696 --> 00:04:58,676
 Gilligan's summary of the entire innovation, and I love him for this, is essentially: underwear.
 
 106
-00:05:00,276 --> 00:05:03,969
+00:04:58,676 --> 00:05:02,369
 But the argument keeps going, and it goes somewhere better.
 
 107
-00:05:03,969 --> 00:05:07,971
+00:05:02,369 --> 00:05:06,371
 Think about how you announce yourself when your skin is showing.
 
 108
-00:05:07,971 --> 00:05:08,389
+00:05:06,371 --> 00:05:06,789
 Ochre.
 
 109
-00:05:08,389 --> 00:05:08,807
+00:05:06,789 --> 00:05:07,207
 Scars.
 
 110
-00:05:08,807 --> 00:05:09,225
+00:05:07,207 --> 00:05:07,625
 Paint.
 
 111
-00:05:09,225 --> 00:05:11,745
+00:05:07,625 --> 00:05:10,145
 Beads pressed right up against the body.
 
 112
-00:05:11,745 --> 00:05:16,489
+00:05:10,145 --> 00:05:14,889
 Now wrap that body in hide, for months, because the alternative is freezing.
 
 113
-00:05:16,489 --> 00:05:20,244
+00:05:14,889 --> 00:05:18,644
 Everything you used to say about yourself has nowhere to go.
 
 114
-00:05:20,244 --> 00:05:22,083
+00:05:18,644 --> 00:05:20,483
 So you put it on the clothes.
 
 115
-00:05:22,083 --> 00:05:24,293
+00:05:20,483 --> 00:05:22,693
 That's what the needle is for, too.
 
 116
-00:05:24,293 --> 00:05:24,711
+00:05:22,693 --> 00:05:23,111
 Beads.
 
 117
-00:05:24,711 --> 00:05:25,191
+00:05:23,111 --> 00:05:23,591
 Shells.
 
 118
-00:05:25,191 --> 00:05:26,104
+00:05:23,591 --> 00:05:24,504
 Strips of fur.
 
 119
-00:05:26,104 --> 00:05:28,561
+00:05:24,504 --> 00:05:26,961
 Fine enough to read from across a fire.
 
 120
-00:05:28,561 --> 00:05:32,131
+00:05:26,961 --> 00:05:30,531
 Clothing stops being a thermostat and becomes a sentence.
 
 121
-00:05:32,131 --> 00:05:36,937
+00:05:30,531 --> 00:05:35,337
 It's a hypothesis, built from timing and tools, and Gilligan says so himself.
 
 122
-00:05:36,937 --> 00:05:40,630
+00:05:35,337 --> 00:05:39,030
 But once you know to look for it, you can't stop seeing it.
 
 123
-00:05:40,630 --> 00:05:45,809
+00:05:39,030 --> 00:05:44,209
 In the foothills of the Caucasus, in Georgia, there's a cave called Dzudzuana.
 
 124
-00:05:45,809 --> 00:05:51,513
+00:05:44,209 --> 00:05:49,913
 In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.
 
 125
-00:05:51,513 --> 00:05:59,979
+00:05:49,913 --> 00:05:58,379
 They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.
 
 126
-00:05:59,979 --> 00:06:01,016
+00:05:58,379 --> 00:05:59,416
 Glamorous work.
 
 127
-00:06:01,016 --> 00:06:02,775
+00:05:59,416 --> 00:06:01,175
 What they found was fibre.
 
 128
-00:06:02,775 --> 00:06:03,483
+00:06:01,175 --> 00:06:01,883
 Wild flax.
 
 129
-00:06:03,483 --> 00:06:08,070
+00:06:01,883 --> 00:06:06,470
 Thousands of strands, in layers up to thirty-four thousand years old.
 
 130
-00:06:08,070 --> 00:06:11,736
+00:06:06,470 --> 00:06:10,136
 Some of it was twisted — spun, deliberately, into cord.
 
 131
-00:06:11,736 --> 00:06:12,904
+00:06:10,136 --> 00:06:11,304
 Some was knotted.
 
 132
-00:06:12,904 --> 00:06:14,401
+00:06:11,304 --> 00:06:12,801
 And some was coloured.
 
 133
-00:06:14,401 --> 00:06:15,963
+00:06:12,801 --> 00:06:14,363
 Black, grey, turquoise.
 
 134
-00:06:15,963 --> 00:06:17,131
+00:06:14,363 --> 00:06:15,531
 And one was pink.
 
 135
-00:06:17,131 --> 00:06:18,627
+00:06:15,531 --> 00:06:17,027
 The flax grew outside.
 
 136
-00:06:18,627 --> 00:06:20,584
+00:06:17,027 --> 00:06:18,984
 The colours came from plants.
 
 137
-00:06:20,584 --> 00:06:26,815
+00:06:18,984 --> 00:06:25,215
 Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.
 
 138
-00:06:26,815 --> 00:06:27,457
+00:06:25,215 --> 00:06:25,857
 For rope.
 
 139
-00:06:27,457 --> 00:06:28,296
+00:06:25,857 --> 00:06:26,696
 For baskets.
 
 140
-00:06:28,296 --> 00:06:29,069
+00:06:26,696 --> 00:06:27,469
 For sewing.
 
 141
-00:06:29,069 --> 00:06:32,801
+00:06:27,469 --> 00:06:31,201
 We don't know which, and no textile survives to tell us.
 
 142
-00:06:32,801 --> 00:06:34,298
+00:06:31,201 --> 00:06:32,698
 But here's why I care.
 
 143
-00:06:34,298 --> 00:06:36,715
+00:06:32,698 --> 00:06:35,115
 Dyeing is not a survival technology.
 
 144
-00:06:36,715 --> 00:06:40,053
+00:06:35,115 --> 00:06:38,453
 You do not colour a rope so the rope works better.
 
 145
-00:06:40,053 --> 00:06:49,965
+00:06:38,453 --> 00:06:48,365
 Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre — the negative of a textile that no longer exists.
 
 146
-00:06:49,965 --> 00:06:54,684
+00:06:48,365 --> 00:06:53,084
 So this was never hides-or-cloth, with cloth arriving fashionably late.
 
 147
-00:06:54,684 --> 00:06:58,350
+00:06:53,084 --> 00:06:56,750
 It was both, in the same toolkit, for a very long time.
 
 148
-00:06:58,350 --> 00:07:01,188
+00:06:56,750 --> 00:06:59,588
 And now the part nobody puts in the documentary.
 
 149
-00:07:01,188 --> 00:07:02,280
+00:06:59,588 --> 00:07:00,680
 We know the tools.
 
 150
-00:07:02,280 --> 00:07:03,372
+00:07:00,680 --> 00:07:01,772
 We know the fibre.
 
 151
-00:07:03,372 --> 00:07:04,697
+00:07:01,772 --> 00:07:03,097
 We know the cut marks.
 
 152
-00:07:04,697 --> 00:07:14,926
+00:07:03,097 --> 00:07:13,326
 What we do not have is one complete garment older than about five thousand years — and that one survived because it was buried in Egypt, by accident, in the right kind of dry.
 
 153
-00:07:14,926 --> 00:07:20,907
+00:07:13,326 --> 00:07:19,307
 We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.
 
 154
-00:07:20,907 --> 00:07:23,221
+00:07:19,307 --> 00:07:21,621
 We don't know the colours anyone liked.
 
 155
-00:07:23,221 --> 00:07:30,715
+00:07:21,621 --> 00:07:29,115
 Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.
 
 156
-00:07:30,715 --> 00:07:32,098
+00:07:29,115 --> 00:07:30,498
 That's not a complaint.
 
 157
-00:07:32,098 --> 00:07:33,830
+00:07:30,498 --> 00:07:32,230
 That's where the story lives.
 
 158
-00:07:33,830 --> 00:07:38,978
+00:07:32,230 --> 00:07:37,378
 Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.
 
 159
-00:07:38,978 --> 00:07:45,279
+00:07:37,378 --> 00:07:43,679
 Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.
 
 160
-00:07:45,279 --> 00:07:50,913
+00:07:43,679 --> 00:07:49,313
 The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.
 
 161
-00:07:50,913 --> 00:07:52,234
+00:07:49,313 --> 00:07:50,634
 And covered in beads.
 
 162
-00:07:52,234 --> 00:07:53,678
+00:07:50,634 --> 00:07:52,078
 Three thousand of them.
 
 163
-00:07:53,678 --> 00:07:54,574
+00:07:52,078 --> 00:07:52,974
 Mammoth ivory.
 
 164
-00:07:54,574 --> 00:07:55,592
+00:07:52,974 --> 00:07:53,992
 Each one carved.
 
 165
-00:07:55,592 --> 00:07:56,671
+00:07:53,992 --> 00:07:55,071
 Each one pierced.
 
 166
-00:07:56,671 --> 00:07:59,997
+00:07:55,071 --> 00:07:58,397
 Each one small enough to make a modern jeweller swear.
 
 167
-00:07:59,997 --> 00:08:03,687
+00:07:58,397 --> 00:08:02,087
 With him: ivory armbands, and hundreds of pierced fox teeth.
 
 168
-00:08:03,687 --> 00:08:09,685
+00:08:02,087 --> 00:08:08,085
 And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.
 
 169
-00:08:09,685 --> 00:08:15,926
+00:08:08,085 --> 00:08:14,326
 Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.
 
 170
-00:08:15,926 --> 00:08:19,434
+00:08:14,326 --> 00:08:17,834
 That's the moment this stops being a story about weather.
 
 171
-00:08:19,434 --> 00:08:20,816
+00:08:17,834 --> 00:08:19,216
 A hide keeps you warm.
 
 172
-00:08:20,816 --> 00:08:24,688
+00:08:19,216 --> 00:08:23,088
 A hide with three thousand hand-cut beads on it says something.
 
 173
-00:08:24,688 --> 00:08:25,524
+00:08:23,088 --> 00:08:23,924
 Who this was.
 
 174
-00:08:25,524 --> 00:08:28,061
+00:08:23,924 --> 00:08:26,461
 What the community could afford to spend.
 
 175
-00:08:28,061 --> 00:08:30,354
+00:08:26,461 --> 00:08:28,754
 What they thought the dead were owed.
 
 176
-00:08:30,354 --> 00:08:37,566
+00:08:28,754 --> 00:08:35,966
 And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.
 
 177
-00:08:37,566 --> 00:08:41,682
+00:08:35,966 --> 00:08:40,082
 Whatever those beads meant, they were not a reward for a long life.
 
 178
-00:08:41,682 --> 00:08:43,550
+00:08:40,082 --> 00:08:41,950
 Those children hadn't had one.
 
 179
-00:08:43,550 --> 00:08:43,773
+00:08:41,950 --> 00:08:42,173
 So.
 
 180
-00:08:43,773 --> 00:08:46,428
+00:08:42,173 --> 00:08:44,828
 What did ancient humans wear before tailors?
 
 181
-00:08:46,428 --> 00:08:48,134
+00:08:44,828 --> 00:08:46,534
 They were already tailoring.
 
 182
-00:08:48,134 --> 00:08:53,815
+00:08:46,534 --> 00:08:52,215
 The tailor — the one who fits a garment to a body — is in the tools long before there's a shop.
 
 183
-00:08:53,815 --> 00:08:58,724
+00:08:52,215 --> 00:08:57,124
 What changed across ninety thousand years isn't whether people could make clothes.
 
 184
-00:08:58,724 --> 00:09:00,371
+00:08:57,124 --> 00:08:58,771
 It's what clothes were for.
 
 185
-00:09:00,371 --> 00:09:00,831
+00:08:58,771 --> 00:08:59,231
 Warmth.
 
 186
-00:09:00,831 --> 00:09:01,410
+00:08:59,231 --> 00:08:59,810
 Then fit.
 
 187
-00:09:01,410 --> 00:09:04,837
+00:08:59,810 --> 00:09:03,237
 Then, once the body was covered all year round, identity.
 
 188
-00:09:04,837 --> 00:09:06,661
+00:09:03,237 --> 00:09:05,061
 And almost none of it is left.
 
 189
-00:09:06,661 --> 00:09:11,749
+00:09:05,061 --> 00:09:10,149
 The softest, most personal object in a human life is the first thing the ground eats.
 
 190
-00:09:11,749 --> 00:09:13,336
+00:09:10,149 --> 00:09:11,736
 What we have is a scraper.
 
 191
-00:09:13,336 --> 00:09:15,813
+00:09:11,736 --> 00:09:14,213
 A needle with a hole the width of a hair.
 
 192
-00:09:15,813 --> 00:09:21,019
+00:09:14,213 --> 00:09:19,419
 And a few fibres that somebody dyed turquoise, for no reason except that they liked it.
 
 193
-00:09:21,019 --> 00:09:24,327
+00:09:19,419 --> 00:09:22,727
 Next time you pull on a coat, notice what you're doing.
 
 194
-00:09:24,327 --> 00:09:30,126
+00:09:22,727 --> 00:09:28,526
 You're putting on the only technology that has to be rebuilt for every single body that wears it.
 
 195
-00:09:30,126 --> 00:09:30,527
+00:09:28,526 --> 00:09:28,927
 Right.
 
 196
-00:09:30,527 --> 00:09:32,648
+00:09:28,927 --> 00:09:31,048
 Subscribe if you want more of this.
 
 197
-00:09:32,648 --> 00:09:35,718
+00:09:31,048 --> 00:09:34,118
 And tell me — one hide, one bone needle, no thread.
 
 198
-00:09:35,718 --> 00:09:36,950
+00:09:34,118 --> 00:09:35,350
 What are you making?

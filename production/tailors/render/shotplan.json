@@ -137,11 +137,11 @@
  {
   "start": 29.966,
   "end": 31.964,
-  "still": "7",
+  "still": "10",
   "cue": 12,
   "section": "01",
   "sentence": "It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 31.964,
@@ -150,7 +150,7 @@
   "cue": 12,
   "section": "01",
   "sentence": "It won't hold your wrist or your ankle, which is exactly where heat leaves a body fastest.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 33.962,
@@ -191,11 +191,11 @@
  {
   "start": 41.953,
   "end": 43.95,
-  "still": "5",
+  "still": "70",
   "cue": 15,
   "section": "01",
   "sentence": "It's when clothing stopped being something you drape, and became something you build.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 43.95,
@@ -204,7 +204,7 @@
   "cue": 15,
   "section": "01",
   "sentence": "It's when clothing stopped being something you drape, and became something you build.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 46.167,
@@ -317,11 +317,11 @@
  {
   "start": 69.921,
   "end": 71.919,
-  "still": "11",
+  "still": "16",
   "cue": 27,
   "section": "02",
   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 71.919,
@@ -330,12 +330,12 @@
   "cue": 27,
   "section": "02",
   "sentence": "Hide is skin \u2014 protein, water, and lunch for bacteria \u2014 and it vanishes long before the interesting rocks do.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 73.598,
   "end": 75.914,
-  "still": "11",
+  "still": "16",
   "cue": 28,
   "section": "02",
   "sentence": "So for most of human prehistory, we aren't looking at clothing.",
@@ -348,7 +348,7 @@
   "cue": 28,
   "section": "02",
   "sentence": "So for most of human prehistory, we aren't looking at clothing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 77.912,
@@ -434,11 +434,11 @@
  {
   "start": 95.892,
   "end": 98.137,
-  "still": "12",
+  "still": "11",
   "cue": 36,
   "section": "02",
   "sentence": "Body lice live in clothing, because they need fabric to hold onto.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 98.137,
@@ -461,11 +461,11 @@
  {
   "start": 101.885,
   "end": 103.883,
-  "still": "12",
+  "still": "11",
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 103.883,
@@ -474,16 +474,16 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 105.88,
   "end": 107.878,
-  "still": "12",
+  "still": "11",
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 107.878,
@@ -492,7 +492,7 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 109.876,
@@ -551,11 +551,11 @@
  {
   "start": 123.86,
   "end": 125.858,
-  "still": "18",
+  "still": "15",
   "cue": 43,
   "section": "02",
   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 125.858,
@@ -564,16 +564,16 @@
   "cue": 43,
   "section": "02",
   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 127.856,
   "end": 129.758,
-  "still": "18",
+  "still": "15",
   "cue": 43,
   "section": "02",
   "sentence": "But it drops the habit deep into the African Middle Stone Age, tens of thousands of years before anyone needed clothes to get through a winter.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 129.758,
@@ -632,7 +632,7 @@
  {
   "start": 141.6,
   "end": 143.838,
-  "still": "31",
+  "still": "41",
   "cue": 49,
   "section": "03",
   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
@@ -641,38 +641,38 @@
  {
   "start": 143.838,
   "end": 145.835,
-  "still": "31",
+  "still": "43",
+  "cue": 49,
+  "section": "03",
+  "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
+  "variant": 0
+ },
+ {
+  "start": 145.835,
+  "end": 147.833,
+  "still": "41",
   "cue": 49,
   "section": "03",
   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
   "variant": 1
  },
  {
-  "start": 145.835,
-  "end": 147.833,
-  "still": "31",
-  "cue": 49,
-  "section": "03",
-  "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
-  "variant": 2
- },
- {
   "start": 147.833,
   "end": 149.831,
-  "still": "31",
+  "still": "43",
   "cue": 49,
   "section": "03",
   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 149.831,
   "end": 151.828,
-  "still": "31",
+  "still": "41",
   "cue": 49,
   "section": "03",
   "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 151.828,
@@ -803,20 +803,20 @@
  {
   "start": 179.797,
   "end": 181.795,
-  "still": "30",
+  "still": "28",
   "cue": 59,
   "section": "03",
   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 181.795,
   "end": 183.83,
-  "still": "30",
+  "still": "32",
   "cue": 59,
   "section": "03",
   "sentence": "The animal had been opened at the feet, and the skin pulled up, in one piece, over its own head.",
-  "variant": 2
+  "variant": 0
  },
  {
   "start": 183.83,
@@ -893,11 +893,11 @@
  {
   "start": 199.774,
   "end": 201.772,
-  "still": "25",
+  "still": "31",
   "cue": 66,
   "section": "03",
   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 201.772,
@@ -906,7 +906,7 @@
   "cue": 66,
   "section": "03",
   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 203.77,
@@ -992,11 +992,11 @@
  {
   "start": 221.749,
   "end": 223.747,
-  "still": "42",
+  "still": "43",
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 223.747,
@@ -1005,16 +1005,16 @@
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 225.745,
   "end": 227.625,
-  "still": "42",
+  "still": "43",
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 227.625,
@@ -1262,11 +1262,11 @@
  {
   "start": 281.682,
   "end": 283.68,
-  "still": "8",
+  "still": "10",
   "cue": 101,
   "section": "05",
   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 283.68,
@@ -1275,16 +1275,16 @@
   "cue": 101,
   "section": "05",
   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 285.677,
   "end": 287.675,
-  "still": "8",
+  "still": "10",
   "cue": 101,
   "section": "05",
   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 287.675,
@@ -1293,7 +1293,7 @@
   "cue": 101,
   "section": "05",
   "sentence": "Useless in a glacial winter, where what keeps you alive isn't one thick layer but several thin ones \u2014 and the one against your skin is the one that has to fit.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 289.673,
@@ -1361,11 +1361,11 @@
  {
   "start": 303.657,
   "end": 305.655,
-  "still": "51",
+  "still": "49",
   "cue": 106,
   "section": "05",
   "sentence": "Think about how you announce yourself when your skin is showing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 305.655,
@@ -1397,11 +1397,11 @@
  {
   "start": 311.648,
   "end": 313.646,
-  "still": "51",
+  "still": "52",
   "cue": 111,
   "section": "05",
   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 313.646,
@@ -1410,7 +1410,7 @@
   "cue": 111,
   "section": "05",
   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 315.643,
@@ -1424,11 +1424,11 @@
  {
   "start": 317.641,
   "end": 319.639,
-  "still": "51",
+  "still": "52",
   "cue": 112,
   "section": "05",
   "sentence": "Everything you used to say about yourself has nowhere to go.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 319.639,
@@ -1568,7 +1568,7 @@
  {
   "start": 349.913,
   "end": 351.603,
-  "still": "53",
+  "still": "52",
   "cue": 124,
   "section": "06",
   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
@@ -1581,16 +1581,16 @@
   "cue": 124,
   "section": "06",
   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 353.601,
   "end": 355.598,
-  "still": "53",
+  "still": "52",
   "cue": 124,
   "section": "06",
   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 355.598,
@@ -1599,7 +1599,7 @@
   "cue": 124,
   "section": "06",
   "sentence": "They were studying ancient climate, which meant pollen, which meant dissolving cave dirt and counting grains under a microscope.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 357.596,
@@ -1649,11 +1649,11 @@
  {
   "start": 367.585,
   "end": 369.582,
-  "still": "50",
+  "still": "53",
   "cue": 129,
   "section": "06",
   "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 369.582,
@@ -1676,7 +1676,7 @@
  {
   "start": 373.578,
   "end": 375.531,
-  "still": "50",
+  "still": "51",
   "cue": 133,
   "section": "06",
   "sentence": "And one was pink.",
@@ -1685,7 +1685,7 @@
  {
   "start": 375.531,
   "end": 377.573,
-  "still": "50",
+  "still": "51",
   "cue": 134,
   "section": "06",
   "sentence": "The flax grew outside.",
@@ -1694,7 +1694,7 @@
  {
   "start": 377.573,
   "end": 379.571,
-  "still": "50",
+  "still": "51",
   "cue": 135,
   "section": "06",
   "sentence": "The colours came from plants.",
@@ -1712,11 +1712,11 @@
  {
   "start": 381.569,
   "end": 383.567,
-  "still": "50",
+  "still": "71",
   "cue": 136,
   "section": "06",
   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 383.567,
@@ -1725,7 +1725,7 @@
   "cue": 136,
   "section": "06",
   "sentence": "Which means someone took a plant, pulled the fibre out, spun it into thread, and then dyed it.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 385.857,
@@ -1748,11 +1748,11 @@
  {
   "start": 389.56,
   "end": 391.201,
-  "still": "50",
+  "still": "71",
   "cue": 140,
   "section": "06",
   "sentence": "We don't know which, and no textile survives to tell us.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 391.201,
@@ -1784,7 +1784,7 @@
  {
   "start": 397.551,
   "end": 399.549,
-  "still": "50",
+  "still": "71",
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
@@ -1797,16 +1797,16 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 401.546,
   "end": 403.544,
-  "still": "50",
+  "still": "71",
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 403.544,
@@ -1815,16 +1815,16 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 405.542,
   "end": 407.54,
-  "still": "50",
+  "still": "71",
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 407.54,
@@ -1910,11 +1910,11 @@
  {
   "start": 425.519,
   "end": 427.517,
-  "still": "65",
+  "still": "68",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 427.517,
@@ -1923,16 +1923,16 @@
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 429.515,
   "end": 431.513,
-  "still": "65",
+  "still": "68",
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 431.513,
@@ -1941,7 +1941,7 @@
   "cue": 151,
   "section": "07",
   "sentence": "What we do not have is one complete garment older than about five thousand years \u2014 and that one survived because it was buried in Egypt, by accident, in the right kind of dry.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 433.326,
@@ -1991,11 +1991,11 @@
  {
   "start": 443.499,
   "end": 445.497,
-  "still": "59",
+  "still": "68",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 445.497,
@@ -2004,16 +2004,16 @@
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 447.494,
   "end": 449.115,
-  "still": "59",
+  "still": "68",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 449.115,
@@ -2063,11 +2063,11 @@
  {
   "start": 459.481,
   "end": 461.479,
-  "still": "55",
+  "still": "63",
   "cue": 158,
   "section": "08",
   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 461.479,
@@ -2076,7 +2076,7 @@
   "cue": 158,
   "section": "08",
   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 463.679,
@@ -2090,11 +2090,11 @@
  {
   "start": 465.474,
   "end": 467.472,
-  "still": "55",
+  "still": "63",
   "cue": 159,
   "section": "08",
   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 467.472,
@@ -2103,7 +2103,7 @@
   "cue": 159,
   "section": "08",
   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 469.313,
@@ -2180,11 +2180,11 @@
  {
   "start": 485.452,
   "end": 487.449,
-  "still": "63",
+  "still": "62",
   "cue": 167,
   "section": "08",
   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 487.449,
@@ -2198,11 +2198,11 @@
  {
   "start": 489.447,
   "end": 491.445,
-  "still": "54",
+  "still": "55",
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 491.445,
@@ -2211,7 +2211,7 @@
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 493.443,
@@ -2243,11 +2243,11 @@
  {
   "start": 501.434,
   "end": 503.088,
-  "still": "63",
+  "still": "62",
   "cue": 171,
   "section": "08",
   "sentence": "A hide with three thousand hand-cut beads on it says something.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 503.088,
@@ -2288,11 +2288,11 @@
  {
   "start": 511.422,
   "end": 513.42,
-  "still": "57",
+  "still": "55",
   "cue": 175,
   "section": "08",
   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 513.42,
@@ -2301,7 +2301,7 @@
   "cue": 175,
   "section": "08",
   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 515.418,
@@ -2342,11 +2342,11 @@
  {
   "start": 523.409,
   "end": 525.406,
-  "still": "57",
+  "still": "55",
   "cue": 179,
   "section": "09",
   "sentence": "What did ancient humans wear before tailors?",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 525.406,
@@ -2369,11 +2369,11 @@
  {
   "start": 529.402,
   "end": 531.4,
-  "still": "41",
+  "still": "42",
   "cue": 181,
   "section": "09",
   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 531.4,
@@ -2387,11 +2387,11 @@
  {
   "start": 533.397,
   "end": 535.395,
-  "still": "41",
+  "still": "43",
   "cue": 182,
   "section": "09",
   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 535.395,
@@ -2400,7 +2400,7 @@
   "cue": 182,
   "section": "09",
   "sentence": "What changed across ninety thousand years isn't whether people could make clothes.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 537.124,
@@ -2450,11 +2450,11 @@
  {
   "start": 547.382,
   "end": 549.379,
-  "still": "3",
+  "still": "65",
   "cue": 188,
   "section": "09",
   "sentence": "The softest, most personal object in a human life is the first thing the ground eats.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 549.379,
@@ -2486,11 +2486,11 @@
  {
   "start": 555.373,
   "end": 557.37,
-  "still": "50",
+  "still": "51",
   "cue": 191,
   "section": "09",
   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 557.37,
@@ -2499,7 +2499,7 @@
   "cue": 191,
   "section": "09",
   "sentence": "And a few fibres that somebody dyed turquoise, for no reason except that they liked it.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 559.419,
@@ -2531,11 +2531,11 @@
  {
   "start": 565.361,
   "end": 567.359,
-  "still": "61",
+  "still": "1",
   "cue": 193,
   "section": "09",
   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 567.359,
@@ -2544,7 +2544,7 @@
   "cue": 193,
   "section": "09",
   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 569.357,

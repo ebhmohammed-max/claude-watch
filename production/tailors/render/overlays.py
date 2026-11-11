@@ -29,8 +29,14 @@ FB = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 26)
 LABEL_TEXT = {
     'RECON':     'Illustrative reconstruction — hypothetical scene',
     'OBJECT':    'Illustrative reconstruction of an object — not the original find',
-    'LANDSCAPE': 'Modern landscape — atmosphere only',
     'DETAIL':    'Close detail — illustrative, not a find',
+    # 'Modern landscape' was doing two incompatible jobs: it described the wide
+    # establishing shots, and it also ended up on a modern hallway and a modern
+    # suburban street. A landscape label over an interior is simply false, so
+    # the class is split and the landscape wording retired.
+    'LANDSCAPE': 'Modern landscape — atmosphere only',
+    'MUSEUM':    'Modern museum gallery — not excavation in progress',
+    'MODERN':    'Present-day scene — illustration, not archaeology',
 }
 
 # Section titles carry the number the *script* uses, which is the same as the

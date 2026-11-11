@@ -29,14 +29,84 @@ LABELS = {
     '49': 'OBJECT', '50': 'DETAIL', '51': 'DETAIL', '52': 'RECON', '53': 'RECON',
     # §7-§9 — Sunghir beads, absence, and the closing
     '54': 'OBJECT', '55': 'OBJECT', '57': 'OBJECT', '63': 'OBJECT',
-    '59': 'DETAIL', '60': 'LANDSCAPE', '61': 'LANDSCAPE',
     # §7 absence plates, the tighter opening, and two material details
     '65': 'DETAIL', '66': 'DETAIL', '67': 'RECON', '68': 'DETAIL',
     '69': 'RECON', '70': 'RECON', '71': 'DETAIL', '72': 'OBJECT', '73': 'RECON',
+    # Honesty fix: t059 is a wide museum gallery, not a close detail, and
+    # t060/t061 are a modern interior and a modern street -- neither is a
+    # landscape. All three were carrying a label the picture contradicted.
+    '59': 'MUSEUM', '60': 'MODERN', '61': 'MODERN',
+    # t004 shows walking figures with spears -- a hypothetical scene, not a
+    # modern landscape. Only t006 is a true empty landscape.
+    '4': 'RECON',
+    '62': 'DETAIL',
 }
 
 # Ordered rules: first match wins, so put the specific before the general.
 RULES = [
+    # ---- pacing overrides -------------------------------------------------
+    # assign.py already warns above MAX_RUN=4 slots ("otherwise the 2 s cut is
+    # invisible") and v2 shipped 58 of those warnings: 76% of the film sat on a
+    # still held six seconds or longer, t50 for 34 s. Rain averaged 2.0 s per
+    # image with 104 images; this episode had 43. These rules give the longest
+    # single-plate sentences a second and third plate drawn from stills that
+    # were generated and then left unused, so the 2 s grid actually reads as a cut.
+    (r'What we do not have is one complete garment', ['65', '68']),
+    (r'Every museum figure standing there', ['59', '68']),
+    (r'Around the same era, at Pavlov', ['71', '50']),
+    (r'Which means someone took a plant', ['50', '71']),
+    (r'stopped being the same animal', ['12', '11']),
+    (r'drops the habit deep into', ['18', '15']),
+    (r'They were studying ancient climate', ['52', '53']),
+    (r'two children were buried', ['57', '55']),
+    (r'Around thirty-four thousand years ago, people', ['55', '63']),
+    (r'somebody drilled three thousand holes', ['54', '55']),
+    (r'dyed turquoise', ['50', '51']),
+    (r'rebuilt for every single body', ['61', '1']),
+    (r'ground eats|softest, most personal', ['3', '65']),
+    (r'A blade that cuts skin', ['17', '13']),
+    (r'the beads were lying in rows', ['63', '57', '62']),
+    (r'became something you build', ['5', '70']),
+    # second pass, aimed at the specific sentences that were stacking up
+    (r'coloured', ['50', '51']),
+    (r'pink', ['51', '50']),
+    (r'between a plant and a garment', ['71', '50']),
+    (r'wrap that body in hide', ['51', '52']),
+    (r'had nowhere to go', ['51', '49']),
+    (r'pulled up, in one piece', ['30', '28', '32']),
+    (r'took a wildcat off like a sock', ['30', '32']),
+    (r'glacial winter, where what keeps you alive', ['8', '10']),
+    (r'hand-cut beads on it', ['63', '62']),
+    (r'thought the dead were owed', ['63', '57']),
+    (r'Hide is skin', ['11', '16']),
+    (r'looking at clothing', ['16', '11']),
+    (r'clothes were for', ['41', '43']),
+    (r'what clothes were for', ['41', '1']),
+    (r'Something changed', ['31', '32']),
+    (r'Body lice live in clothing', ['12', '11']),
+    (r'hadn.t had one', ['57', '55']),
+    # third pass, the last of the cheap wins
+    (r'genuinely terrible', ['7', '1']),
+    (r'sets like cardboard', ['7', '3']),
+    (r'hold your wrist or your ankle', ['7', '10']),
+    (r'tailor . the one who fits', ['41', '42']),
+    (r'ninety thousand years', ['41', '43']),
+    (r'twelve thousand bone fragments', ['31', '32', '30']),
+    (r'strong proxy evidence', ['25', '31']),
+    (r'cutting is easy', ['42', '41']),
+    (r'strip of leather', ['42', '44']),
+    (r'What they found was fibre', ['50', '53']),
+    (r'spun, deliberately', ['50', '53']),
+    # fourth pass: the joins argument and Contrebandiers, which still held one
+    # plate for ten seconds because the sentence itself is that long
+    (r'twelve thousand bone fragments', ['31', '26', '32']),
+    (r'spatula', ['26', '27']),
+    (r'sleeve, or a seam', ['42', '43']),
+    (r'cutting is easy', ['42', '44']),
+    (r'announce yourself', ['51', '49']),
+    (r'wrap that body in hide', ['51', '63']),
+    (r'opened at the feet', ['30', '28', '26']),
+
     # ---- §1
     (r'drilled a hole through a bird bone', ['43']),
     (r'^Not for food|For a seam', ['72']),

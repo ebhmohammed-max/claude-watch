@@ -2,7 +2,7 @@
 ### Atlas Understory — upload kit
 
 **Runtime** 9:35.35 · 1280×720 · 25 fps · H.264 + AAC stereo
-**File** `tailors-episode.mp4` (~87 MB)
+**File** `tailors-episode.mp4` (~95 MB)
 
 ---
 
@@ -114,14 +114,29 @@ One hide, one bone needle, no thread. What are you making?
 - **§7 was rebuilt with dedicated plates.** "Every diorama is a guess" now has
   its own material: a decayed stain where organic material has gone, a sediment
   mark, a lit cave shaft, an unreadable archive box.
-- **Three planned shots were never made.** The pelt drying flat was refused by
+- **Four planned shots were never made.** The pelt drying flat was refused by
   the image moderator; the hide-scraping hands kept rendering with modern-looking
-  arms; and a museum diorama case rendered a nude mannequin, which was discarded
-  rather than shipped. All three sections work without them.
+  arms; a museum diorama case rendered a nude mannequin; and one museum-case
+  attempt again returned a nude mannequin. All were discarded rather than
+  shipped, and every section works without them.
+- **The image count is the real ceiling here.** 47 plates is on the thin side for
+  nine and a half minutes. v3 closes the gap with routing rather than new art, so
+  several plates now return within a section. More stills would be the better fix
+  and is the obvious next investment.
 - **43 stills carry the 288 placements**, so images recur. Recurrence is
   deliberate inside a section (same scene, different framing). The archive zip
-  holds all **56** generated stills, including 13 spares that were made but not
-  needed once §7 got its own plates.
+  holds all **56** generated stills.
+- **Pacing was rebuilt for v3.** v2 passed the 2 s grid as a *time* grid but not
+  as a *cut* grid: 76% of the film sat on a still held six seconds or longer and
+  one plate held for 34 s. Measured on the finished encode, v3 has 319 visible
+  changes, a median gap of 2.00 s, and no gap longer than 10 s. Rain benchmarked
+  at 11.3 images/minute; v2 was 4.5, v3 is 17.2.
+- **Four plates were carrying labels the picture contradicted**, and all four
+  were fixed: a modern hallway and a modern suburban street were both labelled
+  "Modern landscape", a wide museum gallery was labelled "Close detail", and a
+  scene with walking figures was labelled "Modern landscape". Those now read
+  "Present-day scene", "Modern museum gallery", and "Illustrative reconstruction"
+  respectively. The museum and present-day classes are new.
 - **Ambience is synthesised.** The craft sounds are generated noise transients,
   not recordings, and are honest as atmosphere rather than as documentary sound.
 - **720p only.** Source stills are ~2 MP, so this is the honest ceiling.

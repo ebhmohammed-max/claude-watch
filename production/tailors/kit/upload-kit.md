@@ -23,7 +23,10 @@ wrong, which is the point.
 
 `thumbnail-1280x720.jpg` — coarse sinew thread through torn hide, headline
 **WHAT DID THEY SEW IT WITH?** over an amber eyebrow, *NO TAILOR. NO ZIP. NO
-BUTTON.* Checked at 320 px; the label stays legible.
+BUTTON.* Checked at 320 px; the label stays legible. The corner label now reads
+**Reconstruction, not a photograph of a find** — it previously said "illustrative
+reconstruction", which was accurate but said nothing about what the image
+actually is.
 
 ---
 
@@ -128,6 +131,10 @@ One hide, one bone needle, no thread. What are you making?
 - **56 stills carry the 288 placements**, so images recur. Recurrence is
   deliberate inside a section (same scene, different framing). The archive zip
   holds all **66** generated stills, including ten that the cut itself does not use.
+- **The film does not play in strict still-number order.** Routing picks the
+  plate that matches each sentence, and the approved needle-first opening puts
+  `t043` and `t072` ahead of `t001`. 104 of 287 transitions move to a
+  lower-numbered plate. The sequence follows the story, not the file numbers.
 - **Section changes dissolve; every other cut is hard.** That rule was broken
   in v2-v4 -- every boundary was a hard cut because the clothing episode never
   had the transitions step the rain episode had. v5 ports it: a 0.5 s blend of

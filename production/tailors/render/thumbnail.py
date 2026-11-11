@@ -81,7 +81,7 @@ def build(src, lines, out_name, fx=0.5, fy=0.5):
     d.text((56, 96), 'NO TAILOR. NO ZIP. NO BUTTON.', font=F_YEAR, fill=AMBER)
     d.line([(56, 140), (56 + 470, 140)], fill=(255, 176, 60, 150), width=3)
 
-    lab = 'Illustrative reconstruction — not a photograph of a find'
+    lab = 'Reconstruction, not a photograph of a find'
     tw = d.textbbox((0, 0), lab, font=F_LAB)[2]
     d.rounded_rectangle([W - tw - 44, 24, W - 20, 60], radius=7, fill=(0, 0, 0, 130))
     d.text((W - tw - 32, 31), lab, font=F_LAB, fill=(228, 228, 228, 240))

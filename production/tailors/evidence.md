@@ -44,7 +44,23 @@ Legend: **SAFE** = can state plainly · **GUARD** = must hedge in the narration 
 | Beads lay in rows/pattern consistent with being sewn to a garment | same | GUARD | Reconstruction, not a preserved garment. Narration says "as if sewn onto it" |
 | Double burial of two children, head to head, ivory spears/discs/beads | same | SAFE | Ages ~10 and ~12 |
 
-## 4 · What must never appear
+## 4 · The closing argument (§9)
+
+§9 is where the film stops reporting and starts arguing. These are the lines
+that carry the most weight with the least evidence, so they are graded here
+rather than left to the ear.
+
+| Claim in narration | Basis | Status | Note |
+|---|---|---|---|
+| "They were already tailoring — the tailor is in the tools long before there's a shop" | Synthesis of Hallett 2021 (scrapers, pelts) + Gilligan 2024 (eyed needles) | GUARD | "Tailoring" implies fitted, cut-to-shape garments. The tools support skilled hide work; none of them is a surviving fitted garment. The line is an argument from tools, and is written as one. |
+| "Warmth. Then fit. Then identity." | Narrative model, not a dated sequence | GUARD | This is an organising arc, not a chronology. The film gives no dates for the three stages and must not be clipped out of context as one. |
+| "once the body was covered all year round, identity" | Inference from beads/ochre at Sunghir | GUARD | Decoration is secure; that it functioned as identity is interpretation, consistent with Gilligan 2024 and with the bead evidence. |
+| "the only technology that has to be rebuilt for every single body that wears it" | Rhetorical superlative | GUARD | Not a measurable claim. It is deliberately rhetorical and must not be presented elsewhere as a finding. |
+| "a few fibres that somebody dyed turquoise" | Kvavadze et al., *Science* 325 (2009) | SAFE | Turquoise is one of the reported dyed colours, with black, grey and pink. |
+| "almost none of it is left" / "the ground eats it first" | Taphonomy; no surviving prehistoric garment | SAFE | Consistent with the Tarkhan floor: nothing older than ~5 ka survives whole. |
+| The closing comment prompt ("one hide, one bone needle, no thread") | Direct address, no claim | n/a | A question to the audience, not an assertion. |
+
+## 5 · What must never appear
 
 - A photograph-style image presented as a real ancient garment. None survives.
 - Any claim about *which* species made the Denisova needle.
@@ -54,7 +70,7 @@ Legend: **SAFE** = can state plainly · **GUARD** = must hedge in the narration 
   because they used similar tools.
 - Continuity claims about modern or historical Indigenous dress.
 
-## 5 · On-screen source cards
+## 6 · On-screen source cards
 
 The voice credits these studies by author in §§2, 3, 4 and 5; the card must
 appear at the same moment, top-right, for three slots.

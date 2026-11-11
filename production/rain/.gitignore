@@ -2,3 +2,5 @@ render/clips/
 render/work/
 render/overlays/
 *.mp4
+kit/*.zip
+kit/rain-episode-v4.mp4

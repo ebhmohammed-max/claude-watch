@@ -8,3 +8,6 @@ render/overlays/
 render/*.mp4
 kit/*.mp4
 render/clips.txt
+narration/bed.wav
+narration/mix.wav
+kit/*.mp4

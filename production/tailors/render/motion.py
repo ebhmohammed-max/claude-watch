@@ -51,10 +51,27 @@ def move(seed, n):
     return f"z='1.0+{ZOOM}':x='{c}':y='(ih-ih/zoom)*on/{n}'"
 
 
+def clip_seconds(path):
+    out = subprocess.run([FF, '-hide_banner', '-i', path],
+                         capture_output=True, text=True).stderr
+    for line in out.splitlines():
+        if 'Duration:' in line:
+            h, m, s = line.split('Duration:')[1].split(',')[0].strip().split(':')
+            return int(h) * 3600 + int(m) * 60 + float(s)
+    return -1
+
+
 def build(it):
     out = it['out']
+    # A clip is only reusable if it is the right LENGTH. Checking existence alone
+    # silently reused footage from an earlier plan: the stems still matched, so a
+    # rebuild reported "0 to encode" and shipped a cut 18 s too long.
     if os.path.exists(out) and os.path.getsize(out) > 2000:
-        return out
+        want = it['frames'] / FPS
+        got = clip_seconds(out)
+        if abs(got - want) <= 0.021:
+            return out
+        os.remove(out)
     n = it['frames']
     m = move(it['still'], n)
     vf = (f"[0:v]zoompan=d={n}:s={W}x{H}:fps={FPS}:{m},setsar=1[bg];"
@@ -71,6 +88,14 @@ def main():
     work, clips = os.path.join(HERE, 'work'), os.path.join(HERE, 'clips')
     for p in (work, clips):
         os.makedirs(p, exist_ok=True)
+    # Stale clips from an earlier map are poison: the concat list picks up every
+    # file on disk, so a run with a changed plan silently doubles the runtime.
+    # A clip is stale if its stem is not in this plan.
+    stems = {p['stem'] for p in plan}
+    for d in (work, clips):
+        for f in os.listdir(d):
+            if f.split('.')[0] not in stems:
+                os.remove(os.path.join(d, f))
     total = 0
     for p in plan:
         p['frames'] = round(p['end'] * FPS) - round(p['start'] * FPS)
@@ -82,7 +107,16 @@ def main():
             prep(os.path.join(ROOT, f"production/tailors/stills/t{int(p['still']):03d}.jpg"),
                  p['src'])
     print(f"{len(plan)} clips · {total} frames · {total / FPS:.2f} s")
-    todo = [p for p in plan if not (os.path.exists(p['out']) and os.path.getsize(p['out']) > 2000)]
+    # The reuse test has to live here, not only inside build(): todo decides what
+    # build() ever sees, so an existence-only test here meant a changed plan
+    # reported "0 to encode" and shipped the previous cut.
+    def fresh(p):
+        out = p['out']
+        if not (os.path.exists(out) and os.path.getsize(out) > 2000):
+            return False
+        return abs(clip_seconds(out) - p['frames'] / FPS) <= 0.021
+
+    todo = [p for p in plan if not fresh(p)]
     print(f'{len(todo)} to encode')
     with ThreadPoolExecutor(max_workers=2) as ex:
         for k, _ in enumerate(ex.map(build, todo), 1):

@@ -178,14 +178,34 @@ def main():
     for f in glob.glob(out + '/*.png'):
         os.remove(f)
     plan = []
+    n = 0
     for i, r in enumerate(rows):
-        layer_for(r, i).save(f'{out}/{i:04d}.png')
-        plan.append({'i': i, 'still': r['still'], 'stem': f'{i:04d}',
-                     'start': r['start'], 'end': r['end'],
-                     'section': r['section'], 'sentence': r['sentence']})
-    json.dump(plan, open(os.path.join(HERE, 'plan.json'), 'w'), indent=1)
+        layer = layer_for(r, i)
+        # motion splits any slot longer than SLOT_MAX into equal segments: a
+        # 3.9 s still on a 2 s cut reads as a freeze. The counter has to be a
+        # plain variable. `f'{len(plan):04d}'` read len() *again* while
+        # plan.append() was still evaluating its argument, so the stem was one
+        # ahead of the slot it belonged to and the first slot of every pair
+        # duplicated the previous one.
+        dur = r['end'] - r['start']
+        k = max(1, round(dur / 2.0))
+        step = dur / k
+        for j in range(k):
+            stem = f'{n:04d}'
+            layer.save(os.path.join(out, stem + '.png'))
+            start = r['start'] + j * step
+            end = r['start'] + (j + 1) * step if j < k - 1 else r['end']
+            plan.append({'i': n, 'still': r['still'], 'stem': stem,
+                         'start': round(start, 3), 'end': round(end, 3),
+                         'section': r['section'], 'sentence': r['sentence'],
+                         'sub': j})
+            n += 1
     print(f'{len(plan)} type layers -> {out}')
+    return plan
 
 
 if __name__ == '__main__':
-    main()
+    # written last, after the files are on disk, so a crash can never leave a
+    # plan pointing at layers that were never rendered
+    p = main()
+    json.dump(p, open(os.path.join(HERE, 'plan.json'), 'w'), indent=1)

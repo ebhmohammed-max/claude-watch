@@ -51,23 +51,30 @@ def main():
     cues = m['cues']
     problems, warnings = [], []
 
-    # expand cue assignments across the slots that cue covers
-    last = None
-    used = set()
+    # Expand cue assignments across the slots that cue covers.
+    #
+    # Iterating cues and *then* selecting overlapping slots emits a slot twice
+    # whenever a cue boundary falls inside a cut: that slot overlaps two cues, so
+    # the second pass writes a duplicate carrying the previous shot. That
+    # duplicated every boundary and inflated the runtime by 45%. Walk the slots
+    # instead and ask which cue owns each one, by midpoint.
     plan = []
-    for i, c in enumerate(cues):
+    used = set()
+    for s in slots:
+        mid = (s['start'] + s['end']) / 2
+        i = next((k for k, c in enumerate(cues)
+                  if c['start'] <= mid < c['end']), len(cues) - 1)
+        c = cues[i]
         picks = assign.get(str(i))
         if not picks:
             problems.append(f'cue {i} has no still: {c["sentence"][:60]}')
             continue
-        mine = [s for s in slots
-                if s['start'] < c['end'] - 0.001 and s['end'] > c['start'] + 0.001]
-        for k, s in enumerate(mine):
-            still = picks[k % len(picks)]
-            plan.append({'start': s['start'], 'end': s['end'], 'still': still,
-                         'cue': i, 'section': s['section'], 'sentence': c['sentence'],
-                         'variant': k // len(picks)})
-            used.add(still)
+        k = sum(1 for p in plan if p.get('cue') == i)
+        still = picks[k % len(picks)]
+        plan.append({'start': s['start'], 'end': s['end'], 'still': still,
+                     'cue': i, 'section': s['section'], 'sentence': c['sentence'],
+                     'variant': k // len(picks)})
+        used.add(still)
 
     # validate
     for p in plan:

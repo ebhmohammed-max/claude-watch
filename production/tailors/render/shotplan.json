@@ -2,28 +2,10 @@
  {
   "start": 0.0,
   "end": 2.137,
-  "still": "8",
-  "cue": 0,
-  "section": "01",
-  "sentence": "A cold morning.",
-  "variant": 0
- },
- {
-  "start": 0.0,
-  "end": 2.137,
   "still": "1",
   "cue": 1,
   "section": "01",
   "sentence": "You own one garment.",
-  "variant": 0
- },
- {
-  "start": 2.137,
-  "end": 4.007,
-  "still": "1",
-  "cue": 2,
-  "section": "01",
-  "sentence": "It's a hide.",
   "variant": 0
  },
  {
@@ -36,18 +18,9 @@
   "variant": 0
  },
  {
-  "start": 2.137,
-  "end": 4.007,
-  "still": "1",
-  "cue": 4,
-  "section": "01",
-  "sentence": "A coat implies somebody made a decision.",
-  "variant": 0
- },
- {
   "start": 4.007,
   "end": 5.958,
-  "still": "10",
+  "still": "1",
   "cue": 4,
   "section": "01",
   "sentence": "A coat implies somebody made a decision.",
@@ -75,15 +48,6 @@
   "start": 10.016,
   "end": 12.02,
   "still": "1",
-  "cue": 5,
-  "section": "01",
-  "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
-  "variant": 1
- },
- {
-  "start": 12.02,
-  "end": 14.023,
-  "still": "10",
   "cue": 5,
   "section": "01",
   "sentence": "This is a hide, folded over one shoulder, held shut with your hand, because your other hand is busy being cold.",
@@ -129,15 +93,6 @@
   "start": 19.741,
   "end": 22.171,
   "still": "1",
-  "cue": 7,
-  "section": "01",
-  "sentence": "It's wrong.",
-  "variant": 0
- },
- {
-  "start": 19.741,
-  "end": 22.171,
-  "still": "1",
   "cue": 8,
   "section": "01",
   "sentence": "Not because they were stupid.",
@@ -151,15 +106,6 @@
   "section": "01",
   "sentence": "Because the outfit is genuinely terrible.",
   "variant": 0
- },
- {
-  "start": 24.04,
-  "end": 26.181,
-  "still": "7",
-  "cue": 9,
-  "section": "01",
-  "sentence": "Because the outfit is genuinely terrible.",
-  "variant": 1
  },
  {
   "start": 24.04,
@@ -209,15 +155,6 @@
  {
   "start": 34.056,
   "end": 36.059,
-  "still": "7",
-  "cue": 12,
-  "section": "01",
-  "sentence": "And it won't hold your wrist or your ankle, which are, unfortunately, exactly where heat leaves a body fastest.",
-  "variant": 3
- },
- {
-  "start": 34.056,
-  "end": 36.059,
   "still": "1",
   "cue": 13,
   "section": "01",
@@ -237,24 +174,6 @@
   "start": 38.063,
   "end": 40.066,
   "still": "1",
-  "cue": 13,
-  "section": "01",
-  "sentence": "So the interesting question isn't how somebody wore an animal skin.",
-  "variant": 1
- },
- {
-  "start": 38.063,
-  "end": 40.066,
-  "still": "1",
-  "cue": 14,
-  "section": "01",
-  "sentence": "Anyone can wear an animal skin.",
-  "variant": 0
- },
- {
-  "start": 40.066,
-  "end": 42.069,
-  "still": "10",
   "cue": 14,
   "section": "01",
   "sentence": "Anyone can wear an animal skin.",
@@ -290,15 +209,6 @@
  {
   "start": 46.418,
   "end": 48.079,
-  "still": "5",
-  "cue": 16,
-  "section": "01",
-  "sentence": "Three finds.",
-  "variant": 0
- },
- {
-  "start": 46.418,
-  "end": 48.079,
   "still": "9",
   "cue": 17,
   "section": "01",
@@ -317,15 +227,6 @@
  {
   "start": 50.082,
   "end": 52.086,
-  "still": "9",
-  "cue": 17,
-  "section": "01",
-  "sentence": "A cave in Morocco, full of tools nobody would photograph twice.",
-  "variant": 2
- },
- {
-  "start": 50.082,
-  "end": 52.086,
   "still": "43",
   "cue": 18,
   "section": "01",
@@ -340,15 +241,6 @@
   "section": "01",
   "sentence": "A needle you could lose between two fingers.",
   "variant": 1
- },
- {
-  "start": 52.086,
-  "end": 54.089,
-  "still": "10",
-  "cue": 19,
-  "section": "01",
-  "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
-  "variant": 0
  },
  {
   "start": 54.089,
@@ -357,7 +249,7 @@
   "cue": 19,
   "section": "01",
   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 56.092,
@@ -366,16 +258,7 @@
   "cue": 19,
   "section": "01",
   "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
-  "variant": 2
- },
- {
-  "start": 58.096,
-  "end": 60.099,
-  "still": "10",
-  "cue": 19,
-  "section": "01",
-  "sentence": "And a grave with three thousand beads, which is not a clothing story until, abruptly, it is.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 58.096,
@@ -396,24 +279,6 @@
   "variant": 0
  },
  {
-  "start": 60.099,
-  "end": 62.194,
-  "still": "3",
-  "cue": 21,
-  "section": "01",
-  "sentence": "Not a sleeve.",
-  "variant": 0
- },
- {
-  "start": 62.194,
-  "end": 64.106,
-  "still": "3",
-  "cue": 22,
-  "section": "01",
-  "sentence": "Not a stitch.",
-  "variant": 0
- },
- {
   "start": 62.194,
   "end": 64.106,
   "still": "3",
@@ -430,15 +295,6 @@
   "section": "01",
   "sentence": "We have the workshop, and we have the mess.",
   "variant": 1
- },
- {
-  "start": 64.106,
-  "end": 66.292,
-  "still": "11",
-  "cue": 24,
-  "section": "01",
-  "sentence": "Clothes rot.",
-  "variant": 0
  },
  {
   "start": 66.292,
@@ -448,24 +304,6 @@
   "section": "02",
   "sentence": "That's the problem.",
   "variant": 0
- },
- {
-  "start": 66.292,
-  "end": 68.112,
-  "still": "11",
-  "cue": 26,
-  "section": "02",
-  "sentence": "That's the whole problem.",
-  "variant": 0
- },
- {
-  "start": 68.112,
-  "end": 70.115,
-  "still": "11",
-  "cue": 26,
-  "section": "02",
-  "sentence": "That's the whole problem.",
-  "variant": 1
  },
  {
   "start": 68.112,
@@ -504,31 +342,13 @@
   "variant": 3
  },
  {
-  "start": 74.122,
-  "end": 76.125,
-  "still": "11",
-  "cue": 28,
-  "section": "02",
-  "sentence": "So for most of human prehistory, we aren't looking at clothing.",
-  "variant": 0
- },
- {
   "start": 76.125,
   "end": 78.129,
   "still": "11",
   "cue": 28,
   "section": "02",
   "sentence": "So for most of human prehistory, we aren't looking at clothing.",
-  "variant": 1
- },
- {
-  "start": 78.129,
-  "end": 80.132,
-  "still": "11",
-  "cue": 28,
-  "section": "02",
-  "sentence": "So for most of human prehistory, we aren't looking at clothing.",
-  "variant": 2
+  "variant": 0
  },
  {
   "start": 78.129,
@@ -538,15 +358,6 @@
   "section": "02",
   "sentence": "We're looking at the shadow of it.",
   "variant": 0
- },
- {
-  "start": 80.132,
-  "end": 82.135,
-  "still": "16",
-  "cue": 29,
-  "section": "02",
-  "sentence": "We're looking at the shadow of it.",
-  "variant": 1
  },
  {
   "start": 80.132,
@@ -561,28 +372,10 @@
   "start": 82.135,
   "end": 84.139,
   "still": "17",
-  "cue": 30,
-  "section": "02",
-  "sentence": "A bone tool with a polish on it.",
-  "variant": 1
- },
- {
-  "start": 82.135,
-  "end": 84.139,
-  "still": "17",
   "cue": 31,
   "section": "02",
   "sentence": "A blade that cuts skin and not meat.",
   "variant": 0
- },
- {
-  "start": 84.139,
-  "end": 86.142,
-  "still": "17",
-  "cue": 31,
-  "section": "02",
-  "sentence": "A blade that cuts skin and not meat.",
-  "variant": 1
  },
  {
   "start": 84.139,
@@ -606,15 +399,6 @@
   "start": 88.145,
   "end": 90.148,
   "still": "17",
-  "cue": 32,
-  "section": "02",
-  "sentence": "A bead that had to be attached to something, and presumably not a rock.",
-  "variant": 2
- },
- {
-  "start": 88.145,
-  "end": 90.148,
-  "still": "17",
   "cue": 33,
   "section": "02",
   "sentence": "And then there's the evidence that isn't archaeology at all.",
@@ -628,15 +412,6 @@
   "section": "02",
   "sentence": "And then there's the evidence that isn't archaeology at all.",
   "variant": 1
- },
- {
-  "start": 92.437,
-  "end": 94.155,
-  "still": "12",
-  "cue": 34,
-  "section": "02",
-  "sentence": "It's lice.",
-  "variant": 0
  },
  {
   "start": 92.437,
@@ -675,30 +450,12 @@
   "variant": 1
  },
  {
-  "start": 98.162,
-  "end": 100.165,
-  "still": "12",
-  "cue": 37,
-  "section": "02",
-  "sentence": "They evolved from head lice.",
-  "variant": 0
- },
- {
   "start": 100.165,
   "end": 102.168,
   "still": "12",
   "cue": 37,
   "section": "02",
   "sentence": "They evolved from head lice.",
-  "variant": 1
- },
- {
-  "start": 100.165,
-  "end": 102.168,
-  "still": "12",
-  "cue": 38,
-  "section": "02",
-  "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
   "variant": 0
  },
  {
@@ -708,7 +465,7 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 104.172,
@@ -717,7 +474,7 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 106.175,
@@ -726,7 +483,7 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 3
+  "variant": 2
  },
  {
   "start": 108.178,
@@ -735,16 +492,7 @@
   "cue": 38,
   "section": "02",
   "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 4
- },
- {
-  "start": 110.181,
-  "end": 112.185,
-  "still": "12",
-  "cue": 38,
-  "section": "02",
-  "sentence": "So the moment those two stopped being the same animal is roughly the moment humans started wearing clothes often enough for a parasite to move in and get comfortable.",
-  "variant": 5
+  "variant": 3
  },
  {
   "start": 110.181,
@@ -783,22 +531,13 @@
   "variant": 3
  },
  {
-  "start": 116.191,
-  "end": 118.195,
-  "still": "15",
-  "cue": 40,
-  "section": "02",
-  "sentence": "Possibly a hundred and seventy thousand.",
-  "variant": 0
- },
- {
   "start": 118.195,
   "end": 120.043,
   "still": "15",
   "cue": 40,
   "section": "02",
   "sentence": "Possibly a hundred and seventy thousand.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 120.043,
@@ -808,24 +547,6 @@
   "section": "02",
   "sentence": "That's a window, not a date.",
   "variant": 0
- },
- {
-  "start": 120.043,
-  "end": 122.201,
-  "still": "18",
-  "cue": 42,
-  "section": "02",
-  "sentence": "Windows are what we get.",
-  "variant": 0
- },
- {
-  "start": 122.201,
-  "end": 124.205,
-  "still": "18",
-  "cue": 42,
-  "section": "02",
-  "sentence": "Windows are what we get.",
-  "variant": 1
  },
  {
   "start": 122.201,
@@ -873,24 +594,6 @@
   "variant": 4
  },
  {
-  "start": 130.214,
-  "end": 132.218,
-  "still": "18",
-  "cue": 44,
-  "section": "02",
-  "sentence": "Which flips the question.",
-  "variant": 0
- },
- {
-  "start": 132.218,
-  "end": 134.221,
-  "still": "18",
-  "cue": 44,
-  "section": "02",
-  "sentence": "Which flips the question.",
-  "variant": 1
- },
- {
   "start": 132.218,
   "end": 134.221,
   "still": "18",
@@ -902,29 +605,11 @@
  {
   "start": 134.221,
   "end": 136.224,
-  "still": "18",
-  "cue": 45,
-  "section": "02",
-  "sentence": "Not, did they wear clothes \u2014 obviously.",
-  "variant": 1
- },
- {
-  "start": 134.221,
-  "end": 136.224,
   "still": "14",
   "cue": 46,
   "section": "02",
   "sentence": "How well could they make them.",
   "variant": 0
- },
- {
-  "start": 136.224,
-  "end": 138.228,
-  "still": "14",
-  "cue": 46,
-  "section": "03",
-  "sentence": "How well could they make them.",
-  "variant": 1
  },
  {
   "start": 136.224,
@@ -952,15 +637,6 @@
   "section": "03",
   "sentence": "Close enough to the sea that you can hear it working.",
   "variant": 0
- },
- {
-  "start": 142.234,
-  "end": 144.238,
-  "still": "23",
-  "cue": 48,
-  "section": "03",
-  "sentence": "Close enough to the sea that you can hear it working.",
-  "variant": 1
  },
  {
   "start": 142.234,
@@ -1011,15 +687,6 @@
   "start": 152.251,
   "end": 154.254,
   "still": "31",
-  "cue": 49,
-  "section": "03",
-  "sentence": "Emily Hallett and her colleagues went through more than twelve thousand bone fragments, from layers dated between a hundred and twenty and ninety thousand years old.",
-  "variant": 5
- },
- {
-  "start": 152.251,
-  "end": 154.254,
-  "still": "31",
   "cue": 50,
   "section": "03",
   "sentence": "Sixty-two of them had been shaped by people.",
@@ -1033,15 +700,6 @@
   "section": "03",
   "sentence": "Sixty-two of them had been shaped by people.",
   "variant": 1
- },
- {
-  "start": 154.254,
-  "end": 156.257,
-  "still": "26",
-  "cue": 51,
-  "section": "03",
-  "sentence": "The one worth your attention looks like a spatula.",
-  "variant": 0
  },
  {
   "start": 156.257,
@@ -1050,7 +708,7 @@
   "cue": 51,
   "section": "03",
   "sentence": "The one worth your attention looks like a spatula.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 158.416,
@@ -1098,24 +756,6 @@
   "variant": 0
  },
  {
-  "start": 166.09,
-  "end": 168.277,
-  "still": "27",
-  "cue": 54,
-  "section": "03",
-  "sentence": "Under a microscope it has grooves.",
-  "variant": 0
- },
- {
-  "start": 168.277,
-  "end": 170.28,
-  "still": "27",
-  "cue": 54,
-  "section": "03",
-  "sentence": "Under a microscope it has grooves.",
-  "variant": 1
- },
- {
   "start": 168.277,
   "end": 170.28,
   "still": "27",
@@ -1132,15 +772,6 @@
   "section": "03",
   "sentence": "Then there's the detail I can't get over.",
   "variant": 1
- },
- {
-  "start": 170.28,
-  "end": 172.284,
-  "still": "30",
-  "cue": 56,
-  "section": "03",
-  "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
-  "variant": 0
  },
  {
   "start": 172.284,
@@ -1149,7 +780,7 @@
   "cue": 56,
   "section": "03",
   "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 174.287,
@@ -1158,16 +789,7 @@
   "cue": 56,
   "section": "03",
   "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
-  "variant": 2
- },
- {
-  "start": 176.29,
-  "end": 178.134,
-  "still": "30",
-  "cue": 56,
-  "section": "03",
-  "sentence": "Hallett found cut marks on the paws and jaws of sand foxes, golden jackals and wildcats.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 176.29,
@@ -1176,15 +798,6 @@
   "cue": 57,
   "section": "03",
   "sentence": "Not butchering marks.",
-  "variant": 0
- },
- {
-  "start": 178.134,
-  "end": 180.297,
-  "still": "30",
-  "cue": 58,
-  "section": "03",
-  "sentence": "Skinning marks.",
   "variant": 0
  },
  {
@@ -1218,15 +831,6 @@
   "start": 184.687,
   "end": 186.307,
   "still": "30",
-  "cue": 60,
-  "section": "03",
-  "sentence": "Like a sock.",
-  "variant": 0
- },
- {
-  "start": 184.687,
-  "end": 186.307,
-  "still": "30",
   "cue": 61,
   "section": "03",
   "sentence": "Somebody took a wildcat off like a sock.",
@@ -1242,30 +846,12 @@
   "variant": 1
  },
  {
-  "start": 186.307,
-  "end": 188.31,
-  "still": "28",
-  "cue": 62,
-  "section": "03",
-  "sentence": "That is not a hungry person.",
-  "variant": 0
- },
- {
   "start": 188.31,
   "end": 190.313,
   "still": "28",
   "cue": 62,
   "section": "03",
   "sentence": "That is not a hungry person.",
-  "variant": 1
- },
- {
-  "start": 188.31,
-  "end": 190.313,
-  "still": "28",
-  "cue": 63,
-  "section": "03",
-  "sentence": "That's a person who has decided the fur is worth more than the meat.",
   "variant": 0
  },
  {
@@ -1275,7 +861,7 @@
   "cue": 63,
   "section": "03",
   "sentence": "That's a person who has decided the fur is worth more than the meat.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 192.317,
@@ -1284,16 +870,7 @@
   "cue": 63,
   "section": "03",
   "sentence": "That's a person who has decided the fur is worth more than the meat.",
-  "variant": 2
- },
- {
-  "start": 192.317,
-  "end": 194.32,
-  "still": "25",
-  "cue": 64,
-  "section": "03",
-  "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
-  "variant": 0
+  "variant": 1
  },
  {
   "start": 194.32,
@@ -1302,16 +879,7 @@
   "cue": 64,
   "section": "03",
   "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
-  "variant": 1
- },
- {
-  "start": 196.323,
-  "end": 198.327,
-  "still": "25",
-  "cue": 64,
-  "section": "03",
-  "sentence": "Now, careful \u2014 this is where documentaries start fibbing.",
-  "variant": 2
+  "variant": 0
  },
  {
   "start": 196.323,
@@ -1330,15 +898,6 @@
   "section": "03",
   "sentence": "It does not prove anyone in that cave sewed a coat.",
   "variant": 1
- },
- {
-  "start": 198.327,
-  "end": 200.33,
-  "still": "25",
-  "cue": 66,
-  "section": "03",
-  "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
-  "variant": 0
  },
  {
   "start": 200.33,
@@ -1347,7 +906,7 @@
   "cue": 66,
   "section": "03",
   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 202.333,
@@ -1356,7 +915,7 @@
   "cue": 66,
   "section": "03",
   "sentence": "The researchers call it strong proxy evidence, and that's the honest version.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 204.39,
@@ -1389,28 +948,10 @@
   "start": 210.346,
   "end": 212.35,
   "still": "32",
-  "cue": 67,
-  "section": "03",
-  "sentence": "What it does prove is a trade: an animal chosen for its pelt, taken whole, and a tool that made the result soft.",
-  "variant": 3
- },
- {
-  "start": 210.346,
-  "end": 212.35,
-  "still": "32",
   "cue": 68,
   "section": "03",
   "sentence": "A hundred and twenty thousand years ago.",
   "variant": 0
- },
- {
-  "start": 212.35,
-  "end": 214.353,
-  "still": "32",
-  "cue": 68,
-  "section": "03",
-  "sentence": "A hundred and twenty thousand years ago.",
-  "variant": 1
  },
  {
   "start": 212.35,
@@ -1449,15 +990,6 @@
   "variant": 0
  },
  {
-  "start": 218.573,
-  "end": 220.199,
-  "still": "42",
-  "cue": 72,
-  "section": "04",
-  "sentence": "You can fold a hide.",
-  "variant": 0
- },
- {
   "start": 220.199,
   "end": 222.366,
   "still": "42",
@@ -1467,31 +999,13 @@
   "variant": 0
  },
  {
-  "start": 220.199,
-  "end": 222.366,
-  "still": "42",
-  "cue": 74,
-  "section": "04",
-  "sentence": "Fine.",
-  "variant": 0
- },
- {
-  "start": 220.199,
-  "end": 222.366,
-  "still": "42",
-  "cue": 75,
-  "section": "04",
-  "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 0
- },
- {
   "start": 222.366,
   "end": 224.369,
   "still": "42",
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 224.369,
@@ -1500,7 +1014,7 @@
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 226.373,
@@ -1509,16 +1023,7 @@
   "cue": 75,
   "section": "04",
   "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 3
- },
- {
-  "start": 228.376,
-  "end": 230.265,
-  "still": "42",
-  "cue": 75,
-  "section": "04",
-  "sentence": "But the second you want a sleeve, or a seam that holds when you pull it, you have to get thread through the material \u2014 and the tool has to make a hole no bigger than the thread, or you have built a cold-air vent.",
-  "variant": 4
+  "variant": 2
  },
  {
   "start": 228.376,
@@ -1533,36 +1038,9 @@
   "start": 230.265,
   "end": 232.31,
   "still": "41",
-  "cue": 77,
-  "section": "04",
-  "sentence": "A sharpened bone.",
-  "variant": 0
- },
- {
-  "start": 230.265,
-  "end": 232.31,
-  "still": "41",
   "cue": 78,
   "section": "04",
   "sentence": "Push it through, open a hole, thread it.",
-  "variant": 0
- },
- {
-  "start": 232.31,
-  "end": 234.386,
-  "still": "41",
-  "cue": 79,
-  "section": "04",
-  "sentence": "It works.",
-  "variant": 0
- },
- {
-  "start": 232.31,
-  "end": 234.386,
-  "still": "41",
-  "cue": 80,
-  "section": "04",
-  "sentence": "It leaves a gap.",
   "variant": 0
  },
  {
@@ -1604,15 +1082,6 @@
  {
   "start": 240.396,
   "end": 242.399,
-  "still": "44",
-  "cue": 82,
-  "section": "04",
-  "sentence": "A needle fixes that, because the needle carries the thread in with it.",
-  "variant": 1
- },
- {
-  "start": 240.396,
-  "end": 242.399,
   "still": "43",
   "cue": 83,
   "section": "04",
@@ -1647,31 +1116,13 @@
   "variant": 0
  },
  {
-  "start": 246.761,
-  "end": 248.409,
-  "still": "43",
-  "cue": 86,
-  "section": "04",
-  "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
-  "variant": 0
- },
- {
   "start": 248.409,
   "end": 250.412,
   "still": "43",
   "cue": 86,
   "section": "04",
   "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
-  "variant": 1
- },
- {
-  "start": 250.412,
-  "end": 252.397,
-  "still": "43",
-  "cue": 86,
-  "section": "04",
-  "sentence": "And here's what should stop you: it came out of layers that also held Denisovan remains.",
-  "variant": 2
+  "variant": 0
  },
  {
   "start": 250.412,
@@ -1692,22 +1143,13 @@
   "variant": 0
  },
  {
-  "start": 252.397,
-  "end": 254.419,
-  "still": "43",
-  "cue": 89,
-  "section": "04",
-  "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
-  "variant": 0
- },
- {
   "start": 254.419,
   "end": 256.422,
   "still": "43",
   "cue": 89,
   "section": "04",
   "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 256.422,
@@ -1716,24 +1158,6 @@
   "cue": 89,
   "section": "04",
   "sentence": "Fifty thousand years ago, somebody sat down and drilled a hole through a sliver of bone without splitting it.",
-  "variant": 2
- },
- {
-  "start": 256.422,
-  "end": 258.426,
-  "still": "43",
-  "cue": 90,
-  "section": "04",
-  "sentence": "That is not a caveman with a rock.",
-  "variant": 0
- },
- {
-  "start": 258.426,
-  "end": 260.646,
-  "still": "43",
-  "cue": 90,
-  "section": "04",
-  "sentence": "That is not a caveman with a rock.",
   "variant": 1
  },
  {
@@ -1743,15 +1167,6 @@
   "cue": 91,
   "section": "04",
   "sentence": "That's a specialist with a bad afternoon ahead.",
-  "variant": 0
- },
- {
-  "start": 260.646,
-  "end": 262.761,
-  "still": "52",
-  "cue": 92,
-  "section": "04",
-  "sentence": "Then it gets strange.",
   "variant": 0
  },
  {
@@ -1789,24 +1204,6 @@
   "section": "04",
   "sentence": "They turn up in the cold parts of Eurasia, around forty thousand years ago, right as the climate starts collapsing toward the last glacial maximum.",
   "variant": 2
- },
- {
-  "start": 266.439,
-  "end": 268.72,
-  "still": "6",
-  "cue": 95,
-  "section": "04",
-  "sentence": "They already had awls.",
-  "variant": 0
- },
- {
-  "start": 268.72,
-  "end": 270.59,
-  "still": "6",
-  "cue": 96,
-  "section": "04",
-  "sentence": "They already had clothes.",
-  "variant": 0
  },
  {
   "start": 268.72,
@@ -1971,22 +1368,13 @@
   "variant": 1
  },
  {
-  "start": 302.498,
-  "end": 304.501,
-  "still": "51",
-  "cue": 106,
-  "section": "05",
-  "sentence": "Think about how you announce yourself when your skin is showing.",
-  "variant": 0
- },
- {
   "start": 304.501,
   "end": 306.505,
   "still": "51",
   "cue": 106,
   "section": "05",
   "sentence": "Think about how you announce yourself when your skin is showing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 306.505,
@@ -1995,34 +1383,7 @@
   "cue": 106,
   "section": "05",
   "sentence": "Think about how you announce yourself when your skin is showing.",
-  "variant": 2
- },
- {
-  "start": 306.505,
-  "end": 308.389,
-  "still": "51",
-  "cue": 107,
-  "section": "05",
-  "sentence": "Ochre.",
-  "variant": 0
- },
- {
-  "start": 308.389,
-  "end": 310.511,
-  "still": "51",
-  "cue": 108,
-  "section": "05",
-  "sentence": "Scars.",
-  "variant": 0
- },
- {
-  "start": 308.389,
-  "end": 310.511,
-  "still": "51",
-  "cue": 109,
-  "section": "05",
-  "sentence": "Paint.",
-  "variant": 0
+  "variant": 1
  },
  {
   "start": 308.389,
@@ -2041,15 +1402,6 @@
   "section": "05",
   "sentence": "Beads pressed right up against the body.",
   "variant": 1
- },
- {
-  "start": 310.511,
-  "end": 312.515,
-  "still": "51",
-  "cue": 111,
-  "section": "05",
-  "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
-  "variant": 0
  },
  {
   "start": 312.515,
@@ -2058,7 +1410,7 @@
   "cue": 111,
   "section": "05",
   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 314.518,
@@ -2067,7 +1419,7 @@
   "cue": 111,
   "section": "05",
   "sentence": "Now wrap that body in hide, for months, because the alternative is freezing.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 316.489,
@@ -2097,39 +1449,12 @@
   "variant": 0
  },
  {
-  "start": 320.244,
-  "end": 322.531,
-  "still": "49",
-  "cue": 114,
-  "section": "05",
-  "sentence": "That's what the needle is for, too.",
-  "variant": 0
- },
- {
   "start": 322.531,
   "end": 324.711,
   "still": "49",
   "cue": 114,
   "section": "05",
   "sentence": "That's what the needle is for, too.",
-  "variant": 1
- },
- {
-  "start": 322.531,
-  "end": 324.711,
-  "still": "49",
-  "cue": 115,
-  "section": "05",
-  "sentence": "Beads.",
-  "variant": 0
- },
- {
-  "start": 324.711,
-  "end": 326.538,
-  "still": "49",
-  "cue": 116,
-  "section": "05",
-  "sentence": "Shells.",
   "variant": 0
  },
  {
@@ -2142,22 +1467,13 @@
   "variant": 0
  },
  {
-  "start": 324.711,
-  "end": 326.538,
-  "still": "49",
-  "cue": 118,
-  "section": "05",
-  "sentence": "Fine enough to read from across a fire.",
-  "variant": 0
- },
- {
   "start": 326.538,
   "end": 328.561,
   "still": "49",
   "cue": 118,
   "section": "05",
   "sentence": "Fine enough to read from across a fire.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 328.561,
@@ -2241,22 +1557,13 @@
   "variant": 2
  },
  {
-  "start": 344.567,
-  "end": 346.571,
-  "still": "53",
-  "cue": 123,
-  "section": "06",
-  "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-  "variant": 0
- },
- {
   "start": 346.571,
   "end": 348.574,
   "still": "53",
   "cue": 123,
   "section": "06",
   "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 348.574,
@@ -2265,16 +1572,7 @@
   "cue": 123,
   "section": "06",
   "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-  "variant": 2
- },
- {
-  "start": 350.577,
-  "end": 352.581,
-  "still": "53",
-  "cue": 123,
-  "section": "06",
-  "sentence": "In 2009, a team led by Eliso Kvavadze and Ofer Bar-Yosef was not looking for clothing.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 350.577,
@@ -2322,39 +1620,12 @@
   "variant": 4
  },
  {
-  "start": 358.59,
-  "end": 360.594,
-  "still": "53",
-  "cue": 125,
-  "section": "06",
-  "sentence": "Glamorous work.",
-  "variant": 0
- },
- {
-  "start": 360.594,
-  "end": 362.775,
-  "still": "53",
-  "cue": 125,
-  "section": "06",
-  "sentence": "Glamorous work.",
-  "variant": 1
- },
- {
   "start": 360.594,
   "end": 362.775,
   "still": "50",
   "cue": 126,
   "section": "06",
   "sentence": "What they found was fibre.",
-  "variant": 0
- },
- {
-  "start": 362.775,
-  "end": 364.6,
-  "still": "50",
-  "cue": 127,
-  "section": "06",
-  "sentence": "Wild flax.",
   "variant": 0
  },
  {
@@ -2385,31 +1656,13 @@
   "variant": 2
  },
  {
-  "start": 366.604,
-  "end": 368.607,
-  "still": "50",
-  "cue": 129,
-  "section": "06",
-  "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
-  "variant": 0
- },
- {
   "start": 368.607,
   "end": 370.61,
   "still": "50",
   "cue": 129,
   "section": "06",
   "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
-  "variant": 1
- },
- {
-  "start": 370.61,
-  "end": 372.904,
-  "still": "50",
-  "cue": 129,
-  "section": "06",
-  "sentence": "Some of it was twisted \u2014 spun, deliberately, into cord.",
-  "variant": 2
+  "variant": 0
  },
  {
   "start": 370.61,
@@ -2424,37 +1677,10 @@
   "start": 372.904,
   "end": 376.62,
   "still": "50",
-  "cue": 131,
-  "section": "06",
-  "sentence": "And some was coloured.",
-  "variant": 0
- },
- {
-  "start": 372.904,
-  "end": 376.62,
-  "still": "50",
   "cue": 132,
   "section": "06",
   "sentence": "Black, grey, turquoise.",
   "variant": 0
- },
- {
-  "start": 372.904,
-  "end": 376.62,
-  "still": "50",
-  "cue": 133,
-  "section": "06",
-  "sentence": "And one was pink.",
-  "variant": 0
- },
- {
-  "start": 376.62,
-  "end": 378.627,
-  "still": "50",
-  "cue": 133,
-  "section": "06",
-  "sentence": "And one was pink.",
-  "variant": 1
  },
  {
   "start": 376.62,
@@ -2505,36 +1731,9 @@
   "start": 386.815,
   "end": 390.643,
   "still": "50",
-  "cue": 137,
-  "section": "06",
-  "sentence": "For rope.",
-  "variant": 0
- },
- {
-  "start": 386.815,
-  "end": 390.643,
-  "still": "50",
-  "cue": 138,
-  "section": "06",
-  "sentence": "For baskets.",
-  "variant": 0
- },
- {
-  "start": 386.815,
-  "end": 390.643,
-  "still": "50",
   "cue": 139,
   "section": "06",
   "sentence": "For sewing.",
-  "variant": 0
- },
- {
-  "start": 386.815,
-  "end": 390.643,
-  "still": "50",
-  "cue": 140,
-  "section": "06",
-  "sentence": "We don't know which, and no textile survives to tell us.",
   "variant": 0
  },
  {
@@ -2544,15 +1743,6 @@
   "cue": 140,
   "section": "06",
   "sentence": "We don't know which, and no textile survives to tell us.",
-  "variant": 1
- },
- {
-  "start": 392.801,
-  "end": 396.715,
-  "still": "50",
-  "cue": 141,
-  "section": "06",
-  "sentence": "But here's why I care.",
   "variant": 0
  },
  {
@@ -2583,22 +1773,13 @@
   "variant": 1
  },
  {
-  "start": 398.656,
-  "end": 400.66,
-  "still": "50",
-  "cue": 144,
-  "section": "06",
-  "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 0
- },
- {
   "start": 400.66,
   "end": 402.663,
   "still": "50",
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 402.663,
@@ -2607,7 +1788,7 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 404.666,
@@ -2616,7 +1797,7 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 3
+  "variant": 2
  },
  {
   "start": 406.67,
@@ -2625,7 +1806,7 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 4
+  "variant": 3
  },
  {
   "start": 408.673,
@@ -2634,16 +1815,7 @@
   "cue": 144,
   "section": "06",
   "sentence": "Around the same era, at Pavlov in the Czech Republic, fired clay kept the impression of woven fibre \u2014 the negative of a textile that no longer exists.",
-  "variant": 5
- },
- {
-  "start": 408.673,
-  "end": 410.676,
-  "still": "53",
-  "cue": 145,
-  "section": "06",
-  "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
-  "variant": 0
+  "variant": 4
  },
  {
   "start": 410.676,
@@ -2652,7 +1824,7 @@
   "cue": 145,
   "section": "06",
   "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 412.68,
@@ -2661,7 +1833,7 @@
   "cue": 145,
   "section": "06",
   "sentence": "So this was never hides-or-cloth, with cloth arriving fashionably late.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 414.684,
@@ -2693,28 +1865,10 @@
  {
   "start": 420.693,
   "end": 422.28,
-  "still": "25",
-  "cue": 147,
-  "section": "07",
-  "sentence": "And now the part nobody puts in the documentary.",
-  "variant": 1
- },
- {
-  "start": 420.693,
-  "end": 422.28,
   "still": "3",
   "cue": 148,
   "section": "07",
   "sentence": "We know the tools.",
-  "variant": 0
- },
- {
-  "start": 422.28,
-  "end": 424.697,
-  "still": "50",
-  "cue": 149,
-  "section": "07",
-  "sentence": "We know the fibre.",
   "variant": 0
  },
  {
@@ -2774,7 +1928,7 @@
  {
   "start": 434.926,
   "end": 436.719,
-  "still": "10",
+  "still": "59",
   "cue": 152,
   "section": "07",
   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
@@ -2783,7 +1937,7 @@
  {
   "start": 436.719,
   "end": 438.722,
-  "still": "10",
+  "still": "59",
   "cue": 152,
   "section": "07",
   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
@@ -2792,7 +1946,7 @@
  {
   "start": 438.722,
   "end": 440.907,
-  "still": "10",
+  "still": "59",
   "cue": 152,
   "section": "07",
   "sentence": "We don't know whether a hide garment was a rectangle with a hole for the head, or a coat with sleeves.",
@@ -2801,7 +1955,7 @@
  {
   "start": 440.907,
   "end": 442.729,
-  "still": "10",
+  "still": "59",
   "cue": 153,
   "section": "07",
   "sentence": "We don't know the colours anyone liked.",
@@ -2810,16 +1964,7 @@
  {
   "start": 442.729,
   "end": 444.732,
-  "still": "10",
-  "cue": 153,
-  "section": "07",
-  "sentence": "We don't know the colours anyone liked.",
-  "variant": 1
- },
- {
-  "start": 442.729,
-  "end": 444.732,
-  "still": "10",
+  "still": "59",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
@@ -2828,7 +1973,7 @@
  {
   "start": 444.732,
   "end": 446.736,
-  "still": "10",
+  "still": "59",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
@@ -2837,7 +1982,7 @@
  {
   "start": 446.736,
   "end": 448.739,
-  "still": "10",
+  "still": "59",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
@@ -2846,7 +1991,7 @@
  {
   "start": 448.739,
   "end": 450.715,
-  "still": "10",
+  "still": "59",
   "cue": 154,
   "section": "07",
   "sentence": "Every museum figure standing there in a stitched, fitted, beautifully tailored prehistoric outfit is a guess wearing a lab coat.",
@@ -2855,37 +2000,19 @@
  {
   "start": 450.715,
   "end": 452.745,
-  "still": "10",
+  "still": "59",
   "cue": 155,
   "section": "07",
   "sentence": "That's not a complaint.",
   "variant": 0
  },
  {
-  "start": 450.715,
-  "end": 452.745,
-  "still": "11",
+  "start": 452.745,
+  "end": 454.749,
+  "still": "59",
   "cue": 156,
   "section": "07",
   "sentence": "That's where the story lives.",
-  "variant": 0
- },
- {
-  "start": 452.745,
-  "end": 454.749,
-  "still": "11",
-  "cue": 156,
-  "section": "07",
-  "sentence": "That's where the story lives.",
-  "variant": 1
- },
- {
-  "start": 452.745,
-  "end": 454.749,
-  "still": "18",
-  "cue": 157,
-  "section": "07",
-  "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
   "variant": 0
  },
  {
@@ -2895,7 +2022,7 @@
   "cue": 157,
   "section": "08",
   "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 456.752,
@@ -2904,12 +2031,12 @@
   "cue": 157,
   "section": "08",
   "sentence": "Two hundred kilometres east of Moscow, near Vladimir, there's a site called Sunghir.",
-  "variant": 2
+  "variant": 1
  },
  {
   "start": 458.978,
   "end": 460.759,
-  "still": "10",
+  "still": "55",
   "cue": 158,
   "section": "08",
   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
@@ -2918,7 +2045,7 @@
  {
   "start": 460.759,
   "end": 462.762,
-  "still": "10",
+  "still": "55",
   "cue": 158,
   "section": "08",
   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
@@ -2927,7 +2054,7 @@
  {
   "start": 462.762,
   "end": 464.765,
-  "still": "10",
+  "still": "55",
   "cue": 158,
   "section": "08",
   "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
@@ -2936,16 +2063,7 @@
  {
   "start": 464.765,
   "end": 466.769,
-  "still": "10",
-  "cue": 158,
-  "section": "08",
-  "sentence": "Around thirty-four thousand years ago, people buried their dead there, and they did not do it casually.",
-  "variant": 3
- },
- {
-  "start": 464.765,
-  "end": 466.769,
-  "still": "10",
+  "still": "55",
   "cue": 159,
   "section": "08",
   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
@@ -2954,7 +2072,7 @@
  {
   "start": 466.769,
   "end": 468.772,
-  "still": "10",
+  "still": "55",
   "cue": 159,
   "section": "08",
   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
@@ -2963,7 +2081,7 @@
  {
   "start": 468.772,
   "end": 470.913,
-  "still": "10",
+  "still": "55",
   "cue": 159,
   "section": "08",
   "sentence": "The best-known grave holds a man, thirty-five to forty-five years old, covered in red ochre.",
@@ -2972,52 +2090,25 @@
  {
   "start": 470.913,
   "end": 472.778,
-  "still": "10",
+  "still": "55",
   "cue": 160,
   "section": "08",
   "sentence": "And covered in beads.",
   "variant": 0
  },
  {
-  "start": 470.913,
-  "end": 472.778,
-  "still": "49",
+  "start": 472.778,
+  "end": 474.574,
+  "still": "54",
   "cue": 161,
   "section": "08",
   "sentence": "Three thousand of them.",
   "variant": 0
  },
  {
-  "start": 472.778,
-  "end": 474.574,
-  "still": "49",
-  "cue": 161,
-  "section": "08",
-  "sentence": "Three thousand of them.",
-  "variant": 1
- },
- {
-  "start": 472.778,
-  "end": 474.574,
-  "still": "49",
-  "cue": 162,
-  "section": "08",
-  "sentence": "Mammoth ivory.",
-  "variant": 0
- },
- {
   "start": 474.574,
   "end": 476.671,
-  "still": "49",
-  "cue": 163,
-  "section": "08",
-  "sentence": "Each one carved.",
-  "variant": 0
- },
- {
-  "start": 474.574,
-  "end": 476.671,
-  "still": "49",
+  "still": "54",
   "cue": 164,
   "section": "08",
   "sentence": "Each one pierced.",
@@ -3026,7 +2117,7 @@
  {
   "start": 476.671,
   "end": 478.788,
-  "still": "49",
+  "still": "54",
   "cue": 165,
   "section": "08",
   "sentence": "Each one small enough to make a modern jeweller swear.",
@@ -3035,43 +2126,25 @@
  {
   "start": 478.788,
   "end": 480.792,
-  "still": "49",
+  "still": "54",
   "cue": 165,
   "section": "08",
   "sentence": "Each one small enough to make a modern jeweller swear.",
   "variant": 1
- },
- {
-  "start": 478.788,
-  "end": 480.792,
-  "still": "49",
-  "cue": 166,
-  "section": "08",
-  "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
-  "variant": 0
  },
  {
   "start": 480.792,
   "end": 482.795,
-  "still": "49",
+  "still": "63",
   "cue": 166,
   "section": "08",
   "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 482.795,
   "end": 484.798,
-  "still": "49",
-  "cue": 166,
-  "section": "08",
-  "sentence": "With him: ivory armbands, and hundreds of pierced fox teeth.",
-  "variant": 2
- },
- {
-  "start": 482.795,
-  "end": 484.798,
-  "still": "49",
+  "still": "63",
   "cue": 167,
   "section": "08",
   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
@@ -3080,34 +2153,25 @@
  {
   "start": 484.798,
   "end": 486.802,
-  "still": "49",
+  "still": "57",
+  "cue": 167,
+  "section": "08",
+  "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
+  "variant": 0
+ },
+ {
+  "start": 486.802,
+  "end": 488.805,
+  "still": "63",
   "cue": 167,
   "section": "08",
   "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
   "variant": 1
  },
  {
-  "start": 486.802,
-  "end": 488.805,
-  "still": "49",
-  "cue": 167,
-  "section": "08",
-  "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
-  "variant": 2
- },
- {
   "start": 488.805,
   "end": 490.808,
-  "still": "49",
-  "cue": 167,
-  "section": "08",
-  "sentence": "And the beads were lying in rows, in the pattern of a garment, because they had been sewn onto it.",
-  "variant": 3
- },
- {
-  "start": 488.805,
-  "end": 490.808,
-  "still": "49",
+  "still": "54",
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
@@ -3116,7 +2180,7 @@
  {
   "start": 490.808,
   "end": 492.811,
-  "still": "49",
+  "still": "54",
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
@@ -3125,7 +2189,7 @@
  {
   "start": 492.811,
   "end": 494.815,
-  "still": "49",
+  "still": "54",
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
@@ -3134,43 +2198,25 @@
  {
   "start": 494.815,
   "end": 496.818,
-  "still": "49",
+  "still": "54",
   "cue": 168,
   "section": "08",
   "sentence": "Thirty-four thousand years ago, somebody drilled three thousand holes in ivory to decorate one outfit.",
   "variant": 3
  },
  {
-  "start": 494.815,
-  "end": 496.818,
-  "still": "10",
+  "start": 496.818,
+  "end": 498.821,
+  "still": "63",
   "cue": 169,
   "section": "08",
   "sentence": "That's the moment this stops being a story about weather.",
   "variant": 0
  },
  {
-  "start": 496.818,
-  "end": 498.821,
-  "still": "10",
-  "cue": 169,
-  "section": "08",
-  "sentence": "That's the moment this stops being a story about weather.",
-  "variant": 1
- },
- {
   "start": 498.821,
   "end": 500.816,
-  "still": "10",
-  "cue": 169,
-  "section": "08",
-  "sentence": "That's the moment this stops being a story about weather.",
-  "variant": 2
- },
- {
-  "start": 498.821,
-  "end": 500.816,
-  "still": "10",
+  "still": "63",
   "cue": 170,
   "section": "08",
   "sentence": "A hide keeps you warm.",
@@ -3179,7 +2225,7 @@
  {
   "start": 500.816,
   "end": 502.828,
-  "still": "10",
+  "still": "63",
   "cue": 171,
   "section": "08",
   "sentence": "A hide with three thousand hand-cut beads on it says something.",
@@ -3188,7 +2234,7 @@
  {
   "start": 502.828,
   "end": 504.688,
-  "still": "10",
+  "still": "63",
   "cue": 171,
   "section": "08",
   "sentence": "A hide with three thousand hand-cut beads on it says something.",
@@ -3197,16 +2243,7 @@
  {
   "start": 504.688,
   "end": 506.835,
-  "still": "10",
-  "cue": 172,
-  "section": "08",
-  "sentence": "Who this was.",
-  "variant": 0
- },
- {
-  "start": 504.688,
-  "end": 506.835,
-  "still": "10",
+  "still": "63",
   "cue": 173,
   "section": "08",
   "sentence": "What the community could afford to spend.",
@@ -3215,79 +2252,52 @@
  {
   "start": 506.835,
   "end": 508.838,
-  "still": "10",
+  "still": "63",
   "cue": 173,
   "section": "08",
   "sentence": "What the community could afford to spend.",
   "variant": 1
  },
  {
-  "start": 506.835,
-  "end": 508.838,
-  "still": "10",
+  "start": 508.838,
+  "end": 510.841,
+  "still": "63",
   "cue": 174,
   "section": "08",
   "sentence": "What they thought the dead were owed.",
-  "variant": 0
- },
- {
-  "start": 508.838,
-  "end": 510.841,
-  "still": "10",
-  "cue": 174,
-  "section": "08",
-  "sentence": "What they thought the dead were owed.",
-  "variant": 1
- },
- {
-  "start": 508.838,
-  "end": 510.841,
-  "still": "10",
-  "cue": 175,
-  "section": "08",
-  "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
   "variant": 0
  },
  {
   "start": 510.841,
   "end": 512.844,
-  "still": "10",
+  "still": "57",
+  "cue": 175,
+  "section": "08",
+  "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
+  "variant": 0
+ },
+ {
+  "start": 512.844,
+  "end": 514.848,
+  "still": "57",
   "cue": 175,
   "section": "08",
   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
   "variant": 1
  },
  {
-  "start": 512.844,
-  "end": 514.848,
-  "still": "10",
+  "start": 514.848,
+  "end": 516.851,
+  "still": "57",
   "cue": 175,
   "section": "08",
   "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
   "variant": 2
  },
  {
-  "start": 514.848,
-  "end": 516.851,
-  "still": "10",
-  "cue": 175,
-  "section": "08",
-  "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-  "variant": 3
- },
- {
   "start": 516.851,
   "end": 518.854,
-  "still": "10",
-  "cue": 175,
-  "section": "08",
-  "sentence": "And in the same cemetery, two children were buried head to head, with ivory spears and discs and thousands more beads.",
-  "variant": 4
- },
- {
-  "start": 516.851,
-  "end": 518.854,
-  "still": "10",
+  "still": "57",
   "cue": 176,
   "section": "08",
   "sentence": "Whatever those beads meant, they were not a reward for a long life.",
@@ -3296,7 +2306,7 @@
  {
   "start": 518.854,
   "end": 520.858,
-  "still": "10",
+  "still": "57",
   "cue": 176,
   "section": "08",
   "sentence": "Whatever those beads meant, they were not a reward for a long life.",
@@ -3305,16 +2315,7 @@
  {
   "start": 520.858,
   "end": 522.861,
-  "still": "10",
-  "cue": 176,
-  "section": "08",
-  "sentence": "Whatever those beads meant, they were not a reward for a long life.",
-  "variant": 2
- },
- {
-  "start": 520.858,
-  "end": 522.861,
-  "still": "10",
+  "still": "57",
   "cue": 177,
   "section": "08",
   "sentence": "Those children hadn't had one.",
@@ -3323,25 +2324,7 @@
  {
   "start": 522.861,
   "end": 524.864,
-  "still": "10",
-  "cue": 177,
-  "section": "09",
-  "sentence": "Those children hadn't had one.",
-  "variant": 1
- },
- {
-  "start": 522.861,
-  "end": 524.864,
-  "still": "10",
-  "cue": 178,
-  "section": "09",
-  "sentence": "So.",
-  "variant": 0
- },
- {
-  "start": 522.861,
-  "end": 524.864,
-  "still": "10",
+  "still": "57",
   "cue": 179,
   "section": "09",
   "sentence": "What did ancient humans wear before tailors?",
@@ -3350,37 +2333,19 @@
  {
   "start": 524.864,
   "end": 526.868,
-  "still": "10",
+  "still": "57",
   "cue": 179,
   "section": "09",
   "sentence": "What did ancient humans wear before tailors?",
   "variant": 1
  },
  {
-  "start": 524.864,
-  "end": 526.868,
-  "still": "41",
-  "cue": 180,
-  "section": "09",
-  "sentence": "They were already tailoring.",
-  "variant": 0
- },
- {
   "start": 526.868,
   "end": 528.871,
   "still": "41",
   "cue": 180,
   "section": "09",
   "sentence": "They were already tailoring.",
-  "variant": 1
- },
- {
-  "start": 526.868,
-  "end": 528.871,
-  "still": "41",
-  "cue": 181,
-  "section": "09",
-  "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
   "variant": 0
  },
  {
@@ -3390,7 +2355,7 @@
   "cue": 181,
   "section": "09",
   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
-  "variant": 1
+  "variant": 0
  },
  {
   "start": 530.874,
@@ -3399,16 +2364,7 @@
   "cue": 181,
   "section": "09",
   "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
-  "variant": 2
- },
- {
-  "start": 532.877,
-  "end": 534.881,
-  "still": "41",
-  "cue": 181,
-  "section": "09",
-  "sentence": "The tailor \u2014 the one who fits a garment to a body \u2014 is in the tools long before there's a shop.",
-  "variant": 3
+  "variant": 1
  },
  {
   "start": 532.877,
@@ -3444,24 +2400,6 @@
   "cue": 183,
   "section": "09",
   "sentence": "It's what clothes were for.",
-  "variant": 0
- },
- {
-  "start": 538.724,
-  "end": 540.831,
-  "still": "41",
-  "cue": 184,
-  "section": "09",
-  "sentence": "Warmth.",
-  "variant": 0
- },
- {
-  "start": 540.831,
-  "end": 542.894,
-  "still": "41",
-  "cue": 185,
-  "section": "09",
-  "sentence": "Then fit.",
   "variant": 0
  },
  {
@@ -3513,15 +2451,6 @@
   "start": 550.907,
   "end": 552.91,
   "still": "3",
-  "cue": 188,
-  "section": "09",
-  "sentence": "The softest, most personal object in a human life is the first thing the ground eats.",
-  "variant": 2
- },
- {
-  "start": 550.907,
-  "end": 552.91,
-  "still": "3",
   "cue": 189,
   "section": "09",
   "sentence": "What we have is a scraper.",
@@ -3531,28 +2460,10 @@
   "start": 552.91,
   "end": 554.914,
   "still": "3",
-  "cue": 189,
-  "section": "09",
-  "sentence": "What we have is a scraper.",
-  "variant": 1
- },
- {
-  "start": 552.91,
-  "end": 554.914,
-  "still": "3",
   "cue": 190,
   "section": "09",
   "sentence": "A needle with a hole the width of a hair.",
   "variant": 0
- },
- {
-  "start": 554.914,
-  "end": 556.917,
-  "still": "3",
-  "cue": 190,
-  "section": "09",
-  "sentence": "A needle with a hole the width of a hair.",
-  "variant": 1
  },
  {
   "start": 554.914,
@@ -3584,7 +2495,7 @@
  {
   "start": 561.019,
   "end": 562.927,
-  "still": "8",
+  "still": "60",
   "cue": 192,
   "section": "09",
   "sentence": "Next time you pull on a coat, notice what you're doing.",
@@ -3593,61 +2504,43 @@
  {
   "start": 562.927,
   "end": 564.93,
-  "still": "8",
+  "still": "60",
   "cue": 192,
   "section": "09",
   "sentence": "Next time you pull on a coat, notice what you're doing.",
   "variant": 1
- },
- {
-  "start": 562.927,
-  "end": 564.93,
-  "still": "8",
-  "cue": 193,
-  "section": "09",
-  "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
-  "variant": 0
  },
  {
   "start": 564.93,
   "end": 566.934,
-  "still": "8",
+  "still": "61",
+  "cue": 193,
+  "section": "09",
+  "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
+  "variant": 0
+ },
+ {
+  "start": 566.934,
+  "end": 568.937,
+  "still": "61",
   "cue": 193,
   "section": "09",
   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
   "variant": 1
  },
  {
-  "start": 566.934,
-  "end": 568.937,
-  "still": "8",
+  "start": 568.937,
+  "end": 570.527,
+  "still": "61",
   "cue": 193,
   "section": "09",
   "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
   "variant": 2
  },
  {
-  "start": 568.937,
-  "end": 570.527,
-  "still": "8",
-  "cue": 193,
-  "section": "09",
-  "sentence": "You're putting on the only technology that has to be rebuilt for every single body that wears it.",
-  "variant": 3
- },
- {
-  "start": 568.937,
-  "end": 570.527,
-  "still": "8",
-  "cue": 194,
-  "section": "09",
-  "sentence": "Right.",
-  "variant": 0
- },
- {
   "start": 570.527,
   "end": 572.648,
-  "still": "8",
+  "still": "60",
   "cue": 195,
   "section": "09",
   "sentence": "Subscribe if you want more of this.",
@@ -3656,7 +2549,7 @@
  {
   "start": 572.648,
   "end": 574.947,
-  "still": "8",
+  "still": "43",
   "cue": 196,
   "section": "09",
   "sentence": "And tell me \u2014 one hide, one bone needle, no thread.",
@@ -3665,16 +2558,7 @@
  {
   "start": 574.947,
   "end": 576.95,
-  "still": "8",
-  "cue": 196,
-  "section": "09",
-  "sentence": "And tell me \u2014 one hide, one bone needle, no thread.",
-  "variant": 1
- },
- {
-  "start": 574.947,
-  "end": 576.95,
-  "still": "4",
+  "still": "43",
   "cue": 197,
   "section": "09",
   "sentence": "What are you making?",

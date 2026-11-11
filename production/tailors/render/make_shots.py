@@ -27,6 +27,9 @@ LABELS = {
     # §4-§6 artefacts and sites
     '41': 'OBJECT', '42': 'OBJECT', '43': 'OBJECT', '44': 'OBJECT', '45': 'OBJECT',
     '49': 'OBJECT', '50': 'DETAIL', '51': 'DETAIL', '52': 'RECON', '53': 'RECON',
+    # §7-§9 — Sunghir beads, absence, and the closing
+    '54': 'OBJECT', '55': 'OBJECT', '57': 'OBJECT', '63': 'OBJECT',
+    '59': 'DETAIL', '60': 'LANDSCAPE', '61': 'LANDSCAPE',
 }
 
 # Ordered rules: first match wins, so put the specific before the general.
@@ -88,23 +91,25 @@ RULES = [
     # ---- §7
     (r'part nobody puts in', ['25']),
     (r'We know the tools|five thousand years|Egypt', ['3']),
-    (r'rectangle with a hole|museum figure|lab coat', ['10']),
-    (r'where the story lives', ['11']),
+    (r'rectangle with a hole|museum figure|lab coat', ['59']),
+    (r'where the story lives', ['59']),
     # ---- §8
     (r'Moscow, near Vladimir|Sunghir', ['18']),
-    (r'buried their dead|Thirty-four thousand years ago, people', ['10']),
-    (r'Three thousand of them|Mammoth ivory|jeweller swear', ['49']),
-    (r'ivory armbands|pierced fox teeth|rows, in the pattern', ['49']),
-    (r'drilled three thousand holes', ['49']),
-    (r'stops being a story about weather|what the community could afford', ['10']),
-    (r'two children were buried|reward for a long life', ['10']),
+    (r'buried their dead|Thirty-four thousand years ago, people', ['55']),
+    (r'Three thousand of them|Mammoth ivory|jeweller swear', ['54']),
+    (r'ivory armbands|pierced fox teeth|rows, in the pattern', ['63', '57']),
+    (r'drilled three thousand holes', ['54']),
+    (r'stops being a story about weather|what the community could afford', ['63']),
+    (r'two children were buried|reward for a long life', ['57']),
     # ---- §9
     (r'^So\. What did ancient humans wear', ['1']),
     (r'already tailoring|before there.s a shop', ['41']),
     (r'Warmth. Then fit|identity', ['10']),
     (r'ground eats|width of a hair|liked it', ['3']),
-    (r'pull on a coat|every single body', ['8']),
-    (r'^Right\. Subscribe|What are you making', ['4']),
+    (r'pull on a coat', ['60']),
+    (r'every single body', ['61']),
+    (r'^Right\. Subscribe|Subscribe if you want', ['60']),
+    (r'What are you making|one hide, one bone needle', ['43']),
 ]
 
 

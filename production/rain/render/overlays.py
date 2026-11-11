@@ -32,6 +32,21 @@ SEC_TITLE = {"01": "1 · The rain doesn't stop",
              "07": "8 · Not everyone lived the same way",
              "08": "9 · When the rain ends"}
 
+# Claims the narration makes from a specific published study. The voice never
+# names them, so the attribution has to be on screen or it isn't honest.
+# (slot index, text) - held for three slots like the place cards.
+# Close detail plates (grain, husks, bedding macro) are not site reconstructions
+# and not modern photographs of a place, so they get their own label. Anything
+# else would misdescribe what the viewer is looking at.
+DETAIL = {192, 211, 85, 131, 22, 91, 202, 126, 15, 6}
+
+SOURCES = [
+    (115, "Source · Nadel et al., PNAS 2004"),          # grass bedding + hearth, Ohalo II
+    (129, "Source · Piperno et al., Nature 2004"),      # starch on the grinding stone
+    (220, "Source · Wadley et al., Science 2020"),      # Border Cave grass bedding
+]
+SRC_HOLD = 3
+
 # Place cards change mid-section: §07 opens on Ohalo II and only becomes Border
 # Cave when the narration says so. Never let the two share a frame.
 SUB_BREAKS = {"03": [(124.607, "Ohalo II · Sea of Galilee · c. 23,000 years ago")],
@@ -43,6 +58,7 @@ DEJA = '/usr/share/fonts/truetype/dejavu/'
 F = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 18)
 FS = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 40)
 FM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 26)
+FSM = ImageFont.truetype(DEJA + 'DejaVuSans.ttf', 16)
 FB = ImageFont.truetype(DEJA + 'DejaVuSans-Bold.ttf', 26)
 
 
@@ -102,6 +118,13 @@ def quiz_layer():
     return ov
 
 
+def source_for(i):
+    for at, txt in SOURCES:
+        if at <= i < at + SRC_HOLD:
+            return txt
+    return None
+
+
 def still_layer(r, i):
     ov = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     dr = ImageDraw.Draw(ov)
@@ -144,11 +167,22 @@ def still_layer(r, i):
         dr.text((x, y), ln, font=FM, fill=(255, 255, 255, 246))
         y += lh
 
-    lab = ("Illustrative reconstruction — hypothetical scene" if r['shot'] in RECON
-           else "Modern landscape — atmosphere only")
+    if r['shot'] in RECON:
+        lab = "Illustrative reconstruction — hypothetical scene"
+    elif r['shot'] in DETAIL:
+        lab = "Close detail — illustrative, not a find"
+    else:
+        lab = "Modern landscape — atmosphere only"
     lw = dr.textbbox((0, 0), lab, font=F)[2]
     dr.rounded_rectangle([30, 30, 44 + lw, 64], radius=6, fill=(0, 0, 0, 100))
     dr.text((37, 37), lab, font=F, fill=(228, 228, 228, 240))
+
+    src = source_for(i)
+    if src:
+        sw = dr.textbbox((0, 0), src, font=FSM)[2]
+        x = W - 30 - sw - 14
+        dr.rounded_rectangle([x, 30, W - 30, 64], radius=6, fill=(0, 0, 0, 110))
+        dr.text((x + 7, 37), src, font=FSM, fill=(226, 226, 226, 240))
     return ov
 
 

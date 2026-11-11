@@ -1,10 +1,8 @@
 # Rain episode — sentence-aligned shot map (2 s target)
 
-Narration: **554.652 s** (9.24 min) · **283 placements** · **107 distinct shots** · mean placement 1.96 s
+Narration: **554.652 s** · **283 placements** · **104 distinct shots** · mean 1.96 s
 
-Method: sentence-aligned, single-topic precedence
-
-R = illustrative reconstruction (labelled on screen) · M = modern image / atmosphere plate (labelled on screen).
+R = illustrative reconstruction · M = modern/atmosphere plate · D = close detail (illustrative, not a find). All three are labelled on screen.
 
 | # | In | Out | Dur | Shot | R/M | File | Topic | Spoken line |
 |---:|---|---|---:|---:|:--:|---|---|---|
@@ -20,7 +18,7 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 10 | 0:00:17.320 | 0:00:19.320 | 2.00 | 104 | R | real-104-hide-over-frame.jpg | shelter | What happens when there is no modern house to retreat into? |
 | 11 | 0:00:19.320 | 0:00:20.580 | 1.26 | 110 | R | real-110-camp-from-lake.jpg | shelter | What happens when there is no modern house to retreat into? |
 | 12 | 0:00:20.580 | 0:00:23.350 | 2.77 | 185 | M | real-185-hilltop-view-lake-wide.jpg | lake | Where do you sleep? How do you stay warm? |
-| 13 | 0:00:23.350 | 0:00:25.350 | 2.00 | 085 | M | ? | food | And what happens to dinner when the weather refuses to cooperate? |
+| 13 | 0:00:23.350 | 0:00:25.350 | 2.00 | 085 | D | ? | food | And what happens to dinner when the weather refuses to cooperate? |
 | 14 | 0:00:25.350 | 0:00:27.150 | 1.80 | 109 | M | real-109-olive-fig-branch.jpg | food | And what happens to dinner when the weather refuses to cooperate? |
 | 15 | 0:00:27.150 | 0:00:29.150 | 2.00 | 219 | R | real-219-figures-fog-silhouette.jpg | people | It is tempting to picture ancient people huddling helplessly until the sun came out. |
 | 16 | 0:00:29.150 | 0:00:31.820 | 2.67 | 221 | R | real-221-figure-walking-away-fog.jpg | people | It is tempting to picture ancient people huddling helplessly until the sun came out. |
@@ -45,10 +43,10 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 35 | 0:01:05.850 | 0:01:07.850 | 2.00 | 183 | M | real-183-branch-shadow-wet-ground.jpg | ground | Water against the skin and wet clothing can make it harder to stay warm. |
 | 36 | 0:01:07.850 | 0:01:09.950 | 2.10 | 222 | M | real-222-shoreline-trampled-ground.jpg | ground | Water against the skin and wet clothing can make it harder to stay warm. |
 | 37 | 0:01:09.950 | 0:01:12.380 | 2.43 | 128 | M | real-128-storm-clouds-above.jpg | rain | Wind can make the situation worse. |
-| 38 | 0:01:12.380 | 0:01:14.380 | 2.00 | 091 | M | ? | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
-| 39 | 0:01:14.380 | 0:01:16.380 | 2.00 | 126 | M | real-126-ash-and-stems-close.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
-| 40 | 0:01:16.380 | 0:01:18.380 | 2.00 | 131 | M | real-131-flattened-grass-patch.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
-| 41 | 0:01:18.380 | 0:01:19.350 | 0.97 | 211 | M | real-211-seeds-husks-ground.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
+| 38 | 0:01:12.380 | 0:01:14.380 | 2.00 | 091 | D | ? | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
+| 39 | 0:01:14.380 | 0:01:16.380 | 2.00 | 126 | D | real-126-ash-and-stems-close.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
+| 40 | 0:01:16.380 | 0:01:18.380 | 2.00 | 131 | D | real-131-flattened-grass-patch.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
+| 41 | 0:01:18.380 | 0:01:19.350 | 0.97 | 211 | D | real-211-seeds-husks-ground.jpg | food | Even cool weather, not just freezing weather, can become hazardous if a person is wet and unable to warm up. |
 | 42 | 0:01:19.350 | 0:01:21.470 | 2.12 | 139 | M | real-139-lake-before-rain.jpg | lake | And the problem does not end with the body. |
 | 43 | 0:01:21.470 | 0:01:23.500 | 2.03 | 224 | M | real-224-hail-on-ground.jpg | ground | A sleeping place can become damp. |
 | 44 | 0:01:23.500 | 0:01:25.430 | 1.93 | 244 | R | real-244-fire-distant-dusk-shelter.jpg | fire | Fuel can be harder to ignite. |
@@ -58,7 +56,7 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 48 | 0:01:31.300 | 0:01:33.970 | 2.67 | 227 | M | real-227-bones-scattered-shore.jpg | ground | A low spot that seemed convenient yesterday may begin collecting water today. |
 | 49 | 0:01:33.970 | 0:01:35.970 | 2.00 | 093 | M | ? | rain | None of that means that every rainy day was an emergency. |
 | 50 | 0:01:35.970 | 0:01:38.550 | 2.58 | 081 | M | ? | rain | None of that means that every rainy day was an emergency. |
-| 51 | 0:01:38.550 | 0:01:40.550 | 2.00 | 192 | M | real-192-grains-in-hollow-stone.jpg | food | Weather varies. So do local resources and the ways people respond. |
+| 51 | 0:01:38.550 | 0:01:40.550 | 2.00 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | Weather varies. So do local resources and the ways people respond. |
 | 52 | 0:01:40.550 | 0:01:41.950 | 1.40 | 151 | M | real-151-fish-drying-rack-absent.jpg | food | Weather varies. So do local resources and the ways people respond. |
 | 53 | 0:01:41.950 | 0:01:43.950 | 2.00 | 110 | R | real-110-camp-from-lake.jpg | shelter | But it does help explain why shelter is more than a roof. |
 | 54 | 0:01:43.950 | 0:01:45.700 | 1.75 | 111 | R | real-111-hide-shelter-rain.jpg | shelter | But it does help explain why shelter is more than a roof. |
@@ -123,7 +121,7 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 113 | 0:03:36.120 | 0:03:38.120 | 2.00 | 108 | M | real-108-lakewide-two-shore.jpg | lake | Plant material that often disappears from archaeological sites survived there in remarkable quantities. |
 | 114 | 0:03:38.120 | 0:03:39.650 | 1.53 | 147 | M | real-147-lakewide-turquoise.jpg | lake | Plant material that often disappears from archaeological sites survived there in remarkable quantities. |
 | 115 | 0:03:39.650 | 0:03:42.070 | 2.42 | 110 | R | real-110-camp-from-lake.jpg | shelter | One hut contained several successive floors. |
-| 116 | 0:03:42.070 | 0:03:44.800 | 2.73 | 240 | R | real-240-embers-bare-earth.jpg | fire | On an earlier floor, researchers identified grass bedding and a hearth. |
+| 116 | 0:03:42.070 | 0:03:44.800 | 2.73 | 131 | D | real-131-flattened-grass-patch.jpg | fire | On an earlier floor, researchers identified grass bedding and a hearth. |
 | 117 | 0:03:44.800 | 0:03:46.800 | 2.00 | 112 | R | real-112-inside-hide-shelter.jpg | shelter | On a later floor in the same hut, they found a grinding stone and concentrations of plant remains. |
 | 118 | 0:03:46.800 | 0:03:48.800 | 2.00 | 114 | R | real-114-dripline-ground.jpg | shelter | On a later floor in the same hut, they found a grinding stone and concentrations of plant remains. |
 | 119 | 0:03:48.800 | 0:03:51.550 | 2.75 | 115 | R | real-115-hide-repair.jpg | shelter | On a later floor in the same hut, they found a grinding stone and concentrations of plant remains. |
@@ -137,9 +135,9 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 127 | 0:04:04.900 | 0:04:06.900 | 2.00 | 185 | M | real-185-hilltop-view-lake-wide.jpg | lake | And here is the detail that makes the scene feel closer. |
 | 128 | 0:04:06.900 | 0:04:08.900 | 2.00 | 215 | M | real-215-lake-wide-flat-day.jpg | lake | And here is the detail that makes the scene feel closer. |
 | 129 | 0:04:08.900 | 0:04:09.800 | 0.90 | 209 | M | real-209-lake-shore-ordinary-day.jpg | lake | And here is the detail that makes the scene feel closer. |
-| 130 | 0:04:09.800 | 0:04:11.800 | 2.00 | 065 | M | ? | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
-| 131 | 0:04:11.800 | 0:04:13.800 | 2.00 | 127 | M | real-127-lake-underwater-fish.jpg | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
-| 132 | 0:04:13.800 | 0:04:16.180 | 2.38 | 184 | M | real-184-fish-under-ice-clear.jpg | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
+| 130 | 0:04:09.800 | 0:04:11.800 | 2.00 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
+| 131 | 0:04:11.800 | 0:04:13.800 | 2.00 | 211 | D | real-211-seeds-husks-ground.jpg | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
+| 132 | 0:04:13.800 | 0:04:16.180 | 2.38 | 085 | D | ? | food | Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains. |
 | 133 | 0:04:16.180 | 0:04:18.180 | 2.00 | 090 | M | ? | food | This was a place where knowledge and effort turned resources into food. |
 | 134 | 0:04:18.180 | 0:04:21.020 | 2.84 | 132 | M | real-132-stone-tools-on-ground.jpg | food | This was a place where knowledge and effort turned resources into food. |
 | 135 | 0:04:21.020 | 0:04:23.020 | 2.00 | 102 | M | real-102-puddle-reflection.jpg | rain | A storm might interrupt that work. It would not erase the skills behind it. |
@@ -153,7 +151,7 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 143 | 0:04:34.840 | 0:04:36.750 | 1.91 | 190 | R | real-190-ash-under-shelter-floor.jpg | fire | On our imagined rainy day, fire would be valuable. |
 | 144 | 0:04:36.750 | 0:04:38.750 | 2.00 | 216 | M | real-216-hides-stacked-dry.jpg | food | It can provide warmth and light, and it can help prepare food. |
 | 145 | 0:04:38.750 | 0:04:40.750 | 2.00 | 186 | M | real-186-damp-hide-folded.jpg | food | It can provide warmth and light, and it can help prepare food. |
-| 146 | 0:04:40.750 | 0:04:41.830 | 1.08 | 085 | M | ? | food | It can provide warmth and light, and it can help prepare food. |
+| 146 | 0:04:40.750 | 0:04:41.830 | 1.08 | 085 | D | ? | food | It can provide warmth and light, and it can help prepare food. |
 | 147 | 0:04:41.830 | 0:04:43.830 | 2.00 | 088 | M | ? | fire | But the same shelter that reduces exposure to rain can complicate the use of a flame. |
 | 148 | 0:04:43.830 | 0:04:45.830 | 2.00 | 068 | M | ? | fire | But the same shelter that reduces exposure to rain can complicate the use of a flame. |
 | 149 | 0:04:45.830 | 0:04:47.230 | 1.40 | 050 | M | ? | fire | But the same shelter that reduces exposure to rain can complicate the use of a flame. |
@@ -191,28 +189,28 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 181 | 0:05:48.650 | 0:05:50.650 | 2.00 | 109 | M | real-109-olive-fig-branch.jpg | food | Rain changes the conditions under which a group finds and prepares food. |
 | 182 | 0:05:50.650 | 0:05:52.580 | 1.93 | 120 | M | real-120-almonds-branch.jpg | food | Rain changes the conditions under which a group finds and prepares food. |
 | 183 | 0:05:52.580 | 0:05:54.580 | 2.00 | 121 | M | real-121-pistachio-branch.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
-| 184 | 0:05:54.580 | 0:05:56.580 | 2.00 | 091 | M | ? | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
-| 185 | 0:05:56.580 | 0:05:58.580 | 2.00 | 126 | M | real-126-ash-and-stems-close.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
-| 186 | 0:05:58.580 | 0:06:00.580 | 2.00 | 131 | M | real-131-flattened-grass-patch.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
-| 187 | 0:06:00.580 | 0:06:02.400 | 1.82 | 211 | M | real-211-seeds-husks-ground.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
-| 188 | 0:06:02.400 | 0:06:04.400 | 2.00 | 192 | M | real-192-grains-in-hollow-stone.jpg | food | Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand. |
+| 184 | 0:05:54.580 | 0:05:56.580 | 2.00 | 091 | D | ? | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
+| 185 | 0:05:56.580 | 0:05:58.580 | 2.00 | 126 | D | real-126-ash-and-stems-close.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
+| 186 | 0:05:58.580 | 0:06:00.580 | 2.00 | 131 | D | real-131-flattened-grass-patch.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
+| 187 | 0:06:00.580 | 0:06:02.400 | 1.82 | 211 | D | real-211-seeds-husks-ground.jpg | food | But imagine the possibilities rather than a guaranteed routine: a short trip when the rain eases, work under cover, or a meal made from resources a… |
+| 188 | 0:06:02.400 | 0:06:04.400 | 2.00 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand. |
 | 189 | 0:06:04.400 | 0:06:06.400 | 2.00 | 151 | M | real-151-fish-drying-rack-absent.jpg | food | Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand. |
 | 190 | 0:06:06.400 | 0:06:08.400 | 2.00 | 191 | M | real-191-fish-drying-warm-stone.jpg | food | Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand. |
 | 191 | 0:06:08.400 | 0:06:10.180 | 1.78 | 210 | M | real-210-drying-fish-flies-sky.jpg | food | Which choices were possible would depend on the weather, the season, the landscape, and what people had on hand. |
 | 192 | 0:06:10.180 | 0:06:12.180 | 2.00 | 115 | R | real-115-hide-repair.jpg | shelter | At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources. |
 | 193 | 0:06:12.180 | 0:06:14.180 | 2.00 | 156 | R | real-156-rain-on-hide-surface.jpg | shelter | At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources. |
 | 194 | 0:06:14.180 | 0:06:16.700 | 2.52 | 168 | R | real-168-hide-draped-branch-detail.jpg | shelter | At Ohalo Two, the variety of plant and animal remains tells us that the camp's inhabitants used multiple kinds of resources. |
-| 195 | 0:06:16.700 | 0:06:18.700 | 2.00 | 065 | M | ? | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
-| 196 | 0:06:18.700 | 0:06:20.700 | 2.00 | 127 | M | real-127-lake-underwater-fish.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
-| 197 | 0:06:20.700 | 0:06:22.700 | 2.00 | 184 | M | real-184-fish-under-ice-clear.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
-| 198 | 0:06:22.700 | 0:06:25.270 | 2.57 | 152 | M | real-152-shells-and-bones.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
+| 195 | 0:06:16.700 | 0:06:18.700 | 2.00 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
+| 196 | 0:06:18.700 | 0:06:20.700 | 2.00 | 211 | D | real-211-seeds-husks-ground.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
+| 197 | 0:06:20.700 | 0:06:22.700 | 2.00 | 085 | D | ? | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
+| 198 | 0:06:22.700 | 0:06:25.270 | 2.57 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological re… |
 | 199 | 0:06:25.270 | 0:06:27.270 | 2.00 | 132 | M | real-132-stone-tools-on-ground.jpg | food | This does not prove that the people stored a particular emergency supply for a long storm. |
 | 200 | 0:06:27.270 | 0:06:29.270 | 2.00 | 133 | M | real-133-flint-in-hand-scale.jpg | food | This does not prove that the people stored a particular emergency supply for a long storm. |
 | 201 | 0:06:29.270 | 0:06:31.270 | 2.00 | 134 | M | real-134-worked-stone-earth.jpg | food | This does not prove that the people stored a particular emergency supply for a long storm. |
 | 202 | 0:06:31.270 | 0:06:32.830 | 1.56 | 207 | M | real-207-hide-drying-flat-ground.jpg | food | This does not prove that the people stored a particular emergency supply for a long storm. |
 | 203 | 0:06:32.830 | 0:06:34.830 | 2.00 | 216 | M | real-216-hides-stacked-dry.jpg | food | It does challenge a simpler picture: that survival depended on a single hunt, every single day. |
 | 204 | 0:06:34.830 | 0:06:36.980 | 2.15 | 186 | M | real-186-damp-hide-folded.jpg | food | It does challenge a simpler picture: that survival depended on a single hunt, every single day. |
-| 205 | 0:06:36.980 | 0:06:38.980 | 2.00 | 085 | M | ? | food | Finding food is not only the moment when an animal is caught or a plant is gathered. |
+| 205 | 0:06:36.980 | 0:06:38.980 | 2.00 | 085 | D | ? | food | Finding food is not only the moment when an animal is caught or a plant is gathered. |
 | 206 | 0:06:38.980 | 0:06:40.980 | 2.00 | 109 | M | real-109-olive-fig-branch.jpg | food | Finding food is not only the moment when an animal is caught or a plant is gathered. |
 | 207 | 0:06:40.980 | 0:06:42.250 | 1.27 | 120 | M | real-120-almonds-branch.jpg | food | Finding food is not only the moment when an animal is caught or a plant is gathered. |
 | 208 | 0:06:42.250 | 0:06:44.250 | 2.00 | 149 | M | real-149-morning-after-rain.jpg | lake | It includes recognizing resources, carrying them, processing them, and sharing space while the work gets done. |
@@ -255,14 +253,14 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 | 245 | 0:07:55.930 | 0:07:58.200 | 2.27 | 115 | R | real-115-hide-repair.jpg | shelter | And the presence of a shelter does not prove that everyone was safe or comfortable. |
 | 246 | 0:07:58.200 | 0:08:01.080 | 2.88 | 156 | R | real-156-rain-on-hide-surface.jpg | shelter | A storm could still damage a camp, interrupt work, or leave people cold. |
 | 247 | 0:08:01.080 | 0:08:03.080 | 2.00 | 121 | M | real-121-pistachio-branch.jpg | food | Ingenuity reduces some risks; it does not make weather disappear. |
-| 248 | 0:08:03.080 | 0:08:05.080 | 2.00 | 091 | M | ? | food | Ingenuity reduces some risks; it does not make weather disappear. |
-| 249 | 0:08:05.080 | 0:08:06.150 | 1.07 | 126 | M | real-126-ash-and-stems-close.jpg | food | Ingenuity reduces some risks; it does not make weather disappear. |
+| 248 | 0:08:03.080 | 0:08:05.080 | 2.00 | 091 | D | ? | food | Ingenuity reduces some risks; it does not make weather disappear. |
+| 249 | 0:08:05.080 | 0:08:06.150 | 1.07 | 126 | D | real-126-ash-and-stems-close.jpg | food | Ingenuity reduces some risks; it does not make weather disappear. |
 | 250 | 0:08:06.150 | 0:08:08.550 | 2.40 | 238 | M | real-238-reed-bed-after-storm-flattened.jpg | rain | Imagine the rain finally easing. |
 | 251 | 0:08:08.550 | 0:08:10.350 | 1.80 | 175 | M | real-175-wet-sand-ripples.jpg | ground | The ground is still wet. |
-| 252 | 0:08:10.350 | 0:08:12.520 | 2.17 | 086 | R | ? | shelter | Bedding may need to dry or be replaced. |
-| 253 | 0:08:12.520 | 0:08:14.520 | 2.00 | 131 | M | real-131-flattened-grass-patch.jpg | food | Work interrupted by the weather still waits to be done. |
-| 254 | 0:08:14.520 | 0:08:16.520 | 2.00 | 211 | M | real-211-seeds-husks-ground.jpg | food | Work interrupted by the weather still waits to be done. |
-| 255 | 0:08:16.520 | 0:08:18.350 | 1.83 | 192 | M | real-192-grains-in-hollow-stone.jpg | food | Work interrupted by the weather still waits to be done. |
+| 252 | 0:08:10.350 | 0:08:12.520 | 2.17 | 022 | D | ? | shelter | Bedding may need to dry or be replaced. |
+| 253 | 0:08:12.520 | 0:08:14.520 | 2.00 | 131 | D | real-131-flattened-grass-patch.jpg | food | Work interrupted by the weather still waits to be done. |
+| 254 | 0:08:14.520 | 0:08:16.520 | 2.00 | 211 | D | real-211-seeds-husks-ground.jpg | food | Work interrupted by the weather still waits to be done. |
+| 255 | 0:08:16.520 | 0:08:18.350 | 1.83 | 192 | D | real-192-grains-in-hollow-stone.jpg | food | Work interrupted by the weather still waits to be done. |
 | 256 | 0:08:18.350 | 0:08:20.180 | 1.83 | 147 | M | real-147-lakewide-turquoise.jpg | lake | That is a possible scene, not an event recovered from Ohalo Two. |
 | 257 | 0:08:20.180 | 0:08:22.180 | 2.00 | 185 | M | real-185-hilltop-view-lake-wide.jpg | lake | The archaeological record cannot tell us that morning's conversations or decisions. |
 | 258 | 0:08:22.180 | 0:08:24.180 | 2.00 | 215 | M | real-215-lake-wide-flat-day.jpg | lake | The archaeological record cannot tell us that morning's conversations or decisions. |
@@ -294,17 +292,23 @@ R = illustrative reconstruction (labelled on screen) · M = modern image / atmos
 
 ## Section boundaries
 
-| § | Title | In | Out | Slots |
-|---|---|---|---|---|
-| 01 | The rain doesn't stop | 0:00:00.000 | 0:01:01.030 | 31 |
-| 02 | The first problem isn't just getting wet | 0:01:01.030 | 0:02:04.610 | 33 |
-| 03 | A camp beside a lake | 0:02:04.610 | 0:03:12.770 | 36 |
-| 04 | What a floor can tell us | 0:03:12.770 | 0:04:32.840 | 41 |
-| 05 | 6 · The trouble with fire | 0:04:32.840 | 0:05:48.650 | 39 |
-| 06 | 7 · What about food? | 0:05:48.650 | 0:06:52.080 | 32 |
-| 07 | 8 · Not everyone lived the same way | 0:06:52.080 | 0:08:06.150 | 37 |
-| 08 | 9 · When the rain ends | 0:08:06.150 | 0:09:14.650 | 34 |
+| § | On-screen | Title | In | Out | Slots |
+|---|---|---|---|---|---|
+| 01 | 1 | The rain doesn't stop | 0:00:00.000 | 0:01:01.030 | 31 |
+| 02 | 2 | The first problem isn't just getting wet | 0:01:01.030 | 0:02:04.610 | 33 |
+| 03 | 3 | A camp beside a lake | 0:02:04.610 | 0:03:12.770 | 36 |
+| 04 | 4 | What a floor can tell us | 0:03:12.770 | 0:04:32.840 | 41 |
+| 05 | 6 | The trouble with fire | 0:04:32.840 | 0:05:48.650 | 39 |
+| 06 | 7 | What about food? | 0:05:48.650 | 0:06:52.080 | 32 |
+| 07 | 8 | Not everyone lived the same way | 0:06:52.080 | 0:08:06.150 | 37 |
+| 08 | 9 | When the rain ends | 0:08:06.150 | 0:09:14.650 | 34 |
 
-## Topic pools
+## Source attributions
 
-shelter 88 · food 52 · fire 51 · lake 34 · people 18 · rain 17 · cave 13 · ground 10
+The narration never names its sources aloud, so each specific claim carries an on-screen card.
+
+| Time | Card | Claim it supports |
+|---|---|---|
+| 3:39 | Nadel et al., PNAS 2004 | grass bedding and a hearth on an earlier Ohalo II floor |
+| 4:15 | Piperno et al., Nature 2004 | starch on the grinding stone / wild cereal processing |
+| 7:07 | Wadley et al., Science 2020 | Border Cave grass bedding ~200,000 ya |

@@ -1079,7 +1079,7 @@
    "sentence": "On an earlier floor, researchers identified grass bedding and a hearth.",
    "start": 222.07,
    "end": 224.8,
-   "shot": 240,
+   "shot": 131,
    "topic": "fire"
   },
   {
@@ -1205,7 +1205,7 @@
    "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
    "start": 249.8,
    "end": 251.8,
-   "shot": 65,
+   "shot": 192,
    "topic": "food"
   },
   {
@@ -1214,7 +1214,7 @@
    "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
    "start": 251.8,
    "end": 253.8,
-   "shot": 127,
+   "shot": 211,
    "topic": "food"
   },
   {
@@ -1223,7 +1223,7 @@
    "sentence": "Microscopic starch traces on a grinding stone, together with other plant evidence, point to the processing of wild cereal grains.",
    "start": 253.8,
    "end": 256.18,
-   "shot": 184,
+   "shot": 85,
    "topic": "food"
   },
   {
@@ -1790,7 +1790,7 @@
    "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
    "start": 376.7,
    "end": 378.7,
-   "shot": 65,
+   "shot": 192,
    "topic": "food"
   },
   {
@@ -1799,7 +1799,7 @@
    "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
    "start": 378.7,
    "end": 380.7,
-   "shot": 127,
+   "shot": 211,
    "topic": "food"
   },
   {
@@ -1808,7 +1808,7 @@
    "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
    "start": 380.7,
    "end": 382.7,
-   "shot": 184,
+   "shot": 85,
    "topic": "food"
   },
   {
@@ -1817,7 +1817,7 @@
    "sentence": "The grinding stone and wild cereals are especially revealing because plant foods are often less visible than stone or bone in the archaeological record.",
    "start": 382.7,
    "end": 385.27,
-   "shot": 152,
+   "shot": 192,
    "topic": "food"
   },
   {
@@ -2303,7 +2303,7 @@
    "sentence": "Bedding may need to dry or be replaced.",
    "start": 490.35,
    "end": 492.52,
-   "shot": 86,
+   "shot": 22,
    "topic": "shelter"
   },
   {

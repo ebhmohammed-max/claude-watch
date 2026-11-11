@@ -6,9 +6,11 @@ Rebuild the whole episode from the shot map:
 python -m pip install --target /tmp/rain-deps pillow imageio-ffmpeg
 export PYTHONPATH=/tmp/rain-deps
 
+python production/rain/render/claim_fixes.py # re-route sentences that name an object
 python production/rain/render/build_cues.py   # 112 cues + quiz window from the map
 python production/rain/render/overlays.py     # 283 RGBA type layers -> render/overlays/
 python production/rain/render/motion.py       # 283 clips -> render/clips/
+python production/rain/render/transitions.py  # dissolves + concat -> /tmp/video_master.mp4
 ```
 
 Then concat and mux:
@@ -46,3 +48,25 @@ Then mux that WAV instead of the raw MP3 in the command above.
   and sounded like static on top of the voice.
 - Build the bed from an 8 s grain tiled with crossfades. A single FFT over the
   whole 9 minutes allocates ~1 GB and gets OOM-killed on this 3 GB box.
+
+## Transitions
+
+`transitions.py` dissolves at the seven section changes and writes
+`/tmp/video_master.mp4`:
+
+```bash
+python production/rain/render/transitions.py
+```
+
+Two traps it exists to avoid:
+
+- **Blend the stills, not the encoded clips.** Cross-fading rendered clips also
+  cross-fades their burned-in captions, so two sentences overlap for half a
+  second and read as garbage. The blend composites one caption per half.
+- **Do not change the total running time.** The incoming clip gives up its first
+  12 frames, which the dissolve stands in for; every later caption would drift
+  otherwise. Verified at 13 866 frames = 554.64 s.
+
+Also: re-render trimmed clips rather than seeking into them (`-ss` lands on the
+nearest frame and cost one frame per boundary), and `xfade` in this ffmpeg build
+silently truncated a 283-input graph at 80 s, so it is not used.

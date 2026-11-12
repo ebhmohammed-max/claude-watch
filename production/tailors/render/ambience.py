@@ -26,7 +26,30 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 NAR = os.path.join(ROOT, 'production/tailors/narration')
 SR = 44100
-FF = '/tmp/rd/imageio_ffmpeg/binaries/ffmpeg-linux-x86_64-v9.0.2'
+def _resolve_ffmpeg():
+    """Find ffmpeg without hard-coding a sandbox path.
+
+    These scripts used to point at /tmp/rd, which vanished when the sandbox was
+    reset and took the whole rebuild with it. Order: explicit override, then
+    PATH, then the imageio-ffmpeg wheel, then the old hard-coded location.
+    """
+    import shutil as _sh, glob as _gl
+    if os.environ.get('FFMPEG'):
+        return os.environ['FFMPEG']
+    p = _sh.which('ffmpeg')
+    if p:
+        return p
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        pass
+    for c in _gl.glob('/tmp/*/lib/python*/site-packages/imageio_ffmpeg/binaries/ffmpeg-*'):
+        return c
+    return 'ffmpeg'
+
+
+FF = _resolve_ffmpeg()
 
 MAP = json.load(open(os.path.join(HERE, 'map.json')))
 DUR = MAP['narration_seconds']

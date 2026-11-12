@@ -17,3 +17,8 @@ render/frame-*.png
 # Bulk source stills, if they are ever pulled down as a zip.
 kit/*.zip
 render/stills/
+
+# The disclosure-marked picture: 63 MB, regenerable from picture.mp4 by
+# render/labels.py. Only labels.json and the plates belong in git.
+render/picture-labelled.mp4
+render/labels/plate_*.png  # leftover from an abandoned top-left card approach

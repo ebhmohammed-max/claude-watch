@@ -1,0 +1,67 @@
+{
+ "source": "picture.mp4",
+ "method": "Continuous bottom-left corner mark, one run per measured section, so disclosure covers every frame by construction instead of by detection.",
+ "spans": [
+  {
+   "start": 0.0,
+   "end": 66.0,
+   "text": "PRESENT DAY \u00b7 ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 66.0,
+   "end": 98.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 98.0,
+   "end": 137.0,
+   "text": "ILLUSTRATIVE \u00b7 NOT THE ACTUAL SITE"
+  },
+  {
+   "start": 137.0,
+   "end": 190.0,
+   "text": "ILLUSTRATIVE \u00b7 NOT THE ACTUAL SITE"
+  },
+  {
+   "start": 190.0,
+   "end": 251.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 251.0,
+   "end": 400.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 400.0,
+   "end": 436.6,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 436.6,
+   "end": 490.0,
+   "text": "ILLUSTRATIVE GRAPHIC"
+  },
+  {
+   "start": 490.0,
+   "end": 491.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 491.0,
+   "end": 597.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 597.0,
+   "end": 659.0,
+   "text": "ILLUSTRATIVE RECONSTRUCTION"
+  },
+  {
+   "start": 659.0,
+   "end": 682.36,
+   "text": "PRESENT DAY \u00b7 ILLUSTRATIVE RECONSTRUCTION"
+  }
+ ],
+ "covered_seconds": 682.36
+}

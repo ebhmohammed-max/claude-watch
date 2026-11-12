@@ -41,6 +41,8 @@ def _resolve_ffmpeg():
 
 FF = _resolve_ffmpeg()
 FPS = 25
+# how often to sample the delivered picture for a disclosure mark
+SAMPLE_STEP = 2
 
 # A single image may not sit on screen longer than this before the "2 s cut"
 # claim stops being true. The rain episode (accepted) never exceeded 2.9 s.
@@ -63,6 +65,99 @@ SCENE_CLASSES = {'LANDSCAPE': 'modern landscape',
                  'MUSEUM': 'museum gallery'}
 
 RESULTS = []
+
+# Disclosure is proved by differencing, not by recognising a shape: decode the
+# same instant from the source picture and from the delivered file and look at
+# the bottom-left corner. If it is unchanged, nothing was drawn there. This has
+# no heuristic to tune and cannot be fooled by dark or washed-out footage, which
+# is exactly what three earlier attempts at a "does this look labelled" test
+# got wrong.
+DISC_CROP = 'crop=360:44:0:674'
+DISC_MIN_DELTA = 2.0
+SAMPLE_STEP = 2          # seconds of film between disclosure samples
+
+
+def _disc_grab(path, t, tmp):
+    subprocess.run([FF, '-hide_banner', '-loglevel', 'error', '-y', '-ss', str(t),
+                    '-i', path, '-frames:v', '1', '-vf', DISC_CROP, tmp],
+                   check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def _disc_delta(a, b):
+    import numpy as np
+    from PIL import Image
+    x = np.asarray(Image.open(a).convert('L'), dtype=np.float32)
+    y = np.asarray(Image.open(b).convert('L'), dtype=np.float32)
+    return float(np.abs(x - y).mean())
+
+
+def missing_disclosure(mp4, total, source, step=None):
+    """Times where the delivered corner matches the unlabelled source."""
+    import tempfile
+    step = step or SAMPLE_STEP
+    bad = []
+    t1 = tempfile.NamedTemporaryFile(suffix='.png', delete=False).name
+    t2 = tempfile.NamedTemporaryFile(suffix='.png', delete=False).name
+    for t in range(3, int(total) - 3, step):
+        _disc_grab(mp4, t, t1)
+        _disc_grab(source, t, t2)
+        if _disc_delta(t1, t2) < DISC_MIN_DELTA:
+            bad.append(t)
+    os.unlink(t1); os.unlink(t2)
+    return sorted(bad)
+
+
+def _resolve_ffmpeg():
+    """No hard-coded sandbox path -- that is what broke the rebuild once."""
+    import shutil, glob
+    if os.environ.get('FFMPEG'):
+        return os.environ['FFMPEG']
+    p = shutil.which('ffmpeg')
+    if p:
+        return p
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        pass
+    for c in glob.glob('/tmp/*/lib/python*/site-packages/imageio_ffmpeg/binaries/ffmpeg-*'):
+        return c
+    return 'ffmpeg'
+
+
+FF = _resolve_ffmpeg()
+FPS = 25
+# how often to sample the delivered picture for a disclosure mark
+SAMPLE_STEP = 2
+
+# A single image may not sit on screen longer than this before the "2 s cut"
+# claim stops being true. The rain episode (accepted) never exceeded 2.9 s.
+MAX_HOLD_WARN = 6.0
+MAX_HOLD_FAIL = 12.0
+# Images per minute. Rain ran 11.3; anything under ~8 is a slideshow.
+MIN_IMGS_PER_MIN = 8.0
+
+CLAIM_WORDS = re.compile(
+    r'\b(Contrebandiers|Morocco|Denisova|Siberia|Dzudzuana|Georgia|Pavlov|'
+    r'Sunghir|Vladimir|Toulouse|Egypt|needle|scraper|bead|fibre|fiber|flax|'
+    r'awl|hide|pelt|ivory|ochre|Toups|Hallett|Gilligan|Kvavadze|Bar-Yosef|'
+    r'Trinkaus|Buzhilova)\b', re.I)
+
+# LANDSCAPE means "modern landscape, atmosphere only". It must never sit under a
+# specific claim, and it was also found on a modern hallway, a modern street and
+# a scene containing people -- none of which are landscapes.
+SCENE_CLASSES = {'LANDSCAPE': 'modern landscape',
+                 'MODERN': 'present-day scene',
+                 'MUSEUM': 'museum gallery'}
+
+RESULTS = []
+
+# Where the disclosure corner mark lives, and its signature: a nearly
+# gradient-free band with bright glyphs on top of a darker plate.
+DISC_CROP = 'crop=520:40:0:676'
+DISC_FLAT = 3.2          # max luma variation across the plate
+DISC_BRIGHT = 0.6        # share of pixels above this that count as glyphs
+DISC_BRIGHT_LEVEL = 150
 
 
 def check(name, ok, detail='', warn=False):
@@ -242,6 +337,35 @@ def main(ep):
                   not orphans,
                   '; '.join(f'{t:.1f}s {x[:28]} ({why})' for t, x, why in orphans)
                   if orphans else f'{len(srcs)} cards')
+
+    # ---- 6b. disclosure actually on the picture ----------------------------
+    # The gate used to take shots.json's word that every still carried a label.
+    # It did not: measured on the delivered frames, most of the ancient
+    # reconstruction had no disclosure at all while the file claimed it did.
+    # So this samples the *delivered* pixels. A disclosure is a bottom-left
+    # corner mark lying flat in the luma gradient and containing bright glyphs;
+    # scene content, however dark, is textured across that patch and has no
+    # crisp edge.
+    kitdir = os.path.join(ep, 'kit')
+    kit_mp4s = ([os.path.join(kitdir, f) for f in sorted(os.listdir(kitdir))
+                 if f.endswith('.mp4')] if os.path.isdir(kitdir) else [])
+    # Only episodes that opted into the continuous corner mark carry
+    # labels.json. For those it is provable, so it is a hard check; older
+    # episodes without the mark are left alone rather than retro-failed.
+    src_pic = os.path.join(render, 'picture.mp4')
+    has_marks = os.path.exists(os.path.join(render, 'labels.json')) \
+        and os.path.exists(src_pic)
+    if kit_mp4s and has_marks:
+        try:
+            blind = missing_disclosure(kit_mp4s[0], frames / FPS, src_pic)
+        except ImportError:
+            check('disclosure present on the delivered picture', False,
+                  'numpy/PIL not available to measure it', warn=True)
+        else:
+            n = len(range(3, int(frames / FPS) - 3, SAMPLE_STEP))
+            check('every sampled frame carries a disclosure', not blind,
+                  f'{len(blind)} of {n} samples unlabelled, first at '
+                  f'{blind[0] / FPS:.0f}s' if blind else f'{n} samples')
 
     # ---- 7. the delivered file --------------------------------------------
     mp4s = []

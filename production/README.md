@@ -8,8 +8,9 @@ and rebuildable from what is committed here.
 - `sleep/` — "How Did Ancient Humans Sleep Without Locked Doors?"
   - this one is a **remaster**, not a rebuild: the picture is the existing
     11:22 cut, measured frame by frame rather than re-rendered. The work was
-    the sound (it shipped narration-only three times), the captions, and the
-    packaging. `render/build_plan.py` writes the gate's plan from the measured
+    the sound (it shipped narration-only three times), the captions, the
+    packaging, and the reconstruction disclosure, which the original cut only
+    carried on part of the film. `render/build_plan.py` writes the gate's plan from the measured
     cut; `render/captions.py` regroups the draft SRT by clause;
     `render/ambience.py` builds the bed and mixes it.
 
@@ -33,6 +34,7 @@ because every check in it is a defect that shipped at least once first:
 | chapter times | chapters listed against a previous cut's timing |
 | mp4 frame count matches plan | a rebuild reusing stale clips by duration |
 | no clip older than its overlay | re-timed overlays with unchanged durations, so motion.py reused every old clip |
+| every frame carries a disclosure | the gate certified "every still has a label" by reading `shots.json` and never looked at a frame. On the delivered file most of the ancient reconstruction had no disclosure at all. The check now differences the delivered corner against the unlabelled source, so it cannot be fooled by dark frames. The continuous corner mark in `sleep/render/labels.py` covers 100% of the runtime by construction |
 | (sleep) a single cut threshold | the dark study graphics swap between near-identical images. Detected at 6.0 mean-diff they read as one 23.6 s hold; the two-threshold detector in `sleep/render/picture-plan.json` finds the four real cuts, and the longest true hold drops to 8.7 s |
 
 The rain and tailors episodes fail the last check locally by design: the
@@ -46,7 +48,7 @@ all twelve.
 |---|---|---|
 | tailors (v6, 9:35) | 14 pass · 3 warn · 0 fail | 10.2 s hold; Trinkaus card does not name its author on screen; 100.5 MB |
 | rain | 8 pass · 0 warn · 1 fail | mp4 not local |
-| sleep (11:22) | 12 pass · 1 warn · 0 fail | four study graphics held 6.7-8.7 s |
+| sleep (11:22) | 13 pass · 1 warn · 0 fail | four study graphics held 6.7-8.7 s |
 
 ## ffmpeg and Pillow
 

@@ -117,8 +117,9 @@ Stated plainly, so nobody discovers them after publishing:
   been proofread line by line against the audio by ear.
 - **No specialist review.** The shot map's own Read First sheet requires it
   before production. It has not happened.
-- **Loudness** is −16.7 LUFS integrated, −1.3 dBTP after AAC (measured on the
-  delivered file, not on the pre-encode mix), which is inside the range
+- **Loudness** is −16.7 to −16.8 LUFS integrated with a true peak of −1.3 to
+  −1.4 dBTP (measured on the delivered file after AAC, not on the pre-encode
+  mix; the spread is run-to-run measurement noise), which is inside the range
   YouTube targets; it has not been checked on a phone speaker.
 - **The bed is synthesised**, not licensed field recordings. It is convincing at
   low level and it should stay at low level; it is not evidence of how the site

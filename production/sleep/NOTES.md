@@ -21,9 +21,11 @@ reconstructions as though they were footage, and the gate was certifying it.
    mixed in numpy. Three environments, following the shot map's own Sound cue
    column: an interior room with sparse floor creaks, the outdoor night (wind,
    distant non-specific insects, subdued fire), and a quiet modern room under
-   the study. Measured −16.7 LUFS integrated, LRA 4.7 LU. True peak reads −1.5 dBTP at
-   mix time but −1.3 dBTP once AAC has been through it, which is the number
-   that matters for delivery and is what this file claims.
+   the study. Measured −16.7 to −16.8 LUFS integrated, LRA 4.7 LU. True peak reads −1.5 dBTP
+   on the pre-encode mix and −1.3 to −1.4 dBTP once AAC has been through it,
+   depending on whether you measure the decoded audio stream or the muxed file.
+   Both are inside spec; the point of writing the spread down is that the third
+   decimal is measurement noise and should not be quoted as if it were fact.
 
 2. **Captions.** `render/captions.py` regroups the 190-cue draft into 179 cues
    paced by clause. The draft broke mid-sentence 58 times and ran lines to 72

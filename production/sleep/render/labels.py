@@ -18,7 +18,8 @@ Why a corner mark rather than another card:
     to get wrong.
   * A corner mark reads as a documentary convention rather than a mistake, and
     it cannot collide with the picture's own cards (top-left) or the captions
-    (bottom centre): it sits at bottom-left, clear of both.
+    (bottom, wherever the player puts them): it sits at top-right, clear of
+    both. Bottom-left was tried first and a three-line caption reached into it.
 
 The wording is about the image and never about the archaeology:
 
@@ -45,7 +46,7 @@ MAP = os.path.join(HERE, 'map.json')
 
 W, H = 1280, 720
 FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
-SIZE = 15
+SIZE = 16
 
 # section start -> wording for that section. Keys are the section starts in
 # map.json; anything unlisted falls back to the reconstruction wording.
@@ -63,8 +64,13 @@ BY_SECTION = {
 # the study stretch is graphics, not places
 GRAPHIC_SPANS = [(436.6, 490.0)]
 
-MARGIN_X, MARGIN_Y = 16, 14
-ALPHA_PLATE, ALPHA_TEXT = 96, 165
+# Top-right, not bottom-left. The first attempt sat at bottom-left and worked
+# until a three-line caption reached into the same corner; captions own the
+# bottom of the frame and the player decides how low they sit, so the mark
+# cannot be placed anywhere the captions might reach. Top-left is taken by the
+# picture's own source cards, which leaves top-right clear on every frame.
+MARGIN_X, MARGIN_Y = 16, 10
+ALPHA_PLATE, ALPHA_TEXT = 158, 238
 
 
 def _resolve_ffmpeg():
@@ -84,20 +90,21 @@ def _resolve_ffmpeg():
     return 'ffmpeg'
 
 
-def corner_plate(text, path):
+def corner_plate(text, path, right=True):
     img = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     font = ImageFont.truetype(FONT, SIZE)
     track = 1.9
     widths = [d.textlength(ch, font=font) + track for ch in text]
     tw = int(sum(widths)) - int(track)
-    th = SIZE + 8
-    x0 = MARGIN_X
-    y0 = H - MARGIN_Y - th
-    d.rectangle([x0, y0, x0 + tw + 20, y0 + th], fill=(8, 10, 14, ALPHA_PLATE))
+    th = SIZE + 9
+    pw = tw + 20
+    x0 = (W - MARGIN_X - pw) if right else MARGIN_X
+    y0 = MARGIN_Y
+    d.rectangle([x0, y0, x0 + pw, y0 + th], fill=(8, 10, 14, ALPHA_PLATE))
     x = x0 + 10
     for ch, wd in zip(text, widths):
-        d.text((x, y0 + 4), ch, font=font, fill=(236, 236, 236, ALPHA_TEXT))
+        d.text((x, y0 + 5), ch, font=font, fill=(244, 244, 244, ALPHA_TEXT))
         x += wd
     img.save(path)
 
@@ -166,7 +173,7 @@ def main():
 
     covered = sum(b - a for a, b, _ in spans)
     json.dump({'source': 'picture.mp4',
-               'method': ('Continuous bottom-left corner mark, one run per '
+               'method': ('Continuous top-right corner mark, one run per '
                           'measured section, so disclosure covers every frame '
                           'by construction instead of by detection.'),
                'spans': [{'start': a, 'end': b, 'text': t} for a, b, t in spans],

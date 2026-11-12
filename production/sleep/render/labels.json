@@ -1,6 +1,6 @@
 {
  "source": "picture.mp4",
- "method": "Continuous bottom-left corner mark, one run per measured section, so disclosure covers every frame by construction instead of by detection.",
+ "method": "Continuous top-right corner mark, one run per measured section, so disclosure covers every frame by construction instead of by detection.",
  "spans": [
   {
    "start": 0.0,

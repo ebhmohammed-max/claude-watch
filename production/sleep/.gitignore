@@ -22,3 +22,7 @@ render/stills/
 # render/labels.py. Only labels.json and the plates belong in git.
 render/picture-labelled.mp4
 render/labels/plate_*.png  # leftover from an abandoned top-left card approach
+
+# The accepted mix, extracted losslessly from the delivered MP4 so a sandbox
+# reset cannot destroy it. 14 MB; regenerable from the Drive delivery.
+narration/*.m4a

@@ -72,8 +72,8 @@ RESULTS = []
 # no heuristic to tune and cannot be fooled by dark or washed-out footage, which
 # is exactly what three earlier attempts at a "does this look labelled" test
 # got wrong.
-DISC_CROP = 'crop=360:44:0:674'
-DISC_MIN_DELTA = 2.0
+DISC_CROP = 'crop=420:44:860:6'   # top-right, where the mark is drawn
+DISC_MIN_DELTA = 1.0   # a drawn plate moves the mean by ~8 luma; nothing moves it <1
 SAMPLE_STEP = 2          # seconds of film between disclosure samples
 
 
@@ -154,7 +154,6 @@ RESULTS = []
 
 # Where the disclosure corner mark lives, and its signature: a nearly
 # gradient-free band with bright glyphs on top of a darker plate.
-DISC_CROP = 'crop=520:40:0:676'
 DISC_FLAT = 3.2          # max luma variation across the plate
 DISC_BRIGHT = 0.6        # share of pixels above this that count as glyphs
 DISC_BRIGHT_LEVEL = 150

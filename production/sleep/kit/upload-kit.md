@@ -108,8 +108,8 @@ Stated plainly, so nobody discovers them after publishing:
   door, lamp and layout continuity in the closing sequence, earlier shelter
   geometry, clothing and crowd density — this build did not fix them. The pack's
   own notes call the door a mitigation, not a fix, and that is still accurate.
-- **The picture was re-encoded once** to carry the mark: CRF 24, SSIM 0.989 and
-  PSNR 39.1 dB against the V3 master. Visible as nothing except the mark unless
+- **The picture was re-encoded once** to carry the mark: CRF 24, SSIM 0.987 and
+  PSNR 38.3 dB against the V3 master. Visible as nothing except the mark unless
   you go looking, but it is not a stream copy and is not claimed to be.
 - **720p.** The stills were generated at higher resolution than the cut uses.
 - **Captions are regrouped, not re-aligned.** They follow the draft's word
@@ -117,7 +117,8 @@ Stated plainly, so nobody discovers them after publishing:
   been proofread line by line against the audio by ear.
 - **No specialist review.** The shot map's own Read First sheet requires it
   before production. It has not happened.
-- **Loudness** is −16.7 LUFS integrated, −1.5 dBTP, which is inside the range
+- **Loudness** is −16.7 LUFS integrated, −1.3 dBTP after AAC (measured on the
+  delivered file, not on the pre-encode mix), which is inside the range
   YouTube targets; it has not been checked on a phone speaker.
 - **The bed is synthesised**, not licensed field recordings. It is convincing at
   low level and it should stay at low level; it is not evidence of how the site

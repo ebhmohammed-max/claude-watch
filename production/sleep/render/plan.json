@@ -1,0 +1,2892 @@
+[
+ {
+  "i": 0,
+  "still": "001",
+  "stem": "0001",
+  "start": 0.0,
+  "end": 2.0,
+  "section": "01",
+  "sentence": "It's two in the morning.",
+  "sub": 0
+ },
+ {
+  "i": 1,
+  "still": "002",
+  "stem": "0002",
+  "start": 2.0,
+  "end": 4.72,
+  "section": "01",
+  "sentence": "Something creaks near your front door.",
+  "sub": 0
+ },
+ {
+  "i": 2,
+  "still": "003",
+  "stem": "0003",
+  "start": 4.72,
+  "end": 6.6,
+  "section": "01",
+  "sentence": "Your eyes open.",
+  "sub": 0
+ },
+ {
+  "i": 3,
+  "still": "004",
+  "stem": "0004",
+  "start": 6.6,
+  "end": 9.2,
+  "section": "01",
+  "sentence": "You lie still and listen.",
+  "sub": 0
+ },
+ {
+  "i": 4,
+  "still": "005",
+  "stem": "0005",
+  "start": 9.2,
+  "end": 11.28,
+  "section": "01",
+  "sentence": "There it is again.",
+  "sub": 0
+ },
+ {
+  "i": 5,
+  "still": "006",
+  "stem": "0006",
+  "start": 11.28,
+  "end": 14.72,
+  "section": "01",
+  "sentence": "A small, dry sound from the hallway.",
+  "sub": 0
+ },
+ {
+  "i": 6,
+  "still": "007",
+  "stem": "0007",
+  "start": 14.72,
+  "end": 15.6,
+  "section": "01",
+  "sentence": "You get out of bed, cross the room and check the lock.",
+  "sub": 0
+ },
+ {
+  "i": 7,
+  "still": "008",
+  "stem": "0008",
+  "start": 15.6,
+  "end": 16.4,
+  "section": "01",
+  "sentence": "You get out of bed, cross the room and check the lock.",
+  "sub": 0
+ },
+ {
+  "i": 8,
+  "still": "009",
+  "stem": "0009",
+  "start": 16.4,
+  "end": 17.28,
+  "section": "01",
+  "sentence": "You get out of bed, cross the room and check the lock.",
+  "sub": 0
+ },
+ {
+  "i": 9,
+  "still": "010",
+  "stem": "0010",
+  "start": 17.28,
+  "end": 18.72,
+  "section": "01",
+  "sentence": "You get out of bed, cross the room and check the lock.",
+  "sub": 0
+ },
+ {
+  "i": 10,
+  "still": "011",
+  "stem": "0011",
+  "start": 18.72,
+  "end": 20.88,
+  "section": "01",
+  "sentence": "It's secure.",
+  "sub": 0
+ },
+ {
+  "i": 11,
+  "still": "012",
+  "stem": "0012",
+  "start": 20.88,
+  "end": 22.56,
+  "section": "01",
+  "sentence": "You stand there another moment, looking into the dark, until the sound comes again.",
+  "sub": 0
+ },
+ {
+  "i": 12,
+  "still": "013",
+  "stem": "0013",
+  "start": 22.56,
+  "end": 24.48,
+  "section": "01",
+  "sentence": "You stand there another moment, looking into the dark, until the sound comes again.",
+  "sub": 0
+ },
+ {
+  "i": 13,
+  "still": "014",
+  "stem": "0014",
+  "start": 24.48,
+  "end": 27.32,
+  "section": "01",
+  "sentence": "You stand there another moment, looking into the dark, until the sound comes again.",
+  "sub": 0
+ },
+ {
+  "i": 14,
+  "still": "015",
+  "stem": "0015",
+  "start": 27.32,
+  "end": 29.2,
+  "section": "01",
+  "sentence": "It's the floor.",
+  "sub": 0
+ },
+ {
+  "i": 15,
+  "still": "016",
+  "stem": "0016",
+  "start": 29.2,
+  "end": 31.68,
+  "section": "01",
+  "sentence": "You were the one making it.",
+  "sub": 0
+ },
+ {
+  "i": 16,
+  "still": "017",
+  "stem": "0017",
+  "start": 31.68,
+  "end": 33.52,
+  "section": "01",
+  "sentence": "You go back to bed, slightly annoyed with yourself, and pull the covers up.",
+  "sub": 0
+ },
+ {
+  "i": 17,
+  "still": "018",
+  "stem": "0018",
+  "start": 33.52,
+  "end": 35.2,
+  "section": "01",
+  "sentence": "You go back to bed, slightly annoyed with yourself, and pull the covers up.",
+  "sub": 0
+ },
+ {
+  "i": 18,
+  "still": "019",
+  "stem": "0019",
+  "start": 35.2,
+  "end": 37.28,
+  "section": "01",
+  "sentence": "You go back to bed, slightly annoyed with yourself, and pull the covers up.",
+  "sub": 0
+ },
+ {
+  "i": 19,
+  "still": "020",
+  "stem": "0020",
+  "start": 37.28,
+  "end": 39.2,
+  "section": "01",
+  "sentence": "The door is locked.",
+  "sub": 0
+ },
+ {
+  "i": 20,
+  "still": "021",
+  "stem": "0021",
+  "start": 39.2,
+  "end": 42.0,
+  "section": "01",
+  "sentence": "The walls are solid.",
+  "sub": 0
+ },
+ {
+  "i": 21,
+  "still": "022",
+  "stem": "0022",
+  "start": 42.0,
+  "end": 44.96,
+  "section": "01",
+  "sentence": "Eventually, you close your eyes.",
+  "sub": 0
+ },
+ {
+  "i": 22,
+  "still": "023",
+  "stem": "0023",
+  "start": 44.96,
+  "end": 47.52,
+  "section": "01",
+  "sentence": "Now take away the lock.",
+  "sub": 0
+ },
+ {
+  "i": 23,
+  "still": "024",
+  "stem": "0024",
+  "start": 47.52,
+  "end": 49.0,
+  "section": "01",
+  "sentence": "Take away the door.",
+  "sub": 0
+ },
+ {
+  "i": 24,
+  "still": "025",
+  "stem": "0025",
+  "start": 49.0,
+  "end": 54.8,
+  "section": "01",
+  "sentence": "Take away the quiet room, the mattress, the blanket, and the light switch beside your bed.",
+  "sub": 0
+ },
+ {
+  "i": 25,
+  "still": "026",
+  "stem": "0026",
+  "start": 54.8,
+  "end": 57.92,
+  "section": "01",
+  "sentence": "How would you sleep?",
+  "sub": 0
+ },
+ {
+  "i": 26,
+  "still": "027",
+  "stem": "0027",
+  "start": 57.92,
+  "end": 60.0,
+  "section": "01",
+  "sentence": "For much of human history, darkness arrived without a key to turn.",
+  "sub": 0
+ },
+ {
+  "i": 27,
+  "still": "028",
+  "stem": "0028",
+  "start": 60.0,
+  "end": 60.68,
+  "section": "01",
+  "sentence": "For much of human history, darkness arrived without a key to turn.",
+  "sub": 0
+ },
+ {
+  "i": 28,
+  "still": "029",
+  "stem": "0029",
+  "start": 60.68,
+  "end": 61.64,
+  "section": "01",
+  "sentence": "For much of human history, darkness arrived without a key to turn.",
+  "sub": 0
+ },
+ {
+  "i": 29,
+  "still": "030",
+  "stem": "0030",
+  "start": 61.64,
+  "end": 62.72,
+  "section": "01",
+  "sentence": "For much of human history, darkness arrived without a key to turn.",
+  "sub": 0
+ },
+ {
+  "i": 30,
+  "still": "031",
+  "stem": "0031",
+  "start": 62.72,
+  "end": 65.0,
+  "section": "01",
+  "sentence": "But that didn't mean people simply collapsed wherever they stood and hoped for the best.",
+  "sub": 0
+ },
+ {
+  "i": 31,
+  "still": "032",
+  "stem": "0032",
+  "start": 65.0,
+  "end": 67.92,
+  "section": "02",
+  "sentence": "But that didn't mean people simply collapsed wherever they stood and hoped for the best.",
+  "sub": 0
+ },
+ {
+  "i": 32,
+  "still": "033",
+  "stem": "0033",
+  "start": 67.92,
+  "end": 70.2,
+  "section": "02",
+  "sentence": "To understand the night, first look at the world around them.",
+  "sub": 0
+ },
+ {
+  "i": 33,
+  "still": "034",
+  "stem": "0034",
+  "start": 70.2,
+  "end": 72.76,
+  "section": "02",
+  "sentence": "To understand the night, first look at the world around them.",
+  "sub": 0
+ },
+ {
+  "i": 34,
+  "still": "035",
+  "stem": "0035",
+  "start": 72.76,
+  "end": 76.48,
+  "section": "02",
+  "sentence": "Two hundred thousand years ago, in what is now southern Africa, daylight moves across a rocky slope.",
+  "sub": 0
+ },
+ {
+  "i": 35,
+  "still": "036",
+  "stem": "0036",
+  "start": 76.48,
+  "end": 79.8,
+  "section": "02",
+  "sentence": "Two hundred thousand years ago, in what is now southern Africa, daylight moves across a rocky slope.",
+  "sub": 0
+ },
+ {
+  "i": 36,
+  "still": "037",
+  "stem": "0037",
+  "start": 79.8,
+  "end": 82.88,
+  "section": "02",
+  "sentence": "Grasses bend in the breeze.",
+  "sub": 0
+ },
+ {
+  "i": 37,
+  "still": "038",
+  "stem": "0038",
+  "start": 82.88,
+  "end": 86.2,
+  "section": "02",
+  "sentence": "Beyond them are patches of bush and open woodland, with trees scattered across the landscape.",
+  "sub": 0
+ },
+ {
+  "i": 38,
+  "still": "039",
+  "stem": "0039",
+  "start": 86.2,
+  "end": 89.52,
+  "section": "02",
+  "sentence": "Beyond them are patches of bush and open woodland, with trees scattered across the landscape.",
+  "sub": 0
+ },
+ {
+  "i": 39,
+  "still": "040",
+  "stem": "0040",
+  "start": 89.52,
+  "end": 90.76,
+  "section": "02",
+  "sentence": "As the sun drops, the rocks hold a little warmth.",
+  "sub": 0
+ },
+ {
+  "i": 40,
+  "still": "041",
+  "stem": "0041",
+  "start": 90.76,
+  "end": 93.28,
+  "section": "02",
+  "sentence": "As the sun drops, the rocks hold a little warmth.",
+  "sub": 0
+ },
+ {
+  "i": 41,
+  "still": "042",
+  "stem": "0042",
+  "start": 93.28,
+  "end": 95.4,
+  "section": "02",
+  "sentence": "The shadows stretch.",
+  "sub": 0
+ },
+ {
+  "i": 42,
+  "still": "043",
+  "stem": "0043",
+  "start": 95.4,
+  "end": 98.96,
+  "section": "02",
+  "sentence": "The paths through the vegetation become harder to see.",
+  "sub": 0
+ },
+ {
+  "i": 43,
+  "still": "044",
+  "stem": "0044",
+  "start": 98.96,
+  "end": 103.0,
+  "section": "03",
+  "sentence": "Near a broad shelter in the cliff, a community gathers.",
+  "sub": 0
+ },
+ {
+  "i": 44,
+  "still": "045",
+  "stem": "0045",
+  "start": 103.0,
+  "end": 103.76,
+  "section": "03",
+  "sentence": "Adults return from different tasks.",
+  "sub": 0
+ },
+ {
+  "i": 45,
+  "still": "046",
+  "stem": "0046",
+  "start": 103.76,
+  "end": 105.32,
+  "section": "03",
+  "sentence": "Adults return from different tasks.",
+  "sub": 0
+ },
+ {
+  "i": 46,
+  "still": "047",
+  "stem": "0047",
+  "start": 105.32,
+  "end": 105.68,
+  "section": "03",
+  "sentence": "Children move between them.",
+  "sub": 0
+ },
+ {
+  "i": 47,
+  "still": "048",
+  "stem": "0048",
+  "start": 105.68,
+  "end": 107.68,
+  "section": "03",
+  "sentence": "Children move between them.",
+  "sub": 0
+ },
+ {
+  "i": 48,
+  "still": "049",
+  "stem": "0049",
+  "start": 107.68,
+  "end": 109.92,
+  "section": "03",
+  "sentence": "Grass is carried into the shelter; hands clear a space on the ground.",
+  "sub": 0
+ },
+ {
+  "i": 49,
+  "still": "050",
+  "stem": "0050",
+  "start": 109.92,
+  "end": 112.52,
+  "section": "03",
+  "sentence": "Grass is carried into the shelter; hands clear a space on the ground.",
+  "sub": 0
+ },
+ {
+  "i": 50,
+  "still": "051",
+  "stem": "0051",
+  "start": 112.52,
+  "end": 115.0,
+  "section": "03",
+  "sentence": "At the edge of the gathering, people settle near the warmth of a fire.",
+  "sub": 0
+ },
+ {
+  "i": 51,
+  "still": "052",
+  "stem": "0052",
+  "start": 115.0,
+  "end": 116.84,
+  "section": "03",
+  "sentence": "At the edge of the gathering, people settle near the warmth of a fire.",
+  "sub": 0
+ },
+ {
+  "i": 52,
+  "still": "053",
+  "stem": "0053",
+  "start": 116.84,
+  "end": 118.88,
+  "section": "03",
+  "sentence": "There is movement everywhere.",
+  "sub": 0
+ },
+ {
+  "i": 53,
+  "still": "054",
+  "stem": "0054",
+  "start": 118.88,
+  "end": 121.28,
+  "section": "03",
+  "sentence": "Somebody shifts closer to the light.",
+  "sub": 0
+ },
+ {
+  "i": 54,
+  "still": "055",
+  "stem": "0055",
+  "start": 121.28,
+  "end": 123.2,
+  "section": "03",
+  "sentence": "Someone else makes room.",
+  "sub": 0
+ },
+ {
+  "i": 55,
+  "still": "056",
+  "stem": "0056",
+  "start": 123.2,
+  "end": 125.28,
+  "section": "03",
+  "sentence": "A child is reluctant to settle; an adult draws them close.",
+  "sub": 0
+ },
+ {
+  "i": 56,
+  "still": "057",
+  "stem": "0057",
+  "start": 125.28,
+  "end": 127.52,
+  "section": "03",
+  "sentence": "A child is reluctant to settle; an adult draws them close.",
+  "sub": 0
+ },
+ {
+  "i": 57,
+  "still": "058",
+  "stem": "0058",
+  "start": 127.52,
+  "end": 130.0,
+  "section": "03",
+  "sentence": "The day hasn't ended all at once just because the sun has gone down.",
+  "sub": 0
+ },
+ {
+  "i": 58,
+  "still": "059",
+  "stem": "0059",
+  "start": 130.0,
+  "end": 132.48,
+  "section": "03",
+  "sentence": "The precise size of any particular ancient group is difficult to know.",
+  "sub": 0
+ },
+ {
+  "i": 59,
+  "still": "060",
+  "stem": "0060",
+  "start": 132.48,
+  "end": 135.0,
+  "section": "03",
+  "sentence": "The precise size of any particular ancient group is difficult to know.",
+  "sub": 0
+ },
+ {
+  "i": 60,
+  "still": "061",
+  "stem": "0061",
+  "start": 135.0,
+  "end": 137.32,
+  "section": "03",
+  "sentence": "The precise size of any particular ancient group is difficult to know.",
+  "sub": 0
+ },
+ {
+  "i": 61,
+  "still": "062",
+  "stem": "0062",
+  "start": 137.32,
+  "end": 139.52,
+  "section": "04",
+  "sentence": "But the archaeological traces at one South African site give us a remarkable glimpse of a place people returned to: Border Cave,",
+  "sub": 0
+ },
+ {
+  "i": 62,
+  "still": "063",
+  "stem": "0063",
+  "start": 139.52,
+  "end": 140.4,
+  "section": "04",
+  "sentence": "But the archaeological traces at one South African site give us a remarkable glimpse of a place people returned to: Border Cave,",
+  "sub": 0
+ },
+ {
+  "i": 63,
+  "still": "064",
+  "stem": "0064",
+  "start": 140.4,
+  "end": 143.0,
+  "section": "04",
+  "sentence": "But the archaeological traces at one South African site give us a remarkable glimpse of a place people returned to: Border Cave,",
+  "sub": 0
+ },
+ {
+  "i": 64,
+  "still": "065",
+  "stem": "0065",
+  "start": 143.0,
+  "end": 147.28,
+  "section": "04",
+  "sentence": "in the Lebombo Mountains.",
+  "sub": 0
+ },
+ {
+  "i": 65,
+  "still": "066",
+  "stem": "0066",
+  "start": 147.28,
+  "end": 147.72,
+  "section": "04",
+  "sentence": "And at the back of that shelter, archaeologists found something unexpectedly familiar.",
+  "sub": 0
+ },
+ {
+  "i": 66,
+  "still": "067",
+  "stem": "0067",
+  "start": 147.72,
+  "end": 150.48,
+  "section": "04",
+  "sentence": "And at the back of that shelter, archaeologists found something unexpectedly familiar.",
+  "sub": 0
+ },
+ {
+  "i": 67,
+  "still": "068",
+  "stem": "0068",
+  "start": 150.48,
+  "end": 153.96,
+  "section": "04",
+  "sentence": "And at the back of that shelter, archaeologists found something unexpectedly familiar.",
+  "sub": 0
+ },
+ {
+  "i": 68,
+  "still": "069",
+  "stem": "0069",
+  "start": 153.96,
+  "end": 156.8,
+  "section": "04",
+  "sentence": "Or, more precisely, traces of many layers of bedding.",
+  "sub": 0
+ },
+ {
+  "i": 69,
+  "still": "070",
+  "stem": "0070",
+  "start": 156.8,
+  "end": 160.0,
+  "section": "04",
+  "sentence": "Or, more precisely, traces of many layers of bedding.",
+  "sub": 0
+ },
+ {
+  "i": 70,
+  "still": "071",
+  "stem": "0071",
+  "start": 160.0,
+  "end": 163.0,
+  "section": "04",
+  "sentence": "The remains are subtle now: ancient fragments of broad-leaved grass, identified by careful analysis.",
+  "sub": 0
+ },
+ {
+  "i": 71,
+  "still": "072",
+  "stem": "0072",
+  "start": 163.0,
+  "end": 163.88,
+  "section": "04",
+  "sentence": "The remains are subtle now: ancient fragments of broad-leaved grass, identified by careful analysis.",
+  "sub": 0
+ },
+ {
+  "i": 72,
+  "still": "073",
+  "stem": "0073",
+  "start": 163.88,
+  "end": 166.4,
+  "section": "04",
+  "sentence": "The remains are subtle now: ancient fragments of broad-leaved grass, identified by careful analysis.",
+  "sub": 0
+ },
+ {
+  "i": 73,
+  "still": "074",
+  "stem": "0074",
+  "start": 166.4,
+  "end": 169.0,
+  "section": "04",
+  "sentence": "Some bedding at Border Cave dates to around two hundred thousand years ago.",
+  "sub": 0
+ },
+ {
+  "i": 74,
+  "still": "075",
+  "stem": "0075",
+  "start": 169.0,
+  "end": 172.2,
+  "section": "04",
+  "sentence": "Some bedding at Border Cave dates to around two hundred thousand years ago.",
+  "sub": 0
+ },
+ {
+  "i": 75,
+  "still": "076",
+  "stem": "0076",
+  "start": 172.2,
+  "end": 174.76,
+  "section": "04",
+  "sentence": "Imagine the preparation before nightfall.",
+  "sub": 0
+ },
+ {
+  "i": 76,
+  "still": "077",
+  "stem": "0077",
+  "start": 174.76,
+  "end": 177.0,
+  "section": "04",
+  "sentence": "Grass gathered in bundles, carried back to the shelter and spread where people could rest.",
+  "sub": 0
+ },
+ {
+  "i": 77,
+  "still": "078",
+  "stem": "0078",
+  "start": 177.0,
+  "end": 179.0,
+  "section": "04",
+  "sentence": "Grass gathered in bundles, carried back to the shelter and spread where people could rest.",
+  "sub": 0
+ },
+ {
+  "i": 78,
+  "still": "079",
+  "stem": "0079",
+  "start": 179.0,
+  "end": 180.92,
+  "section": "04",
+  "sentence": "A softer surface between a body and the ground.",
+  "sub": 0
+ },
+ {
+  "i": 79,
+  "still": "080",
+  "stem": "0080",
+  "start": 180.92,
+  "end": 181.52,
+  "section": "04",
+  "sentence": "A softer surface between a body and the ground.",
+  "sub": 0
+ },
+ {
+  "i": 80,
+  "still": "081",
+  "stem": "0081",
+  "start": 181.52,
+  "end": 183.84,
+  "section": "04",
+  "sentence": "A softer surface between a body and the ground.",
+  "sub": 0
+ },
+ {
+  "i": 81,
+  "still": "082",
+  "stem": "0082",
+  "start": 183.84,
+  "end": 186.2,
+  "section": "04",
+  "sentence": "Not a mattress with a warranty.",
+  "sub": 0
+ },
+ {
+  "i": 82,
+  "still": "083",
+  "stem": "0083",
+  "start": 186.2,
+  "end": 188.0,
+  "section": "04",
+  "sentence": "But certainly better than finding a sharp stone with your back at three in the morning.",
+  "sub": 0
+ },
+ {
+  "i": 83,
+  "still": "084",
+  "stem": "0084",
+  "start": 188.0,
+  "end": 190.24,
+  "section": "04",
+  "sentence": "But certainly better than finding a sharp stone with your back at three in the morning.",
+  "sub": 0
+ },
+ {
+  "i": 84,
+  "still": "085",
+  "stem": "0085",
+  "start": 190.24,
+  "end": 193.0,
+  "section": "05",
+  "sentence": "The grass wasn't the only thing underfoot.",
+  "sub": 0
+ },
+ {
+  "i": 85,
+  "still": "086",
+  "stem": "0086",
+  "start": 193.0,
+  "end": 195.52,
+  "section": "05",
+  "sentence": "Researchers also found layers of ash associated with the bedding.",
+  "sub": 0
+ },
+ {
+  "i": 86,
+  "still": "087",
+  "stem": "0087",
+  "start": 195.52,
+  "end": 197.2,
+  "section": "05",
+  "sentence": "Researchers also found layers of ash associated with the bedding.",
+  "sub": 0
+ },
+ {
+  "i": 87,
+  "still": "088",
+  "stem": "0088",
+  "start": 197.2,
+  "end": 199.6,
+  "section": "05",
+  "sentence": "Sometimes that ash appears to have come from older bedding that had burned.",
+  "sub": 0
+ },
+ {
+  "i": 88,
+  "still": "089",
+  "stem": "0089",
+  "start": 199.6,
+  "end": 202.0,
+  "section": "05",
+  "sentence": "Sometimes that ash appears to have come from older bedding that had burned.",
+  "sub": 0
+ },
+ {
+  "i": 89,
+  "still": "090",
+  "stem": "0090",
+  "start": 202.0,
+  "end": 204.16,
+  "section": "05",
+  "sentence": "Why place fresh grass over ash?",
+  "sub": 0
+ },
+ {
+  "i": 90,
+  "still": "091",
+  "stem": "0091",
+  "start": 204.16,
+  "end": 206.88,
+  "section": "05",
+  "sentence": "One possibility is that it helped create a cleaner, insulated base.",
+  "sub": 0
+ },
+ {
+  "i": 91,
+  "still": "092",
+  "stem": "0092",
+  "start": 206.88,
+  "end": 208.48,
+  "section": "05",
+  "sentence": "One possibility is that it helped create a cleaner, insulated base.",
+  "sub": 0
+ },
+ {
+  "i": 92,
+  "still": "093",
+  "stem": "0093",
+  "start": 208.48,
+  "end": 209.08,
+  "section": "05",
+  "sentence": "The researchers also suggested the fine ash might have discouraged crawling pests.",
+  "sub": 0
+ },
+ {
+  "i": 93,
+  "still": "094",
+  "stem": "0094",
+  "start": 209.08,
+  "end": 210.36,
+  "section": "05",
+  "sentence": "The researchers also suggested the fine ash might have discouraged crawling pests.",
+  "sub": 0
+ },
+ {
+  "i": 94,
+  "still": "095",
+  "stem": "0095",
+  "start": 210.36,
+  "end": 211.0,
+  "section": "05",
+  "sentence": "The researchers also suggested the fine ash might have discouraged crawling pests.",
+  "sub": 0
+ },
+ {
+  "i": 95,
+  "still": "096",
+  "stem": "0096",
+  "start": 211.0,
+  "end": 213.6,
+  "section": "05",
+  "sentence": "The researchers also suggested the fine ash might have discouraged crawling pests.",
+  "sub": 0
+ },
+ {
+  "i": 96,
+  "still": "097",
+  "stem": "0097",
+  "start": 213.6,
+  "end": 217.2,
+  "section": "05",
+  "sentence": "That part is an interpretation, not a label left behind by the people who made it.",
+  "sub": 0
+ },
+ {
+  "i": 97,
+  "still": "098",
+  "stem": "0098",
+  "start": 217.2,
+  "end": 218.96,
+  "section": "05",
+  "sentence": "That part is an interpretation, not a label left behind by the people who made it.",
+  "sub": 0
+ },
+ {
+  "i": 98,
+  "still": "099",
+  "stem": "0099",
+  "start": 218.96,
+  "end": 221.4,
+  "section": "05",
+  "sentence": "But it points to a problem that is easy to overlook.",
+  "sub": 0
+ },
+ {
+  "i": 99,
+  "still": "100",
+  "stem": "0100",
+  "start": 221.4,
+  "end": 223.52,
+  "section": "05",
+  "sentence": "The danger of the night wasn't only something large moving beyond the fire.",
+  "sub": 0
+ },
+ {
+  "i": 100,
+  "still": "101",
+  "stem": "0101",
+  "start": 223.52,
+  "end": 226.0,
+  "section": "05",
+  "sentence": "The danger of the night wasn't only something large moving beyond the fire.",
+  "sub": 0
+ },
+ {
+  "i": 101,
+  "still": "102",
+  "stem": "0102",
+  "start": 226.0,
+  "end": 228.0,
+  "section": "05",
+  "sentence": "It could be something small enough to disappear into the bedding.",
+  "sub": 0
+ },
+ {
+  "i": 102,
+  "still": "103",
+  "stem": "0103",
+  "start": 228.0,
+  "end": 230.16,
+  "section": "05",
+  "sentence": "It could be something small enough to disappear into the bedding.",
+  "sub": 0
+ },
+ {
+  "i": 103,
+  "still": "104",
+  "stem": "0104",
+  "start": 230.16,
+  "end": 232.0,
+  "section": "05",
+  "sentence": "Tiny stone fragments were found among the grass as well.",
+  "sub": 0
+ },
+ {
+  "i": 104,
+  "still": "105",
+  "stem": "0105",
+  "start": 232.0,
+  "end": 234.0,
+  "section": "05",
+  "sentence": "Tiny stone fragments were found among the grass as well.",
+  "sub": 0
+ },
+ {
+  "i": 105,
+  "still": "106",
+  "stem": "0106",
+  "start": 234.0,
+  "end": 236.48,
+  "section": "05",
+  "sentence": "The same surface that offered somewhere to rest may also have been a place to sit and work.",
+  "sub": 0
+ },
+ {
+  "i": 106,
+  "still": "107",
+  "stem": "0107",
+  "start": 236.48,
+  "end": 238.08,
+  "section": "05",
+  "sentence": "The same surface that offered somewhere to rest may also have been a place to sit and work.",
+  "sub": 0
+ },
+ {
+  "i": 107,
+  "still": "108",
+  "stem": "0108",
+  "start": 238.08,
+  "end": 239.28,
+  "section": "05",
+  "sentence": "A sleeping place.",
+  "sub": 0
+ },
+ {
+  "i": 108,
+  "still": "109",
+  "stem": "0109",
+  "start": 239.28,
+  "end": 242.16,
+  "section": "05",
+  "sentence": "A working place.",
+  "sub": 0
+ },
+ {
+  "i": 109,
+  "still": "110",
+  "stem": "0110",
+  "start": 242.16,
+  "end": 245.0,
+  "section": "05",
+  "sentence": "A piece of the landscape brought indoors, if a shelter can be called indoors.",
+  "sub": 0
+ },
+ {
+  "i": 110,
+  "still": "111",
+  "stem": "0111",
+  "start": 245.0,
+  "end": 246.52,
+  "section": "05",
+  "sentence": "A piece of the landscape brought indoors, if a shelter can be called indoors.",
+  "sub": 0
+ },
+ {
+  "i": 111,
+  "still": "112",
+  "stem": "0112",
+  "start": 246.52,
+  "end": 248.0,
+  "section": "05",
+  "sentence": "But a bed still leaves one problem unsolved.",
+  "sub": 0
+ },
+ {
+  "i": 112,
+  "still": "113",
+  "stem": "0113",
+  "start": 248.0,
+  "end": 248.92,
+  "section": "05",
+  "sentence": "But a bed still leaves one problem unsolved.",
+  "sub": 0
+ },
+ {
+  "i": 113,
+  "still": "114",
+  "stem": "0114",
+  "start": 248.92,
+  "end": 251.36,
+  "section": "05",
+  "sentence": "But a bed still leaves one problem unsolved.",
+  "sub": 0
+ },
+ {
+  "i": 114,
+  "still": "115",
+  "stem": "0115",
+  "start": 251.36,
+  "end": 254.0,
+  "section": "06",
+  "sentence": "What happens beyond the edge of the light?",
+  "sub": 0
+ },
+ {
+  "i": 115,
+  "still": "116",
+  "stem": "0116",
+  "start": 254.0,
+  "end": 255.2,
+  "section": "06",
+  "sentence": "At Border Cave, evidence of fires appears through a long sequence of occupations.",
+  "sub": 0
+ },
+ {
+  "i": 116,
+  "still": "117",
+  "stem": "0117",
+  "start": 255.2,
+  "end": 257.68,
+  "section": "06",
+  "sentence": "At Border Cave, evidence of fires appears through a long sequence of occupations.",
+  "sub": 0
+ },
+ {
+  "i": 117,
+  "still": "118",
+  "stem": "0118",
+  "start": 257.68,
+  "end": 260.0,
+  "section": "06",
+  "sentence": "At Border Cave, evidence of fires appears through a long sequence of occupations.",
+  "sub": 0
+ },
+ {
+  "i": 118,
+  "still": "119",
+  "stem": "0119",
+  "start": 260.0,
+  "end": 262.24,
+  "section": "06",
+  "sentence": "For the people using such a place, a fire could offer warmth and light.",
+  "sub": 0
+ },
+ {
+  "i": 119,
+  "still": "120",
+  "stem": "0120",
+  "start": 262.24,
+  "end": 264.48,
+  "section": "06",
+  "sentence": "For the people using such a place, a fire could offer warmth and light.",
+  "sub": 0
+ },
+ {
+  "i": 120,
+  "still": "121",
+  "stem": "0121",
+  "start": 264.48,
+  "end": 266.4,
+  "section": "06",
+  "sentence": "In some circumstances it might also help discourage animals from approaching.",
+  "sub": 0
+ },
+ {
+  "i": 121,
+  "still": "122",
+  "stem": "0122",
+  "start": 266.4,
+  "end": 268.48,
+  "section": "06",
+  "sentence": "In some circumstances it might also help discourage animals from approaching.",
+  "sub": 0
+ },
+ {
+  "i": 122,
+  "still": "123",
+  "stem": "0123",
+  "start": 268.48,
+  "end": 271.0,
+  "section": "06",
+  "sentence": "But it could not turn night into day.",
+  "sub": 0
+ },
+ {
+  "i": 123,
+  "still": "124",
+  "stem": "0124",
+  "start": 271.0,
+  "end": 273.0,
+  "section": "06",
+  "sentence": "And it was never a guarantee that nothing would come near.",
+  "sub": 0
+ },
+ {
+  "i": 124,
+  "still": "125",
+  "stem": "0125",
+  "start": 273.0,
+  "end": 275.0,
+  "section": "06",
+  "sentence": "And it was never a guarantee that nothing would come near.",
+  "sub": 0
+ },
+ {
+  "i": 125,
+  "still": "126",
+  "stem": "0126",
+  "start": 275.0,
+  "end": 277.0,
+  "section": "06",
+  "sentence": "Picture the firelight reaching the people nearest it: faces, hands, the pale edges of grass.",
+  "sub": 0
+ },
+ {
+  "i": 126,
+  "still": "127",
+  "stem": "0127",
+  "start": 277.0,
+  "end": 279.0,
+  "section": "06",
+  "sentence": "Picture the firelight reaching the people nearest it: faces, hands, the pale edges of grass.",
+  "sub": 0
+ },
+ {
+  "i": 127,
+  "still": "128",
+  "stem": "0128",
+  "start": 279.0,
+  "end": 281.4,
+  "section": "06",
+  "sentence": "Picture the firelight reaching the people nearest it: faces, hands, the pale edges of grass.",
+  "sub": 0
+ },
+ {
+  "i": 128,
+  "still": "129",
+  "stem": "0129",
+  "start": 281.4,
+  "end": 282.68,
+  "section": "06",
+  "sentence": "Farther back, rock disappears into shadow.",
+  "sub": 0
+ },
+ {
+  "i": 129,
+  "still": "130",
+  "stem": "0130",
+  "start": 282.68,
+  "end": 284.0,
+  "section": "06",
+  "sentence": "Farther back, rock disappears into shadow.",
+  "sub": 0
+ },
+ {
+  "i": 130,
+  "still": "131",
+  "stem": "0131",
+  "start": 284.0,
+  "end": 287.04,
+  "section": "06",
+  "sentence": "Beyond the shelter mouth, the light weakens until the bushes are only shapes.",
+  "sub": 0
+ },
+ {
+  "i": 131,
+  "still": "132",
+  "stem": "0132",
+  "start": 287.04,
+  "end": 289.0,
+  "section": "06",
+  "sentence": "Beyond the shelter mouth, the light weakens until the bushes are only shapes.",
+  "sub": 0
+ },
+ {
+  "i": 132,
+  "still": "133",
+  "stem": "0133",
+  "start": 289.0,
+  "end": 293.2,
+  "section": "06",
+  "sentence": "The surrounding world doesn't stop when people settle down.",
+  "sub": 0
+ },
+ {
+  "i": 133,
+  "still": "134",
+  "stem": "0134",
+  "start": 293.2,
+  "end": 294.36,
+  "section": "06",
+  "sentence": "The surrounding world doesn't stop when people settle down.",
+  "sub": 0
+ },
+ {
+  "i": 134,
+  "still": "135",
+  "stem": "0135",
+  "start": 294.36,
+  "end": 296.72,
+  "section": "06",
+  "sentence": "Wind passes through dry stems.",
+  "sub": 0
+ },
+ {
+  "i": 135,
+  "still": "136",
+  "stem": "0136",
+  "start": 296.72,
+  "end": 298.88,
+  "section": "06",
+  "sentence": "Insects continue their work.",
+  "sub": 0
+ },
+ {
+  "i": 136,
+  "still": "137",
+  "stem": "0137",
+  "start": 298.88,
+  "end": 301.0,
+  "section": "06",
+  "sentence": "Somewhere beyond the slope, an animal moves through vegetation.",
+  "sub": 0
+ },
+ {
+  "i": 137,
+  "still": "138",
+  "stem": "0138",
+  "start": 301.0,
+  "end": 302.84,
+  "section": "06",
+  "sentence": "Somewhere beyond the slope, an animal moves through vegetation.",
+  "sub": 0
+ },
+ {
+  "i": 138,
+  "still": "139",
+  "stem": "0139",
+  "start": 302.84,
+  "end": 305.84,
+  "section": "06",
+  "sentence": "A sound can travel a long way in the dark.",
+  "sub": 0
+ },
+ {
+  "i": 139,
+  "still": "140",
+  "stem": "0140",
+  "start": 305.84,
+  "end": 308.0,
+  "section": "06",
+  "sentence": "Its owner might be harmless.",
+  "sub": 0
+ },
+ {
+  "i": 140,
+  "still": "141",
+  "stem": "0141",
+  "start": 308.0,
+  "end": 310.48,
+  "section": "06",
+  "sentence": "From inside the shelter, the difference isn't always obvious.",
+  "sub": 0
+ },
+ {
+  "i": 141,
+  "still": "142",
+  "stem": "0142",
+  "start": 310.48,
+  "end": 312.56,
+  "section": "06",
+  "sentence": "From inside the shelter, the difference isn't always obvious.",
+  "sub": 0
+ },
+ {
+  "i": 142,
+  "still": "143",
+  "stem": "0143",
+  "start": 312.56,
+  "end": 313.28,
+  "section": "06",
+  "sentence": "People could choose where to rest, use the shelter and tend a fire, but even a carefully prepared place had limits.",
+  "sub": 0
+ },
+ {
+  "i": 143,
+  "still": "144",
+  "stem": "0144",
+  "start": 313.28,
+  "end": 315.52,
+  "section": "06",
+  "sentence": "People could choose where to rest, use the shelter and tend a fire, but even a carefully prepared place had limits.",
+  "sub": 0
+ },
+ {
+  "i": 144,
+  "still": "145",
+  "stem": "0145",
+  "start": 315.52,
+  "end": 318.0,
+  "section": "06",
+  "sentence": "People could choose where to rest, use the shelter and tend a fire, but even a carefully prepared place had limits.",
+  "sub": 0
+ },
+ {
+  "i": 145,
+  "still": "146",
+  "stem": "0146",
+  "start": 318.0,
+  "end": 322.8,
+  "section": "06",
+  "sentence": "People could choose where to rest, use the shelter and tend a fire, but even a carefully prepared place had limits.",
+  "sub": 0
+ },
+ {
+  "i": 146,
+  "still": "147",
+  "stem": "0147",
+  "start": 322.8,
+  "end": 325.0,
+  "section": "06",
+  "sentence": "A change in weather could bring cold or rain.",
+  "sub": 0
+ },
+ {
+  "i": 147,
+  "still": "148",
+  "stem": "0148",
+  "start": 325.0,
+  "end": 327.52,
+  "section": "06",
+  "sentence": "A sleeping person still had to let go of attention for hours.",
+  "sub": 0
+ },
+ {
+  "i": 148,
+  "still": "149",
+  "stem": "0149",
+  "start": 327.52,
+  "end": 329.8,
+  "section": "06",
+  "sentence": "A sleeping person still had to let go of attention for hours.",
+  "sub": 0
+ },
+ {
+  "i": 149,
+  "still": "150",
+  "stem": "0150",
+  "start": 329.8,
+  "end": 332.0,
+  "section": "06",
+  "sentence": "And that's the strange bargain at the heart of every night: to recover from the day,",
+  "sub": 0
+ },
+ {
+  "i": 150,
+  "still": "151",
+  "stem": "0151",
+  "start": 332.0,
+  "end": 334.6,
+  "section": "06",
+  "sentence": "And that's the strange bargain at the heart of every night: to recover from the day,",
+  "sub": 0
+ },
+ {
+  "i": 151,
+  "still": "152",
+  "stem": "0152",
+  "start": 334.6,
+  "end": 337.0,
+  "section": "06",
+  "sentence": "they had to become less aware of the world around them.",
+  "sub": 0
+ },
+ {
+  "i": 152,
+  "still": "153",
+  "stem": "0153",
+  "start": 337.0,
+  "end": 339.4,
+  "section": "06",
+  "sentence": "they had to become less aware of the world around them.",
+  "sub": 0
+ },
+ {
+  "i": 153,
+  "still": "154",
+  "stem": "0154",
+  "start": 339.4,
+  "end": 341.6,
+  "section": "06",
+  "sentence": "So what if a sound came from the grass outside?",
+  "sub": 0
+ },
+ {
+  "i": 154,
+  "still": "155",
+  "stem": "0155",
+  "start": 341.6,
+  "end": 343.44,
+  "section": "06",
+  "sentence": "So what if a sound came from the grass outside?",
+  "sub": 0
+ },
+ {
+  "i": 155,
+  "still": "156",
+  "stem": "0156",
+  "start": 343.44,
+  "end": 346.48,
+  "section": "06",
+  "sentence": "Imagine a scrape beyond the shelter.",
+  "sub": 0
+ },
+ {
+  "i": 156,
+  "still": "157",
+  "stem": "0157",
+  "start": 346.48,
+  "end": 349.8,
+  "section": "06",
+  "sentence": "Then the sound again.",
+  "sub": 0
+ },
+ {
+  "i": 157,
+  "still": "158",
+  "stem": "0158",
+  "start": 349.8,
+  "end": 351.04,
+  "section": "06",
+  "sentence": "Inside, not everyone responds in the same way.",
+  "sub": 0
+ },
+ {
+  "i": 158,
+  "still": "159",
+  "stem": "0159",
+  "start": 351.04,
+  "end": 354.76,
+  "section": "06",
+  "sentence": "Inside, not everyone responds in the same way.",
+  "sub": 0
+ },
+ {
+  "i": 159,
+  "still": "160",
+  "stem": "0160",
+  "start": 354.76,
+  "end": 356.6,
+  "section": "06",
+  "sentence": "Some remain asleep.",
+  "sub": 0
+ },
+ {
+  "i": 160,
+  "still": "161",
+  "stem": "0161",
+  "start": 356.6,
+  "end": 358.72,
+  "section": "06",
+  "sentence": "Others lift their heads.",
+  "sub": 0
+ },
+ {
+  "i": 161,
+  "still": "162",
+  "stem": "0162",
+  "start": 358.72,
+  "end": 361.0,
+  "section": "06",
+  "sentence": "Eyes turn toward the entrance, where the firelight ends.",
+  "sub": 0
+ },
+ {
+  "i": 162,
+  "still": "163",
+  "stem": "0163",
+  "start": 361.0,
+  "end": 363.56,
+  "section": "06",
+  "sentence": "In daylight, a moving branch is just a moving branch.",
+  "sub": 0
+ },
+ {
+  "i": 163,
+  "still": "164",
+  "stem": "0164",
+  "start": 363.56,
+  "end": 366.0,
+  "section": "06",
+  "sentence": "In daylight, a moving branch is just a moving branch.",
+  "sub": 0
+ },
+ {
+  "i": 164,
+  "still": "165",
+  "stem": "0165",
+  "start": 366.0,
+  "end": 368.6,
+  "section": "06",
+  "sentence": "At night, with the source hidden, it can hold a whole collection of possibilities.",
+  "sub": 0
+ },
+ {
+  "i": 165,
+  "still": "166",
+  "stem": "0166",
+  "start": 368.6,
+  "end": 371.2,
+  "section": "06",
+  "sentence": "At night, with the source hidden, it can hold a whole collection of possibilities.",
+  "sub": 0
+ },
+ {
+  "i": 166,
+  "still": "167",
+  "stem": "0167",
+  "start": 371.2,
+  "end": 373.8,
+  "section": "06",
+  "sentence": "At night, with the source hidden, it can hold a whole collection of possibilities.",
+  "sub": 0
+ },
+ {
+  "i": 167,
+  "still": "168",
+  "stem": "0168",
+  "start": 373.8,
+  "end": 376.0,
+  "section": "06",
+  "sentence": "A gust of wind.",
+  "sub": 0
+ },
+ {
+  "i": 168,
+  "still": "169",
+  "stem": "0169",
+  "start": 376.0,
+  "end": 378.6,
+  "section": "06",
+  "sentence": "Something larger.",
+  "sub": 0
+ },
+ {
+  "i": 169,
+  "still": "170",
+  "stem": "0170",
+  "start": 378.6,
+  "end": 380.2,
+  "section": "06",
+  "sentence": "The scrape stops.",
+  "sub": 0
+ },
+ {
+  "i": 170,
+  "still": "171",
+  "stem": "0171",
+  "start": 380.2,
+  "end": 382.08,
+  "section": "06",
+  "sentence": "The night continues.",
+  "sub": 0
+ },
+ {
+  "i": 171,
+  "still": "172",
+  "stem": "0172",
+  "start": 382.08,
+  "end": 384.4,
+  "section": "06",
+  "sentence": "People settle again, but perhaps not all at the same moment.",
+  "sub": 0
+ },
+ {
+  "i": 172,
+  "still": "173",
+  "stem": "0173",
+  "start": 384.4,
+  "end": 386.84,
+  "section": "06",
+  "sentence": "People settle again, but perhaps not all at the same moment.",
+  "sub": 0
+ },
+ {
+  "i": 173,
+  "still": "174",
+  "stem": "0174",
+  "start": 386.84,
+  "end": 389.2,
+  "section": "06",
+  "sentence": "It's easy to picture one assigned guard standing at the entrance until sunrise.",
+  "sub": 0
+ },
+ {
+  "i": 174,
+  "still": "175",
+  "stem": "0175",
+  "start": 389.2,
+  "end": 392.0,
+  "section": "06",
+  "sentence": "It's easy to picture one assigned guard standing at the entrance until sunrise.",
+  "sub": 0
+ },
+ {
+  "i": 175,
+  "still": "176",
+  "stem": "0176",
+  "start": 392.0,
+  "end": 395.2,
+  "section": "06",
+  "sentence": "And it's possible that groups used watches in some situations.",
+  "sub": 0
+ },
+ {
+  "i": 176,
+  "still": "177",
+  "stem": "0177",
+  "start": 395.2,
+  "end": 395.92,
+  "section": "06",
+  "sentence": "But an ancient layer of grass cannot tell us that a guard stood there every night.",
+  "sub": 0
+ },
+ {
+  "i": 177,
+  "still": "178",
+  "stem": "0178",
+  "start": 395.92,
+  "end": 398.0,
+  "section": "06",
+  "sentence": "But an ancient layer of grass cannot tell us that a guard stood there every night.",
+  "sub": 0
+ },
+ {
+  "i": 178,
+  "still": "179",
+  "stem": "0179",
+  "start": 398.0,
+  "end": 400.08,
+  "section": "06",
+  "sentence": "But an ancient layer of grass cannot tell us that a guard stood there every night.",
+  "sub": 0
+ },
+ {
+  "i": 179,
+  "still": "180",
+  "stem": "0180",
+  "start": 400.08,
+  "end": 400.8,
+  "section": "07",
+  "sentence": "But an ancient layer of grass cannot tell us that a guard stood there every night.",
+  "sub": 0
+ },
+ {
+  "i": 180,
+  "still": "181",
+  "stem": "0181",
+  "start": 400.8,
+  "end": 403.12,
+  "section": "07",
+  "sentence": "There is another possibility.",
+  "sub": 0
+ },
+ {
+  "i": 181,
+  "still": "182",
+  "stem": "0182",
+  "start": 403.12,
+  "end": 403.68,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 182,
+  "still": "183",
+  "stem": "0183",
+  "start": 403.68,
+  "end": 404.08,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 183,
+  "still": "184",
+  "stem": "0184",
+  "start": 404.08,
+  "end": 404.2,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 184,
+  "still": "185",
+  "stem": "0185",
+  "start": 404.2,
+  "end": 405.28,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 185,
+  "still": "186",
+  "stem": "0186",
+  "start": 405.28,
+  "end": 406.36,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 186,
+  "still": "187",
+  "stem": "0187",
+  "start": 406.36,
+  "end": 406.84,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 187,
+  "still": "188",
+  "stem": "0188",
+  "start": 406.84,
+  "end": 410.48,
+  "section": "07",
+  "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time.",
+  "sub": 0
+ },
+ {
+  "i": 188,
+  "still": "189",
+  "stem": "0189",
+  "start": 410.48,
+  "end": 419.2,
+  "section": "07",
+  "sentence": "In a study in Tanzania,",
+  "sub": 0
+ },
+ {
+  "i": 189,
+  "still": "190",
+  "stem": "0190",
+  "start": 419.2,
+  "end": 423.28,
+  "section": "07",
+  "sentence": "researchers used wrist-worn activity monitors to estimate the sleep of thirty-three Hadza",
+  "sub": 0
+ },
+ {
+  "i": 190,
+  "still": "191",
+  "stem": "0191",
+  "start": 423.28,
+  "end": 427.92,
+  "section": "07",
+  "sentence": "The Hadza are a living community with their own history; the study tells us about its participants,",
+  "sub": 0
+ },
+ {
+  "i": 191,
+  "still": "192",
+  "stem": "0192",
+  "start": 427.92,
+  "end": 431.56,
+  "section": "07",
+  "sentence": "not a direct record of ancient sleep.",
+  "sub": 0
+ },
+ {
+  "i": 192,
+  "still": "193",
+  "stem": "0193",
+  "start": 431.56,
+  "end": 435.68,
+  "section": "07",
+  "sentence": "The researchers found that the monitored adults were all estimated to be asleep at the same time during only",
+  "sub": 0
+ },
+ {
+  "i": 193,
+  "still": "194",
+  "stem": "0194",
+  "start": 435.68,
+  "end": 439.68,
+  "section": "07",
+  "sentence": "The researchers found that the monitored adults were all estimated to be asleep at the same time during only",
+  "sub": 0
+ },
+ {
+  "i": 194,
+  "still": "195",
+  "stem": "0195",
+  "start": 439.68,
+  "end": 446.52,
+  "section": "07",
+  "sentence": "Eighteen minutes across twenty nights, not eighteen minutes every night.",
+  "sub": 0
+ },
+ {
+  "i": 195,
+  "still": "196",
+  "stem": "0196",
+  "start": 446.52,
+  "end": 453.2,
+  "section": "07",
+  "sentence": "Some people fell asleep later.",
+  "sub": 0
+ },
+ {
+  "i": 196,
+  "still": "197",
+  "stem": "0197",
+  "start": 453.2,
+  "end": 457.0,
+  "section": "07",
+  "sentence": "Some were active during the night for reasons of their own.",
+  "sub": 0
+ },
+ {
+  "i": 197,
+  "still": "198",
+  "stem": "0198",
+  "start": 457.0,
+  "end": 459.24,
+  "section": "07",
+  "sentence": "Researchers have proposed that differences in sleeping times could sometimes give a group more opportunities to notice a threat.",
+  "sub": 0
+ },
+ {
+  "i": 198,
+  "still": "199",
+  "stem": "0199",
+  "start": 459.24,
+  "end": 463.0,
+  "section": "07",
+  "sentence": "Researchers have proposed that differences in sleeping times could sometimes give a group more opportunities to notice a threat.",
+  "sub": 0
+ },
+ {
+  "i": 199,
+  "still": "200",
+  "stem": "0200",
+  "start": 463.0,
+  "end": 466.04,
+  "section": "07",
+  "sentence": "This idea is known as the sentinel hypothesis.",
+  "sub": 0
+ },
+ {
+  "i": 200,
+  "still": "201",
+  "stem": "0201",
+  "start": 466.04,
+  "end": 470.36,
+  "section": "07",
+  "sentence": "Notice the difference between the observation and the explanation.",
+  "sub": 0
+ },
+ {
+  "i": 201,
+  "still": "202",
+  "stem": "0202",
+  "start": 470.36,
+  "end": 477.72,
+  "section": "07",
+  "sentence": "The monitors estimated whether people were asleep or active; they did not prove that every awake person was keeping watch.",
+  "sub": 0
+ },
+ {
+  "i": 202,
+  "still": "203",
+  "stem": "0203",
+  "start": 477.72,
+  "end": 482.4,
+  "section": "07",
+  "sentence": "And the study cannot establish exactly how people slept at Border Cave.",
+  "sub": 0
+ },
+ {
+  "i": 203,
+  "still": "204",
+  "stem": "0204",
+  "start": 482.4,
+  "end": 486.32,
+  "section": "07",
+  "sentence": "Still, it opens up a different way to think about the night.",
+  "sub": 0
+ },
+ {
+  "i": 204,
+  "still": "205",
+  "stem": "0205",
+  "start": 486.32,
+  "end": 490.28,
+  "section": "07",
+  "sentence": "A sleeping community isn't necessarily a room where every pair of eyes closes at once.",
+  "sub": 0
+ },
+ {
+  "i": 205,
+  "still": "206",
+  "stem": "0206",
+  "start": 490.28,
+  "end": 492.6,
+  "section": "08",
+  "sentence": "A sleeping community isn't necessarily a room where every pair of eyes closes at once.",
+  "sub": 0
+ },
+ {
+  "i": 206,
+  "still": "207",
+  "stem": "0207",
+  "start": 492.6,
+  "end": 495.36,
+  "section": "08",
+  "sentence": "Back at the shelter, the fire has burned lower.",
+  "sub": 0
+ },
+ {
+  "i": 207,
+  "still": "208",
+  "stem": "0208",
+  "start": 495.36,
+  "end": 498.2,
+  "section": "08",
+  "sentence": "The space nearest the entrance is darker now.",
+  "sub": 0
+ },
+ {
+  "i": 208,
+  "still": "209",
+  "stem": "0209",
+  "start": 498.2,
+  "end": 501.48,
+  "section": "08",
+  "sentence": "Beyond it, the landscape is still moving.",
+  "sub": 0
+ },
+ {
+  "i": 209,
+  "still": "210",
+  "stem": "0210",
+  "start": 501.48,
+  "end": 504.88,
+  "section": "08",
+  "sentence": "And the next challenge might be closer than the bushes.",
+  "sub": 0
+ },
+ {
+  "i": 210,
+  "still": "211",
+  "stem": "0211",
+  "start": 504.88,
+  "end": 507.2,
+  "section": "08",
+  "sentence": "Even without a threat outside, a night on the ground takes preparation.",
+  "sub": 0
+ },
+ {
+  "i": 211,
+  "still": "212",
+  "stem": "0212",
+  "start": 507.2,
+  "end": 509.28,
+  "section": "08",
+  "sentence": "Even without a threat outside, a night on the ground takes preparation.",
+  "sub": 0
+ },
+ {
+  "i": 212,
+  "still": "213",
+  "stem": "0213",
+  "start": 509.28,
+  "end": 511.56,
+  "section": "08",
+  "sentence": "The surface beneath the body matters.",
+  "sub": 0
+ },
+ {
+  "i": 213,
+  "still": "214",
+  "stem": "0214",
+  "start": 511.56,
+  "end": 513.52,
+  "section": "08",
+  "sentence": "So do the air, the wind, the heat of the fire, and the space around other sleepers.",
+  "sub": 0
+ },
+ {
+  "i": 214,
+  "still": "215",
+  "stem": "0215",
+  "start": 513.52,
+  "end": 515.64,
+  "section": "08",
+  "sentence": "So do the air, the wind, the heat of the fire, and the space around other sleepers.",
+  "sub": 0
+ },
+ {
+  "i": 215,
+  "still": "216",
+  "stem": "0216",
+  "start": 515.64,
+  "end": 516.56,
+  "section": "08",
+  "sentence": "So do the air, the wind, the heat of the fire, and the space around other sleepers.",
+  "sub": 0
+ },
+ {
+  "i": 216,
+  "still": "217",
+  "stem": "0217",
+  "start": 516.56,
+  "end": 519.28,
+  "section": "08",
+  "sentence": "Some may want to be near the warmth.",
+  "sub": 0
+ },
+ {
+  "i": 217,
+  "still": "218",
+  "stem": "0218",
+  "start": 519.28,
+  "end": 521.84,
+  "section": "08",
+  "sentence": "Others may shift away when the smoke changes direction.",
+  "sub": 0
+ },
+ {
+  "i": 218,
+  "still": "219",
+  "stem": "0219",
+  "start": 521.84,
+  "end": 524.36,
+  "section": "08",
+  "sentence": "People make room, adjust their positions and settle again.",
+  "sub": 0
+ },
+ {
+  "i": 219,
+  "still": "220",
+  "stem": "0220",
+  "start": 524.36,
+  "end": 524.96,
+  "section": "08",
+  "sentence": "People make room, adjust their positions and settle again.",
+  "sub": 0
+ },
+ {
+  "i": 220,
+  "still": "221",
+  "stem": "0221",
+  "start": 524.96,
+  "end": 526.72,
+  "section": "08",
+  "sentence": "A crowded place can be reassuring; it can also be full of elbows.",
+  "sub": 0
+ },
+ {
+  "i": 221,
+  "still": "222",
+  "stem": "0222",
+  "start": 526.72,
+  "end": 528.56,
+  "section": "08",
+  "sentence": "A crowded place can be reassuring; it can also be full of elbows.",
+  "sub": 0
+ },
+ {
+  "i": 222,
+  "still": "223",
+  "stem": "0223",
+  "start": 528.56,
+  "end": 529.2,
+  "section": "08",
+  "sentence": "A crowded place can be reassuring; it can also be full of elbows.",
+  "sub": 0
+ },
+ {
+  "i": 223,
+  "still": "224",
+  "stem": "0224",
+  "start": 529.2,
+  "end": 531.72,
+  "section": "08",
+  "sentence": "And what did they wear against the night air?",
+  "sub": 0
+ },
+ {
+  "i": 224,
+  "still": "225",
+  "stem": "0225",
+  "start": 531.72,
+  "end": 534.2,
+  "section": "08",
+  "sentence": "And what did they wear against the night air?",
+  "sub": 0
+ },
+ {
+  "i": 225,
+  "still": "226",
+  "stem": "0226",
+  "start": 534.2,
+  "end": 536.8,
+  "section": "08",
+  "sentence": "Clothing is difficult to trace this far back because materials such as skin and plant fibre usually decay.",
+  "sub": 0
+ },
+ {
+  "i": 226,
+  "still": "227",
+  "stem": "0227",
+  "start": 536.8,
+  "end": 539.8,
+  "section": "08",
+  "sentence": "Clothing is difficult to trace this far back because materials such as skin and plant fibre usually decay.",
+  "sub": 0
+ },
+ {
+  "i": 227,
+  "still": "228",
+  "stem": "0228",
+  "start": 539.8,
+  "end": 543.52,
+  "section": "08",
+  "sentence": "The exact garments worn at Border Cave are not known.",
+  "sub": 0
+ },
+ {
+  "i": 228,
+  "still": "229",
+  "stem": "0229",
+  "start": 543.52,
+  "end": 545.64,
+  "section": "08",
+  "sentence": "There are later clues elsewhere.",
+  "sub": 0
+ },
+ {
+  "i": 229,
+  "still": "230",
+  "stem": "0230",
+  "start": 545.64,
+  "end": 549.0,
+  "section": "08",
+  "sentence": "researchers found bone tools and marks on animal bones dating to roughly ninety to one hundred and twenty thousand years ago.",
+  "sub": 0
+ },
+ {
+  "i": 230,
+  "still": "231",
+  "stem": "0231",
+  "start": 549.0,
+  "end": 552.28,
+  "section": "08",
+  "sentence": "researchers found bone tools and marks on animal bones dating to roughly ninety to one hundred and twenty thousand years ago.",
+  "sub": 0
+ },
+ {
+  "i": 231,
+  "still": "232",
+  "stem": "0232",
+  "start": 552.28,
+  "end": 555.4,
+  "section": "08",
+  "sentence": "researchers found bone tools and marks on animal bones dating to roughly ninety to one hundred and twenty thousand years ago.",
+  "sub": 0
+ },
+ {
+  "i": 232,
+  "still": "233",
+  "stem": "0233",
+  "start": 555.4,
+  "end": 558.0,
+  "section": "08",
+  "sentence": "Together, they suggest people processed hides and fur; clothing is one possible use, though not the only one.",
+  "sub": 0
+ },
+ {
+  "i": 233,
+  "still": "234",
+  "stem": "0234",
+  "start": 558.0,
+  "end": 561.64,
+  "section": "08",
+  "sentence": "Together, they suggest people processed hides and fur; clothing is one possible use, though not the only one.",
+  "sub": 0
+ },
+ {
+  "i": 234,
+  "still": "235",
+  "stem": "0235",
+  "start": 561.64,
+  "end": 565.04,
+  "section": "08",
+  "sentence": "That discovery is from a different place and a later time.",
+  "sub": 0
+ },
+ {
+  "i": 235,
+  "still": "236",
+  "stem": "0236",
+  "start": 565.04,
+  "end": 568.32,
+  "section": "08",
+  "sentence": "It doesn't tell us the cut or appearance of anyone's clothing at Border Cave.",
+  "sub": 0
+ },
+ {
+  "i": 236,
+  "still": "237",
+  "stem": "0237",
+  "start": 568.32,
+  "end": 569.24,
+  "section": "08",
+  "sentence": "What it does show is how much thought can be hidden inside an ordinary material.",
+  "sub": 0
+ },
+ {
+  "i": 237,
+  "still": "238",
+  "stem": "0238",
+  "start": 569.24,
+  "end": 571.52,
+  "section": "08",
+  "sentence": "What it does show is how much thought can be hidden inside an ordinary material.",
+  "sub": 0
+ },
+ {
+  "i": 238,
+  "still": "239",
+  "stem": "0239",
+  "start": 571.52,
+  "end": 574.76,
+  "section": "08",
+  "sentence": "What it does show is how much thought can be hidden inside an ordinary material.",
+  "sub": 0
+ },
+ {
+  "i": 239,
+  "still": "240",
+  "stem": "0240",
+  "start": 574.76,
+  "end": 577.0,
+  "section": "08",
+  "sentence": "A skin, a length of plant fibre, a layer of grass: each could have many possible uses.",
+  "sub": 0
+ },
+ {
+  "i": 240,
+  "still": "241",
+  "stem": "0241",
+  "start": 577.0,
+  "end": 579.76,
+  "section": "08",
+  "sentence": "A skin, a length of plant fibre, a layer of grass: each could have many possible uses.",
+  "sub": 0
+ },
+ {
+  "i": 241,
+  "still": "242",
+  "stem": "0242",
+  "start": 579.76,
+  "end": 582.28,
+  "section": "08",
+  "sentence": "Which of them were used on one particular night is a harder question.",
+  "sub": 0
+ },
+ {
+  "i": 242,
+  "still": "243",
+  "stem": "0243",
+  "start": 582.28,
+  "end": 584.4,
+  "section": "08",
+  "sentence": "Which of them were used on one particular night is a harder question.",
+  "sub": 0
+ },
+ {
+  "i": 243,
+  "still": "244",
+  "stem": "0244",
+  "start": 584.4,
+  "end": 586.0,
+  "section": "08",
+  "sentence": "The people at the shelter have another few hours before dawn.",
+  "sub": 0
+ },
+ {
+  "i": 244,
+  "still": "245",
+  "stem": "0245",
+  "start": 586.0,
+  "end": 588.08,
+  "section": "08",
+  "sentence": "The people at the shelter have another few hours before dawn.",
+  "sub": 0
+ },
+ {
+  "i": 245,
+  "still": "246",
+  "stem": "0246",
+  "start": 588.08,
+  "end": 590.4,
+  "section": "08",
+  "sentence": "The fire settles.",
+  "sub": 0
+ },
+ {
+  "i": 246,
+  "still": "247",
+  "stem": "0247",
+  "start": 590.4,
+  "end": 592.72,
+  "section": "08",
+  "sentence": "The ground cools.",
+  "sub": 0
+ },
+ {
+  "i": 247,
+  "still": "248",
+  "stem": "0248",
+  "start": 592.72,
+  "end": 595.0,
+  "section": "08",
+  "sentence": "Around them, some sleep deeply; others may wake, shift and lie down again.",
+  "sub": 0
+ },
+ {
+  "i": 248,
+  "still": "249",
+  "stem": "0249",
+  "start": 595.0,
+  "end": 597.12,
+  "section": "08",
+  "sentence": "Around them, some sleep deeply; others may wake, shift and lie down again.",
+  "sub": 0
+ },
+ {
+  "i": 249,
+  "still": "250",
+  "stem": "0250",
+  "start": 597.12,
+  "end": 600.96,
+  "section": "09",
+  "sentence": "Then the darkness begins to change.",
+  "sub": 0
+ },
+ {
+  "i": 250,
+  "still": "251",
+  "stem": "0251",
+  "start": 600.96,
+  "end": 603.0,
+  "section": "09",
+  "sentence": "At first, the shelter mouth is only a paler shape against the rock.",
+  "sub": 0
+ },
+ {
+  "i": 251,
+  "still": "252",
+  "stem": "0252",
+  "start": 603.0,
+  "end": 605.08,
+  "section": "09",
+  "sentence": "At first, the shelter mouth is only a paler shape against the rock.",
+  "sub": 0
+ },
+ {
+  "i": 252,
+  "still": "253",
+  "stem": "0253",
+  "start": 605.08,
+  "end": 608.68,
+  "section": "09",
+  "sentence": "Then the surrounding grasses begin to separate from the shadows.",
+  "sub": 0
+ },
+ {
+  "i": 253,
+  "still": "254",
+  "stem": "0254",
+  "start": 608.68,
+  "end": 610.92,
+  "section": "09",
+  "sentence": "The outlines of trees return.",
+  "sub": 0
+ },
+ {
+  "i": 254,
+  "still": "255",
+  "stem": "0255",
+  "start": 610.92,
+  "end": 613.2,
+  "section": "09",
+  "sentence": "The land that seemed so uncertain in the dark becomes visible again, one detail at a time.",
+  "sub": 0
+ },
+ {
+  "i": 255,
+  "still": "256",
+  "stem": "0256",
+  "start": 613.2,
+  "end": 615.2,
+  "section": "09",
+  "sentence": "The land that seemed so uncertain in the dark becomes visible again, one detail at a time.",
+  "sub": 0
+ },
+ {
+  "i": 256,
+  "still": "257",
+  "stem": "0257",
+  "start": 615.2,
+  "end": 617.2,
+  "section": "09",
+  "sentence": "The land that seemed so uncertain in the dark becomes visible again, one detail at a time.",
+  "sub": 0
+ },
+ {
+  "i": 257,
+  "still": "258",
+  "stem": "0258",
+  "start": 617.2,
+  "end": 619.0,
+  "section": "09",
+  "sentence": "The community stirs.",
+  "sub": 0
+ },
+ {
+  "i": 258,
+  "still": "259",
+  "stem": "0259",
+  "start": 619.0,
+  "end": 622.64,
+  "section": "09",
+  "sentence": "People rise from the grass, step around one another and move toward the day.",
+  "sub": 0
+ },
+ {
+  "i": 259,
+  "still": "260",
+  "stem": "0260",
+  "start": 622.64,
+  "end": 623.68,
+  "section": "09",
+  "sentence": "The place that held sleepers through the night becomes a place for work and movement again.",
+  "sub": 0
+ },
+ {
+  "i": 260,
+  "still": "261",
+  "stem": "0261",
+  "start": 623.68,
+  "end": 625.0,
+  "section": "09",
+  "sentence": "The place that held sleepers through the night becomes a place for work and movement again.",
+  "sub": 0
+ },
+ {
+  "i": 261,
+  "still": "262",
+  "stem": "0262",
+  "start": 625.0,
+  "end": 628.56,
+  "section": "09",
+  "sentence": "The place that held sleepers through the night becomes a place for work and movement again.",
+  "sub": 0
+ },
+ {
+  "i": 262,
+  "still": "263",
+  "stem": "0263",
+  "start": 628.56,
+  "end": 631.2,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 263,
+  "still": "264",
+  "stem": "0264",
+  "start": 631.2,
+  "end": 632.0,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 264,
+  "still": "265",
+  "stem": "0265",
+  "start": 632.0,
+  "end": 633.64,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 265,
+  "still": "266",
+  "stem": "0266",
+  "start": 633.64,
+  "end": 634.0,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 266,
+  "still": "267",
+  "stem": "0267",
+  "start": 634.0,
+  "end": 634.52,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 267,
+  "still": "268",
+  "stem": "0268",
+  "start": 634.52,
+  "end": 636.2,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 268,
+  "still": "269",
+  "stem": "0269",
+  "start": 636.2,
+  "end": 638.04,
+  "section": "09",
+  "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone.",
+  "sub": 0
+ },
+ {
+  "i": 269,
+  "still": "270",
+  "stem": "0270",
+  "start": 638.04,
+  "end": 641.0,
+  "section": "09",
+  "sentence": "They cannot tell us every sound of the night or the exact way the community responded to it.",
+  "sub": 0
+ },
+ {
+  "i": 270,
+  "still": "271",
+  "stem": "0271",
+  "start": 641.0,
+  "end": 644.0,
+  "section": "09",
+  "sentence": "They cannot tell us every sound of the night or the exact way the community responded to it.",
+  "sub": 0
+ },
+ {
+  "i": 271,
+  "still": "272",
+  "stem": "0272",
+  "start": 644.0,
+  "end": 647.52,
+  "section": "09",
+  "sentence": "But they offer a different picture from the idea that ancient people simply lay down in the dark and took their chances.",
+  "sub": 0
+ },
+ {
+  "i": 272,
+  "still": "273",
+  "stem": "0273",
+  "start": 647.52,
+  "end": 649.6,
+  "section": "09",
+  "sentence": "But they offer a different picture from the idea that ancient people simply lay down in the dark and took their chances.",
+  "sub": 0
+ },
+ {
+  "i": 273,
+  "still": "274",
+  "stem": "0274",
+  "start": 649.6,
+  "end": 651.2,
+  "section": "09",
+  "sentence": "But they offer a different picture from the idea that ancient people simply lay down in the dark and took their chances.",
+  "sub": 0
+ },
+ {
+  "i": 274,
+  "still": "275",
+  "stem": "0275",
+  "start": 651.2,
+  "end": 652.56,
+  "section": "09",
+  "sentence": "They could prepare a place.",
+  "sub": 0
+ },
+ {
+  "i": 275,
+  "still": "276",
+  "stem": "0276",
+  "start": 652.56,
+  "end": 654.8,
+  "section": "09",
+  "sentence": "They could use the landscape.",
+  "sub": 0
+ },
+ {
+  "i": 276,
+  "still": "277",
+  "stem": "0277",
+  "start": 654.8,
+  "end": 656.64,
+  "section": "09",
+  "sentence": "They could be near other people.",
+  "sub": 0
+ },
+ {
+  "i": 277,
+  "still": "278",
+  "stem": "0278",
+  "start": 656.64,
+  "end": 657.28,
+  "section": "09",
+  "sentence": "And, even then, the night could surprise them.",
+  "sub": 0
+ },
+ {
+  "i": 278,
+  "still": "279",
+  "stem": "0279",
+  "start": 657.28,
+  "end": 659.52,
+  "section": "09",
+  "sentence": "And, even then, the night could surprise them.",
+  "sub": 0
+ },
+ {
+  "i": 279,
+  "still": "280",
+  "stem": "0280",
+  "start": 659.52,
+  "end": 661.4,
+  "section": "10",
+  "sentence": "Back in your room, the floor creaks again.",
+  "sub": 0
+ },
+ {
+  "i": 280,
+  "still": "281",
+  "stem": "0281",
+  "start": 661.4,
+  "end": 664.88,
+  "section": "10",
+  "sentence": "Back in your room, the floor creaks again.",
+  "sub": 0
+ },
+ {
+  "i": 281,
+  "still": "282",
+  "stem": "0282",
+  "start": 664.88,
+  "end": 667.6,
+  "section": "10",
+  "sentence": "This time, you know what made it.",
+  "sub": 0
+ },
+ {
+  "i": 282,
+  "still": "283",
+  "stem": "0283",
+  "start": 667.6,
+  "end": 669.28,
+  "section": "10",
+  "sentence": "You check the door once more anyway, return to bed, and let the quiet settle.",
+  "sub": 0
+ },
+ {
+  "i": 283,
+  "still": "284",
+  "stem": "0284",
+  "start": 669.28,
+  "end": 671.12,
+  "section": "10",
+  "sentence": "You check the door once more anyway, return to bed, and let the quiet settle.",
+  "sub": 0
+ },
+ {
+  "i": 284,
+  "still": "285",
+  "stem": "0285",
+  "start": 671.12,
+  "end": 673.0,
+  "section": "10",
+  "sentence": "You check the door once more anyway, return to bed, and let the quiet settle.",
+  "sub": 0
+ },
+ {
+  "i": 285,
+  "still": "286",
+  "stem": "0286",
+  "start": 673.0,
+  "end": 675.0,
+  "section": "10",
+  "sentence": "The surroundings have changed.",
+  "sub": 0
+ },
+ {
+  "i": 286,
+  "still": "287",
+  "stem": "0287",
+  "start": 675.0,
+  "end": 677.2,
+  "section": "10",
+  "sentence": "The question hasn't.",
+  "sub": 0
+ },
+ {
+  "i": 287,
+  "still": "288",
+  "stem": "0288",
+  "start": 677.2,
+  "end": 679.0,
+  "section": "10",
+  "sentence": "Can you go back to sleep?",
+  "sub": 0
+ },
+ {
+  "i": 288,
+  "still": "289",
+  "stem": "0289",
+  "start": 679.0,
+  "end": 682.36,
+  "section": "10",
+  "sentence": "Can you go back to sleep?",
+  "sub": 0
+ }
+]

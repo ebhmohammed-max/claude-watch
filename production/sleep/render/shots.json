@@ -1,0 +1,1197 @@
+{
+ "labels": {
+  "001": "MODERN",
+  "002": "MODERN",
+  "003": "MODERN",
+  "004": "MODERN",
+  "005": "MODERN",
+  "006": "MODERN",
+  "007": "MODERN",
+  "008": "MODERN",
+  "009": "MODERN",
+  "010": "MODERN",
+  "011": "MODERN",
+  "012": "MODERN",
+  "013": "MODERN",
+  "014": "MODERN",
+  "015": "MODERN",
+  "016": "MODERN",
+  "017": "MODERN",
+  "018": "MODERN",
+  "019": "MODERN",
+  "020": "MODERN",
+  "021": "MODERN",
+  "022": "MODERN",
+  "023": "MODERN",
+  "024": "MODERN",
+  "025": "MODERN",
+  "026": "MODERN",
+  "027": "MODERN",
+  "028": "MODERN",
+  "029": "MODERN",
+  "030": "MODERN",
+  "031": "MODERN",
+  "032": "LANDSCAPE",
+  "033": "LANDSCAPE",
+  "034": "LANDSCAPE",
+  "035": "LANDSCAPE",
+  "036": "LANDSCAPE",
+  "037": "LANDSCAPE",
+  "038": "LANDSCAPE",
+  "039": "LANDSCAPE",
+  "040": "LANDSCAPE",
+  "041": "LANDSCAPE",
+  "042": "LANDSCAPE",
+  "043": "LANDSCAPE",
+  "044": "LANDSCAPE",
+  "045": "LANDSCAPE",
+  "046": "LANDSCAPE",
+  "047": "LANDSCAPE",
+  "048": "LANDSCAPE",
+  "049": "LANDSCAPE",
+  "050": "LANDSCAPE",
+  "051": "LANDSCAPE",
+  "052": "LANDSCAPE",
+  "053": "LANDSCAPE",
+  "054": "LANDSCAPE",
+  "055": "LANDSCAPE",
+  "056": "LANDSCAPE",
+  "057": "LANDSCAPE",
+  "058": "LANDSCAPE",
+  "059": "LANDSCAPE",
+  "060": "LANDSCAPE",
+  "061": "LANDSCAPE",
+  "062": "RECON",
+  "063": "RECON",
+  "064": "RECON",
+  "065": "RECON",
+  "066": "RECON",
+  "067": "RECON",
+  "068": "RECON",
+  "069": "RECON",
+  "070": "RECON",
+  "071": "RECON",
+  "072": "RECON",
+  "073": "RECON",
+  "074": "RECON",
+  "075": "RECON",
+  "076": "RECON",
+  "077": "RECON",
+  "078": "RECON",
+  "079": "RECON",
+  "080": "RECON",
+  "081": "RECON",
+  "082": "RECON",
+  "083": "RECON",
+  "084": "RECON",
+  "085": "RECON",
+  "086": "RECON",
+  "087": "RECON",
+  "088": "RECON",
+  "089": "RECON",
+  "090": "RECON",
+  "091": "RECON",
+  "092": "RECON",
+  "093": "RECON",
+  "094": "RECON",
+  "095": "RECON",
+  "096": "RECON",
+  "097": "RECON",
+  "098": "RECON",
+  "099": "RECON",
+  "100": "RECON",
+  "101": "RECON",
+  "102": "RECON",
+  "103": "RECON",
+  "104": "RECON",
+  "105": "RECON",
+  "106": "RECON",
+  "107": "RECON",
+  "108": "RECON",
+  "109": "RECON",
+  "110": "RECON",
+  "111": "RECON",
+  "112": "RECON",
+  "113": "RECON",
+  "114": "RECON",
+  "115": "RECON",
+  "116": "RECON",
+  "117": "RECON",
+  "118": "RECON",
+  "119": "RECON",
+  "120": "RECON",
+  "121": "RECON",
+  "122": "RECON",
+  "123": "RECON",
+  "124": "RECON",
+  "125": "RECON",
+  "126": "RECON",
+  "127": "RECON",
+  "128": "RECON",
+  "129": "RECON",
+  "130": "RECON",
+  "131": "RECON",
+  "132": "RECON",
+  "133": "RECON",
+  "134": "RECON",
+  "135": "RECON",
+  "136": "RECON",
+  "137": "RECON",
+  "138": "RECON",
+  "139": "RECON",
+  "140": "RECON",
+  "141": "RECON",
+  "142": "RECON",
+  "143": "RECON",
+  "144": "RECON",
+  "145": "RECON",
+  "146": "RECON",
+  "147": "RECON",
+  "148": "RECON",
+  "149": "RECON",
+  "150": "RECON",
+  "151": "RECON",
+  "152": "RECON",
+  "153": "RECON",
+  "154": "RECON",
+  "155": "RECON",
+  "156": "RECON",
+  "157": "RECON",
+  "158": "RECON",
+  "159": "RECON",
+  "160": "RECON",
+  "161": "RECON",
+  "162": "RECON",
+  "163": "RECON",
+  "164": "RECON",
+  "165": "RECON",
+  "166": "RECON",
+  "167": "RECON",
+  "168": "RECON",
+  "169": "RECON",
+  "170": "RECON",
+  "171": "RECON",
+  "172": "RECON",
+  "173": "RECON",
+  "174": "RECON",
+  "175": "RECON",
+  "176": "RECON",
+  "177": "RECON",
+  "178": "RECON",
+  "179": "RECON",
+  "180": "RECON",
+  "181": "RECON",
+  "182": "RECON",
+  "183": "RECON",
+  "184": "RECON",
+  "185": "RECON",
+  "186": "RECON",
+  "187": "RECON",
+  "188": "RECON",
+  "189": "RECON",
+  "190": "RECON",
+  "191": "RECON",
+  "192": "RECON",
+  "193": "RECON",
+  "194": "RECON",
+  "195": "STUDY",
+  "196": "STUDY",
+  "197": "STUDY",
+  "198": "STUDY",
+  "199": "STUDY",
+  "200": "STUDY",
+  "201": "STUDY",
+  "202": "STUDY",
+  "203": "STUDY",
+  "204": "STUDY",
+  "205": "STUDY",
+  "206": "RECON",
+  "207": "RECON",
+  "208": "RECON",
+  "209": "RECON",
+  "210": "RECON",
+  "211": "RECON",
+  "212": "RECON",
+  "213": "RECON",
+  "214": "RECON",
+  "215": "RECON",
+  "216": "RECON",
+  "217": "RECON",
+  "218": "RECON",
+  "219": "RECON",
+  "220": "RECON",
+  "221": "RECON",
+  "222": "RECON",
+  "223": "RECON",
+  "224": "RECON",
+  "225": "RECON",
+  "226": "RECON",
+  "227": "RECON",
+  "228": "RECON",
+  "229": "RECON",
+  "230": "RECON",
+  "231": "RECON",
+  "232": "RECON",
+  "233": "RECON",
+  "234": "RECON",
+  "235": "RECON",
+  "236": "RECON",
+  "237": "RECON",
+  "238": "RECON",
+  "239": "RECON",
+  "240": "RECON",
+  "241": "RECON",
+  "242": "RECON",
+  "243": "RECON",
+  "244": "RECON",
+  "245": "RECON",
+  "246": "RECON",
+  "247": "RECON",
+  "248": "RECON",
+  "249": "RECON",
+  "250": "RECON",
+  "251": "RECON",
+  "252": "RECON",
+  "253": "RECON",
+  "254": "RECON",
+  "255": "RECON",
+  "256": "RECON",
+  "257": "RECON",
+  "258": "RECON",
+  "259": "RECON",
+  "260": "RECON",
+  "261": "RECON",
+  "262": "RECON",
+  "263": "RECON",
+  "264": "RECON",
+  "265": "RECON",
+  "266": "RECON",
+  "267": "RECON",
+  "268": "RECON",
+  "269": "RECON",
+  "270": "RECON",
+  "271": "RECON",
+  "272": "RECON",
+  "273": "RECON",
+  "274": "RECON",
+  "275": "RECON",
+  "276": "RECON",
+  "277": "RECON",
+  "278": "RECON",
+  "279": "RECON",
+  "280": "MODERN",
+  "281": "MODERN",
+  "282": "MODERN",
+  "283": "MODERN",
+  "284": "MODERN",
+  "285": "MODERN",
+  "286": "MODERN",
+  "287": "MODERN",
+  "288": "MODERN",
+  "289": "MODERN"
+ },
+ "label_text": {
+  "MODERN": "PRESENT DAY \u00b7 RECONSTRUCTION",
+  "LANDSCAPE": "ILLUSTRATIVE LANDSCAPE",
+  "RECON": "ILLUSTRATIVE RECONSTRUCTION",
+  "STUDY": "CONTEMPORARY STUDY \u00b7 ILLUSTRATIVE GRAPHIC"
+ },
+ "note": "Label classes follow the shot map Category column. Every class carries an on-screen disclosure; the film is a reconstruction throughout and no image is presented as footage of a site or of the study.",
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 1.5899999999999999,
+   "sentence": "It's two in the morning."
+  },
+  {
+   "start": 1.5899999999999999,
+   "end": 4.29,
+   "sentence": "Something creaks near your front door."
+  },
+  {
+   "start": 4.29,
+   "end": 6.141,
+   "sentence": "Your eyes open."
+  },
+  {
+   "start": 6.141,
+   "end": 8.56,
+   "sentence": "You lie still and listen."
+  },
+  {
+   "start": 8.56,
+   "end": 10.972,
+   "sentence": "There it is again."
+  },
+  {
+   "start": 10.972,
+   "end": 13.95,
+   "sentence": "A small, dry sound from the hallway."
+  },
+  {
+   "start": 13.95,
+   "end": 18.52,
+   "sentence": "You get out of bed, cross the room and check the lock."
+  },
+  {
+   "start": 18.52,
+   "end": 20.25,
+   "sentence": "It's secure."
+  },
+  {
+   "start": 20.25,
+   "end": 26.13,
+   "sentence": "You stand there another moment, looking into the dark, until the sound comes again."
+  },
+  {
+   "start": 26.13,
+   "end": 28.63,
+   "sentence": "It's the floor."
+  },
+  {
+   "start": 28.63,
+   "end": 30.79,
+   "sentence": "You were the one making it."
+  },
+  {
+   "start": 30.79,
+   "end": 36.672,
+   "sentence": "You go back to bed, slightly annoyed with yourself, and pull the covers up."
+  },
+  {
+   "start": 36.672,
+   "end": 38.88,
+   "sentence": "The door is locked."
+  },
+  {
+   "start": 38.88,
+   "end": 41.0,
+   "sentence": "The walls are solid."
+  },
+  {
+   "start": 41.0,
+   "end": 44.5,
+   "sentence": "Eventually, you close your eyes."
+  },
+  {
+   "start": 44.5,
+   "end": 47.31,
+   "sentence": "Now take away the lock."
+  },
+  {
+   "start": 47.31,
+   "end": 49.124,
+   "sentence": "Take away the door."
+  },
+  {
+   "start": 49.124,
+   "end": 54.95,
+   "sentence": "Take away the quiet room, the mattress, the blanket, and the light switch beside your bed."
+  },
+  {
+   "start": 54.95,
+   "end": 56.94,
+   "sentence": "How would you sleep?"
+  },
+  {
+   "start": 56.94,
+   "end": 62.32,
+   "sentence": "For much of human history, darkness arrived without a key to turn."
+  },
+  {
+   "start": 62.32,
+   "end": 67.473,
+   "sentence": "But that didn't mean people simply collapsed wherever they stood and hoped for the best."
+  },
+  {
+   "start": 67.473,
+   "end": 71.755,
+   "sentence": "To understand the night, first look at the world around them."
+  },
+  {
+   "start": 71.755,
+   "end": 79.83,
+   "sentence": "Two hundred thousand years ago, in what is now southern Africa, daylight moves across a rocky slope."
+  },
+  {
+   "start": 79.83,
+   "end": 82.34,
+   "sentence": "Grasses bend in the breeze."
+  },
+  {
+   "start": 82.34,
+   "end": 88.433,
+   "sentence": "Beyond them are patches of bush and open woodland, with trees scattered across the landscape."
+  },
+  {
+   "start": 88.433,
+   "end": 92.815,
+   "sentence": "As the sun drops, the rocks hold a little warmth."
+  },
+  {
+   "start": 92.815,
+   "end": 94.78,
+   "sentence": "The shadows stretch."
+  },
+  {
+   "start": 94.78,
+   "end": 98.36,
+   "sentence": "The paths through the vegetation become harder to see."
+  },
+  {
+   "start": 98.36,
+   "end": 102.63,
+   "sentence": "Near a broad shelter in the cliff, a community gathers."
+  },
+  {
+   "start": 102.63,
+   "end": 105.31,
+   "sentence": "Adults return from different tasks."
+  },
+  {
+   "start": 105.31,
+   "end": 107.19,
+   "sentence": "Children move between them."
+  },
+  {
+   "start": 107.19,
+   "end": 111.91,
+   "sentence": "Grass is carried into the shelter; hands clear a space on the ground."
+  },
+  {
+   "start": 111.91,
+   "end": 116.17,
+   "sentence": "At the edge of the gathering, people settle near the warmth of a fire."
+  },
+  {
+   "start": 116.17,
+   "end": 118.54,
+   "sentence": "There is movement everywhere."
+  },
+  {
+   "start": 118.54,
+   "end": 120.91,
+   "sentence": "Somebody shifts closer to the light."
+  },
+  {
+   "start": 120.91,
+   "end": 122.6,
+   "sentence": "Someone else makes room."
+  },
+  {
+   "start": 122.6,
+   "end": 126.92,
+   "sentence": "A child is reluctant to settle; an adult draws them close."
+  },
+  {
+   "start": 126.92,
+   "end": 131.23,
+   "sentence": "The day hasn't ended all at once just because the sun has gone down."
+  },
+  {
+   "start": 131.23,
+   "end": 136.86,
+   "sentence": "The precise size of any particular ancient group is difficult to know."
+  },
+  {
+   "start": 136.86,
+   "end": 145.037,
+   "sentence": "But the archaeological traces at one South African site give us a remarkable glimpse of a place people returned to: Border Cave,"
+  },
+  {
+   "start": 145.037,
+   "end": 147.09,
+   "sentence": "in the Lebombo Mountains."
+  },
+  {
+   "start": 147.09,
+   "end": 153.5,
+   "sentence": "And at the back of that shelter, archaeologists found something unexpectedly familiar."
+  },
+  {
+   "start": 153.5,
+   "end": 155.11,
+   "sentence": "A bed."
+  },
+  {
+   "start": 155.11,
+   "end": 158.72,
+   "sentence": "Or, more precisely, traces of many layers of bedding."
+  },
+  {
+   "start": 158.72,
+   "end": 165.91,
+   "sentence": "The remains are subtle now: ancient fragments of broad-leaved grass, identified by careful analysis."
+  },
+  {
+   "start": 165.91,
+   "end": 171.3,
+   "sentence": "Some bedding at Border Cave dates to around two hundred thousand years ago."
+  },
+  {
+   "start": 171.3,
+   "end": 174.3,
+   "sentence": "Imagine the preparation before nightfall."
+  },
+  {
+   "start": 174.3,
+   "end": 179.845,
+   "sentence": "Grass gathered in bundles, carried back to the shelter and spread where people could rest."
+  },
+  {
+   "start": 179.845,
+   "end": 183.16,
+   "sentence": "A softer surface between a body and the ground."
+  },
+  {
+   "start": 183.16,
+   "end": 185.64,
+   "sentence": "Not a mattress with a warranty."
+  },
+  {
+   "start": 185.64,
+   "end": 190.384,
+   "sentence": "But certainly better than finding a sharp stone with your back at three in the morning."
+  },
+  {
+   "start": 190.384,
+   "end": 192.89,
+   "sentence": "The grass wasn't the only thing underfoot."
+  },
+  {
+   "start": 192.89,
+   "end": 196.89,
+   "sentence": "Researchers also found layers of ash associated with the bedding."
+  },
+  {
+   "start": 196.89,
+   "end": 200.817,
+   "sentence": "Sometimes that ash appears to have come from older bedding that had burned."
+  },
+  {
+   "start": 200.817,
+   "end": 203.68,
+   "sentence": "Why place fresh grass over ash?"
+  },
+  {
+   "start": 203.68,
+   "end": 208.02,
+   "sentence": "One possibility is that it helped create a cleaner, insulated base."
+  },
+  {
+   "start": 208.02,
+   "end": 213.14,
+   "sentence": "The researchers also suggested the fine ash might have discouraged crawling pests."
+  },
+  {
+   "start": 213.14,
+   "end": 218.149,
+   "sentence": "That part is an interpretation, not a label left behind by the people who made it."
+  },
+  {
+   "start": 218.149,
+   "end": 221.3,
+   "sentence": "But it points to a problem that is easy to overlook."
+  },
+  {
+   "start": 221.3,
+   "end": 225.533,
+   "sentence": "The danger of the night wasn't only something large moving beyond the fire."
+  },
+  {
+   "start": 225.533,
+   "end": 229.42,
+   "sentence": "It could be something small enough to disappear into the bedding."
+  },
+  {
+   "start": 229.42,
+   "end": 233.21,
+   "sentence": "Tiny stone fragments were found among the grass as well."
+  },
+  {
+   "start": 233.21,
+   "end": 238.63,
+   "sentence": "The same surface that offered somewhere to rest may also have been a place to sit and work."
+  },
+  {
+   "start": 238.63,
+   "end": 240.555,
+   "sentence": "A sleeping place."
+  },
+  {
+   "start": 240.555,
+   "end": 241.85,
+   "sentence": "A working place."
+  },
+  {
+   "start": 241.85,
+   "end": 246.726,
+   "sentence": "A piece of the landscape brought indoors, if a shelter can be called indoors."
+  },
+  {
+   "start": 246.726,
+   "end": 250.85,
+   "sentence": "But a bed still leaves one problem unsolved."
+  },
+  {
+   "start": 250.85,
+   "end": 254.01,
+   "sentence": "What happens beyond the edge of the light?"
+  },
+  {
+   "start": 254.01,
+   "end": 259.334,
+   "sentence": "At Border Cave, evidence of fires appears through a long sequence of occupations."
+  },
+  {
+   "start": 259.334,
+   "end": 264.31,
+   "sentence": "For the people using such a place, a fire could offer warmth and light."
+  },
+  {
+   "start": 264.31,
+   "end": 268.144,
+   "sentence": "In some circumstances it might also help discourage animals from approaching."
+  },
+  {
+   "start": 268.144,
+   "end": 271.38,
+   "sentence": "But it could not turn night into day."
+  },
+  {
+   "start": 271.38,
+   "end": 274.63,
+   "sentence": "And it was never a guarantee that nothing would come near."
+  },
+  {
+   "start": 274.63,
+   "end": 282.0,
+   "sentence": "Picture the firelight reaching the people nearest it: faces, hands, the pale edges of grass."
+  },
+  {
+   "start": 282.0,
+   "end": 285.36,
+   "sentence": "Farther back, rock disappears into shadow."
+  },
+  {
+   "start": 285.36,
+   "end": 289.932,
+   "sentence": "Beyond the shelter mouth, the light weakens until the bushes are only shapes."
+  },
+  {
+   "start": 289.932,
+   "end": 294.0,
+   "sentence": "The surrounding world doesn't stop when people settle down."
+  },
+  {
+   "start": 294.0,
+   "end": 296.52,
+   "sentence": "Wind passes through dry stems."
+  },
+  {
+   "start": 296.52,
+   "end": 298.49,
+   "sentence": "Insects continue their work."
+  },
+  {
+   "start": 298.49,
+   "end": 302.25,
+   "sentence": "Somewhere beyond the slope, an animal moves through vegetation."
+  },
+  {
+   "start": 302.25,
+   "end": 305.68,
+   "sentence": "A sound can travel a long way in the dark."
+  },
+  {
+   "start": 305.68,
+   "end": 307.57,
+   "sentence": "Its owner might be harmless."
+  },
+  {
+   "start": 307.57,
+   "end": 309.12,
+   "sentence": "Or not."
+  },
+  {
+   "start": 309.12,
+   "end": 312.47,
+   "sentence": "From inside the shelter, the difference isn't always obvious."
+  },
+  {
+   "start": 312.47,
+   "end": 320.83,
+   "sentence": "People could choose where to rest, use the shelter and tend a fire, but even a carefully prepared place had limits."
+  },
+  {
+   "start": 320.83,
+   "end": 322.6,
+   "sentence": "Smoke could irritate."
+  },
+  {
+   "start": 322.6,
+   "end": 324.95,
+   "sentence": "A change in weather could bring cold or rain."
+  },
+  {
+   "start": 324.95,
+   "end": 329.4,
+   "sentence": "A sleeping person still had to let go of attention for hours."
+  },
+  {
+   "start": 329.4,
+   "end": 335.483,
+   "sentence": "And that's the strange bargain at the heart of every night: to recover from the day,"
+  },
+  {
+   "start": 335.483,
+   "end": 338.83,
+   "sentence": "they had to become less aware of the world around them."
+  },
+  {
+   "start": 338.83,
+   "end": 342.78,
+   "sentence": "So what if a sound came from the grass outside?"
+  },
+  {
+   "start": 342.78,
+   "end": 345.9,
+   "sentence": "Imagine a scrape beyond the shelter."
+  },
+  {
+   "start": 345.9,
+   "end": 347.7,
+   "sentence": "Then silence."
+  },
+  {
+   "start": 347.7,
+   "end": 349.83,
+   "sentence": "Then the sound again."
+  },
+  {
+   "start": 349.83,
+   "end": 354.54,
+   "sentence": "Inside, not everyone responds in the same way."
+  },
+  {
+   "start": 354.54,
+   "end": 356.3,
+   "sentence": "Some remain asleep."
+  },
+  {
+   "start": 356.3,
+   "end": 358.17,
+   "sentence": "Others lift their heads."
+  },
+  {
+   "start": 358.17,
+   "end": 362.23,
+   "sentence": "Eyes turn toward the entrance, where the firelight ends."
+  },
+  {
+   "start": 362.23,
+   "end": 367.2,
+   "sentence": "In daylight, a moving branch is just a moving branch."
+  },
+  {
+   "start": 367.2,
+   "end": 372.73,
+   "sentence": "At night, with the source hidden, it can hold a whole collection of possibilities."
+  },
+  {
+   "start": 372.73,
+   "end": 375.13,
+   "sentence": "A gust of wind."
+  },
+  {
+   "start": 375.13,
+   "end": 377.12,
+   "sentence": "A small animal."
+  },
+  {
+   "start": 377.12,
+   "end": 378.32,
+   "sentence": "Something larger."
+  },
+  {
+   "start": 378.32,
+   "end": 379.93,
+   "sentence": "The scrape stops."
+  },
+  {
+   "start": 379.93,
+   "end": 381.72,
+   "sentence": "The night continues."
+  },
+  {
+   "start": 381.72,
+   "end": 386.17,
+   "sentence": "People settle again, but perhaps not all at the same moment."
+  },
+  {
+   "start": 386.17,
+   "end": 391.163,
+   "sentence": "It's easy to picture one assigned guard standing at the entrance until sunrise."
+  },
+  {
+   "start": 391.163,
+   "end": 395.49,
+   "sentence": "And it's possible that groups used watches in some situations."
+  },
+  {
+   "start": 395.49,
+   "end": 400.567,
+   "sentence": "But an ancient layer of grass cannot tell us that a guard stood there every night."
+  },
+  {
+   "start": 400.567,
+   "end": 402.66,
+   "sentence": "There is another possibility."
+  },
+  {
+   "start": 402.66,
+   "end": 409.53,
+   "sentence": "A group does not need to move through the night like a single creature, sleeping and waking at exactly the same time."
+  },
+  {
+   "start": 409.53,
+   "end": 414.423,
+   "sentence": "Researchers have found a striking example of that among people living today."
+  },
+  {
+   "start": 414.423,
+   "end": 417.088,
+   "sentence": "In a study in Tanzania,"
+  },
+  {
+   "start": 417.088,
+   "end": 422.187,
+   "sentence": "researchers used wrist-worn activity monitors to estimate the sleep of thirty-three Hadza"
+  },
+  {
+   "start": 422.187,
+   "end": 423.683,
+   "sentence": "adults over twenty nights."
+  },
+  {
+   "start": 423.683,
+   "end": 429.72,
+   "sentence": "The Hadza are a living community with their own history; the study tells us about its participants,"
+  },
+  {
+   "start": 429.72,
+   "end": 431.961,
+   "sentence": "not a direct record of ancient sleep."
+  },
+  {
+   "start": 431.961,
+   "end": 438.985,
+   "sentence": "The researchers found that the monitored adults were all estimated to be asleep at the same time during only"
+  },
+  {
+   "start": 438.985,
+   "end": 441.25,
+   "sentence": "eighteen one-minute intervals across the study."
+  },
+  {
+   "start": 441.25,
+   "end": 445.83,
+   "sentence": "Eighteen minutes across twenty nights, not eighteen minutes every night."
+  },
+  {
+   "start": 445.83,
+   "end": 449.6,
+   "sentence": "Their sleep overlapped, but it didn't line up perfectly."
+  },
+  {
+   "start": 449.6,
+   "end": 451.46,
+   "sentence": "Some people fell asleep later."
+  },
+  {
+   "start": 451.46,
+   "end": 452.84,
+   "sentence": "Some woke earlier."
+  },
+  {
+   "start": 452.84,
+   "end": 455.82,
+   "sentence": "Some were active during the night for reasons of their own."
+  },
+  {
+   "start": 455.82,
+   "end": 462.56,
+   "sentence": "Researchers have proposed that differences in sleeping times could sometimes give a group more opportunities to notice a threat."
+  },
+  {
+   "start": 462.56,
+   "end": 465.53,
+   "sentence": "This idea is known as the sentinel hypothesis."
+  },
+  {
+   "start": 465.53,
+   "end": 470.02,
+   "sentence": "Notice the difference between the observation and the explanation."
+  },
+  {
+   "start": 470.02,
+   "end": 477.68,
+   "sentence": "The monitors estimated whether people were asleep or active; they did not prove that every awake person was keeping watch."
+  },
+  {
+   "start": 477.68,
+   "end": 481.84,
+   "sentence": "And the study cannot establish exactly how people slept at Border Cave."
+  },
+  {
+   "start": 481.84,
+   "end": 485.94,
+   "sentence": "Still, it opens up a different way to think about the night."
+  },
+  {
+   "start": 485.94,
+   "end": 491.462,
+   "sentence": "A sleeping community isn't necessarily a room where every pair of eyes closes at once."
+  },
+  {
+   "start": 491.462,
+   "end": 495.04,
+   "sentence": "Back at the shelter, the fire has burned lower."
+  },
+  {
+   "start": 495.04,
+   "end": 497.82,
+   "sentence": "The space nearest the entrance is darker now."
+  },
+  {
+   "start": 497.82,
+   "end": 500.86,
+   "sentence": "Beyond it, the landscape is still moving."
+  },
+  {
+   "start": 500.86,
+   "end": 504.18,
+   "sentence": "And the next challenge might be closer than the bushes."
+  },
+  {
+   "start": 504.18,
+   "end": 508.92,
+   "sentence": "Even without a threat outside, a night on the ground takes preparation."
+  },
+  {
+   "start": 508.92,
+   "end": 511.29,
+   "sentence": "The surface beneath the body matters."
+  },
+  {
+   "start": 511.29,
+   "end": 516.312,
+   "sentence": "So do the air, the wind, the heat of the fire, and the space around other sleepers."
+  },
+  {
+   "start": 516.312,
+   "end": 519.0,
+   "sentence": "Some may want to be near the warmth."
+  },
+  {
+   "start": 519.0,
+   "end": 521.86,
+   "sentence": "Others may shift away when the smoke changes direction."
+  },
+  {
+   "start": 521.86,
+   "end": 525.37,
+   "sentence": "People make room, adjust their positions and settle again."
+  },
+  {
+   "start": 525.37,
+   "end": 530.07,
+   "sentence": "A crowded place can be reassuring; it can also be full of elbows."
+  },
+  {
+   "start": 530.07,
+   "end": 533.03,
+   "sentence": "And what did they wear against the night air?"
+  },
+  {
+   "start": 533.03,
+   "end": 539.66,
+   "sentence": "Clothing is difficult to trace this far back because materials such as skin and plant fibre usually decay."
+  },
+  {
+   "start": 539.66,
+   "end": 543.08,
+   "sentence": "The exact garments worn at Border Cave are not known."
+  },
+  {
+   "start": 543.08,
+   "end": 545.42,
+   "sentence": "There are later clues elsewhere."
+  },
+  {
+   "start": 545.42,
+   "end": 547.267,
+   "sentence": "At a cave in Morocco,"
+  },
+  {
+   "start": 547.267,
+   "end": 553.921,
+   "sentence": "researchers found bone tools and marks on animal bones dating to roughly ninety to one hundred and twenty thousand years ago."
+  },
+  {
+   "start": 553.921,
+   "end": 560.93,
+   "sentence": "Together, they suggest people processed hides and fur; clothing is one possible use, though not the only one."
+  },
+  {
+   "start": 560.93,
+   "end": 564.64,
+   "sentence": "That discovery is from a different place and a later time."
+  },
+  {
+   "start": 564.64,
+   "end": 568.639,
+   "sentence": "It doesn't tell us the cut or appearance of anyone's clothing at Border Cave."
+  },
+  {
+   "start": 568.639,
+   "end": 574.38,
+   "sentence": "What it does show is how much thought can be hidden inside an ordinary material."
+  },
+  {
+   "start": 574.38,
+   "end": 580.395,
+   "sentence": "A skin, a length of plant fibre, a layer of grass: each could have many possible uses."
+  },
+  {
+   "start": 580.395,
+   "end": 584.601,
+   "sentence": "Which of them were used on one particular night is a harder question."
+  },
+  {
+   "start": 584.601,
+   "end": 588.776,
+   "sentence": "The people at the shelter have another few hours before dawn."
+  },
+  {
+   "start": 588.776,
+   "end": 590.24,
+   "sentence": "The fire settles."
+  },
+  {
+   "start": 590.24,
+   "end": 591.815,
+   "sentence": "The ground cools."
+  },
+  {
+   "start": 591.815,
+   "end": 597.11,
+   "sentence": "Around them, some sleep deeply; others may wake, shift and lie down again."
+  },
+  {
+   "start": 597.11,
+   "end": 600.3,
+   "sentence": "Then the darkness begins to change."
+  },
+  {
+   "start": 600.3,
+   "end": 604.61,
+   "sentence": "At first, the shelter mouth is only a paler shape against the rock."
+  },
+  {
+   "start": 604.61,
+   "end": 608.21,
+   "sentence": "Then the surrounding grasses begin to separate from the shadows."
+  },
+  {
+   "start": 608.21,
+   "end": 610.41,
+   "sentence": "The outlines of trees return."
+  },
+  {
+   "start": 610.41,
+   "end": 617.117,
+   "sentence": "The land that seemed so uncertain in the dark becomes visible again, one detail at a time."
+  },
+  {
+   "start": 617.117,
+   "end": 618.57,
+   "sentence": "The community stirs."
+  },
+  {
+   "start": 618.57,
+   "end": 622.935,
+   "sentence": "People rise from the grass, step around one another and move toward the day."
+  },
+  {
+   "start": 622.935,
+   "end": 628.14,
+   "sentence": "The place that held sleepers through the night becomes a place for work and movement again."
+  },
+  {
+   "start": 628.14,
+   "end": 637.56,
+   "sentence": "Long after those people were gone, traces remained: grass and ash, signs of fire, and small fragments of worked stone."
+  },
+  {
+   "start": 637.56,
+   "end": 643.62,
+   "sentence": "They cannot tell us every sound of the night or the exact way the community responded to it."
+  },
+  {
+   "start": 643.62,
+   "end": 650.46,
+   "sentence": "But they offer a different picture from the idea that ancient people simply lay down in the dark and took their chances."
+  },
+  {
+   "start": 650.46,
+   "end": 652.56,
+   "sentence": "They could prepare a place."
+  },
+  {
+   "start": 652.56,
+   "end": 654.72,
+   "sentence": "They could use the landscape."
+  },
+  {
+   "start": 654.72,
+   "end": 656.64,
+   "sentence": "They could be near other people."
+  },
+  {
+   "start": 656.64,
+   "end": 659.8,
+   "sentence": "And, even then, the night could surprise them."
+  },
+  {
+   "start": 659.8,
+   "end": 664.26,
+   "sentence": "Back in your room, the floor creaks again."
+  },
+  {
+   "start": 664.26,
+   "end": 667.21,
+   "sentence": "This time, you know what made it."
+  },
+  {
+   "start": 667.21,
+   "end": 672.9,
+   "sentence": "You check the door once more anyway, return to bed, and let the quiet settle."
+  },
+  {
+   "start": 672.9,
+   "end": 675.86,
+   "sentence": "The surroundings have changed."
+  },
+  {
+   "start": 675.86,
+   "end": 677.62,
+   "sentence": "The question hasn't."
+  },
+  {
+   "start": 677.62,
+   "end": 682.2,
+   "sentence": "Can you go back to sleep?"
+  }
+ ]
+}

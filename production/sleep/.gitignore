@@ -1,0 +1,19 @@
+# The episode's delivered MP4 lives in Drive, not in git -- it is 70 MB.
+kit/*.mp4
+
+# The picture is the existing V3 review cut, kept in Drive. Re-derive it with
+# ffmpeg from that file; do not commit it again.
+render/picture.mp4
+
+# Built by render/ambience.py from raw.wav. Regenerable, and ~120 MB each.
+narration/master.wav
+narration/bed.wav
+narration/mix.wav
+narration/raw.wav
+
+# Extracted thumbnails source frame: regenerable from picture.mp4 at 615 s.
+render/frame-*.png
+
+# Bulk source stills, if they are ever pulled down as a zip.
+kit/*.zip
+render/stills/

@@ -87,8 +87,16 @@ DUCK_DB = -11.0      # how far the bed drops under speech
 WIND_DB = 0.0
 ROOM_DB = -8.0       # interior room tone under the wind
 STUDY_DB = -11.0     # the study's room: present, but the quietest place in the film
-INSECT_DB = -22.0    # at the edge of hearing, deliberately unidentifiable
-FIRE_DB = -20.0      # subdued, and only where the shot map asks for it
+INSECT_DB = -15.0    # at the edge of hearing, deliberately unidentifiable
+FIRE_DB = -7.0       # subdued, and only where the shot map asks for it
+
+# "subdued fire where visible" -- so the fire is gated to the sections that
+# actually show it, rather than smeared across the whole ancient night. Before
+# this curve existed the fire measured 9 dB under the wind in every section,
+# including the ones with no hearth on screen at all.
+FIRE_GAIN = [(0.0, 0.0), (262.0, 0.0), (272.0, 1.0), (330.0, 1.0),
+             (342.0, 0.25), (494.0, 0.25), (502.0, 1.0), (560.0, 1.0),
+             (574.0, 0.0), (DUR, 0.0)]
 
 rng = np.random.default_rng(20261107)
 
@@ -261,7 +269,7 @@ def build():
     fr = fire(n, 17)
     ancient = np.stack([wL * gust, wR * gust], axis=1) * 10 ** (WIND_DB / 20)
     ancient += insect * 10 ** (INSECT_DB / 20)
-    ancient += fr[:, None] * 10 ** (FIRE_DB / 20)
+    ancient += (fr * env(FIRE_GAIN, n))[:, None] * 10 ** (FIRE_DB / 20)
     ancient *= env(ANCIENT_GAIN, n)[:, None]
 
     # --- study: a modern room, quiet, so the figures are audible -------

@@ -2,7 +2,7 @@
 
 **Runtime** 11:22.36 · 1280×720 · 25 fps · H.264 High, CRF carried from the V3
 picture · AAC-LC 160 k stereo @ 48 kHz · English captions, both a sidecar SRT
-and a muxed mov_text track. 69,531,775 bytes. 17,059 frames, matching the plan
+and a muxed mov_text track. 69,535,248 bytes. 17,059 frames, matching the plan
 exactly. Full decode clean.
 
 ## What this build is
@@ -39,8 +39,12 @@ the picture.
 ## Gate result
 
 ```
-11 pass · 1 warn · 0 fail
+12 pass · 1 warn · 0 fail
 ```
+
+The chapter check caught a real drift on the first pass: the kit listed
+"Take away the lock" at 01:06 when the cut turns over at 67.5 s. Chapters now
+match the section starts the plan records.
 
 The warning is the four study graphics at 410.5 s, 439.7 s, 446.5 s and 470.4 s,
 which sit 6.7-8.7 s each. That is the honest reading: the dark diagrams swap
@@ -59,6 +63,10 @@ warning rather than splitting the plan to make it disappear.
   multiplier with filtered wind, and room tone carries far more low-frequency
   energy per sample. Layer levels are now explicit constants set from
   measurement (`ROOM_DB`, `STUDY_DB`, `INSECT_DB`, `FIRE_DB`).
+- **The fire was inaudible.** It measured 9 dB under the wind everywhere, so a
+  section with a hearth and a section without one came out at the same spectral
+  centroid (946 vs 913 Hz — i.e. indistinguishable). Gated to the firelight
+  sections it now lifts them 3-4 dB and moves the centroid by ~125 Hz.
 
 ## What is still not done
 

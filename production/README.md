@@ -46,7 +46,7 @@ all twelve.
 |---|---|---|
 | tailors (v6, 9:35) | 14 pass · 3 warn · 0 fail | 10.2 s hold; Trinkaus card does not name its author on screen; 100.5 MB |
 | rain | 8 pass · 0 warn · 1 fail | mp4 not local |
-| sleep (11:22) | 11 pass · 1 warn · 0 fail | four study graphics held ~7 s |
+| sleep (11:22) | 12 pass · 1 warn · 0 fail | four study graphics held 6.7-8.7 s |
 
 ## ffmpeg and Pillow
 

@@ -60,7 +60,7 @@ Match the ten sections of the finished cut.
 
 ```
 00:00 A noise in the night
-01:06 Take away the lock
+01:07 Take away the lock
 01:38 The world at dusk
 02:17 Border Cave's bedding
 03:10 Ash, pests and uncertainty

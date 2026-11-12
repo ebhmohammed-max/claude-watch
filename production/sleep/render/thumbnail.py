@@ -26,6 +26,9 @@ WHITE = (255, 255, 255)
 ORANGE = (240, 150, 40)
 SHADOW = (0, 0, 0)
 FONT_BOLD = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+# When PIL writes a JPEG it cannot keep RGBA, so translucent plates in this
+# script are composited before saving; TEXT_OPAQUE selects the readable variant.
+TEXT_OPAQUE = True
 FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 
 
@@ -72,10 +75,16 @@ def main():
     text_with_shadow(d, (62, 292), 'SLEEP AT NIGHT?', head, WHITE)
     text_with_shadow(d, (62, 400), '200,000 YEARS AGO', load(FONT_BOLD, 56), ORANGE, 2)
 
-    # disclosure, in the corner the channel already uses
+    # Disclosure, in the corner the channel already uses. It has to clear the
+    # corner mark the picture now carries: the old position overlapped it and
+    # the two sets of wording collided into unreadable mush at 320 px.
     note = 'Reconstruction, not a photograph of a site'
     w = d.textlength(note, font=small)
-    d.text((1280 - w - 26, 22), note, font=small, fill=(230, 230, 230))
+    ny = 52 if TEXT_OPAQUE else 22
+    if TEXT_OPAQUE:
+        d.rectangle([1280 - w - 34, ny - 6, 1280 - 12, ny + 20],
+                    fill=(8, 10, 14, 190))
+    d.text((1280 - w - 26, ny), note, font=small, fill=(240, 240, 240))
 
     out = os.path.join(KIT, 'thumbnail-1280x720.jpg')
     img.save(out, quality=92, optimize=True)

@@ -102,7 +102,7 @@ bedding, sentinel hypothesis, early humans, prehistoric shelter, Atlas Understor
 
 Stated plainly, so nobody discovers them after publishing:
 
-- **Picture is the V3 edit.** It carries one burn-in: the continuous bottom-left
+- **Picture is the V3 edit.** It carries one burn-in: the continuous top-right
   disclosure mark. Nothing about the edit itself changed, and no continuity
   problem was repaired. Where the notes say "review before release" — bedroom
   door, lamp and layout continuity in the closing sequence, earlier shelter
